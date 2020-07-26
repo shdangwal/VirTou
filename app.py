@@ -9,7 +9,6 @@ import json
 
 
 app = flask.Flask(__name__)
-app.config['DEBUG'] = False
 
 
 def city_data(city):
@@ -72,5 +71,5 @@ def get_data():
     else:
         return "Error: Please enter the following cities - ['aurangabad', 'agra', 'goa', 'delhi', 'jaipur']."
     
-    
-app.run()
+if __name__ == '__main__':
+    app.run(port=5000, debug=False)
