@@ -1,0 +1,898 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bhairon Marg, Near Gate No.1, Pragati Maidan, New Delhi, Delhi 110001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6128678,
+                    "lng": 77.2453827
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61407747989272,
+                        "lng": 77.24672242989273
+                    },
+                    "southwest": {
+                        "lat": 28.61137782010728,
+                        "lng": 77.24402277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "b2b5ff133c40d657dbb75b30e53d01f8ff70249f",
+            "name": "National Science Centre, Delhi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108929203569541009139\">Deepak Kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHca1ywEfS3_f271UgM8DKmp_bkTG5Su5RzBxho9iJPIq6AdHBET70WE-NRxW5XcxucYlsYIf5s5SWOZtunGfo_2QJkJNMSRVbu2rWy8UWD8M7V9ktw5NNPEPSKl9rVw0EhD_KvUr6zzQiLy9z3thnPkvGhTL6uajV_rF22VTzrfx7RnAIRmr1w",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJGwO7EibjDDkR4At2961aPPE",
+            "plus_code": {
+                "compound_code": "J67W+45 Pragati Maidan, New Delhi, Delhi",
+                "global_code": "7JWVJ67W+45"
+            },
+            "rating": 4.4,
+            "reference": "ChIJGwO7EibjDDkR4At2961aPPE",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13543
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Model Town Phase 2, Block A 2, Model Town Phase I, Model Town, Delhi, 110009, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7074387,
+                    "lng": 77.19414479999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70878852989272,
+                        "lng": 77.1954946298927
+                    },
+                    "southwest": {
+                        "lat": 28.70608887010727,
+                        "lng": 77.19279497010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d57e93fe2fd3cfc0a5a5b3f21c5b39c4e2957053",
+            "name": "Naini Jheel Delhi Tourism",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117332261494933548531\">Amrit Kumar Dhoni</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA8AgNFCRRVpavdZPzhaV6oUss5-ywJ_oZeub6XtX0nWUhVHF16k7Wre42QwLmLw70wW8pluMUsCJ9qpp7Tv-DFXfud6gBMPj2TDqAw632-6pQ5dzV7wYrY5G47jLiL9gbEhDeShEhokPzse57VHcH-97uGhTwzoejXFPM8OwgsxUDHoiSK78jPg",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJk6U1RlIDDTkR0sB3HoluZ9M",
+            "plus_code": {
+                "compound_code": "P54V+XM Model Town, New Delhi, Delhi",
+                "global_code": "7JWVP54V+XM"
+            },
+            "rating": 3,
+            "reference": "ChIJk6U1RlIDDTkR0sB3HoluZ9M",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jaina Tower II, 612,tc, Janakpuri District Center, Janakpuri, Delhi, 110058, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7040592,
+                    "lng": 77.10249019999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70541692989272,
+                        "lng": 77.10379852989271
+                    },
+                    "southwest": {
+                        "lat": 28.70271727010728,
+                        "lng": 77.10109887010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e5a966729c075874f3c43b1c562a7a93940d79de",
+            "name": "Sejankuniversal",
+            "permanently_closed": true,
+            "place_id": "ChIJyeEk940BDTkRwKLGt0fM1Jc",
+            "plus_code": {
+                "compound_code": "P432+JX Janakpuri, New Delhi, Delhi",
+                "global_code": "7JWVP432+JX"
+            },
+            "rating": 0,
+            "reference": "ChIJyeEk940BDTkRwKLGt0fM1Jc",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6560934,
+                    "lng": 77.2436017
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65744322989272,
+                        "lng": 77.24495152989273
+                    },
+                    "southwest": {
+                        "lat": 28.65474357010728,
+                        "lng": 77.24225187010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "42f3b3fcf0118ea02ca73824164f1f3f319f172a",
+            "name": "Khas Mahal",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 693,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117169155156340280315\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAADPEPZ3jJXB3mdZrqK4SIaGVuaB4IHs-EFi03ptq99p-DKshBnA1RIVAb49SiYrm1cUEpUvC6UsleFs59QCVKttGQ4TK2f5kru5g1chWGThQM_ZUQHqnWcFoQPF9C1wU7EhArlSNa3VYUee7w7adjSnL7GhQRmnS29MtxDecSTPP25vHMnS2R8g",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJgeCaSNRwdDkRsb163YNes4E",
+            "plus_code": {
+                "compound_code": "M64V+CC Chandni Chowk, New Delhi, Delhi",
+                "global_code": "7JWVM64V+CC"
+            },
+            "rating": 4.5,
+            "reference": "ChIJgeCaSNRwdDkRsb163YNes4E",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 199
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "10, Aggarwal Market, 2064, New Delhi, Delhi 110088, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.71221049999999,
+                    "lng": 77.15903039999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71357687989272,
+                        "lng": 77.16040862989271
+                    },
+                    "southwest": {
+                        "lat": 28.71087722010727,
+                        "lng": 77.15770897010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3bcfb645e4bc4c65bc4ca33b5cfef0293f87287d",
+            "name": "Dramway",
+            "permanently_closed": true,
+            "place_id": "ChIJt_gDHJcBDTkRJVkTfDhXtxE",
+            "plus_code": {
+                "compound_code": "P565+VJ Shalimar Bagh, New Delhi, Delhi",
+                "global_code": "7JWVP565+VJ"
+            },
+            "rating": 0,
+            "reference": "ChIJt_gDHJcBDTkRJVkTfDhXtxE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.596284,
+                    "lng": 77.221555
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.59763382989271,
+                        "lng": 77.22290482989271
+                    },
+                    "southwest": {
+                        "lat": 28.59493417010727,
+                        "lng": 77.22020517010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c785302e08316c4b0fbc5cac6890fd3db0588198",
+            "name": "Sikandar Lodi Tomb",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3105,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114910748421692163661\">tanveer singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAqIKorbt4iBiKTZGq4T90uDUgQGV62Eqh230PtAZ34O6VZYTbdDx_mkVs80s_5AHWVGbHQXP6QhyyPX4sj58buNV5_5wYg50ES558C0yoTWDLLFGy4HOgy6K82p5eAXn4EhDxyTAoBjIzp_tIbjPH-feFGhSPCFQiHxyau-beIMcSDDrgGb5MMQ",
+                    "width": 4657
+                }
+            ],
+            "place_id": "ChIJ87XxluviDDkRocdc1MebPIk",
+            "plus_code": {
+                "compound_code": "H6WC+GJ Lodhi Estate, New Delhi, Delhi",
+                "global_code": "7JWVH6WC+GJ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ87XxluviDDkRocdc1MebPIk",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1550
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "B456, Bunker Colony, Ashok Vihar IV, Ashok Vihar, New Delhi, Delhi 110052, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6826109,
+                    "lng": 77.1765218
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.68398167989272,
+                        "lng": 77.17788682989271
+                    },
+                    "southwest": {
+                        "lat": 28.68128202010727,
+                        "lng": 77.17518717010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d986f0114f8db7ed373c224b84e965229d735793",
+            "name": "Adventuretourtravells",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 806,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104345834265086004076\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkU9Z5lluP8w7bAoEAWGcxr5dzxNTR--oAMJsDdbc5ijlmAAFZR3fmCNjlhxKAxUP9EYf3GJaJbUFoc8Du3dt88equDVI8cCMpxWEwhopfv-bbzhaFfHsE5Izrm9pakeWEhDv4-sFNpkiXXn619DSetsWGhR6yBK2eKQh7OwmB7Gb24XJOfPxMg",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ6e-dmqEDDTkR290G9V3Ovzo",
+            "plus_code": {
+                "compound_code": "M5MG+2J Ashok Vihar, New Delhi, Delhi",
+                "global_code": "7JWVM5MG+2J"
+            },
+            "rating": 0,
+            "reference": "ChIJ6e-dmqEDDTkR290G9V3Ovzo",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Africa Avenue, Hauz Khas, New Delhi, Delhi 110016, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5562492,
+                    "lng": 77.19021219999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.55759902989272,
+                        "lng": 77.19156202989271
+                    },
+                    "southwest": {
+                        "lat": 28.55489937010728,
+                        "lng": 77.18886237010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "28dec47aeea2d7e79ab65daa1f92b98d2db7b7d5",
+            "name": "Hauz Khas District Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100865410262857041792\">Rahul Sood</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAb5RaJSbVPIFniEf6x-L6Ojp6WDVyIuFM1oDdYjcbCMqncq43hzoMpKaRnsyQHtIIIPtL_HEc-mgfjEde936q2vQWih2WNWYGGwSiGFCb9_le7FFbQkD0ofRkabaic1X9EhDlkJY_FCLywFZ8zTKqAJS7GhRwY3IInyDZRQU9SOiiN_6JcsyokA",
+                    "width": 5120
+                }
+            ],
+            "place_id": "ChIJK6BUxosdDTkRldimsH6l95Q",
+            "plus_code": {
+                "compound_code": "H54R+F3 New Delhi, Delhi",
+                "global_code": "7JWVH54R+F3"
+            },
+            "rating": 4.4,
+            "reference": "ChIJK6BUxosdDTkRldimsH6l95Q",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11250
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5251762,
+                    "lng": 77.1852676
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52664012989272,
+                        "lng": 77.18804245
+                    },
+                    "southwest": {
+                        "lat": 28.52394047010728,
+                        "lng": 77.18434265000002
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ff88d404ffc4d8d8a9a31cebaec3271d420d2c30",
+            "name": "Qutub Minar Complex",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3193,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108442178944593988283\">kavya KULSHRESHTHA</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAzpqFXJ_2x6k63Gzugs2fuRA258_lecakiVWDU1MF2bXX78Cfq_MlePKDNxhnr1byuoP0wQ2VxEkdxcGwV_VN7ak81QckZ8XKRbL5gZyU46NBJ75Gv5ToRler-DmfAQmHEhBSnGKchlL-aqAeTvP5Gl9BGhRlsRmZmDHoLeV3-wm-S5PkqPw1Sw",
+                    "width": 4323
+                }
+            ],
+            "place_id": "ChIJd-3rnjD9DDkRgVC07HfmooE",
+            "plus_code": {
+                "compound_code": "G5GP+34 Mehrauli, New Delhi, Delhi",
+                "global_code": "7JWVG5GP+34"
+            },
+            "rating": 4.5,
+            "reference": "ChIJd-3rnjD9DDkRgVC07HfmooE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24009
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "D503, Pocket D 1A, Janakpuri, New Delhi, Delhi 110058, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.610304,
+                    "lng": 77.101883
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61160887989272,
+                        "lng": 77.10334777989273
+                    },
+                    "southwest": {
+                        "lat": 28.60890922010728,
+                        "lng": 77.10064812010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7040548f6633c9600783faa0c7a9fc37a8b5e457",
+            "name": "Royal Trips",
+            "permanently_closed": true,
+            "place_id": "ChIJi2fu62YbDTkRAbJx1VO27kM",
+            "plus_code": {
+                "compound_code": "J462+4Q Janakpuri, New Delhi, Delhi",
+                "global_code": "7JWVJ462+4Q"
+            },
+            "rating": 1,
+            "reference": "ChIJi2fu62YbDTkRAbJx1VO27kM",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "16 Urdu Bazar Road Infront of Jama Masjid Gate No.1, Gali Bhairo Wali, Kababiyan, New Delhi, Delhi 110006, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6494264,
+                    "lng": 77.2336916
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65076912989273,
+                        "lng": 77.23496462989273
+                    },
+                    "southwest": {
+                        "lat": 28.64806947010728,
+                        "lng": 77.23226497010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "35a0b10641283d19121fd3cd29b99277cbec5294",
+            "name": "Karim's Hotel Pvt Ltd",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111633472757595417104\">Hayat Ansari</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAM0yPjPaHtergBcxzffUwbIXBzJTK-qRPtGs-WHIprDKOprxZkm0RexFmCp_DDJMdzY6WGuc410ZDt1GmtNr4Qj36vcae8SUJKsv6Fv1S2nG_On4CdUBUmsCOt-p7SckmEhD2MuUo3I7X9WtADBr53E8fGhRB8UDkCdRb1c4pwog1A5gTyt90WQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJyy_Vxxj9DDkRPXF11X7EfT0",
+            "plus_code": {
+                "compound_code": "J6XM+QF New Delhi, Delhi",
+                "global_code": "7JWVJ6XM+QF"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJyy_Vxxj9DDkRPXF11X7EfT0",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7111
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "123, Hari Nagar, Shiv Nagar, Janakpuri, New Delhi, Delhi 110058, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.626748,
+                    "lng": 77.09987199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62808677989272,
+                        "lng": 77.10122682989272
+                    },
+                    "southwest": {
+                        "lat": 28.62538712010727,
+                        "lng": 77.09852717010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "27b4ab0d7f98e6afe7e92ffdf8a9167281ace1c1",
+            "name": "Neocracy India Travel",
+            "permanently_closed": true,
+            "place_id": "ChIJLbLPotkFDTkRQtDEvk6g1CM",
+            "plus_code": {
+                "compound_code": "J3GX+MW Janakpuri, New Delhi, Delhi",
+                "global_code": "7JWVJ3GX+MW"
+            },
+            "rating": 0,
+            "reference": "ChIJLbLPotkFDTkRQtDEvk6g1CM",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "KLJ Tower, Level 2, North, B-5 Centre,, Netaji Subhash Place, Wazirpur, Delhi, 110034, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6908433,
+                    "lng": 77.1508695
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69199277989271,
+                        "lng": 77.15212857989273
+                    },
+                    "southwest": {
+                        "lat": 28.68929312010727,
+                        "lng": 77.14942892010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e07672e3b886c338338c833a7e186da78ff47473",
+            "name": "Indian Frontiers",
+            "permanently_closed": true,
+            "place_id": "ChIJw-G6kzQCDTkRHVySTX1yh_k",
+            "plus_code": {
+                "compound_code": "M5R2+88 Wazirpur, New Delhi, Delhi",
+                "global_code": "7JWVM5R2+88"
+            },
+            "rating": 5,
+            "reference": "ChIJw-G6kzQCDTkRHVySTX1yh_k",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Swarn Jayanti Park, Sector 10, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7223164,
+                    "lng": 77.1186073
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72366622989272,
+                        "lng": 77.11995712989271
+                    },
+                    "southwest": {
+                        "lat": 28.72096657010728,
+                        "lng": 77.11725747010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "cf0ae01019bb7679f3412dfaa0c8220dabbc402b",
+            "name": "Japanese Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103706891204450533812\">ankush kochhar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAf5ZyULtkBS5Dvg-sBwAXtD6yRyVb0qpWJqTLA-lg8GDVFcQCw4gyW8KiGIS1pkeCupdGRMKD55O4miKn-rQVNaoiAKnxwkhg7VAw3vveT9EA8txHc5-Vzt6yjKJRM5KwEhADbr33h7-2KvPnIvIS5qyfGhShhSiZ5x9vHFdLHSHBSTGfwnYicg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJDxgeVUEBDTkRDW2s-cp_U9E",
+            "plus_code": {
+                "compound_code": "P4C9+WC Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4C9+WC"
+            },
+            "rating": 4.2,
+            "reference": "ChIJDxgeVUEBDTkRDW2s-cp_U9E",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11069
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Khidki Village, Malviya Nagar, New Delhi, Delhi 110017, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5316762,
+                    "lng": 77.223452
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.53295422989272,
+                        "lng": 77.22481742989272
+                    },
+                    "southwest": {
+                        "lat": 28.53025457010728,
+                        "lng": 77.22211777010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "572c0ca2015d903df198cc0c702a9330cae52857",
+            "name": "Satpula",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108639142684823011599\">Vishal Singhal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJvXkhEIxrHYLk5rHFP5Itt-kl8XaySQAjJn99-yF_zhnyKzgbuW8Ba-LldYb1L6IaP-AuzUmVU_UJK9ZjkxErlxut47Tw99zfnIkmF3WKnEH8F6Ds42gL0eT0ZiCykJAEhBoa_aAJc3plOArgxbDyu6GGhSAZ1QcemPoRBDmEALBTWcT7zhBTw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJS9s8-YnhDDkR0GEi4d17D_w",
+            "plus_code": {
+                "compound_code": "G6JF+M9 New Delhi, Delhi",
+                "global_code": "7JWVG6JF+M9"
+            },
+            "rating": 4.1,
+            "reference": "ChIJS9s8-YnhDDkR0GEi4d17D_w",
+            "types": [
+                "tourist_attraction",
+                "furniture_store",
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 471
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nav Shakti Sadan, Rajapur, Pocket 27, Sector 13, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.722127,
+                    "lng": 77.1246065
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72349682989272,
+                        "lng": 77.12592567989273
+                    },
+                    "southwest": {
+                        "lat": 28.72079717010728,
+                        "lng": 77.12322602010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "fdd3a34d5eb539e859ffaf2d8b4a534d7470d0a2",
+            "name": "Chhayachitra",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109989655918449996250\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmkL-ZOMYNTfHFpyRVHYvtbD39nYy7OwBkvg-I-WnggfNJCDGHBwGaKA9pGP8JbaWGl4HAo3UA8clVXyl8mllQqa0-S9etZ5P7qswFaDfNHyYCwnpIcFPFQjotOdWdkLSEhBc0-71EJ6erFj3Qpd1syrqGhRUX8WfQtbtBhF5lxDzzlYjRcbgvg",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ5RUxU1cBDTkRmTemU5Ohx-Q",
+            "plus_code": {
+                "compound_code": "P4CF+VR Delhi",
+                "global_code": "7JWVP4CF+VR"
+            },
+            "rating": 4,
+            "reference": "ChIJ5RUxU1cBDTkRmTemU5Ohx-Q",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "F-165 Street No.4 Pandav Nagar delhi, Delhi, 110091, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6150359,
+                    "lng": 77.2859684
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61652967989271,
+                        "lng": 77.28722582989273
+                    },
+                    "southwest": {
+                        "lat": 28.61383002010727,
+                        "lng": 77.28452617010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ed47ffc18d2f7b7435ba5f39492dd1b907dd1fca",
+            "name": "Tourist Attractions in India",
+            "permanently_closed": true,
+            "place_id": "ChIJzwhUhFjjDDkR5AhfZFfLEBo",
+            "plus_code": {
+                "compound_code": "J78P+29 Delhi",
+                "global_code": "7JWVJ78P+29"
+            },
+            "rating": 4.1,
+            "reference": "ChIJzwhUhFjjDDkR5AhfZFfLEBo",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "C 7 /104 Keshav Puram Delhi 110035, Delhi 110034, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6910427,
+                    "lng": 77.158553
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69236347989272,
+                        "lng": 77.15991667989273
+                    },
+                    "southwest": {
+                        "lat": 28.68966382010728,
+                        "lng": 77.15721702010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "bd22c1930487d21d65fd171fbb3c602716776a82",
+            "name": "SN Travel",
+            "permanently_closed": true,
+            "place_id": "ChIJ7X00xr0DDTkRVdTRheaONjQ",
+            "plus_code": {
+                "compound_code": "M5R5+CC Tri Nagar, Delhi",
+                "global_code": "7JWVM5R5+CC"
+            },
+            "rating": 0,
+            "reference": "ChIJ7X00xr0DDTkRVdTRheaONjQ",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "House no 45 Shangrila Complex,New Camp Delhi-110054, Majnu-ka-tilla, New Aruna Nagar, Delhi, 110054, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.703048,
+                    "lng": 77.22822099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70436872989272,
+                        "lng": 77.22957047989271
+                    },
+                    "southwest": {
+                        "lat": 28.70166907010727,
+                        "lng": 77.22687082010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d816488e277dccf9b52c0da1140c2a2c60e14260",
+            "name": "EarthLink Tours & Travels",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116982573319946823702\">EarthLink Tours &amp; Travels</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAqimXzYDlyHbXS_xeUfaxUvXKVCiYfb2LMp3wx6PfrtUbOZZsCaLTPW3Xqr60rPLJldXLiwlUuZnmZ05sn4BXfoSfn-xQNKZEk5tCY8GPlNaylLM50GwrMhcr0RA5_QWHEhAeE7vvifPJOg4k9NSFCu6DGhTX4qTMYJL7lzsGDCCbnN237dZOVg",
+                    "width": 1119
+                }
+            ],
+            "place_id": "ChIJBR2jZsX9DDkRHcVKbleyIZY",
+            "plus_code": {
+                "compound_code": "P63H+67 New Aruna Nagar, New Delhi, Delhi",
+                "global_code": "7JWVP63H+67"
+            },
+            "rating": 3.5,
+            "reference": "ChIJBR2jZsX9DDkRHcVKbleyIZY",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kirari, prem Nagar 3Rd, Nangloi, New Delhi, Delhi 110086, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.703407,
+                    "lng": 77.0427904
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70475832989273,
+                        "lng": 77.04410362989273
+                    },
+                    "southwest": {
+                        "lat": 28.70205867010728,
+                        "lng": 77.04140397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5d7662f419c9aa8d8e49646b81bb40fb04e7ac72",
+            "name": "Traveling sewa",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 587,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108507606835019020857\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRZAAAA1pyv7sj8pN5DtsUfoJpprlI7c_Tu8UO5Ck61753hxkihg5PZIW7O-O03v_XlqUbXWHra82h1hT8HRduUKmjCWgd0nn_kMSIcImcdA0daUjHxsASVQnsgN3Xl5fYBixWbEhDJ_dMpq-57FtJXnlgVHzRdGhQNZR5uudSwi7VmqskjfKj26OdxAw",
+                    "width": 1047
+                }
+            ],
+            "place_id": "ChIJBb18VHsFDTkRNW1VvvEzyKg",
+            "plus_code": {
+                "compound_code": "P23V+94 Nangloi, Delhi",
+                "global_code": "7JWVP23V+94"
+            },
+            "rating": 4.3,
+            "reference": "ChIJBb18VHsFDTkRNW1VvvEzyKg",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        }
+    ],
+    "status": "OK"
+}

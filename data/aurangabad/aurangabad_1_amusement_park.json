@@ -1,0 +1,969 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "BACKSIDE OF PATEL LAWNS, H.NO137 P.NO37 ABRAR COLONY NYAR MARWAH MASJID, Beed Bypass Rd, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8547242,
+                    "lng": 75.31013109999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85606807989272,
+                        "lng": 75.31152917989272
+                    },
+                    "southwest": {
+                        "lat": 19.85336842010728,
+                        "lng": 75.30882952010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "05998676f9b31acff3f79d329f302e496d8a3cc7",
+            "name": "AR.PLAY",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 719,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100800945622827499105\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtXWfvjvoRgleWO701yA_HC_JtdFLbkpuioi-_aD2glNr8JpDvdLTPCbhB8ETvET12yU0LnhE8eGse4ZDtycz320T6IGhYs-jyL96t5dhYI6pghjpTQ3rFIUHtBxamDFREhC_RBEgOgguBXF6xoAEr76_GhTQEH72r5VLeLmU2XrdseZYdCPqjQ",
+                    "width": 1279
+                }
+            ],
+            "place_id": "ChIJJ6eJVXGZ2zsRTy25c7Nbe_o",
+            "plus_code": {
+                "compound_code": "V836+V3 Aurangabad, Maharashtra",
+                "global_code": "7JFQV836+V3"
+            },
+            "rating": 0,
+            "reference": "ChIJJ6eJVXGZ2zsRTy25c7Nbe_o",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3-8-286, Sanjay Nagar, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8827237,
+                    "lng": 75.34432749999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88407542989272,
+                        "lng": 75.34566572989273
+                    },
+                    "southwest": {
+                        "lat": 19.88137577010728,
+                        "lng": 75.34296607010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "76f886219c249e672087355cd08f1025960d1cbc",
+            "name": "Sk Sadabahar Amusement park",
+            "place_id": "ChIJx9z5l4ij2zsRKtJSO-QPaoY",
+            "plus_code": {
+                "compound_code": "V8MV+3P Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MV+3P"
+            },
+            "rating": 0,
+            "reference": "ChIJx9z5l4ij2zsRKtJSO-QPaoY",
+            "types": [
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "NH 211, Vitkheda - Ellora Rd, near Daulatabad, Fort, Daulatabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9558,
+                    "lng": 75.222134
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.95701287989272,
+                        "lng": 75.22324287989271
+                    },
+                    "southwest": {
+                        "lat": 19.95431322010728,
+                        "lng": 75.22054322010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d493796bd0c6e29983ca2b82b29b4c5c5a4c876a",
+            "name": "H2O Waterpark",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107758243737263747477\">H2O Waterpark</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARN24LymKsxlNYkM35RZ_mF23p9zMCO67y0N5ubE4QFIHx5pIp-Gf1YmAYPu5PmeQrP-dizQfq5UoiStBmSvPJaEfcNu1SsyIMyPIxQRCAnHDgM9PfHojao49OLMtBYX5EhDixYPgTqH7oOv9cCXvLvGUGhQlWTUdZYxVfaHCsnJgrC7AEo-EGw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJTcHd0RmR2zsRz8H3-JTVsGw",
+            "plus_code": {
+                "compound_code": "X64C+8V Daulatabad, Maharashtra",
+                "global_code": "7JFQX64C+8V"
+            },
+            "rating": 3.8,
+            "reference": "ChIJTcHd0RmR2zsRz8H3-JTVsGw",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 753
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Daulatabad, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9528817,
+                    "lng": 75.2229768
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.95429837989272,
+                        "lng": 75.22427332989272
+                    },
+                    "southwest": {
+                        "lat": 19.95159872010727,
+                        "lng": 75.22157367010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "98c4f7aba6977e00ceabb3596973cd3951edee4a",
+            "name": "Deluxe Green Valley",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108732850526578273208\">Ismail Shiwani</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkNLluHDToP3CaJihunGsV7f_9LmaUUs8VBgyqWyrP8vFE2YPMcFarT7bVs6_I0MfvPFXMwnZ6BEf-Js84P3waFTEtKDrv96ki2g0DYkI3dyJu5Txf5XeTIi-j5AKCG7DEhC4iteEhmVq84YMZ8GcCL_1GhRv1hqD8N9YdMokkqdmEQvFx4VM6A",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ9W3noL-R2zsRrGsB7whC2qQ",
+            "plus_code": {
+                "compound_code": "X63F+55 Daulatabad, Maharashtra",
+                "global_code": "7JFQX63F+55"
+            },
+            "rating": 4,
+            "reference": "ChIJ9W3noL-R2zsRrGsB7whC2qQ",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ellora Road, Next to H2O Waterpark, Daulatabad, National Highway 211, Aurangabad, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9550102,
+                    "lng": 75.22122209999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.95641547989272,
+                        "lng": 75.22252627989272
+                    },
+                    "southwest": {
+                        "lat": 19.95371582010728,
+                        "lng": 75.21982662010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "543137875ad61cca4c9edd429704225054fd73d4",
+            "name": "Hotel Lotus",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1378,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115362279664205498150\">Hotel Lotus</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhk7voZWn0rJ03EzPjioDJBmdWV7qCFWNbsgXZmuPVtBXxemkQtGMlehZ-pCdX1j0TvZ_IjpzPHgr67RJ2FBQTSnZwzm_dXEK6vmz8_YRmkrw8a9oN3vPF_gY4m1NMriREhAaO3iqH4vtqzeOBhb_dWsjGhRgTvjMpHSOcXA_-aPiCyAeSV_daw",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJX5hb8heR2zsR4HyJ4LKJGPs",
+            "plus_code": {
+                "compound_code": "X64C+2F Aurangabad, Maharashtra",
+                "global_code": "7JFQX64C+2F"
+            },
+            "rating": 3.9,
+            "reference": "ChIJX5hb8heR2zsR4HyJ4LKJGPs",
+            "types": [
+                "amusement_park",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 210
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Old Pune Mumbai Highway, NH-4 Post-Takve, Mundhaware, Pune, Maharashtra 410405, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.7649021,
+                    "lng": 73.5152505
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.76603025000001,
+                        "lng": 73.51643915
+                    },
+                    "southwest": {
+                        "lat": 18.76151764999999,
+                        "lng": 73.51168455000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b63b0a925a7991d9eeb785986693851ca631a86c",
+            "name": "Magic Mountain",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 900,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103429172069707735239\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAB2_Mq7W6x-QCfnMmrBGSFbZ-bpuRryC6_Nv5OAD31ooUy5iMKNrytkO7Dr8oDmX5yGbkvfjgt84-wcgZLQf1wM-Tcsc7foSphA5qEmijCcv5p_qwvIju2RPt8aRP0yvXEhC5PSTkzBKU6OQLM8f7teKGGhQahtuFXeLMlNK98txpUAwoI-YaBg",
+                    "width": 1350
+                }
+            ],
+            "place_id": "ChIJ4YEIQLKrwjsRUIDTG6v-uF8",
+            "plus_code": {
+                "compound_code": "QG78+X4 Fangane, Maharashtra",
+                "global_code": "7JCMQG78+X4"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ4YEIQLKrwjsRUIDTG6v-uF8",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1739
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "near Mc Donalds, Shivar Garden, Mira Road, Mumbai, Maharashtra 401107, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.2894192,
+                    "lng": 72.8668823
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.29102727989272,
+                        "lng": 72.86786097989273
+                    },
+                    "southwest": {
+                        "lat": 19.28832762010727,
+                        "lng": 72.86516132010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "948730eeef7846f6b301a5e44ca250dc2f075b64",
+            "name": "Vardhman Fantasy Amusement Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107698846920439688559\">Ruchita Motwani</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAno0cKZ0uhvQbwFaWbVqqWzRgufYSLGmMBdgFHVVd1aXur_USHifHcWUVDoSac5dr8YupKezHZDBjDWL7g-iVSB3vuce1L3TqmQHxP2mKDCa2SRU5scZjAXH7LD_CwWmeEhBuIXeyBdEEHZxAgKDBVAyuGhSLnarasCJ5GwINlCSVfnqPi3EfhA",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJw7-IDEew5zsR7ku8SoA_gmg",
+            "plus_code": {
+                "compound_code": "7VQ8+QQ Mira Road, Mira Bhayandar, Maharashtra",
+                "global_code": "7JFJ7VQ8+QQ"
+            },
+            "rating": 3.6,
+            "reference": "ChIJw7-IDEew5zsR7ku8SoA_gmg",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9662
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Survey No.7,Near Sanjeevan School, Taighat, Panchgani, Maharashtra 412805, India",
+            "geometry": {
+                "location": {
+                    "lat": 17.9194666,
+                    "lng": 73.7866021
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.92093757989273,
+                        "lng": 73.78789012989273
+                    },
+                    "southwest": {
+                        "lat": 17.91823792010728,
+                        "lng": 73.78519047010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a0c3567063451a6c0684ac6cbf4f8d565227235e",
+            "name": "On Wheelz Amusement Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3168,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108874221807895414035\">ON WHEELZ AMUSEMENT PARK</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAP2B2e-XRD_Jr3hQNA_mCKe-zBFXVSQdFFw7Iew7h4tuAKmz7HrKiNZKCFWy4ONbKv2N1GacEPNOTjiGx0YQz5ZzUATkDwxDhlhFBVko_Bj7Qy3cBY7245F2LjR8tIDddEhDpoOgQBp37jM-GziecdV_yGhTiCQTOywRdFf53FewSLWGTPVxFuA",
+                    "width": 4752
+                }
+            ],
+            "place_id": "ChIJV21YeIRowjsRs9oB27XFecE",
+            "plus_code": {
+                "compound_code": "WQ9P+QJ Panchgani, Maharashtra",
+                "global_code": "7J9MWQ9P+QJ"
+            },
+            "rating": 3.6,
+            "reference": "ChIJV21YeIRowjsRs9oB27XFecE",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 628
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Essel world Amusement Park, Gorai, Mumbai, Maharashtra 400092, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.231546,
+                    "lng": 72.80505769999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.23289582989272,
+                        "lng": 72.80640752989272
+                    },
+                    "southwest": {
+                        "lat": 19.23019617010727,
+                        "lng": 72.80370787010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e1b3e7653a7975f684e581173ca384247762da66",
+            "name": "EsselWorld",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 366,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118034310701017692896\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKQO8LO6uju_QS1ONG5IHH6H8UY8zEqY4n5VV0yW1WO8f63oiTXfeG7bICKEKt9GaeMBc2mMOJMfJTl9cr_rT5ZFa-H3s6Wz7Cd_fcXWOsrP9ygQEHjSYu9xk8Ea0rAeLEhCkGCBQ8ega0RHrgUNLuXHiGhQIm5fY_x96LWYfLOx3KfWxz21yww",
+                    "width": 550
+                }
+            ],
+            "place_id": "ChIJsWNPGBG05zsRbvTUhyCi2sQ",
+            "plus_code": {
+                "compound_code": "6RJ4+J2 Gorai, Mumbai, Maharashtra",
+                "global_code": "7JFJ6RJ4+J2"
+            },
+            "rating": 4.4,
+            "reference": "ChIJsWNPGBG05zsRbvTUhyCi2sQ",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25938
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Rainbow Land Parks, Lonavla, Aundholi, Maharashtra 410401, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.7240032,
+                    "lng": 73.4517566
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.72536732989272,
+                        "lng": 73.45311512989272
+                    },
+                    "southwest": {
+                        "lat": 18.72266767010728,
+                        "lng": 73.45041547010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0f4637249fa8f97f494f2c1ca4ce14a73244a0d0",
+            "name": "Dinosaur Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2428,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108351579931281798094\">Jayanth Sridhar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAeOLYvXI0eC5l7OeTbnjD_BCzXyPLqbHlnxwIXhgoaVIKpeM_T8LJnsLtxw96q0_iGJxKK3npRKlyTGHLR5i1XeqeoUWpX1BePx5Q9jdt-3wBQiUaqiOHxlSoCSBt81XFEhBf1MP_qkY20cGCfvC7W_l5GhTVDMwcJCTEYsgzkHmAE69-5wuv2Q",
+                    "width": 3841
+                }
+            ],
+            "place_id": "ChIJaaCUYR0C6DsR98lBebFAE8Q",
+            "plus_code": {
+                "compound_code": "PFF2+JP Aundholi, Maharashtra",
+                "global_code": "7JCMPFF2+JP"
+            },
+            "rating": 3.7,
+            "reference": "ChIJaaCUYR0C6DsR98lBebFAE8Q",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1920
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nehru Outer Ring Rd, Exit No. 13, Ravirala, Hyderabad, Telangana 501510, India",
+            "geometry": {
+                "location": {
+                    "lat": 17.2172886,
+                    "lng": 78.52850529999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.21836995,
+                        "lng": 78.52928602989272
+                    },
+                    "southwest": {
+                        "lat": 17.21404455,
+                        "lng": 78.52658637010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7edac54dfa680e48a727df239fd689b5bbdb2864",
+            "name": "Wonderla Amusement Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 540,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118000379522574175763\">Wonderla Amusement Park</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyLvTwUnuZkg26ue4o0gKt1jMY-hhxbw0Ppbx8Kqdzkoj5q2Yv1m5CbcKPoJ9Eo7TcxwoxbVJaISUg66AVBew3eQ9Me-e8MHk8F27H4OMDmKRmWfPhltYFtt1kKALHEuhEhD61KkMQBRupTQOCytyyUkLGhScoc8MwVRBdWUbvO2vNzv4VUOrWA",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJM1sJX1ykyzsRdyVvqQVGnN0",
+            "plus_code": {
+                "compound_code": "6G8H+WC Kongar Khurd A, Telangana",
+                "global_code": "7J9W6G8H+WC"
+            },
+            "rating": 4.5,
+            "reference": "ChIJM1sJX1ykyzsRdyVvqQVGnN0",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36179
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Agrawal Mini APPUGHAR, Regional Park Rd, Maguda Nagar, Pipliya Pala, Indore, Madhya Pradesh 452011, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.7524952,
+                    "lng": 75.8872921
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.75390317989272,
+                        "lng": 75.88865792989273
+                    },
+                    "southwest": {
+                        "lat": 22.75120352010728,
+                        "lng": 75.88595827010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7ff4dcc6a61baf1c46655605fd333f75d815b4a9",
+            "name": "Agrawal Appu Ghar",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103846218862809542498\">Akash Sethia</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARjNAF3h1ZifaU7wrGdYBif44zAHPWVbFZCkkmaJ5_345CVwJIVovLdfCHrjFEwWjP07FqUKumTokDhgBMfEJd2DdHG6FMYVKFuUw0yN1oBq4FMWxX9Mgh89PkuEvINL6EhApXSeeHvr1_soZVtbVEt7GGhRkoS0zVuIuSnq75TkOPNUvi25bzQ",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJgdYAB6cCYzkRCa9eeZ1szXg",
+            "plus_code": {
+                "compound_code": "QV2P+XW Indore, Madhya Pradesh",
+                "global_code": "7JJQQV2P+XW"
+            },
+            "rating": 3.5,
+            "reference": "ChIJgdYAB6cCYzkRCa9eeZ1szXg",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 439
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "35Km on Amravati Road, Bazargaon, Teh. &, Nagpur, Maharashtra 440023, India",
+            "geometry": {
+                "location": {
+                    "lat": 21.1338469,
+                    "lng": 78.7607406
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.13485592989272,
+                        "lng": 78.76197467989273
+                    },
+                    "southwest": {
+                        "lat": 21.13215627010728,
+                        "lng": 78.75927502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4c5f603a4e91eae5ac7990141a5cf12777eb3b42",
+            "name": "Fun N Food Village Nagpur",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 496,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110556057166097003608\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANGjEIx-TjW-sXPFlsoScQ83QyP-odSpfMRO0kVMNrYv3xM2fiYqU7gLP-0yi9HY0BEDLPOT75F4uX46z6uEmRxEPNWDjBxvHYM7ZO-Eyc_MdXpnmBkLecSNvvL7N3rMiEhDkBWes2_X3W50I7VO0x0WzGhS6ULOe9RKrFzPf1mNeyWHiYGMfnQ",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJNwj-xG_z1DsRS7nY96ESOes",
+            "plus_code": {
+                "compound_code": "4QM6+G7 Bajargaon, Maharashtra",
+                "global_code": "7JHW4QM6+G7"
+            },
+            "rating": 3.8,
+            "reference": "ChIJNwj-xG_z1DsRS7nY96ESOes",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4507
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Anand Nagar - Akluj, Tal-Malashiras, Solapur, Maharashtra 413101, India",
+            "geometry": {
+                "location": {
+                    "lat": 17.9113663,
+                    "lng": 74.9943069
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91242127989272,
+                        "lng": 74.9958603798927
+                    },
+                    "southwest": {
+                        "lat": 17.90972162010728,
+                        "lng": 74.99316072010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3c57e1cd0fc5243fb4c30e01b9aa13b2e258b4b2",
+            "name": "Sayajiraje Park, Akluj",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104633860403262965976\">Raju Rathod</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANTpd3BaV7zFY0cZfGzChy2monPUI46cxf6Fm-VaJ5US4KdKd_Pr3bVfb_-JBtmkd4s1LXffWvlRhFoCzJ2ivY1UmcmYCbSrb6q9GzDyFwo59du8yFRhGUlmIhWh5YineEhBCrkKVK8DsLHkSqsj2NPIsGhQyLXMZlNit60rRFKixtAB-k90Pmg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJBSpwAcF1xDsR0SUoO35ozaE",
+            "plus_code": {
+                "compound_code": "WX6V+GP Anandnagar, Maharashtra",
+                "global_code": "7J9PWX6V+GP"
+            },
+            "rating": 4.3,
+            "reference": "ChIJBSpwAcF1xDsR0SUoO35ozaE",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3178
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kongar Khurd A, Telangana 501510, India",
+            "geometry": {
+                "location": {
+                    "lat": 17.2179059,
+                    "lng": 78.5293176
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.21925572989272,
+                        "lng": 78.53066742989272
+                    },
+                    "southwest": {
+                        "lat": 17.21655607010728,
+                        "lng": 78.52796777010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3c571fc24e73b814ccb8ed290b8c394ab5b4b7d0",
+            "name": "Wonderla",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100757962534079838732\">nomula ajith</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAreTHd6IfSeUMKgePmYWvZpPnwwGwPv05jeKpxodU3rSy--0BRlPx7Y-dCkMuCOFvemlyz7O6Vq2TopGH94WFpPmuTMi-t3bg9-cLr7AzI3QyrPhQUmjHmeMtyqvMAWV0EhC941-r9AQfYsIPiw_gUIjZGhSfYWu1vGoyRsYlfihH_poNcIS88Q",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJeajJ_1ykyzsRRPrzBvhMP2s",
+            "plus_code": {
+                "compound_code": "6G9H+5P Kongar Khurd A, Telangana",
+                "global_code": "7J9W6G9H+5P"
+            },
+            "rating": 4.4,
+            "reference": "ChIJeajJ_1ykyzsRRPrzBvhMP2s",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 313
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ajwa - Nimeta Road, Ajwa Compound, Rayan Talavadi, Vadodara, Gujarat 390019, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.3697858,
+                    "lng": 73.36252139999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.37111052989272,
+                        "lng": 73.36389907989272
+                    },
+                    "southwest": {
+                        "lat": 22.36841087010728,
+                        "lng": 73.36119942010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "20f53ce905b729e851c8bc50717b38f8533c0027",
+            "name": "Ajwa Fun World, Ajwa Water Park, Ajwa Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101903926206609163978\">parimal patil</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAlCbkrucM8OQ6T4OtG3lLjOHNP3HZhwpDLIeX9IiEM5BPuGYXhrPKYO6KaUdxq7LwIeB7TsL-b3xzulkEs6fcBnqgCBdHNMxasnORrpP1kL0iq4cRSzZ50yZYwBvXuB4mEhDh5-T1VDO_4mLzfKE7CiImGhQYL_1CeO_-j2GAEi5DqYob0oQM1A",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ-0JzUJzRXzkRkALcsaEoPaA",
+            "plus_code": {
+                "compound_code": "9997+W2 Vadodara, Gujarat",
+                "global_code": "7JJM9997+W2"
+            },
+            "rating": 3.5,
+            "reference": "ChIJ-0JzUJzRXzkRkALcsaEoPaA",
+            "types": [
+                "amusement_park",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1228
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Highway, Behind Kiran Motors, Sanand - Sarkhej Rd, Sarkhej, Sarkhej-Okaf, Gujarat 382210, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.9854515,
+                    "lng": 72.48502309999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.98653632989272,
+                        "lng": 72.48651672989271
+                    },
+                    "southwest": {
+                        "lat": 22.98383667010728,
+                        "lng": 72.48381707010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "04a7b79c69a101dcc98beccbfe534a98325f31fa",
+            "name": "Maniar's Wonderland",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 5304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115894512420454447383\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAWfkzZqgxcbiim0n1NjIeWQDDIIv_XMQ_8XZ4bnXuug0I9ljec0HSo9j5yHQINrNj3Ut9FQD3lLNSmJ6g63rwoT7BseJgur5JTxLPcaVlsEmYPNs0y6EWz-EFthdJ3ebaEhCbOG4j9o3VsMhPqg5UugdJGhTpmfa6kh3ipjPBA-ix3CCZVnDO0A",
+                    "width": 7952
+                }
+            ],
+            "place_id": "ChIJqQvWWO2aXjkREEHMS8yxe7g",
+            "plus_code": {
+                "compound_code": "XFPP+52 Sarkhej-Okaf, Gujarat",
+                "global_code": "7JJJXFPP+52"
+            },
+            "rating": 3.5,
+            "reference": "ChIJqQvWWO2aXjkREEHMS8yxe7g",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1831
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Tikuji-ni-wadi Road, Opp. Tata Power House, Manpada, Chitalsar, Thane, Maharashtra 400607, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.2379877,
+                    "lng": 72.96687849999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.23940007989272,
+                        "lng": 72.96809532989272
+                    },
+                    "southwest": {
+                        "lat": 19.23670042010728,
+                        "lng": 72.96539567010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "42aa9f60131bae87b42921e32eb0460f57393c18",
+            "name": "Tikuji-ni-Wadi",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116700843983613901179\">Megha Mody</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAB_vd_zwJqWEdlTZeRsJlIwdxQ876iFDc9DJ_cgnoUdgJ4gXXdatGuNLDINOkLEIVMUanb_dCNpcctS0qbIEV1kgXotoruDfsp6PDnv0TeqTyXXZ8H-TDWKL4il7y_PFYEhBgb_VFpVaED0lLZtxXTvlmGhSwD4LD2HrROwcGxJEz5EXH58IYzg",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJRVR9ciHP5zsR2DwBYR4jA0w",
+            "plus_code": {
+                "compound_code": "6XQ8+5Q Thane, Maharashtra",
+                "global_code": "7JFJ6XQ8+5Q"
+            },
+            "rating": 3.9,
+            "reference": "ChIJRVR9ciHP5zsR2DwBYR4jA0w",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8332
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "No. 30 31, State Highway 92 near Lonavla, Sangdewadi, Khopoli, Maharashtra 410203, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.767387,
+                    "lng": 73.280652
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.76873682989272,
+                        "lng": 73.28200182989272
+                    },
+                    "southwest": {
+                        "lat": 18.76603717010727,
+                        "lng": 73.27930217010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2c29818e0c7d9b808a67b426e1806d1aca4f931f",
+            "name": "Imagicaa",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111458439715527326190\">nikunj patel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA52kYEPDEnauQK4e_3W6OwVm-enVn1DX_xxvNb7KBMvvEaokRZJVC31Cb8qrHwBM3856x_vBCSQzdnjifT8tPqQbETumcVZGYRSZzHzQ9yalMhKbapiEPXFA469HbqUkfEhD6VzeXP1R-7J9XaXWy-VFIGhSb11NNdsznOT8Ay5-XHEjDc6PdLg",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJYWXFp2XAwjsRe2nbd5cxhU0",
+            "plus_code": {
+                "compound_code": "Q78J+X7 Khopoli, Maharashtra",
+                "global_code": "7JCMQ78J+X7"
+            },
+            "rating": 4.4,
+            "reference": "ChIJYWXFp2XAwjsRe2nbd5cxhU0",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 64064
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jalandhar - Nakodar Rd, Wadala Chowk, After, Jalandhar, Punjab 144001, India",
+            "geometry": {
+                "location": {
+                    "lat": 31.2628896,
+                    "lng": 75.5328123
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.26427182989272,
+                        "lng": 75.53416047989272
+                    },
+                    "southwest": {
+                        "lat": 31.26157217010728,
+                        "lng": 75.53146082010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cc608ec8cd534591c0ac81df72a36dbbc4a5845c",
+            "name": "Wonderland, Jalandhar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106721141578788277210\">Akash Koundal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKiM9zRs961bLzcVxuA8shKcp86l9d5awOtT7Qy5N-xz8sNQVBv5tPaEf9dUBinuzpbxvswYLzCL4GrXkCE5wcH1C920wgTJReXJV-u4RZ2a1I8IlqWJog8U5pQ5TIa3mEhALNzb18bRHZsCj3V9xdGHhGhSMzbHViUW6-mV5ID7OafoCsXBHTg",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJWecu7E9bGjkRBKdPQzxpZP4",
+            "plus_code": {
+                "compound_code": "7G7M+54 Jalandhar, Punjab",
+                "global_code": "8J3Q7G7M+54"
+            },
+            "rating": 4.3,
+            "reference": "ChIJWecu7E9bGjkRBKdPQzxpZP4",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5105
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,58 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "LA-17, Delhi, LA 71232, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.4373288,
+                    "lng": -91.495545
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.43870617989272,
+                        "lng": -91.49431202010727
+                    },
+                    "southwest": {
+                        "lat": 32.43600652010727,
+                        "lng": -91.49701167989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "a93945fd843616647de7e0f8d521d30add176376",
+            "name": "Delhi RV Park LLC",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100803569170116905206\">niece c</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhm-x8bDXjwhuX9Cqu_YYU_VSQM6ijIa1RC8iFF-_BHTmEAlaVSygFhNyyWo8Nx-DdSn5Xt8V6MHAWFAjLKYUgHPzt3vgQzLdzhfhqsRukMbFy8mWw_H8Tf0bnv_5gB3UEhDUKW6JXafw_ogq-434IuFOGhTXEux25zHeOPRiuQ2XDpkL9avU5A",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJBWnQL3beLoYRaBU05Hpr3Qk",
+            "plus_code": {
+                "compound_code": "CGP3+WQ Delhi, Louisiana, United States",
+                "global_code": "864CCGP3+WQ"
+            },
+            "rating": 4.9,
+            "reference": "ChIJBWnQL3beLoYRaBU05Hpr3Qk",
+            "types": [
+                "rv_park",
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        }
+    ],
+    "status": "OK"
+}

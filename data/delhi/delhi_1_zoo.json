@@ -1,0 +1,54 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mathura Rd, Pragati Maidan, New Delhi, Delhi 110003, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6067403,
+                    "lng": 77.2454035
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.60820112989272,
+                        "lng": 77.24665242989272
+                    },
+                    "southwest": {
+                        "lat": 28.60550147010728,
+                        "lng": 77.24395277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1e909884bcb981698f427fa162fd0f357c7b35c8",
+            "name": "National Zoological Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100500798336703144915\">ROHAN SATYARTHI</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJIwbU1KXEQcy9Glf-u8e0vN0x89wv0S6P_apH-sRvc-J9j9ov_D6ccu-K7SakM2GIp5RA6rA7Jm_V1enelPrqAadR_Poz8UXCcELZfb1pscGjllrT4LO2XwkCeMOdpGfEhArIZnOLRrAysIirZQaB1NlGhSQPWjoHIcTQZxOvNkMtEZLxAeoWw",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJudsnoBjjDDkRSARYWWscKvE",
+            "plus_code": {
+                "compound_code": "J64W+M5 New Delhi, Delhi",
+                "global_code": "7JWVJ64W+M5"
+            },
+            "rating": 4.1,
+            "reference": "ChIJudsnoBjjDDkRSARYWWscKvE",
+            "types": [
+                "zoo",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30561
+        }
+    ],
+    "status": "OK"
+}

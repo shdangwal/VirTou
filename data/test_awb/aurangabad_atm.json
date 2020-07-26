@@ -1,0 +1,843 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-wAAABPHR3GRN_jEcNT7pk-AgeFtSbGaQ4-YAIAtT1nNw92uI9N1-NvIa1kpQi6LrGKtXKybbfEPLrL6j4kwWbLqwciDaKSC7u9dok22-lyZFnIJMCUhBwvu4VZ8YXpnpuuTrBxXcxP_PXnlE-buZqVCOFOtBnFiYo5nf73mIrVk67H86_ODIoPyv-IOVys2PWZVgpbyHXc8lfzjot460rY-GvCw2cTE7SkhSIpZacO8fgSF81i5qbVbIV3pt-a1gn9NOF68en1QE-QXEkxc-Lu4FOUht32KEYyh_Z2s4dmKyewE5Ho-cDv6_JM3oimvRvQ5fwKUiOFiUUtCYtrQAy_S__QSEKjdXqJyjBFJmDolWetNubAaFHht48G0WjHd5na_JKExXJvyOces",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5 & 16, Ground Floor, Sai Business Park, 7 Hills, Jalna Road, Surana Nagar, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8760237,
+                    "lng": 75.3504061
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87728587989272,
+                        "lng": 75.35173547989272
+                    },
+                    "southwest": {
+                        "lat": 19.87458622010728,
+                        "lng": 75.34903582010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "cca794db67ac59e87d54ecae0de64e10e1e6e479",
+            "name": "Jana Small Finance Bank ATM",
+            "place_id": "ChIJu87f3q6j2zsROPCXkZ9Zxc4",
+            "plus_code": {
+                "compound_code": "V9G2+C5 Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G2+C5"
+            },
+            "rating": 0,
+            "reference": "ChIJu87f3q6j2zsROPCXkZ9Zxc4",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Hotel Shaolian, Kushal Nagar, Jalna Road, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8762811,
+                    "lng": 75.3476493
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87762172989272,
+                        "lng": 75.34903252989272
+                    },
+                    "southwest": {
+                        "lat": 19.87492207010727,
+                        "lng": 75.34633287010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+            "id": "fc691ba59e0edb93e948a073066da3c52f893349",
+            "name": "ICICI Bank Jalna Road, Aurangabad - Branch & ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 464,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112870413106654778155\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZwERc-G0oexN-okuA36ExF8yfZ7DnmqQj1PJVLmpdXPBFxBXURN0L9Mhm7hUeo7Dfv1tgPAPSadnhsZfTZcRss9WixtrP1palYCyBw7QEMVR4_m8qzIyWefDkd0RIfblEhBYztf008lmernHgIl-hZuNGhSBQJ1iJVSPxdGPEyt3naTeSCBmlA",
+                    "width": 620
+                }
+            ],
+            "place_id": "ChIJg9CN3naY2zsRfDCbYNhj-98",
+            "plus_code": {
+                "compound_code": "V8GX+G3 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GX+G3"
+            },
+            "rating": 3.1,
+            "reference": "ChIJg9CN3naY2zsRfDCbYNhj-98",
+            "types": [
+                "bank",
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Raghuveer Nagar, Mahesh Nagar, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8763004,
+                    "lng": 75.3481248
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87766972989272,
+                        "lng": 75.34940822989272
+                    },
+                    "southwest": {
+                        "lat": 19.87497007010728,
+                        "lng": 75.34670857010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "b87ff7ecc81c8350c00875b35b26471c08f943a4",
+            "name": "Corporation Bank ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJqW3SkJui2zsRWefvT92akoU",
+            "plus_code": {
+                "compound_code": "V8GX+G6 M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GX+G6"
+            },
+            "rating": 1,
+            "reference": "ChIJqW3SkJui2zsRWefvT92akoU",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kailash Nagar, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8761653,
+                    "lng": 75.3433139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87749477989272,
+                        "lng": 75.34466647989272
+                    },
+                    "southwest": {
+                        "lat": 19.87479512010728,
+                        "lng": 75.34196682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "52938ef23f93cd0ff982727af0678bf01fe13363",
+            "name": "ATM",
+            "place_id": "ChIJXazyuZ2i2zsRxr1QehJG8gE",
+            "rating": 5,
+            "reference": "ChIJXazyuZ2i2zsRxr1QehJG8gE",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Lucky Raj Mansion, Jalna Road, Opp. S.F.S. School, Venkatesh Nagar, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.87643,
+                    "lng": 75.347273
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87769442989272,
+                        "lng": 75.34860852989272
+                    },
+                    "southwest": {
+                        "lat": 19.87499477010727,
+                        "lng": 75.34590887010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "fb063ea555af986b2a63f7332ad9ad559408937f",
+            "name": "Indian Overseas Bank ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJB8iAiZui2zsRUTxHql78qfo",
+            "plus_code": {
+                "compound_code": "V8GW+HW M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GW+HW"
+            },
+            "rating": 2.7,
+            "reference": "ChIJB8iAiZui2zsRUTxHql78qfo",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Raj Heights, M.G.M. Hospital, Town Center, M G M, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8769509,
+                    "lng": 75.354252
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87829827989273,
+                        "lng": 75.35567377989273
+                    },
+                    "southwest": {
+                        "lat": 19.87559862010728,
+                        "lng": 75.35297412010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "9880dadc5ede8afed0c52eff3130572321bd8246",
+            "name": "Canara Bank ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114078330775900760211\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARgxQO8p1ToS-DGJETSa-ISbKsUB4lGHqNsuE688L8eDXJvRr3HZjLM3olXDhpfWwAuCvGH2w8ORqozsvjT6YhnFOfLZoBsL9_gcqWUPMwtRng1apWeew5qeGh_hU9SnjEhADllLCmchxvGaOLdofBa-lGhSQXOWqdw0_-GoUhc5mWUNisp-VZQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJT7VGk5Ci2zsRbnrql_xe2Ac",
+            "plus_code": {
+                "compound_code": "V9G3+QP M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G3+QP"
+            },
+            "rating": 3.5,
+            "reference": "ChIJT7VGk5Ci2zsRbnrql_xe2Ac",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shivani Chambers, Jalna Rd, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8766,
+                    "lng": 75.34461
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87795387989272,
+                        "lng": 75.34603142989273
+                    },
+                    "southwest": {
+                        "lat": 19.87525422010728,
+                        "lng": 75.34333177010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "7bde51e42c0ca554863cbcec0c13fb6ac35f60b8",
+            "name": "HDFC Bank ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1572,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115239647193192637285\">Soham JJ</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZ2KurtZr79Z_ZzOZaRXUuVKJ3XEIu8MfrBwW_POpNNfZ7PW2xwaPHPBw92Kx09NNNEevQTjOj4w_zC7km4ijiw3YYJ7NtXcLcDsZuO-EO8bR808AiPSq_ZdLkDsc56FpEhCt_CRWyZksMe6DaD7H_RoeGhS-5Y8x_9-vBOuOaF8zSygK0uFnoQ",
+                    "width": 2120
+                }
+            ],
+            "place_id": "ChIJVxuxBfAx1zsRHwkkA4hFsJc",
+            "plus_code": {
+                "compound_code": "V8GV+JR Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GV+JR"
+            },
+            "rating": 3.4,
+            "reference": "ChIJVxuxBfAx1zsRHwkkA4hFsJc",
+            "types": [
+                "atm",
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shop No. 35, Raj Heights, Opposite MGM Hospital, Town Center, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.877015,
+                    "lng": 75.3537549
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87843147989272,
+                        "lng": 75.35511272989272
+                    },
+                    "southwest": {
+                        "lat": 19.87573182010728,
+                        "lng": 75.35241307010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "7aa27495f6fbd8fde42f2338a6ba033323153ff5",
+            "name": "Punjab National Bank ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJWbZUkZCi2zsR1kZzFtlEftM",
+            "plus_code": {
+                "compound_code": "V9G3+RG Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G3+RG"
+            },
+            "rating": 3.1,
+            "reference": "ChIJWbZUkZCi2zsR1kZzFtlEftM",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Vidya Nagar, Nyay Nagar, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8747113,
+                    "lng": 75.3540069
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87610587989272,
+                        "lng": 75.35536682989272
+                    },
+                    "southwest": {
+                        "lat": 19.87340622010727,
+                        "lng": 75.35266717010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "a17c44bb1ae1fe2d686a2ec87c4d1f1d088c2d62",
+            "name": "IDBI Bank ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJj9P6bJCi2zsRjrAVin6W0qs",
+            "plus_code": {
+                "compound_code": "V9F3+VJ Nyay Nagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9F3+VJ"
+            },
+            "rating": 3.6,
+            "reference": "ChIJj9P6bJCi2zsRjrAVin6W0qs",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Venkatesh Nagar, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8767725,
+                    "lng": 75.35305699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87811517989272,
+                        "lng": 75.35451097989271
+                    },
+                    "southwest": {
+                        "lat": 19.87541552010728,
+                        "lng": 75.35181132010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "d4ea007098cc089c47d8169059b0444cfdadd8d2",
+            "name": "Saraswat Bank ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJK3tUnJCi2zsRLeIM37L1nrI",
+            "plus_code": {
+                "compound_code": "V9G3+P6 M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G3+P6"
+            },
+            "rating": 5,
+            "reference": "ChIJK3tUnJCi2zsRLeIM37L1nrI",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Lokvikas Bhavan, Central Naka Rd, Venkatesh Nagar, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8757417,
+                    "lng": 75.35311469999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87708942989272,
+                        "lng": 75.35450922989271
+                    },
+                    "southwest": {
+                        "lat": 19.87438977010728,
+                        "lng": 75.35180957010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "c516d2f73a27e68de1fd62a8cfe7e90e0af47765",
+            "name": "Lokvikas ATM",
+            "place_id": "ChIJQwS0p_Kj2zsRGumMCyYhSN0",
+            "plus_code": {
+                "compound_code": "V9G3+76 M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G3+76"
+            },
+            "rating": 5,
+            "reference": "ChIJQwS0p_Kj2zsRGumMCyYhSN0",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Vishnu Nagar, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8762147,
+                    "lng": 75.3433076
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87759977989272,
+                        "lng": 75.34465177989271
+                    },
+                    "southwest": {
+                        "lat": 19.87490012010728,
+                        "lng": 75.34195212010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "cd9c55f00018d70c4019233889b9c56b1b3a4618",
+            "name": "SBI ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ5ee_uZ2i2zsRs9ghNvZpBDc",
+            "plus_code": {
+                "compound_code": "V8GV+F8 Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GV+F8"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ5ee_uZ2i2zsRs9ghNvZpBDc",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "SN 5, Malan Plaza, Jawahar Colony Rd, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.873286,
+                    "lng": 75.345036
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87463942989272,
+                        "lng": 75.34644562989271
+                    },
+                    "southwest": {
+                        "lat": 19.87193977010728,
+                        "lng": 75.34374597010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "86436d10e9ab3fffd36ba68068b3e88ff18043fb",
+            "name": "HDFC Bank ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 563,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100558438408217296433\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAawhXiNO7nO-aIB6kvUu00Fh7u2B9pOM5ikXzr16dsHiFa_paIKEY8k0a7hrba0q5qjKmXjiOLLcSgFTraC7AeHlmKLbJRuF5GVMzxj95Av_JemTZuXUbSiglfy1wvs76EhA1jYJEYHwhk30o8VDdoN8_GhT_7ggQzaOMnoMhLzzWuuTS4mqeDQ",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJVUaKxJyi2zsR1ur-OdEoeVc",
+            "plus_code": {
+                "compound_code": "V8FW+82 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8FW+82"
+            },
+            "rating": 1,
+            "reference": "ChIJVUaKxJyi2zsR1ur-OdEoeVc",
+            "types": [
+                "atm",
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No. 73, Town Center, Cidco, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.876372,
+                    "lng": 75.35359000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87775832989272,
+                        "lng": 75.35501052989274
+                    },
+                    "southwest": {
+                        "lat": 19.87505867010728,
+                        "lng": 75.35231087010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "f2710fd54699e7c2e41d819fd069c87b9ae89f93",
+            "name": "State Bank ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJj2mJhZCi2zsRCu5R_6D7aec",
+            "plus_code": {
+                "compound_code": "V9G3+GC Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G3+GC"
+            },
+            "rating": 4,
+            "reference": "ChIJj2mJhZCi2zsRCu5R_6D7aec",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ramkrishna Nagar, Garkheda, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8586595,
+                    "lng": 75.34989809999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85996357989272,
+                        "lng": 75.35121207989272
+                    },
+                    "southwest": {
+                        "lat": 19.85726392010728,
+                        "lng": 75.34851242010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "f362e251e0be26f8eaaf1188e3f3c91d43e164c8",
+            "name": "Bank Of Maharashtra ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJLyXPqX2i2zsRHANdwCQq_to",
+            "plus_code": {
+                "compound_code": "V85X+FX Garkheda, Aurangabad, Maharashtra",
+                "global_code": "7JFQV85X+FX"
+            },
+            "rating": 3,
+            "reference": "ChIJLyXPqX2i2zsRHANdwCQq_to",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Central Naka Rd, Venkatesh Nagar, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8756714,
+                    "lng": 75.3531338
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87701967989272,
+                        "lng": 75.35451677989272
+                    },
+                    "southwest": {
+                        "lat": 19.87432002010728,
+                        "lng": 75.35181712010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "d3e8ef0eeea1003f86ad1299ef28449db34aa585",
+            "name": "lokvilas",
+            "place_id": "ChIJW_X1fpCi2zsRrSvyZaPSPdQ",
+            "plus_code": {
+                "compound_code": "V9G3+77 M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G3+77"
+            },
+            "rating": 0,
+            "reference": "ChIJW_X1fpCi2zsRrSvyZaPSPdQ",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Garkheda Rd, Sandesh Nagar, Ashok Nagar, Sindhi Colony, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8683526,
+                    "lng": 75.3501565
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86966157989272,
+                        "lng": 75.35160992989273
+                    },
+                    "southwest": {
+                        "lat": 19.86696192010728,
+                        "lng": 75.34891027010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "e8cd3a4266d1a86bc8a29903fa8c1c0547d0c889",
+            "name": "Bank Of Baroda & ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ-zJyyoWi2zsR4VjtAJGpI_M",
+            "plus_code": {
+                "compound_code": "V992+83 Sindhi Colony, Aurangabad, Maharashtra",
+                "global_code": "7JFQV992+83"
+            },
+            "rating": 0,
+            "reference": "ChIJ-zJyyoWi2zsR4VjtAJGpI_M",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Baijipura, Indira Nagar, M G M, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.882333,
+                    "lng": 75.3527199
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88365447989272,
+                        "lng": 75.35406307989271
+                    },
+                    "southwest": {
+                        "lat": 19.88095482010728,
+                        "lng": 75.35136342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "f7bc351eb090d4c28374b14076f79ef4613358ea",
+            "name": "Bank Of Baroda",
+            "opening_hours": {},
+            "place_id": "ChIJCVZ5KJii2zsRIapafJrBtp8",
+            "plus_code": {
+                "compound_code": "V9J3+W3 M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J3+W3"
+            },
+            "rating": 3,
+            "reference": "ChIJCVZ5KJii2zsRIapafJrBtp8",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Pundlik Nagar Rd, Badshah Market, Chaitanya Nagar, Garkheda, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8680339,
+                    "lng": 75.35116400000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86945922989272,
+                        "lng": 75.35255387989272
+                    },
+                    "southwest": {
+                        "lat": 19.86675957010727,
+                        "lng": 75.34985422010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "e96f723303c1e04c85bed56784fcdb9af1802089",
+            "name": "The Malkapur Urban Co-Op. Bank Ltd. ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJCUDcw4Wi2zsR-jvALxsba34",
+            "plus_code": {
+                "compound_code": "V992+6F Garkheda, Aurangabad, Maharashtra",
+                "global_code": "7JFQV992+6F"
+            },
+            "rating": 5,
+            "reference": "ChIJCUDcw4Wi2zsR-jvALxsba34",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "SN2, Ba Cplx, Central Naka, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.883585,
+                    "lng": 75.353642
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88491802989272,
+                        "lng": 75.35497802989272
+                    },
+                    "southwest": {
+                        "lat": 19.88221837010727,
+                        "lng": 75.35227837010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+            "id": "56507193359056f8f4ad307f1ab5016f16f59eef",
+            "name": "HDFC Bank ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 300,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102597544755711562891\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAR7Ggccp6LaOUrqssBlpZubCezhXSUGWwpEESVfqrE6gVowTaFuQmRX2gITD0_4oP_xBMFwnvKM_8dQIhaNRnzpV9LHnRNGAg2QvUl654u372Yoz-6uB8KmXFmDGcSZmxEhCVbZ4PSaIG63lkhLW8c743GhRsRXB4v8lq_kNFn0ky3Ed9XkGWMQ",
+                    "width": 300
+                }
+            ],
+            "place_id": "ChIJ0TUa7pei2zsRfcGL_Gkcfko",
+            "plus_code": {
+                "compound_code": "V9M3+CF Aurangabad, Maharashtra",
+                "global_code": "7JFQV9M3+CF"
+            },
+            "rating": 4,
+            "reference": "ChIJ0TUa7pei2zsRfcGL_Gkcfko",
+            "types": [
+                "atm",
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        }
+    ],
+    "status": "OK"
+}

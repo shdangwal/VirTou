@@ -1,0 +1,242 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Canary Forest Camping Saltar Village, Lonavla, Maharashtra 412108, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.5836807,
+                    "lng": 73.3454342
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.58496052989272,
+                        "lng": 73.35114485
+                    },
+                    "southwest": {
+                        "lat": 18.58226087010728,
+                        "lng": 73.34353064999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7aa2c01672cf7a5de8a39a964a1233161720b5fb",
+            "name": "Canary Forest Camping & Trekking near Pawna Lake | Lonavala",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111835217226123571866\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAywTo6-HZYo2FJni5JXCI12i0a7ZEDM817jqRy4eMXXHB6EwMmcVIRu2TNW4quCmWXXYXjqhDtNtF2DLNULX5jXI92SZr_aq34-llVEKxliswvqEcKiEMeXedtbhZpnT6EhCGIBTfSPU_lsml68gfdHOxGhQxr9C-NNrb8gdkTl-D1N8qci03sQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJnYahWwYb6DsRrjrDZXG3qJ4",
+            "plus_code": {
+                "compound_code": "H8MW+F5 Saltar, Maharashtra",
+                "global_code": "7JCMH8MW+F5"
+            },
+            "rating": 4.4,
+            "reference": "ChIJnYahWwYb6DsRrjrDZXG3qJ4",
+            "types": [
+                "campground",
+                "travel_agency",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Post. Sambhe, Kolad - Roha road, Roha, Kolad, Maharashtra 402304, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.4120471,
+                    "lng": 73.20076700000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.41348587989272,
+                        "lng": 73.20179607989273
+                    },
+                    "southwest": {
+                        "lat": 18.41078622010728,
+                        "lng": 73.19909642010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "d973301e262c637ce62c6126fbb47fe3a106782c",
+            "name": "Camp River Rush by Getsetcamp, Kolad",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100197434761325652125\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxFJEfeb16W-iJOJA3smsTWzADTYhIQqwTRY2S4q5D0JGVAd9A7j7eUAjv4klX7YNUBEyz2nfjvY5nCbE5cpUhMvip7UrCtwEwcuBpF539nNKHPhxAHL2aJyA4g0CH5k4EhB0PfaTUWn4LF6qttD-hCniGhQ1A8VA_2Yqg8hdeROxzqbGEtAkPQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJW4Kb66g96DsR9oWNoYGQH6c",
+            "plus_code": {
+                "compound_code": "C662+R8 Kolad, Maharashtra",
+                "global_code": "7JCMC662+R8"
+            },
+            "rating": 4,
+            "reference": "ChIJW4Kb66g96DsR9oWNoYGQH6c",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 44
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "sameer gosavi navhind jagaruti society wadala shivri cross road, near ambedkar collage & auxilium school, Mumbai, Maharashtra 400031, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.015561,
+                    "lng": 72.85387899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.01691627989272,
+                        "lng": 72.85523652989271
+                    },
+                    "southwest": {
+                        "lat": 19.01421662010728,
+                        "lng": 72.85253687010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "25809a3d8addea1d7bed7a409172a10d7664eabc",
+            "name": "Camping near mumbai",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115030274309329178469\">rafting on vaitarna river, near manas igatpuri</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA5J3n1oFeWv2QO5cSpIXiAO-kqlToyALuWpxOO7FA17CDfDRV5UNphephOmL7wlMMCU8JSqhlK0-nxG9H4NmlODoANgHmosWsXPikRkOLfNNb-_DzGSCRnzE6prVYaZATEhBf4YdQJASPNfiZ356GytZyGhRl6er_zuHf1XSaVheiVjiY8MsbwQ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJxR_CSCDP5zsRWkiG3toJ9Xw",
+            "plus_code": {
+                "compound_code": "2V83+6H Mumbai, Maharashtra",
+                "global_code": "7JFJ2V83+6H"
+            },
+            "rating": 4.4,
+            "reference": "ChIJxR_CSCDP5zsRWkiG3toJ9Xw",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shetty Farms Dahanu charoti, road, Nikne village, Dahanu, Maharashtra 401602, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9146377,
+                    "lng": 72.8965643
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.91580582989272,
+                        "lng": 72.89789052989272
+                    },
+                    "southwest": {
+                        "lat": 19.91310617010728,
+                        "lng": 72.89519087010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "48b99be77ba13cc3573b9cf5ae43edca4134732f",
+            "name": "Camp Sutra",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116529875764328762975\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAsj4MsPeFLmw33vgY3LtkhFutV36i0KpNLfnUFRoYOWDTdqJf0kNAw5Y8aGNOt-FOZlvWlO1nowTdPCDuZmMRjOQ5jzHnF2JzF-dFbES17iSt9GwAk8igQ5_6EJB8-YI3EhD40U7aXGy1GwBzVrJ7acm8GhRBycdoTtbCFdXAsiVaX2QaAhE0PA",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ7f9Lk1sj5zsR1rgpfmtjncs",
+            "plus_code": {
+                "compound_code": "WV7W+VJ Nikane, Maharashtra",
+                "global_code": "7JFJWV7W+VJ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ7f9Lk1sj5zsR1rgpfmtjncs",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Aurangabad Fazalgarh, Uttar Pradesh 245304, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.8044919,
+                    "lng": 77.6482283
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.80544247989273,
+                        "lng": 77.6499055298927
+                    },
+                    "southwest": {
+                        "lat": 28.80274282010728,
+                        "lng": 77.64720587010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "9fbf8fe580480f8bad4087ab51e23321b34a62bc",
+            "name": "Fazalli khan tomb",
+            "permanently_closed": true,
+            "place_id": "ChIJlayAkCKLDDkRn5PXQXNqE5o",
+            "plus_code": {
+                "compound_code": "RJ3X+Q7 Aurangabad Fazalgarh, Uttar Pradesh",
+                "global_code": "7JWVRJ3X+Q7"
+            },
+            "rating": 0,
+            "reference": "ChIJlayAkCKLDDkRn5PXQXNqE5o",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,247 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "House No 5 Surya Nagar Colony In fornt of st. Paul's School, Church Rd, Khandari, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2053692,
+                    "lng": 77.9922036
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20676022989272,
+                        "lng": 77.99361262989271
+                    },
+                    "southwest": {
+                        "lat": 27.20406057010727,
+                        "lng": 77.99091297010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0786421fd33491c192a74cf0105b85fe3db5b490",
+            "name": "Cues & Cups - Snooker-Pool- Club In Agra - Hookah Bar In Agra - Cafe in khandari agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117842251253359465436\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAGNM9Yohv76V3nhj4F3uVIY6lClOHtz_1pb6PPfgWF4tAXOTiluN1jEm-dZkZkYL2eEjHD6Nwlo-9OQDRvXfqvCZH-aLqEcJpYg7LkVLieKWQGg-b-dxQ9IpNgpUA4ByvEhB0DrEShSq_T0PgD4sRMYA8GhTLN78wJhj-k2t0aSFoFX0ytuZaqg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJpS7hSxR3dDkR0qtypNLzjyU",
+            "plus_code": {
+                "compound_code": "6X4R+4V Khandari, Agra, Uttar Pradesh",
+                "global_code": "7JVV6X4R+4V"
+            },
+            "rating": 4.1,
+            "reference": "ChIJpS7hSxR3dDkR0qtypNLzjyU",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 25
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cathedral House, Wazirpura Rd, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.201498,
+                    "lng": 78.0084957
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20281707989272,
+                        "lng": 78.00983782989272
+                    },
+                    "southwest": {
+                        "lat": 27.20011742010728,
+                        "lng": 78.00713817010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "71708bfef907982439565f59329c8ea4b75d8062",
+            "name": "Agra Catholic Diocese Samaj Seva Sanstha",
+            "place_id": "ChIJ_V8fpEh3dDkR1z2pdz7qBDE",
+            "rating": 0,
+            "reference": "ChIJ_V8fpEh3dDkR1z2pdz7qBDE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Church Rd, Ramnagar Colony, Civil Lines, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2031363,
+                    "lng": 78.0002325
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20460317989272,
+                        "lng": 78.00163467989272
+                    },
+                    "southwest": {
+                        "lat": 27.20190352010727,
+                        "lng": 77.99893502010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "7cbd8c303b2b27fc62ab0f6792dcc29d9fc110ab",
+            "name": "Church Of North India",
+            "permanently_closed": true,
+            "place_id": "ChIJ0wcNyEN3dDkRSwYG9Lt_-8s",
+            "plus_code": {
+                "compound_code": "6232+73 Civil Lines, Agra, Uttar Pradesh",
+                "global_code": "7JVW6232+73"
+            },
+            "rating": 5,
+            "reference": "ChIJ0wcNyEN3dDkRSwYG9Lt_-8s",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "567, Taj Rd, William Ganj, Sadar Bazar, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1583353,
+                    "lng": 78.013295
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15968482989272,
+                        "lng": 78.01464557989273
+                    },
+                    "southwest": {
+                        "lat": 27.15698517010728,
+                        "lng": 78.01194592010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8f4d52cad2c8d8191de1e1d97425bb7964292961",
+            "name": "Shree Sita Ram Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJjSQP3852dDkRB6wYgZR7xbY",
+            "plus_code": {
+                "compound_code": "5257+88 Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVW5257+88"
+            },
+            "rating": 1,
+            "reference": "ChIJjSQP3852dDkRB6wYgZR7xbY",
+            "types": [
+                "place_of_worship",
+                "hindu_temple",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "630A, Mahatma Gandhi Rd, Opp. Church, Mahatma Gandhi Rd, Opp. Church, Sadar Bazar, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282004, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.157785,
+                    "lng": 78.0081774
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15914207989272,
+                        "lng": 78.00947077989272
+                    },
+                    "southwest": {
+                        "lat": 27.15644242010728,
+                        "lng": 78.00677112010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "eb6b33ff3f10846dd4a3dc6c4541230876680789",
+            "name": "Masjid Aysha",
+            "permanently_closed": true,
+            "place_id": "ChIJvX_OYc92dDkRI-WxWtDqVY0",
+            "plus_code": {
+                "compound_code": "5255+47 Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVW5255+47"
+            },
+            "rating": 4.1,
+            "reference": "ChIJvX_OYc92dDkRI-WxWtDqVY0",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mahatma Gandhi Rd, opp. income tax office, Ramnagar Colony, Civil Lines, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2000971,
+                    "lng": 78.0028422
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20134842989272,
+                        "lng": 78.00446607989272
+                    },
+                    "southwest": {
+                        "lat": 27.19864877010727,
+                        "lng": 78.00176642010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "fd50360e08bebc4b64f709629700019160dfae69",
+            "name": "St. Paul's Church College Unit II Agra",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102209940261544908062\">Shubhra Sharma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAPLuGDZBPfhNykZ9GZ0gH0RFiPf6mXI5AgoccKoiUJKd41l4ETZtPE2MM44wIuYtKfiC2-1r-E0WKH6zE9c39HZydb-EiwVBOzJU0jnUfPdG8hp7ru7jIAEkk-UyCYJKZEhACAhcsAksIbnRuEq_eIEmhGhQls-aA_N6bXZDV9EvI7Gds1canNQ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJpceVzkZ3dDkRHLvOSJM-UlE",
+            "plus_code": {
+                "compound_code": "6223+24 Civil Lines, Agra, Uttar Pradesh",
+                "global_code": "7JVW6223+24"
+            },
+            "rating": 4.3,
+            "reference": "ChIJpceVzkZ3dDkRHLvOSJM-UlE",
+            "types": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 75
+        }
+    ],
+    "status": "OK"
+}

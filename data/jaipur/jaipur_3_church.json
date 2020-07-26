@@ -1,0 +1,859 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shiv Shankar Colony, Janata Colony, Jaipur, Rajasthan 302004, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9111356,
+                    "lng": 75.8318784
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91253212989272,
+                        "lng": 75.83317327989272
+                    },
+                    "southwest": {
+                        "lat": 26.90983247010728,
+                        "lng": 75.83047362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "4b3f3a32af03fea1281036f9b300c2459089941d",
+            "name": "\u0930\u094b\u092e\u0928 \u0915\u0948\u0925\u094b\u0932\u093f\u0915 \u091a\u0930\u094d\u091a",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118271194142768903682\">118271194142768903682</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAENJ74XuZyQqkiwziK-AnqL44EgtdL-eUq8LATTgcP4Q4TxHeu63NePsOOfMWkEw_ZVA-Udgtoj5BMlRsUElkYUNolBjKaULsc40gZyRtdrHd9l51pYQOV5uU1M0U5WLTEhBGmWAUHMJZri_n30BWOdz0GhS1x8BSOieQchEemYndaZ60Ik0a5g",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJg6H5V8i2bTkR11zRl721DJU",
+            "plus_code": {
+                "compound_code": "WR6J+FQ Janata Colony, Jaipur, Rajasthan",
+                "global_code": "7JRQWR6J+FQ"
+            },
+            "rating": 4.4,
+            "reference": "ChIJg6H5V8i2bTkR11zRl721DJU",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "F-36, Jagdamba Nagar, Heerapura, Ward Number 18, Jaipur, Rajasthan 302024, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8922179,
+                    "lng": 75.7141285
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.89357812989272,
+                        "lng": 75.71545592989271
+                    },
+                    "southwest": {
+                        "lat": 26.89087847010727,
+                        "lng": 75.71275627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "cb192fe847896cea21a24e39e624bd18d58128e7",
+            "name": "Ebenezer Fellowship",
+            "place_id": "ChIJ-e6zs7S0bTkRsgpa_rHqmGA",
+            "plus_code": {
+                "compound_code": "VPR7+VM Jaipur, Rajasthan",
+                "global_code": "7JRQVPR7+VM"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ-e6zs7S0bTkRsgpa_rHqmGA",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "21/1, Bhrigu Path, Sector 21, Mansarovar, Jaipur, Rajasthan 302020, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8777368,
+                    "lng": 75.7521433
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.87914317989272,
+                        "lng": 75.75348687989273
+                    },
+                    "southwest": {
+                        "lat": 26.87644352010728,
+                        "lng": 75.75078722010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "7b518e28fa6bbfd041a5b59a18ca5abd7122f4d8",
+            "name": "ABC Jaipur",
+            "permanently_closed": true,
+            "place_id": "ChIJ-T1IWvq0bTkRmBzGAvaWg_g",
+            "plus_code": {
+                "compound_code": "VQH2+3V Mansarovar, Jaipur, Rajasthan",
+                "global_code": "7JRQVQH2+3V"
+            },
+            "rating": 5,
+            "reference": "ChIJ-T1IWvq0bTkRmBzGAvaWg_g",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Rana Colony, 42, jagannath road, Meena Wala, Panchyawala, Jaipur, Rajasthan 302034, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9206356,
+                    "lng": 75.7112117
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92199287989272,
+                        "lng": 75.71256362989273
+                    },
+                    "southwest": {
+                        "lat": 26.91929322010728,
+                        "lng": 75.70986397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "0d0af329ff2b121aebe62c26fce13a3db3dc0ea2",
+            "name": "Grace Fellowship Church",
+            "permanently_closed": true,
+            "place_id": "ChIJZay4SNZNbDkR_QpcTQS2PpU",
+            "plus_code": {
+                "compound_code": "WPC6+7F Panchyawala, Jaipur, Rajasthan",
+                "global_code": "7JRQWPC6+7F"
+            },
+            "rating": 4.1,
+            "reference": "ChIJZay4SNZNbDkR_QpcTQS2PpU",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "D-83/84, Chomu House, near Flute Boutique hotel, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.912254,
+                    "lng": 75.79370879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91354522989272,
+                        "lng": 75.79505242989272
+                    },
+                    "southwest": {
+                        "lat": 26.91084557010728,
+                        "lng": 75.79235277010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "ba20db6794c2c82c2b9c74dbf0ed04b973b1b769",
+            "name": "Bible Chapel",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116668145714352613330\">Ashish</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAGJ3JXGAqhgmwKWIEGT5YO7B--U5XO2DVPjNUE34GtQy9Z8w82wtuDA7h-G_Q3dwJpmxLEWDmbKLQCKN7ajtyj-_3HgxsBXwQKDPL935O_88cdrg1MdvqUvo9ITL8K4nQEhALTnnDOB3KnBNRVaufZ151GhSZXLyBz3xBSCvRUj8yyB6X2Lj-Pw",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJrVXNOeC1bTkRraWHhC3rGoU",
+            "plus_code": {
+                "compound_code": "WQ6V+WF Jaipur, Rajasthan",
+                "global_code": "7JRQWQ6V+WF"
+            },
+            "rating": 5,
+            "reference": "ChIJrVXNOeC1bTkRraWHhC3rGoU",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "17, New Sanganer Rd, opposite Morani Motors Service center, Shyam Vatika, Geetanjali Colony, Mohru Nagar, Mansarovar, Jaipur, Rajasthan 302020, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8677873,
+                    "lng": 75.7477756
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.86914417989272,
+                        "lng": 75.74908642989273
+                    },
+                    "southwest": {
+                        "lat": 26.86644452010727,
+                        "lng": 75.74638677010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "2a875db158e26e977924dd8ef6ab7b6bc76aa1eb",
+            "name": "Eternal Light Fellowship",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113452356126155584528\">jonathan george</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMC_mDIVAdAMc1ZYfLYIOhr3nv-oG2tl4k85srdWZ4yT-iFwsiSbzmhRBPWQ-bqXZFeH1qd7TWnOiN6qlKRzAtFfSQpS8P-mAdGsx3RvKC6FqMbUpXj09MZgGrxZ7yYbuEhBKzpnF-sLFy5UiiNwk-1HnGhRIsVrHeuVzqbnmroiL16DicBAkRQ",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJiwnX-7y1bTkRs2ec8-1Gmr8",
+            "plus_code": {
+                "compound_code": "VP9X+44 Mansarovar, Jaipur, Rajasthan",
+                "global_code": "7JRQVP9X+44"
+            },
+            "rating": 4.8,
+            "reference": "ChIJiwnX-7y1bTkRs2ec8-1Gmr8",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mahal Rd, Railway Colony, Keshar Vihar, Jaipur, Rajasthan 302017, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8333522,
+                    "lng": 75.83943479999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.83470727989272,
+                        "lng": 75.84078822989272
+                    },
+                    "southwest": {
+                        "lat": 26.83200762010728,
+                        "lng": 75.83808857010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "7a4f3bafcb17becc054498db774f22bcfc79ad18",
+            "name": "B-66 Near JagatpuraFlyover Beside Gyanjyoti School, VidhyaNagar Jagatpura",
+            "permanently_closed": true,
+            "place_id": "ChIJpy72cmC3bTkROjEJ7vrjWWc",
+            "plus_code": {
+                "compound_code": "RRMQ+8Q Keshar Vihar, Dantli, Rajasthan",
+                "global_code": "7JRQRRMQ+8Q"
+            },
+            "rating": 0,
+            "reference": "ChIJpy72cmC3bTkROjEJ7vrjWWc",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Puro pose Colony Plot, Street Number 1, Jaipur, Rajasthan 302013, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.0003369,
+                    "lng": 75.7728186
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.00168457989272,
+                        "lng": 75.77421187989272
+                    },
+                    "southwest": {
+                        "lat": 26.99898492010728,
+                        "lng": 75.77151222010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "91cb1d44f7f40aa62fdf0f0ff3b6bc389dd736d1",
+            "name": "Nadan",
+            "permanently_closed": true,
+            "place_id": "ChIJ-wd12pSzbTkRl-f3Xuj2BlY",
+            "plus_code": {
+                "compound_code": "2Q2F+44 Jaipur, Rajasthan",
+                "global_code": "7JVQ2Q2F+44"
+            },
+            "rating": 0,
+            "reference": "ChIJ-wd12pSzbTkRl-f3Xuj2BlY",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "BISHOP'S HOUSE, Outside Ghat Gate, Jaipur, Rajasthan, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9124336,
+                    "lng": 75.78727099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91376437989272,
+                        "lng": 75.78863017989273
+                    },
+                    "southwest": {
+                        "lat": 26.91106472010728,
+                        "lng": 75.78593052010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2fbc68e3d4298b1e7bcfc4b18715ebe4bb90a2cb",
+            "name": "Diocese of Jaipur",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 774,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112815859068420715990\">Chetan Golimar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyRGmVNKdWRRgPjWSpshEdQieJKXBclZGLWWhDQs3ASPNrUjfaXpDDdFf4gpG_h35Q0TYnMG0n95A9nCUyr2MHG0qRo-n16gnfIAb-8uLnaIAzD7FLDASC7e4iWEPU4pfEhBtC5nxc_iFZc3DDei5L4OdGhQm_BDojSIGfKaNccFaM6hI_2LVcw",
+                    "width": 1032
+                }
+            ],
+            "place_id": "ChIJbfwhhgu0bTkRax9bS_c07jg",
+            "rating": 4.5,
+            "reference": "ChIJbfwhhgu0bTkRax9bS_c07jg",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shankar Nagar, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9407433,
+                    "lng": 75.8411064
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.94208037989272,
+                        "lng": 75.84249507989271
+                    },
+                    "southwest": {
+                        "lat": 26.93938072010728,
+                        "lng": 75.83979542010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "fa6736b286abc559eb169ed30ab34563cdbb7aa0",
+            "name": "Darvish Nagar Sitarampuri",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1564,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112896423192803378774\">Asif Hamzza</a>"
+                    ],
+                    "photo_reference": "CmRZAAAADztpMulJNWExOMwrUKrYQMsCJZN7O-9XuKbgKJvGxIPkUfsb8wPiczDZz_DJkZSKwKQTFJDZLDfeJJXl2733O0nfwBMAex_RpfGdP-clWQVAM07Z8rU4WkEGvjB7LwjGEhAxLUK3YJq-IfKt-6kB3tgmGhTadutotWLb90f8Y9PGFFEuu4nJmw",
+                    "width": 1564
+                }
+            ],
+            "place_id": "ChIJUUMaqDyxbTkRUVWqwrPT0Bk",
+            "plus_code": {
+                "compound_code": "WRRR+7C Jaipur, Rajasthan",
+                "global_code": "7JRQWRRR+7C"
+            },
+            "rating": 1,
+            "reference": "ChIJUUMaqDyxbTkRUVWqwrPT0Bk",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4, Kalwar Rd, Shri Ram Nagar Extension, Jhotwara, Jaipur, Rajasthan 302012, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9597182,
+                    "lng": 75.6709944
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.96109102989272,
+                        "lng": 75.67236837989273
+                    },
+                    "southwest": {
+                        "lat": 26.95839137010728,
+                        "lng": 75.66966872010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "01fbab94f8057f284a8581a46918e8b3e11e16da",
+            "name": "Yesh-Mujhe Tham Le",
+            "place_id": "ChIJq0Dx7e1NbDkROzw3Ls0sKLI",
+            "plus_code": {
+                "compound_code": "XM5C+V9 Jhotwara, Jaipur, Rajasthan",
+                "global_code": "7JRQXM5C+V9"
+            },
+            "rating": 0,
+            "reference": "ChIJq0Dx7e1NbDkROzw3Ls0sKLI",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "17, Jagannath Puri, Udyog Nagar, Jhotwara, Jaipur, Rajasthan 302012, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9506552,
+                    "lng": 75.74648359999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.95200202989272,
+                        "lng": 75.7478329798927
+                    },
+                    "southwest": {
+                        "lat": 26.94930237010728,
+                        "lng": 75.74513332010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "0cfbbb5e6a44fc5b39e20ec33c92b9da33aacdd1",
+            "name": "Fr. Wilson",
+            "permanently_closed": true,
+            "place_id": "ChIJCyPo06ezbTkRFWv-BrfhR1o",
+            "plus_code": {
+                "compound_code": "XP2W+7H Jhotwara, Jaipur, Rajasthan",
+                "global_code": "7JRQXP2W+7H"
+            },
+            "rating": 0,
+            "reference": "ChIJCyPo06ezbTkRFWv-BrfhR1o",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "plot no 7, opp. krishna marrige garden, Lalarpura, Jaipur, Rajasthan 302034, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9018059,
+                    "lng": 75.7108738
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.90316032989272,
+                        "lng": 75.71227147989272
+                    },
+                    "southwest": {
+                        "lat": 26.90046067010728,
+                        "lng": 75.70957182010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "a432dcb9d5433d578af7287794ddaeee380e95e2",
+            "name": "Shree krishna Paradise marriage garden",
+            "permanently_closed": true,
+            "place_id": "ChIJ6a3kJyFLbDkRr4L_GEQaeQk",
+            "plus_code": {
+                "compound_code": "WP26+P8 Lalarpura, Jaipur, Rajasthan",
+                "global_code": "7JRQWP26+P8"
+            },
+            "rating": 5,
+            "reference": "ChIJ6a3kJyFLbDkRr4L_GEQaeQk",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Hari Nagar, Vidhyadhar Nagar, Jagatpura, Jaipur, Rajasthan 303012, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.829336,
+                    "lng": 75.850233
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.83069177989272,
+                        "lng": 75.85154462989273
+                    },
+                    "southwest": {
+                        "lat": 26.82799212010728,
+                        "lng": 75.84884497010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4c4d26a3ec89864b6ef7e422411454ac2122b5f7",
+            "name": "Hello Pandit",
+            "place_id": "ChIJ_____xuzbTkRK-ZoJHkNw50",
+            "plus_code": {
+                "compound_code": "RVH2+P3 Jagatpura, Jaipur, Rajasthan",
+                "global_code": "7JRQRVH2+P3"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ_____xuzbTkRK-ZoJHkNw50",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shri Kishanpura, Rajasthan 302022, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.80063,
+                    "lng": 75.8572597
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.80193977989272,
+                        "lng": 75.85845687989271
+                    },
+                    "southwest": {
+                        "lat": 26.79924012010728,
+                        "lng": 75.85575722010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "e595e3bedfdeef4ed2520488ccd9150fa3bd44c7",
+            "name": "Chakkittamuryil Peniel",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116967756640990587167\">Anu Samuel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWVZzA2-0q9RniHeur9aTxUEAfcuXTi9McMxFvlaT4n7a7mols-z2XU09N5Qd7QlJRCvXb9o9fRkeZRyDCrj2klJS8QrEBwzosIVd6SZ5j3TxOB04lWuSutlZgd-v3vQREhC5x39O5lyzwloa-cYOSi0pGhRN1EHuZkn3gmuRZ_R33BfJWbbP2A",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJw8Ek9XXJbTkR0TWF8c8LL8U",
+            "plus_code": {
+                "compound_code": "RV24+7W Shri Kishanpura, Rajasthan",
+                "global_code": "7JRQRV24+7W"
+            },
+            "rating": 0,
+            "reference": "ChIJw8Ek9XXJbTkR0TWF8c8LL8U",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shree Ram Nagar - A, Panchyawala, Jaipur, Rajasthan 302034, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9113378,
+                    "lng": 75.71823839999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91265292989272,
+                        "lng": 75.71958987989272
+                    },
+                    "southwest": {
+                        "lat": 26.90995327010728,
+                        "lng": 75.71689022010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "6c5acc3f4bae0736b5cd931ca50deb60c87536d2",
+            "name": "Vivek pop painter",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110508556800457237095\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA6OB849cXNHUupe3u4knSgG-jM-cvUVeUYnoia5fWz4LLQf1jh_72K0q_eB9r97xGYEhf9Aq4Ty0JNERWedEDHRuYKbG2R7dcWV0pYTdSUNfs-i_GlTEvB8Wz7iKPu59jEhAcFqeBiTpTtvAr_ZYO_6z9GhTQRXQ77c97qIzd1pcYSI1DHFeqJA",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJpws09n-zbTkRjsScdeOEwFY",
+            "plus_code": {
+                "compound_code": "WP69+G7 Jaipur, Rajasthan",
+                "global_code": "7JRQWP69+G7"
+            },
+            "rating": 5,
+            "reference": "ChIJpws09n-zbTkRjsScdeOEwFY",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "8, Satya Vihar, Greater Kailash Colony, Vidhayak Nagar, Lalkothi, Jaipur, Rajasthan 302015, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.888581,
+                    "lng": 75.802325
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.88995577989272,
+                        "lng": 75.80361617989273
+                    },
+                    "southwest": {
+                        "lat": 26.88725612010728,
+                        "lng": 75.80091652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "e783a91140817584f4ca619b8147927d3299ab17",
+            "name": "Kingdom Hall of Jehovah\u2019s Witnesses",
+            "permanently_closed": true,
+            "place_id": "ChIJOXkM7021bTkRwyqdnJLG11Y",
+            "plus_code": {
+                "compound_code": "VRQ2+CW Lalkothi, Jaipur, Rajasthan",
+                "global_code": "7JRQVRQ2+CW"
+            },
+            "rating": 5,
+            "reference": "ChIJOXkM7021bTkRwyqdnJLG11Y",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "3756, Baba Harishchandra Marg, Choti Chopar, Chandpole, Purani Basti, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9303367,
+                    "lng": 75.817208
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93168222989272,
+                        "lng": 75.81857472989272
+                    },
+                    "southwest": {
+                        "lat": 26.92898257010728,
+                        "lng": 75.81587507010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "146b18a008d32860b93da58260b02926e76430f6",
+            "name": "Lucky Chashmewale",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116590506348934667631\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfrIox5L5A6Ak-oCrCN664IZNe37tCgbP9XfZ5CK2STzb08Tp7KHrsvaLrFveswa1L_c9qEBg1yHOYuCTVwofEpUt248m2kWzM2_s80I2wAZtC_SLkF4pY63G1_Y2q4L5EhBnNGg3KVW_5tl-mYrrbFKkGhQkzRnjtdCLbcDAhy0x-AJx-iJ6lQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJh8zAvWCxbTkR97XpbZLNv2o",
+            "plus_code": {
+                "compound_code": "WRJ8+4V Jaipur, Rajasthan",
+                "global_code": "7JRQWRJ8+4V"
+            },
+            "rating": 0,
+            "reference": "ChIJh8zAvWCxbTkR97XpbZLNv2o",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2nd Floor, 18 Mission Compound, Ajmer Road, Near Ajmerpulia Near Akar Yamaha Motors, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9132475,
+                    "lng": 75.7940186
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91462027989272,
+                        "lng": 75.79536067989272
+                    },
+                    "southwest": {
+                        "lat": 26.91192062010727,
+                        "lng": 75.79266102010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "274d6d995c370ab025b75589f80b11dd4acb8ceb",
+            "name": "Hope Infinity Shelter",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104380373856046134909\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAGbyM1aUddfxhAVCc_hEjvxSiNpsw8eKnoDClgXFU9EbuFaZqf5ZHFGT6YRZ1wQFhX_C7hcgMqRwl80TXr122kVycnC6R_5jIB-xU4UqvRSaI2M6q2rY0ZD2Hy0L393VmEhCRQ5JSlLYCS2Q0bf5-F4TlGhTcBd8aLfNnXFkQGKJp2ndvMt6qRQ",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJBfl74aK1bTkRSWNAynIp0f4",
+            "plus_code": {
+                "compound_code": "WQ7V+7J Jaipur, Rajasthan",
+                "global_code": "7JRQWQ7V+7J"
+            },
+            "rating": 5,
+            "reference": "ChIJBfl74aK1bTkRSWNAynIp0f4",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sangam Tower, 3rd Floor, Opp. Om Tower Revolving Hotel, Church Rd, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.916787,
+                    "lng": 75.7991158
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91812732989272,
+                        "lng": 75.80048962989271
+                    },
+                    "southwest": {
+                        "lat": 26.91542767010728,
+                        "lng": 75.79778997010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2344f501eed53b3b431ebaaafb7c257a0b30e20b",
+            "name": "Titans Toastmasters Club",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 5312,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115419933450788930295\">Hanumanth Kulkarni</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACIJAoTni_3lyiCM0jn6hl9uoiLcYlzNop0Dkdwmfad0j_KxfBqEePn_LAmzQlnUZFkTs_N1MMdfMwWVrA4_OtQTx03RST9hNBLv6wN7iKRaMV5yQpqwFxeLUcQo-C5xZEhBmpHup1D8FWJkBOqe6HUxHGhRXcBVuQGWD3vqEs9-iL_jmxMAX_w",
+                    "width": 2992
+                }
+            ],
+            "place_id": "ChIJpwqdjT21bTkR7HXsd8qRLRE",
+            "plus_code": {
+                "compound_code": "WQ8X+PJ Jaipur, Rajasthan",
+                "global_code": "7JRQWQ8X+PJ"
+            },
+            "rating": 5,
+            "reference": "ChIJpwqdjT21bTkR7HXsd8qRLRE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        }
+    ],
+    "status": "OK"
+}

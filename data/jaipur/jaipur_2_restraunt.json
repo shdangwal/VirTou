@@ -1,0 +1,1015 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CqQDnQEAAGc09F9d55uO7URa8YAhgWqvwNBj5C6Z93RLqR68PHm9DTtyMWl_VbleDGI2A_INgPs_qIzCPCFg4gNF1eC69v11_sAmz_Js2qp6NgnzF281Z2kv8XAJCsj4YrxPEISpgbWOEsjWJnASTD-POxmq7GRufSGumyvAng28wFT4e4eWiG3G6hSV18iPjFMUJIqfTJsHnazkJ7eIO3471X6pqo5pEiJ3cNYwfh88w3XSd2wjk04qGmSFgzyDZRriLvlxH5_VRlfwm0iZWgRrCRZnSi31UwLErLtYNsDssMkS5Daow-1gBukXw0rb4RBGU7zA8-y9KEkAUbUldg1yLhad3D3RrsKqRxxVqKeckA3d1XxuOxE0r_U1VxGwEh8XsebQiYwyxQpcZrqSd0-DbMCOQQx6zsZHQ5QZbCJWtlylZvXb_vYb7GeBogSXuQ1_c8ycZ12wunX_TwCTlg186Su5afgaM3nvrbnLJ0uuAmupso7YL1l8JjrrAKFiIN-ye8EmLZ54RnhjK3qVRs5OkPTju8E2mFzGUl-3w7tpg75PqdXvEhA6ztinj-3yF69AD7iE8MesGhRqJnXMv5JCd7O9UspL5UZ4rX-4jQ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "A-6/1, Avanue 8 Lal bahadur Nagar, S L Marg, Jawahar Lal Nehru Marg, Jaipur, Rajasthan 302018, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8492867,
+                    "lng": 75.8024325
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.85064892989272,
+                        "lng": 75.80371202989272
+                    },
+                    "southwest": {
+                        "lat": 26.84794927010728,
+                        "lng": 75.80101237010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "33a75ad8e8a70904c220d2f29ce58ee89acf0d40",
+            "name": "City Heights Bistro",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3203,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118259986383674163266\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARC7r2h6GzdTCrbSMK0YmyPSIQYNasUhu_HfK-XY2Rld91Kj0_r3SizZ2-LDSQVauDeJgkpsE2D6dkqSD_rz4MxArFeo5qtKgY-0bTUjkJNzjLbgWGx8MbIqoRYNhInxVEhBC5X3mFkIPFNxVjVLE7NBcGhRQyGzsczGyUUkXN_O-7m1TPt6ovA",
+                    "width": 4995
+                }
+            ],
+            "place_id": "ChIJ38Sj-Nq1bTkRcYcVl-bCE7E",
+            "plus_code": {
+                "compound_code": "RRX2+PX Jaipur, Rajasthan",
+                "global_code": "7JRQRRX2+PX"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ38Sj-Nq1bTkRcYcVl-bCE7E",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 198
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "A-52, 53, Station Road, Opp. Metro Station Walking, Sindhi Camp, Jaipur, Rajasthan 302006, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9225691,
+                    "lng": 75.79937670000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92386627989272,
+                        "lng": 75.80074912989272
+                    },
+                    "southwest": {
+                        "lat": 26.92116662010728,
+                        "lng": 75.79804947010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "0c637d790e5cb5159cf6eb8ceb0ccfbbdaf51edb",
+            "name": "Tati Roti Restaurant and Rooftop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113492438495320351492\">TAATEE ROTI RESTAURANT</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgvIiLwtpAx9ir2N0p91eRLA-EpLDz9GhdApcJ6_wuursOxvT0coPZveJU-4S4y8v1atpa_rlZWPcb2oMMjDx5ocUJjveIaJyx3xKT1dEW6U_SeEjQLUoWuqEBPvcoCr3EhDqPeIr9GdjNJzvVBNOVQQpGhTDPXeLT_n-pYgq64bypaXff-tmkA",
+                    "width": 1537
+                }
+            ],
+            "place_id": "ChIJTal-GfmzbTkR8p38MedvIbE",
+            "plus_code": {
+                "compound_code": "WQFX+2Q Sindhi Camp, Jaipur, Rajasthan",
+                "global_code": "7JRQWQFX+2Q"
+            },
+            "rating": 4,
+            "reference": "ChIJTal-GfmzbTkR8p38MedvIbE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 331
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Police Station, Sector- R 2/13, Prem Kunj Opp, Vidyadhar Nagar, Jaipur, Rajasthan 302023, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9641577,
+                    "lng": 75.7763659
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.96557552989272,
+                        "lng": 75.77759092989272
+                    },
+                    "southwest": {
+                        "lat": 26.96287587010728,
+                        "lng": 75.77489127010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "553e5b7f12b6a94d2895b97a079304749398d339",
+            "name": "The Royal Veg Garden Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115456193825491445827\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAALODURW6tF4lKzk2MINklJrj-Sfa_seplpv378A_Bwykg21c5jeBrscIdCkmO9XQMyhkODSEeqgnfCa_btmK549dNbaSfgHpttYcJISdVIthmqi2b1grFevTw6CIRavrcEhCT6KOLLZKOCqvlVtooRYGMGhQ4IwPAu-3wJlT-eotK0U3u52gZMg",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJVVWV8kyybTkRUSOBtn4-FdI",
+            "plus_code": {
+                "compound_code": "XQ7G+MG Vidyadhar Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQXQ7G+MG"
+            },
+            "rating": 4.1,
+            "reference": "ChIJVVWV8kyybTkRUSOBtn4-FdI",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 225
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No B 428, Near Old Dana Pani Restaurant, Pradhan Marg, Block B, Vidyut Abhiyanta Colony, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.85192,
+                    "lng": 75.811695
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.85324112989272,
+                        "lng": 75.81299622989272
+                    },
+                    "southwest": {
+                        "lat": 26.85054147010728,
+                        "lng": 75.81029657010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "49d350e7fc28a7becc5bdd3ab793ac7630bb445f",
+            "name": "Ketli Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112285685790822606187\">Alisha Mishra</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkC3hKRl6eqffYRMFcV8qzbb1wakES4j9ZmehSH-T02T-QUotG_KeLuhgZA0JZRkhgfjETlSlKSoYoCPkQ9RcpCJ5lQXe8VWir_lfG0TY_9gf_YxaavowEHKB7dU4OqzFEhCN_r_yhkisKyeRzLW9340OGhSNK4v3j4XlkvAZ4TXK3mZBqC55Aw",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJO-R3unS2bTkR4_RvRajTmXk",
+            "plus_code": {
+                "compound_code": "VR26+QM Malviya Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQVR26+QM"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJO-R3unS2bTkR4_RvRajTmXk",
+            "types": [
+                "restaurant",
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1101
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Radisson Blu Jaipur, Tonk Road, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8425036,
+                    "lng": 75.7942929
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.84385622989272,
+                        "lng": 75.79571797989271
+                    },
+                    "southwest": {
+                        "lat": 26.84115657010727,
+                        "lng": 75.79301832010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "027054df4cceae2f6322c1847a4485f3e1216b98",
+            "name": "Colorbar- Radisson Blu",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 499,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115406318311859495474\">Saurav Suryavanshi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAg88ct60KSTZzYLKMxFcB5Rc_2_TfOGetCdQcN7qcMwD69tdlzIk0eR6qrIdZSct4jhNcIioL68BESXRtwmKN6vXwSSfQ_Pffm3dY3h0VGj7Sfv8tatpgsi5NODdz1K9DEhDFJgD3nigmG6AzDfn9dW6HGhQRnegWjJ16FmyRwTD49ldajrsJSg",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJW7DZpq-2bTkRhos8I_x5jy0",
+            "plus_code": {
+                "compound_code": "RQVV+2P Jaipur, Rajasthan",
+                "global_code": "7JRQRQVV+2P"
+            },
+            "rating": 4.2,
+            "reference": "ChIJW7DZpq-2bTkRhos8I_x5jy0",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 104
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rd Number 1, SONI KA BAG, Murlipura, Sikar Road, near Goras Bhandar, Jaipur, Rajasthan 302032, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9706931,
+                    "lng": 75.7695535
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.97204277989272,
+                        "lng": 75.77090332989273
+                    },
+                    "southwest": {
+                        "lat": 26.96934312010728,
+                        "lng": 75.76820367010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "6562f0b41a41946f2ec1c9c60e5df7be5ca6074f",
+            "name": "RKC Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101742070180140782286\">Ram Singh Shekhawat</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfu4g1o73xQY-yVlM0Y2A3IB0oBdrSWT2Q0Zh0E3dclPyxg6NWb-0WP9k9689bgQEuKuzZWF0do_KeYpXmgPy6HYZ5jbKsVi5jT5YwuuJ4yVxrnN_v1qZBsELj_HUgDNREhAmuixKxLsSaHBI_frCGHbuGhRoZ56zTfTHYzkS6qvjqiVmHsyp8w",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJN7GOrFGybTkRPCH9o9ZdaW0",
+            "plus_code": {
+                "compound_code": "XQC9+7R Jaipur, Rajasthan",
+                "global_code": "7JRQXQC9+7R"
+            },
+            "price_level": 1,
+            "rating": 4.1,
+            "reference": "ChIJN7GOrFGybTkRPCH9o9ZdaW0",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 105
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "D-67, Mall Rd, Ambabari, Vidyadhar Nagar, Jaipur, Rajasthan 302039, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9453475,
+                    "lng": 75.7774889
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.94669132989272,
+                        "lng": 75.77874937989272
+                    },
+                    "southwest": {
+                        "lat": 26.94399167010728,
+                        "lng": 75.77604972010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "96da41a32e15c9c66e3264cf9fd5e752d3449b2d",
+            "name": "Sweet Chilli Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102043775561975009292\">Laxman Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAF4WXS0oz1aHL8bxEEhZcY9u8nto4H3-6eA_mWafM0dSNE1Y8XkzZNFvt-XZXm-PqZ_22PM0KBMBKcjR6iJp3gqBtq0LB1x7_sacqCSchkFNL8LjuKDJtbQx0I9C3JHwGEhDYxnaDorGe5hwR2UdQxw2QGhTXjw0MUpLJDPmJzh3g6e0J5-BOSQ",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJBWgHBLyzbTkRwU7CuWQLFOQ",
+            "plus_code": {
+                "compound_code": "WQWG+4X Vidyadhar Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWQWG+4X"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJBWgHBLyzbTkRwU7CuWQLFOQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 430
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Unnamed Road, Shanthi Nagar, Mansarovar, Jaipur, Rajasthan 302020, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8801095,
+                    "lng": 75.76685309999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.88144522989272,
+                        "lng": 75.76814782989271
+                    },
+                    "southwest": {
+                        "lat": 26.87874557010728,
+                        "lng": 75.76544817010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "ddbd831b2207de8a651829de2316a82e3330ac8c",
+            "name": "Maystro (Maa Vaishno Restaurant)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106539229764506172406\">ban gurjar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9htYe-GYJf4wCd2VMbD_12Fn2EJzTjD18o7V3i0IhHSihLwtrPVxnNQClEjfKOv9QNFGQj9AmqdI8jHTvoCa7fQCNfebywltmko9kuW7IMDFi948efnsmc5eADJpLcZcEhCQVEWjKcg1nc3sfB6guValGhQTRfOQYsYzdH-uW5QYtuHqLtsN3g",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJeeHk4j-1bTkRfApyDJxIVrE",
+            "plus_code": {
+                "compound_code": "VQJ8+2P Mansarovar, Jaipur, Rajasthan",
+                "global_code": "7JRQVQJ8+2P"
+            },
+            "rating": 4.1,
+            "reference": "ChIJeeHk4j-1bTkRfApyDJxIVrE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 149
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Near Maharani Form, Prithviraj Nagar, Durgapura, Jaipur, Rajasthan 302018, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8523517,
+                    "lng": 75.7826018
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.85369832989272,
+                        "lng": 75.78395102989272
+                    },
+                    "southwest": {
+                        "lat": 26.85099867010728,
+                        "lng": 75.78125137010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "f6ecd420e5ef0eb83d1eabf6fbb447868b5dff6d",
+            "name": "Maharani Restaurant",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112511528429236906759\">vipin chand meena</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA0IAWKfzAeprDbwG5fmQir2sbGIc6-v_A5VpG_pfRx2HxXtglMADKyi9d9xj-nFMVQmO2g2FUkOGQ6HbWhmJFEMxtSITMzRJ2CBgwpWbkl4Qb9ZGEtlG-2rFgubUK8RtKEhDFs8KzQ6VGzg7o28FP_IJBGhTc5CVMGDRbN8Itu0Y2f-fcXPlbfg",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJU8Ncab-1bTkRMuRVZKaCJtU",
+            "plus_code": {
+                "compound_code": "VQ2M+W2 Durgapura, Jaipur, Rajasthan",
+                "global_code": "7JRQVQ2M+W2"
+            },
+            "rating": 4,
+            "reference": "ChIJU8Ncab-1bTkRMuRVZKaCJtU",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 164
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "210A, Badanpura Road, Govind Nagar, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.938657,
+                    "lng": 75.83814699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93992802989272,
+                        "lng": 75.83950487989271
+                    },
+                    "southwest": {
+                        "lat": 26.93722837010727,
+                        "lng": 75.83680522010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "2122d92685eb8e4f3102d1c6cec0c1c094a5a34e",
+            "name": "Heritage Spices Multicuisine Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107784097186497080783\">Fco. Cecilia</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZz9AnU8a8o-CFyBR-y4D1reuM5_d0JDvwaVm3C2LYR0LC8shj0Q6DjKCOOPcodm3JBtiy4zULsjTwWo5gzLCAJWo-6aWEaMkbGOM65MehoD_eAv2NGVmVvFrYoQqLBEFEhBM3tm9gyOJrHpzNBSvwEI6GhRLJZKqFcGExG15k0gCkGfhR4vlmg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJYUZNozuxbTkRfaN9xpNprbQ",
+            "plus_code": {
+                "compound_code": "WRQQ+F7 Jaipur, Rajasthan",
+                "global_code": "7JRQWRQQ+F7"
+            },
+            "rating": 3.9,
+            "reference": "ChIJYUZNozuxbTkRfaN9xpNprbQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 211
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "15, Agra Road, Near Ghat Ki Guni Tunnel, National Highway 11, Jaipur, Rajasthan 302031, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8902437,
+                    "lng": 75.8714306
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.89152892989272,
+                        "lng": 75.87275267989271
+                    },
+                    "southwest": {
+                        "lat": 26.88882927010728,
+                        "lng": 75.87005302010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "9aabbe41ebf7ce0e285f22bf3dfd4cc82e9e5a3c",
+            "name": "Nh11 Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102855285895468008047\">Ridhima Khandelwal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2qr1hjLhlsAkuEboBJ68UQnlwQFl2tghm3usgr-HY7_jdjho2iwyL_DfYcNK8XF5NNGvjj7kOyTbKHE0AIyZRn9kc3wuT_8iSgdvpP5ELypR2c6mikhkYz3bgEiu8koUEhD7EdJws8HY3I_gdyq2GZOzGhSLVLZwCRqbquWyPQ4d8oVDuWOANg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJpRlf3Q23bTkR-Ep9PRtf68U",
+            "plus_code": {
+                "compound_code": "VVRC+3H Jaipur, Rajasthan",
+                "global_code": "7JRQVVRC+3H"
+            },
+            "rating": 4.1,
+            "reference": "ChIJpRlf3Q23bTkR-Ep9PRtf68U",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 145
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "23, Shanti Path, Jawahar Nagar, Jaipur, Rajasthan 302007, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.889496,
+                    "lng": 75.8218459
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.89071687989272,
+                        "lng": 75.82313162989273
+                    },
+                    "southwest": {
+                        "lat": 26.88801722010728,
+                        "lng": 75.82043197010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "c8e9a5294fbbf65eb003300927c0643e34ee1705",
+            "name": "Seven Flavours",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1944,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110681425690536192031\">Jitendra Poonia</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2CNj1HtKg87vON0TuD-10-3Nvilvzb6LC0Ati-c8Z4nwaZWy5Bga0J_CTynBbKprzvOdPwikgsEaV9AxsA4PT39jPIDouMMsUlKoTOFtbxJM0-jYt-Q5qlEtxPR5nU9tEhByBs9vtMKTt5FwMM0xiYv_GhTKXDyVb-Mbl1eg65Ov2PGcQyh5Ew",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJEVFE2NG1bTkRzVh_P3D-WFg",
+            "plus_code": {
+                "compound_code": "VRQC+QP Jawahar Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQVRQC+QP"
+            },
+            "price_level": 1,
+            "rating": 4.1,
+            "reference": "ChIJEVFE2NG1bTkRzVh_P3D-WFg",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shop No. 13, 14, 15, Near Mahima Studio Panche, Rabindra Nagar-A, Ravindra Nagar - A, Jagatpura, Jaipur, Rajasthan 302033, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8164697,
+                    "lng": 75.8318065
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.81782057989272,
+                        "lng": 75.83315637989273
+                    },
+                    "southwest": {
+                        "lat": 26.81512092010728,
+                        "lng": 75.83045672010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "d23b0da716ceff92a9bacd04da73a643edbab96f",
+            "name": "Hungeradda.com",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110813549702551033861\">Mohan Meena Bagdi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACaa5A_PzL6KVBcYC4U0F4O5cdnQ3rpo6CEAnynNv3EOD6r1RDbZBtCUgE7Zv3CXGsAhQrYHNtCCcf8nOnwxw6rKkVVGzkseeAC5sdGHSlU2HpDqxhjas8rYgVLnpmAd-EhAXvVN2zER7cjEDly9vTr_GGhR6yj03GFHWmm3J_E6ctNsdumtLxw",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJn_YrdM7JbTkRMWsSCrIfg9A",
+            "plus_code": {
+                "compound_code": "RR8J+HP Jagatpura, Jaipur, Rajasthan",
+                "global_code": "7JRQRR8J+HP"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJn_YrdM7JbTkRMWsSCrIfg9A",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 252
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Big Shop No-Swage Farm,, 2, New Sanganer Rd, Bhan Nagar, Jaipur, Rajasthan 302019, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8910049,
+                    "lng": 75.7723115
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.89232827989272,
+                        "lng": 75.77366952989273
+                    },
+                    "southwest": {
+                        "lat": 26.88962862010728,
+                        "lng": 75.77096987010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "b8c4d9cdedb9059bf8dd564e1c72f525ecc2119d",
+            "name": "Chhabra\u2019s Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105524845599905029397\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAaLMG-VZLxlaR2tqsc3T0QZ2m_0C7ks-73XQ_A87bQIipcfXjUJMIPrOHf4XMgxxpiTT9RNyfSgk7O-2DcoVuNgvgkpQ13_VJIb2K2PbldumQyXUpHzQpB9rzYnNqP4QuEhDW1eJa367PjV_eYlCrJ0bJGhSgvEQEFg6IHhKLZmFsdkY7lntRSw",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJm2OALV20bTkRAi5klI7IOSA",
+            "plus_code": {
+                "compound_code": "VQRC+CW Bhan Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQVQRC+CW"
+            },
+            "rating": 4.1,
+            "reference": "ChIJm2OALV20bTkRAi5klI7IOSA",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 211
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Hotel Savoy, MI Road, Panch Batti, Sangram Colony, Ashok Nagar, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.91623,
+                    "lng": 75.81432699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91787372989272,
+                        "lng": 75.81565617989273
+                    },
+                    "southwest": {
+                        "lat": 26.91517407010727,
+                        "lng": 75.81295652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "bdb0f46e5fe7fc6560198cd20aead7494a512a69",
+            "name": "The Grill Restaurant( Legacy of Savoy Jaipur continues)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100549345560371978006\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmRSAWZyHWraxvQPPcmCIBlwIBoZbtAfHaNVXSnt-YS0LyNGmN-6h7KcVBELluKnj-UPJhGQEMK6F1iUf3so0K89D1tcaxopjhDTU35A4YucuUxXxRvlpo3aDOqn8PVaYEhB0JgKdlv8Q1yWFGFpV5zUqGhTnpxnLpDVRQVOgZfYwZoj7B2c_fg",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJCUOvP6y2bTkR5SemZjD5woY",
+            "plus_code": {
+                "compound_code": "WR87+FP Jaipur, Rajasthan",
+                "global_code": "7JRQWR87+FP"
+            },
+            "rating": 4.4,
+            "reference": "ChIJCUOvP6y2bTkR5SemZjD5woY",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 154
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "F-111-114, above vodafone store, 1st floor, Gaurav Tower Marg, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8556288,
+                    "lng": 75.8066624
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.85712197989272,
+                        "lng": 75.80806582989271
+                    },
+                    "southwest": {
+                        "lat": 26.85442232010728,
+                        "lng": 75.80536617010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "b9c53ffe3e17a96371125ae2deaafc3a33e87f12",
+            "name": "The Spicy Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100304912606621966372\">Rakesh Yadav</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAraBGN5LGpiUmrJ3yQm_BEDx335Y72jf1sZCKWM8inIb87_0Z2WlDxmqiBu9CWvl0os9-LbzsIWb5UPluFuzOcTKweRyBatWouBeTxC6E8OjZK1VMVvD7kTT1594oji0sEhDY0IxYm4BUCy6PBuos_zwtGhSVdgVWxNBV2ZIwZamPR7HTwDNfLQ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJOfZeTgu2bTkRbxNvA4gYPKo",
+            "plus_code": {
+                "compound_code": "VR44+7M Malviya Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQVR44+7M"
+            },
+            "rating": 3.9,
+            "reference": "ChIJOfZeTgu2bTkRbxNvA4gYPKo",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 141
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ricco Industrial Area, Sitapura, Jaipur, Rajasthan 303905, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.7702195,
+                    "lng": 75.8539351
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.77153547989272,
+                        "lng": 75.85530232989272
+                    },
+                    "southwest": {
+                        "lat": 26.76883582010728,
+                        "lng": 75.85260267010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "d7698e1c724bfc31fa54c21b76726b045fce2088",
+            "name": "Honey Dew Kitchen",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107090577961687282811\">ashok choudhary</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWU1kLiY5UBwS0Dv1833qioXf9NdV1er-F1gfhmh5niivBk2eyGqd2sJi6FQqHASx1ZQaElgI2YfesZOF-Uj-QvvbmBw6NzDYHo9X0IMHAVtHCK7zt7MmhJojKUhK0SqBEhCzOqy2KXR3tIyzxDLgPwTKGhR53eu9Yzr-yoYy_hnbF5mktyCeDA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJfSA1DOLIbTkRJrGyjgcWswo",
+            "plus_code": {
+                "compound_code": "QVC3+3H Sitapura, Jaipur, Rajasthan",
+                "global_code": "7JRQQVC3+3H"
+            },
+            "rating": 3.9,
+            "reference": "ChIJfSA1DOLIbTkRJrGyjgcWswo",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 59
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3/234, Sector 3, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.847641,
+                    "lng": 75.8178406
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.84900392989272,
+                        "lng": 75.81920227989272
+                    },
+                    "southwest": {
+                        "lat": 26.84630427010728,
+                        "lng": 75.81650262010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "fe3e049336ab0cff23dc455701208d06de81ffce",
+            "name": "Uncle's Mess",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107096256098818850899\">Nikhil6_SKUMAR</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACgquuVT2odA0qzwmMjI9UnJKgfR4eAvkLDATpTV0dR2M4TMvvzI-hwDDaG8uhUowc6VJzdhmddS1HBWXBjUTIPnZM0vO5W-GdnlCQaxikK6L7Ly411u7aPdcSS5oKinQEhC1N3j-GaEehUzhEmnWyPG1GhTNGT4OvRNNCFyPzkVlfyKopBWscw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ5ZlmjQ22bTkRfX5-F_uuxzI",
+            "plus_code": {
+                "compound_code": "RRX9+34 Malviya Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQRRX9+34"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ5ZlmjQ22bTkRfX5-F_uuxzI",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 192
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "21, Jan Path, Laxman Colony, Shyam Nagar, Jaipur, Rajasthan 302019, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8910135,
+                    "lng": 75.75868969999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.89241942989272,
+                        "lng": 75.76001697989273
+                    },
+                    "southwest": {
+                        "lat": 26.88971977010728,
+                        "lng": 75.75731732010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "7549698a64cb3ef391fdb3e5bb1bc851362b9588",
+            "name": "Green Chilli (Murliwala's)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105927675324661153066\">Vinay Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAv1Nop9NIJfQjYtspueAr1LkVhaUDUnz0RTJOcNcY9l4GETpzWr4B7AGoQnk2zJldFMB_75mzO7aa3LuebXwre8nadwNvI-W0ZD0OIkLtJ8LOXm7VXll85INFd_oC2A6TEhDDQTz10GwN1aZLX1I5byHyGhQXLXcnB4bbPTjkqDHQZ5B4XZJSeA",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJnfOJ4je1bTkRUoctvj-ISLk",
+            "plus_code": {
+                "compound_code": "VQR5+CF Shyam Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQVQR5+CF"
+            },
+            "rating": 4.2,
+            "reference": "ChIJnfOJ4je1bTkRUoctvj-ISLk",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 102
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6/398,399, Sarthi Marg, Chitrakoot Chauraha, Chitrakoot, near SBI Bank, Jaipur, Rajasthan 302021, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8967259,
+                    "lng": 75.7382746
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.89804967989272,
+                        "lng": 75.73963412989272
+                    },
+                    "southwest": {
+                        "lat": 26.89535002010728,
+                        "lng": 75.73693447010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "47b5af728ad73124c83ba24849d381e398e19d46",
+            "name": "La Salsa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107997468819231028450\">Praveen Jakhar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhdRTAFVDQyk6RkUTofipBPUCcgiBVRvlwxkRdUTS2EseAMHwqngaNQ0ioDRdkgZ1jFxU0B4zhfdQidQmIc71pyhlZJ42R_YUfRFbzHiaUH5R0S-kG-JlNztjElMTfUv_EhDByk-Gz7aheO8gOl0JYMbAGhQxAKLtx9Iinbzp2OefhY_aJ5Nxug",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJ84iKE5a0bTkRH5L86QnFM30",
+            "plus_code": {
+                "compound_code": "VPWQ+M8 Jaipur, Rajasthan",
+                "global_code": "7JRQVPWQ+M8"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJ84iKE5a0bTkRH5L86QnFM30",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 349
+        }
+    ],
+    "status": "OK"
+}

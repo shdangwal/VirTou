@@ -1,0 +1,941 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CrQDowEAAMo78Qh930k_h9lg6RiRkmnzjKiJh2jtaPkfNxxwihnRdreSyFzO1jr5852dQzs9iVALlfZYoOBtekgL9s1yI7CwG0nOrsbj5BKnnZpEE-PjUeZ_Oi_ZJ-fdWigaeFtPnfaBapPQv64S89auzgp_Iu69Sa0m5279BhnBCt6uB19sNSqtHCGJ_GdyHZB4VNnG3eHM7_pNCA4zQky1QFsYZsoeqrpoiuTjaS0pYvcMWP33lsqQrYzz2dfqRn4DeBpUyS1Y2Rrft5b6jjRG4fUiq1mxaoshwHiq7FRLT0JUsFdLcF4kr1if3AzgwixO-3D-sgTGDzouEEIxaFCBC6qLRCemEA0nsayB33hi4zVk_eOuecWTzzO_WlwCvCq7lE-dfzwgDs2B6GrQXR4tcQmfs0Xran5n3wfljjFikUymhQye35jUS3MzCU0v2fquS7S7IN-QmFpFj_2gctBlrK4vJXKNvetldUGKlbcisV3ZMPpiZIovOc2bt7qHyA791_9XXvqCo4V27GndWu6vt48VWEC-60pPzeZ3FgZHHg47G6S4gjK2uns4SUMGvEetCyt9KhIQJBjD7NngqazpWLeducuyDBoUOeKqDGRrwmczEnSAC9KnlF7ZYOg",
+    "results": [
+        {
+            "formatted_address": "Bambolim, Goa, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4650357,
+                    "lng": 73.86566669999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.4763464,
+                        "lng": 73.8775801
+                    },
+                    "southwest": {
+                        "lat": 15.4466897,
+                        "lng": 73.8414452
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "d57642f74cd44ddf42ec5b71aab631aacc34a23c",
+            "name": "Bambolim",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113874719937079964387\">Rizwanuddin Khan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_tnFXLvHOa7X60xBSyQ_ltJeOcpRSwbUMg8vwDk7kj-Eg9kqrE9nxB0XL8Umt80ScwpdM9o7f6u2WxaJULZCjFPCrB_3IwduNT8BMQ6ps8Gy23JuxA12V4CjSUNw1uiZEhDf3ojjZ2ZZQLu4FMgXGbIfGhRj0npRbG2Te6AiTUxpU0GeMYOAYA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJy5EKikS_vzsRzUu5Va5_BpU",
+            "reference": "ChIJy5EKikS_vzsRzUu5Va5_BpU",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Chorao Island, Ilhas, Ribandar, Goa 403006, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5130468,
+                    "lng": 73.8704154
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.51446977989272,
+                        "lng": 73.87183727989273
+                    },
+                    "southwest": {
+                        "lat": 15.51177012010727,
+                        "lng": 73.86913762010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "634b3f6f7f1ecabf01a1f7d4ae4aaca9a52745f6",
+            "name": "Dr. Salim Ali Bird Sanctuary",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105488120760589264529\">Niloy Gourh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWw4s5ocPgAUhnFh8se0V8BqApl0QqzCFJ6BqcGYiR0M5g517E2Vg0BVIIN52jag0wqlCOp_GeONXCi9W002IOlmhyHhY-0r4uZV0f2O0F9PJ8SKX3-I4Wy6oxlb6f6xAEhCwcZ69KMJrS575_tz1TV2MGhQ06yLseZJIEnlKOXJXYFAv3puGsg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJYU0mP3W_vzsReXl288rhJ9M",
+            "plus_code": {
+                "compound_code": "GV7C+65 Ribandar, Goa",
+                "global_code": "7J7MGV7C+65"
+            },
+            "rating": 3.9,
+            "reference": "ChIJYU0mP3W_vzsReXl288rhJ9M",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2346
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4998597,
+                    "lng": 73.8882259
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50121132989272,
+                        "lng": 73.88957587989273
+                    },
+                    "southwest": {
+                        "lat": 15.49851167010728,
+                        "lng": 73.88687622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1f71cc7a6fb154ef2c9edb670b90612d1b0b81e3",
+            "name": "Beer Point",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110581840378096448260\">rajkumar ramavath</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtFK0uZKyRmVu0dv9eLmviZgVPGG2IKQQqDU42pzn28hpjFaXjS6N67EupXrF-ekLIEH1LQ4o9ZmtMujzT0mhRkKtT6RAeAQInFYVjri-aAZPr54x3fZpvrXIZlOQZSUYEhCPeOJOQWKFYzVIxtP1wA8qGhQg5r8ooADcRJaVLocqdYBOr5cIfA",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJX1KS1I6_vzsRjYt7Ldnltfs",
+            "plus_code": {
+                "compound_code": "FVXQ+W7 Tiswadi, Goa",
+                "global_code": "7J7MFVXQ+W7"
+            },
+            "rating": 4.7,
+            "reference": "ChIJX1KS1I6_vzsRjYt7Ldnltfs",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "#1239, Cross Farm, Tolto, Tiswadi, Saint Estevam., Goa, 403106, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.522398,
+                    "lng": 73.932715
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.52375317989272,
+                        "lng": 73.93405432989272
+                    },
+                    "southwest": {
+                        "lat": 15.52105352010728,
+                        "lng": 73.93135467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f88e956faf4b27b9c873afd90278b776fd406ea8",
+            "name": "Crocodile trip Jake The Snake at St.Estevam",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103162566982699128682\">Jake The Snake</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmMn8ucCo-aLk03NGSz23I-x7ycQo3-Zw22jC9U4aE6_UNx6wdDilgJxz8qmxZvWYE91B0NDleRjS26P8BPjdyZvs2HeIfEDKpAHTcbbNF15i7WymQkdMVsFbut9QXeXBEhCBfuVxU3D-gq-cASDRka9MGhSQXkcFS8mkntHBGZzQ6ORO6hZVcQ",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJAQAAQMK9vzsRWArvncAtlfE",
+            "plus_code": {
+                "compound_code": "GWCM+X3 St Estevam Island, Goa",
+                "global_code": "7J7MGWCM+X3"
+            },
+            "rating": 4.1,
+            "reference": "ChIJAQAAQMK9vzsRWArvncAtlfE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 45
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ella, Goa 403402, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5007507,
+                    "lng": 73.9192269
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50205472989272,
+                        "lng": 73.92052837989272
+                    },
+                    "southwest": {
+                        "lat": 15.49935507010727,
+                        "lng": 73.91782872010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "26f1ed6ae2d8f22da5534d2671c762e2dcc4ca4b",
+            "name": "Chapel of St. Francis Xavier",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116929509412284295765\">jithin gopal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmcNwLkoXtrhTxliOmdP3tz7l5BHaagSsgoBORsNeP0ebOmrJnXiVg6Ui45c7zFqKftdQaok3oDFrn9PY31BKY8q_fKZSXE0cMX10akABguDwuaDghoeHbE-pe9pMU5LxEhDfKHY3LIilDI8dhejyDbdoGhRmxLEzWuGN2qfPYHOG_m0Afn2XaQ",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJL5VuzY--vzsRomHlFP3bsyI",
+            "plus_code": {
+                "compound_code": "GW29+8M Ella, Goa",
+                "global_code": "7J7MGW29+8M"
+            },
+            "rating": 4.4,
+            "reference": "ChIJL5VuzY--vzsRomHlFP3bsyI",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 196
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "North Goa, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.503375,
+                    "lng": 73.91043499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50472482989272,
+                        "lng": 73.91178482989272
+                    },
+                    "southwest": {
+                        "lat": 15.50202517010728,
+                        "lng": 73.90908517010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "3b7077866d4b28255e228379dae9525cb1da87d1",
+            "name": "Chapel of St. Catherine of Alexandria",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1890,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118152664623483693827\">sam desouza</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQPdkxQTHmjq9rIK8WeFHzg8HSsArYKzwiHD50stTWH-VeatD5CQcUJ0aiqWr1ftEnB8jauUPtcuCgyiSSEnnepH2C7IZ69Z5i7q61uP42rRo-7S15S5ExfCI42UR_3SREhAVz6tE-ddO03NcLs3gD0GgGhQI5YnUz_SWJ5fFQo6z-K0YKC1Zmw",
+                    "width": 2774
+                }
+            ],
+            "place_id": "ChIJNcH7EPO-vzsRl1RKlSloJoI",
+            "plus_code": {
+                "compound_code": "GW36+95 Goa Velha, Goa",
+                "global_code": "7J7MGW36+95"
+            },
+            "rating": 4.3,
+            "reference": "ChIJNcH7EPO-vzsRl1RKlSloJoI",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 96
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Verem, Goa 403114, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4970692,
+                    "lng": 73.8095286
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49843212989272,
+                        "lng": 73.81093562989273
+                    },
+                    "southwest": {
+                        "lat": 15.49573247010728,
+                        "lng": 73.80823597010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2ff94565b3366de910111adb6d72d2d459102488",
+            "name": "Reis Magos Fort",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109698781677186783095\">109698781677186783095</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA3r1nGGjrgnx3N0Hb7yuePdTra5wkPTlgw5T5DE_C7v9_oGdB6sSI3Ye5hVSmeGc9wG2PEomUGaZRVueYUFavg72BxkTqY0PcZBxkmYFeAq69rLoiJ8M-_PFdjmKHaNFlEhDpjihyVea5s7vMkdxcKMQvGhSh9j70XpRDhNZ9OMKeMnynr6HPWg",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJYeGT3PDAvzsRS8Ckp0KjgGs",
+            "plus_code": {
+                "compound_code": "FRW5+RR Verem, Goa",
+                "global_code": "7J7MFRW5+RR"
+            },
+            "rating": 4.4,
+            "reference": "ChIJYeGT3PDAvzsRS8Ckp0KjgGs",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7593
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Goa Velha, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5023377,
+                    "lng": 73.9117653
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50366577989273,
+                        "lng": 73.91320252989273
+                    },
+                    "southwest": {
+                        "lat": 15.50096612010728,
+                        "lng": 73.91050287010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b6b7c0c9cee26affb2c15a23d5530bf79f8d9557",
+            "name": "Churches and convents of Goa",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104214355369886481425\">Dr yogesh Sharma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4zXlmnwGWIAAWydzpM-GTYfJru-RAH_ky8j4EgN-neIy_K8ZD_y418OoUO044rDm76hycjUSj9PePm-58Fdwm-ZKSVOfC9cIJAmBNs8N87vxxrlhuUGdfJro_lCQb64DEhBQ4fNTzvLzh8ZIySLh59zXGhQcK8KHcnDQlEuuLos3_-PXRWBeUA",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJuYbOebq_vzsR4EdqL-jhF2E",
+            "plus_code": {
+                "compound_code": "GW26+WP Goa Velha, Goa",
+                "global_code": "7J7MGW26+WP"
+            },
+            "rating": 4.2,
+            "reference": "ChIJuYbOebq_vzsR4EdqL-jhF2E",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Old Goa Road, Goa Velha, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5007814,
+                    "lng": 73.9117
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50208207989272,
+                        "lng": 73.91317827989272
+                    },
+                    "southwest": {
+                        "lat": 15.49938242010728,
+                        "lng": 73.91047862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2209fbc6523756647f0013b18ae895f77820a362",
+            "name": "Relics Of St. Francis Xavier",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 6000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108948674307277845912\">Neel Maradia</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKFb2g3ih_xrg-Z5bjqjZONOgPsf8IOkVRmy6SX4daektol6QTIMx1pcCCu7XHjPzNBsiNpq6B7iYBJliITxO7_dab9cbQ3LWDsKDm1X7cdGLdeqwZxs3iG7dEJn6dtCSEhAiO_7hGhDO5n5cUnFGth4mGhTjKLYs9sMz25WKcUoDz4e4po0uXA",
+                    "width": 8000
+                }
+            ],
+            "place_id": "ChIJ3VHkufK-vzsR-qTYDyPRyq4",
+            "plus_code": {
+                "compound_code": "GW26+8M Goa Velha, Goa",
+                "global_code": "7J7MGW26+8M"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ3VHkufK-vzsR-qTYDyPRyq4",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 80
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ponda, Pisgal, Priol, Goa 403401, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4295587,
+                    "lng": 74.0124491
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.43073657989272,
+                        "lng": 74.01353442989272
+                    },
+                    "southwest": {
+                        "lat": 15.42803692010728,
+                        "lng": 74.01083477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "793e449bcd20778dd14dda2c86a7de1295adb0d3",
+            "name": "Mystic Woods by The Butterfly Conservatory Of Goa",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113272607572544382563\">Butterfly Conservatory Of Goa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWIibrRY9no8x8MO2go09dHQ2rWDQJS7hW71X_eGiIBp9fobFkb2lHIra5UO3u9RSrMFEWoIRT3AJdgJ5EQHbXVqn7jfz8DNjjW7-KU3ICmJ1Osl9rkmEbGeudCqd-babEhDFqdQIIexsB7Y1A-cxo1JYGhQnXMWoSDPQR8k_L2Np8WAZ1MuGFg",
+                    "width": 796
+                }
+            ],
+            "place_id": "ChIJI2vEMie7vzsRj6GD15iAWac",
+            "plus_code": {
+                "compound_code": "C2H6+RX Priol, Goa",
+                "global_code": "7J7PC2H6+RX"
+            },
+            "rating": 3.6,
+            "reference": "ChIJI2vEMie7vzsRj6GD15iAWac",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 378
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Convent of Santa Monica, Goa Velha, Goa 403402, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5012638,
+                    "lng": 73.9070678
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50252537989272,
+                        "lng": 73.9083853798927
+                    },
+                    "southwest": {
+                        "lat": 15.49982572010728,
+                        "lng": 73.90568572010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "c4616f4425b5547c6ecd1704f1f74d598bb4b45a",
+            "name": "Museum Of Christian Art",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109124065919725105692\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYzzfzL1rvOdPU9Bal_NalrklBj4DcteeEk_WQ4mpjmndaPAzIITDy2ZjW2nU27WPpEWg40CGNkC0-xxKGbH29LmsCrpESLDfcul_byh8HBsXI8Kwqcylf8Yn5T5Zkq5CEhB3Z_sPUA1BIn-A8OJ6N_c4GhTY-5swex6S7QloBlbSp3XLnM_PAg",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJAQAAAIO-vzsRAl-vdrBfS3U",
+            "plus_code": {
+                "compound_code": "GW24+GR Goa Velha, Goa",
+                "global_code": "7J7MGW24+GR"
+            },
+            "rating": 4.3,
+            "reference": "ChIJAQAAAIO-vzsRAl-vdrBfS3U",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 215
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mandovi River, Goa, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4998264,
+                    "lng": 73.8365552
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50102687989272,
+                        "lng": 73.83793667989272
+                    },
+                    "southwest": {
+                        "lat": 15.49832722010728,
+                        "lng": 73.83523702010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e97c43d9077ff2fe6fbcc18bb4979ca33c7f3b1a",
+            "name": "Goa Tour Stop",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1970,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112440084029445105453\">Dev Gaykwad</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZOOXJTL-KjTBY0MhkG3WOKWe-C0qI0kmn1qJjvi2rYI_yBZcGA2XyENc2xXvcD5ivTnLM_gKGr3VBgAuD2awk5g4zcdki7p_fSQXDSfqowshNWxF-5WhBEa8R8jKLM7SEhBtHmi4cw01ix-30m1tb_qCGhTgUOUS-wMSTqZNIPP0kkjWLFQMbA",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ6ds1VoHAvzsR-iD_92lw0LU",
+            "plus_code": {
+                "compound_code": "FRXP+WJ Alto- Betim Porvorim, Penha de Fran\u00e7a, Goa",
+                "global_code": "7J7MFRXP+WJ"
+            },
+            "rating": 3,
+            "reference": "ChIJ6ds1VoHAvzsR-iD_92lw0LU",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dinanath Mangeshkar Rd, Mangeshi Village, Mardol, Goa 403401, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4449051,
+                    "lng": 73.9663825
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.44654657989272,
+                        "lng": 73.96787732989273
+                    },
+                    "southwest": {
+                        "lat": 15.44384692010728,
+                        "lng": 73.96517767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "32e9c2b2d60d8cd78dddc614421bec5dccc9a411",
+            "name": "Shree Mangesh temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104294848089763318637\">Raju Marisetti</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAptaXep1q4n_oVW_jCE7xhFGDSFp5CuDAnDKwPTsTb7i2w6OMtLAU8YAx2805ZQ7h7N-m7_O-baC_TTQZgG6odErVT1OCtxjUAX1vphF4jX23-U-y2Pck5z2lhIa7Qq4GEhDEAo8TPFbJlEBL-ImtK89YGhSTC-Q1ljFK-WNIk2t14mkxAIqtdg",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJAQAAALy6vzsR9rv-XA9g7a8",
+            "plus_code": {
+                "compound_code": "CXV8+XH Mardol, Goa",
+                "global_code": "7J7MCXV8+XH"
+            },
+            "rating": 4.6,
+            "reference": "ChIJAQAAALy6vzsR9rv-XA9g7a8",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9892
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rudreshwar Colony, Sanquelim, Goa 403505, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5510768,
+                    "lng": 74.0266517
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.55251872989272,
+                        "lng": 74.02773157989272
+                    },
+                    "southwest": {
+                        "lat": 15.54981907010728,
+                        "lng": 74.02503192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a9d1384ae973af50de7a1c586c08358dd5a7fd65",
+            "name": "Harvalem Waterfalls",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101490496697302974825\">Jaspreet Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAk7XH9KCfRdcDzdmkLO9O9oRXD861VnHhM6HkqGjc9Ioe9uKAYJmbVPhA4VaiU90Xts-N3zNlwGw0SAIiOXTEGzjp6DbT4PjJMOBmJWwlgbFLIQgQY6EFJ-PAfmxTcmGXEhD2XPrnDoOieGegX_jX34x-GhSRstOeeaWWvJk4dz2mjVu8fzCnuQ",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJVUbAVEy9vzsRS6uKBv4zNmI",
+            "plus_code": {
+                "compound_code": "H22G+CM Sanquelim, Goa",
+                "global_code": "7J7PH22G+CM"
+            },
+            "rating": 4.1,
+            "reference": "ChIJVUbAVEy9vzsRS6uKBv4zNmI",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3265
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rua Em\u00eddio Garcia, Altinho, Panaji, Goa 403001, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4986628,
+                    "lng": 73.82927049999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49983287989272,
+                        "lng": 73.83055012989271
+                    },
+                    "southwest": {
+                        "lat": 15.49713322010728,
+                        "lng": 73.82785047010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "a73502bab56330c615c7ba2c4e3edf94851bcdaa",
+            "name": "Immaculate Conception Church",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103189070721164827839\">Rahul Kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfolG2YxcCDUDBbnjbTq9S_lHV9R86gjY62xlHwbLJ0YlrPTX2wI8F1SblgoqocOv0iBfpcTAPmBBDsu9XOfI2ITY9hccHQ5rQFwqoKIZV72UsaLnZITzct5U5YvUhm_qEhDZm03PiAhmJ3VlKPZuX27bGhRymygnmT7cCEtTSA7BYPIAIVnfcQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ952ZWo_AvzsRLoL0JZhAmKM",
+            "plus_code": {
+                "compound_code": "FRXH+FP Altinho, Panaji, Goa",
+                "global_code": "7J7MFRXH+FP"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ952ZWo_AvzsRLoL0JZhAmKM",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13442
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Goa Velha, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5038813,
+                    "lng": 73.91237559999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50533302989272,
+                        "lng": 73.91369497989272
+                    },
+                    "southwest": {
+                        "lat": 15.50263337010728,
+                        "lng": 73.91099532010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "eb4250ab30dbf7dfab3c61410bcf04b4d4a140fa",
+            "name": "Old Goa Book Stall (Jivitacho Sondex)",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104788354748986115677\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAStFHbkC1n703KcpaXNfV6rn_uxb29ldyD2PgUAPc8Q1ruOHk1hfqrHlHX0XrXxLGuQPzX59F09fHWIp9JiXgicjWo5hkTn47zyND-RWNPUOrkR0ycSAoiZH-aALXlqoWEhAGKmrCH0gQjbG9n90vlxptGhRedhJuWemfufjrcao4fVBazQ--PQ",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJUaDp2fK-vzsR-hP5gyIRAOc",
+            "plus_code": {
+                "compound_code": "GW36+HX Goa Velha, Goa",
+                "global_code": "7J7MGW36+HX"
+            },
+            "rating": 4.5,
+            "reference": "ChIJUaDp2fK-vzsR-hP5gyIRAOc",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "formatted_address": "Baga Beach, Goa 403519, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5552787,
+                    "lng": 73.7517307
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.5623978,
+                        "lng": 73.7533832
+                    },
+                    "southwest": {
+                        "lat": 15.5510393,
+                        "lng": 73.74815389999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "67f8a5e4e9975d1eadff17430052d2880efc0625",
+            "name": "Baga Beach",
+            "photos": [
+                {
+                    "height": 4896,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105529865263621203511\">Abishek Babu</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAnTk2esWkL0jLh9E9Y5L53ht4OAE7u3LoU-3DsUyOcbY142h5lZYHAkNkmIrUOjiacHS_A0qAnEGRF3u5HHhqDxm_Wc_olcsyy8NGhseDs8O494XTZbyfH7YQO5v4TFICEhB8bBZDE1aVGUnzsI5PGrsWGhRIGFcGEqJBxds0YzFl1x6McOOSZQ",
+                    "width": 6528
+                }
+            ],
+            "place_id": "ChIJ_96h2BzqvzsR4ME17sBmcLo",
+            "rating": 4.5,
+            "reference": "ChIJ_96h2BzqvzsR4ME17sBmcLo",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 15824
+        },
+        {
+            "formatted_address": "Calangute Beach, Goa 403519, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.549441,
+                    "lng": 73.7534857
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.5633114,
+                        "lng": 73.7593565
+                    },
+                    "southwest": {
+                        "lat": 15.5303597,
+                        "lng": 73.7480226
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ebef5a1948c7083a8902ed212a702ce779d0023a",
+            "name": "Calangute Beach",
+            "photos": [
+                {
+                    "height": 864,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109233671006429812139\">Mohammed Aijaz Hussain</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAY9UqctzTKwi9u6GqiN5f9jyh49mbAm7TLM2lLl7bsFe5m5bCS7t2NXyalERmgJgj46T7B90VIYlqW9r7rvfIeiQvW_zxufzuE9uzZVbzlIZKdP5_IvQl3UWp3NovmIKVEhB-OStuS5uO7S4kxzRr3_uuGhS1TIA8iqtvYyOpRLuHoud7SifO3g",
+                    "width": 1152
+                }
+            ],
+            "place_id": "ChIJK-30SAHqvzsRF30lXa0vWcs",
+            "rating": 4.4,
+            "reference": "ChIJK-30SAHqvzsRF30lXa0vWcs",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 11795
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Monte Santo,, Goa Velha, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5007694,
+                    "lng": 73.9078111
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50218682989272,
+                        "lng": 73.90914667989271
+                    },
+                    "southwest": {
+                        "lat": 15.49948717010728,
+                        "lng": 73.90644702010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "79104525adc327eb5f909bac4075b8c23e30a6ef",
+            "name": "Church and Convent of St. John of God",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102807393554877030870\">Rajat Hadvani</a>"
+                    ],
+                    "photo_reference": "CmRaAAAADxfC3TstCH_ZZWXFceL5XFK3I1ZCbaqozrNjVUA0wvc42HOqB4CJqq5TdXEgb_TboEcmPhyICVBUFYMkm1lN7I9rCdHKfgPv1_ibDqnzQYXKWHwkewjV198TvRaXpm1QEhDWJNOZ-1KvIaHIOZXh4h6tGhSiwzhH22I32rseLH3XNKOoMHCDww",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJWbMUFfK-vzsRxQGL0-uPxFM",
+            "plus_code": {
+                "compound_code": "GW25+84 Goa Velha, Goa",
+                "global_code": "7J7MGW25+84"
+            },
+            "rating": 4.5,
+            "reference": "ChIJWbMUFfK-vzsRxQGL0-uPxFM",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Old Goa, Goa Velha, Goa 403402, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5002844,
+                    "lng": 73.9137606
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50163997989272,
+                        "lng": 73.91502927989272
+                    },
+                    "southwest": {
+                        "lat": 15.49894032010728,
+                        "lng": 73.91232962010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "b15d5d9cf7aacbd45e9ac66875695a60444dc633",
+            "name": "Wax World Museum",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112570943702372518591\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAPMG6PVu9N_0g4NZZiFy-93IRRh9ArPhcqD2aTJL4GJpSMIw9ds1TlSEcHzTilqMUIfX6reym4EakOvCEtb8jlnhbNjV5idshCayWj0unM4n06Y4PW1o1gP-MQZjEe12WEhCFye5mpQFk-_nmRKLy753PGhQuc2JBoGsuwlOaPMC5E3B8zHCsvw",
+                    "width": 1536
+                }
+            ],
+            "place_id": "ChIJ751RXI2-vzsRLoDZRIDrQc4",
+            "plus_code": {
+                "compound_code": "GW27+4G Goa Velha, Goa",
+                "global_code": "7J7MGW27+4G"
+            },
+            "rating": 3.2,
+            "reference": "ChIJ751RXI2-vzsRLoDZRIDrQc4",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1086
+        }
+    ],
+    "status": "OK"
+}

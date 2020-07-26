@@ -1,0 +1,384 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Taj Mahal - Miniature, Seven Wonders Park, Kotri Mini Flyover, Ballabhbari, Gaytri Vihar, Kota, Rajasthan 324007, India",
+            "geometry": {
+                "location": {
+                    "lat": 25.1795813,
+                    "lng": 75.85008880000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.18083722989272,
+                        "lng": 75.85140372989272
+                    },
+                    "southwest": {
+                        "lat": 25.17813757010727,
+                        "lng": 75.84870407010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5f7470e73ad0ea47aad7f43837bc93789742c56d",
+            "name": "Sculpture Of Taj Mahal",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108735369123205195543\">Shaunak Laad</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOw1Xi0B4aeWgjfky8XGNqAWBMYfTYcsqDWv63FpohdirUwdjE--bNKDEu-l1-ZYaN9rww78QPpCs6DNnNxFBrHESSeJupZqPeFiHpwIDDsO9A6VCWvXndhHrv3BwYiYbEhBS58CxyCyubmcHa7W9ULTHGhRP_lsvO-SX_MbYybPRkhejP-9O3Q",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJrR6jTiabbzkRf_I53m3KXiQ",
+            "plus_code": {
+                "compound_code": "5VH2+R2 Gaytri Vihar, Kota, Rajasthan",
+                "global_code": "7JQQ5VH2+R2"
+            },
+            "rating": 4.4,
+            "reference": "ChIJrR6jTiabbzkRf_I53m3KXiQ",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 134
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "The Great India Place Mall, Sector-38 A, Entry from Gate No. 11 Adjacent, near, Maharaja Agrasen Marg, Noida, Uttar Pradesh 201301, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5630938,
+                    "lng": 77.32530779999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56472387989272,
+                        "lng": 77.32699939999998
+                    },
+                    "southwest": {
+                        "lat": 28.56202422010728,
+                        "lng": 77.320233
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cf3b90b8897190a1ac2210b5801796ff6aa043a6",
+            "name": "Worlds of Wonder",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110996612986903724286\">nishant chandra</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQOxWCG1hDne9SohlvCBIlzKf6eUfU6_hqOnhq9gvHTHs5b27U1viilfhkL7L0X9dYgHNH8UfK3LXL_M4-Amxum8V5Z-CGqdUXeFvgezFUPzJVhuX71v2wXqvd8OIKaSYEhCzYofieo7UgQ_gwNQwqaLtGhRUzsWxdg4LJHarE3HsO6mfL8iATw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJn6MumTfkDDkRW8_qiR20a6I",
+            "plus_code": {
+                "compound_code": "H87G+64 Noida, Uttar Pradesh",
+                "global_code": "7JWVH87G+64"
+            },
+            "rating": 4.3,
+            "reference": "ChIJn6MumTfkDDkRW8_qiR20a6I",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25484
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Chandigarh-Nada Sahib Gurudwara Barwala Road, Ramgarh, Punjab 140201, India",
+            "geometry": {
+                "location": {
+                    "lat": 30.6379265,
+                    "lng": 76.89245489999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.63929047989272,
+                        "lng": 76.89375312989272
+                    },
+                    "southwest": {
+                        "lat": 30.63659082010728,
+                        "lng": 76.89105347010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "784863428dbafb11e228c64da82ca70c375f1c6b",
+            "name": "Funcity Water Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1015,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104437515546689052260\">Fun City Resort</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYh1lNIuMo-WAmGSSH4JFumYsbaAKgOk1yAHmrs5Xsusm9rv0i7ZI8raGlCLOzIeMN4gsAO_2oWjdxPZlW70GS-Fmuvbc6ydXJIEKIQ9_awnEEaxP7VHbeSTcJRsqf466EhCxsCyDOgK43MP0_Hfe2HKaGhT-SXdOqrs4-2hHDFh9H_hV2MlJIg",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ7UF4_06UDzkRTDH1c3p6qds",
+            "plus_code": {
+                "compound_code": "JVQR+5X T.B.R.L. Colony, Haryana",
+                "global_code": "8J2RJVQR+5X"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ7UF4_06UDzkRTDH1c3p6qds",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3623
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Delhi Rd, Batedi, Haridwar, Uttarakhand 249405, India",
+            "geometry": {
+                "location": {
+                    "lat": 29.899487,
+                    "lng": 77.9881832
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.90084327989272,
+                        "lng": 77.98946632989271
+                    },
+                    "southwest": {
+                        "lat": 29.89814362010728,
+                        "lng": 77.98676667010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8f981e376d9594c63389e95f38b1ccb02805ea88",
+            "name": "Crystal World",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 530,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104699037381949798480\">Crystal World</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAiHfZ64DAVAmq91_mM2PHhWOjd0t2UqxU5yH1xdq192i-6gdwpigjiJmdZJZIDORSTAA9ntJEp8wwI2DEuwk-ylv7vC5DcJhf0TuWbjsjwXO_2DmD5ll0fVk9B-OfYFGGEhChb1OhIhL_LNX3sln0fM1nGhSCbDZOWbxd006KKfOarIjJHgCkOQ",
+                    "width": 750
+                }
+            ],
+            "place_id": "ChIJeetkvpBLCTkRvoE0gY0pUNA",
+            "plus_code": {
+                "compound_code": "VXXQ+Q7 Haridwar, Uttarakhand",
+                "global_code": "7JXVVXXQ+Q7"
+            },
+            "rating": 4.1,
+            "reference": "ChIJeetkvpBLCTkRvoE0gY0pUNA",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6132
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mandhana-Bithoor Road, Kanpur, Uttar Pradesh 209217, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.5708918,
+                    "lng": 80.23829479999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.57167990000001,
+                        "lng": 80.24018037989272
+                    },
+                    "southwest": {
+                        "lat": 26.56852749999999,
+                        "lng": 80.23748072010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "46e5f501aee40eff481ed60e9967b212dcf0ff3a",
+            "name": "Blue World Theme Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1050,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110672869747083176137\">vinay annand raj</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFR1T2QizoftfktaYbMt6EvfTR63-zNMJmSAOoOd4mRQrn2EPSESHrY9rheMGmWL0a-kW5pZwxYzKpDQ51olAexJ1mnOb_3N4aso2hTQdjR84ox-z8XAu7cZ8V2TaVskbEhDj2PHzVYdssDR-6oYI7ZreGhS7abebqLQsQqwDm1Ntu_zI9Gbdzw",
+                    "width": 1400
+                }
+            ],
+            "place_id": "ChIJbQgxpY8wnDkR-CLOzUMvFLo",
+            "plus_code": {
+                "compound_code": "H6CQ+98 Kanpur, Uttar Pradesh",
+                "global_code": "7MR2H6CQ+98"
+            },
+            "rating": 4.3,
+            "reference": "ChIJbQgxpY8wnDkR-CLOzUMvFLo",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14831
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kalindi Kunj Park Adjacent to Kalindi Kunj Metro Station, New Delhi, Delhi 110025, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5449201,
+                    "lng": 77.3090801
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.54621827989272,
+                        "lng": 77.31037082989273
+                    },
+                    "southwest": {
+                        "lat": 28.54351862010728,
+                        "lng": 77.30767117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c4956cce8c19b165479f3a561b5f2725a48f1679",
+            "name": "Atlantic Water World",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116059818015135970897\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-pTqyyaF0j9lrTLPQ5fuj0t12S6D4saBEu2bQt39NGdl2qOVnoJu749F_Pb2mA4eHc-lI3gvvO1MD9IbU9klaJ_I1i9UuW7c4EAJq-T3jW418yCFII5BGWET7IojhKCSEhA2khXP8ZKcLiDpszoFHZuBGhTukwVKmfo5QWDhxhx5PlycXogiTg",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJG6246GXlDDkRDgkuE5xC4qE",
+            "plus_code": {
+                "compound_code": "G8V5+XJ New Delhi, Delhi",
+                "global_code": "7JWVG8V5+XJ"
+            },
+            "rating": 3.8,
+            "reference": "ChIJG6246GXlDDkRDgkuE5xC4qE",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3057
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "L05 & L06, DLF Mall of India, Sector 18, Noida, Uttar Pradesh 201301, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5674285,
+                    "lng": 77.321135
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56890147989272,
+                        "lng": 77.32282717989271
+                    },
+                    "southwest": {
+                        "lat": 28.56620182010728,
+                        "lng": 77.32012752010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "48d67c20ff55186b7039a9df4dc1365a96c82199",
+            "name": "Snow World",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3118,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102797128579967527517\">rajesh kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA0RHYIMUnGLFIMm27konhYX2Q6NOdiBxkSufW2cpmKkclge0gEYV6siUfSEdWPtt6c99PpK4pYWNjVDJv510qyUqRALGP3MJGf-lZm0VNzMI7SAo3v7n9E38W6gzFjidSEhASZj4CqqxtMnwBrqawJuEJGhTRkJ0rjnBnbohuv4NmVts9mE1ZxQ",
+                    "width": 4158
+                }
+            ],
+            "place_id": "ChIJ-yw3J0bkDDkRMTxIHAK_Ous",
+            "plus_code": {
+                "compound_code": "H88C+XF Sector 18, Noida, Uttar Pradesh",
+                "global_code": "7JWVH88C+XF"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ-yw3J0bkDDkRMTxIHAK_Ous",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8832
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Nagar, Kali Borni, Shop No. B-110, Nayak, Mumbai - Agra National Hwy, Sion West, Mumbai, Maharashtra, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.0394894,
+                    "lng": 72.8597092
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.04086237989272,
+                        "lng": 72.86102002989271
+                    },
+                    "southwest": {
+                        "lat": 19.03816272010728,
+                        "lng": 72.85832037010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7a9fc448599743d8eddaf13605bcd7b14e113629",
+            "name": "Rahul Disney Land And Amusement",
+            "place_id": "ChIJm-KkGtPI5zsRumWwP5fU88c",
+            "plus_code": {
+                "compound_code": "2VQ5+QV Mumbai, Maharashtra",
+                "global_code": "7JFJ2VQ5+QV"
+            },
+            "rating": 0,
+            "reference": "ChIJm-KkGtPI5zsRumWwP5fU88c",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        }
+    ],
+    "status": "OK"
+}

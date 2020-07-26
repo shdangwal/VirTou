@@ -1,0 +1,982 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_gAAAGJLRdgStL6K_FjaIZ53PkK7pL8m8agiMY6cUCCarvzuV1km6-7rq3k5gxVnOAED-kNXC0433hFplkkT7pfvS3vGGTknvDKXAVxzmt0sg-jzW-wTDTvx6A-BtxnPzbTD9aLWyhiNUo8sFjMKRbv4ejHjf2ts75KCslmR2v8EIFTdXeAvYcK1AtemUvlSHbOO8X_f7b_n_ZuR6oyYyxb_xP9BtaaEsIIX3E-D48si-EaJfvduZ1TeS_3QjX5-uAOmSqpf79FniIKtDmpZpCT7KE40ZoDrg2nf7IAzU1EbE-dKgrstEQpqWg-arcraCLHFAz0eMzs0k-hX9h7iUWvxOPISEFYYjJ1lMt4mxUORR8yNriAaFMgTieBZyoUxEPwZbk2FsTMatPF7",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "1308, Baba Harishchandra Marg, Chandpol Bazar, Chandpole Bazar, Chandpole, Chandpol, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.923988,
+                    "lng": 75.815456
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92532642989272,
+                        "lng": 75.81687147989271
+                    },
+                    "southwest": {
+                        "lat": 26.92262677010727,
+                        "lng": 75.81417182010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "af95b85b0054e0e933cde0e63e5267efe58ee3f0",
+            "name": "Desert Safari packages/Jaisalmer tour packages/Desert camp in Jaisalmer",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 909,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105255235337274769421\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmDEapik8_5pbhFfmRxQtEWuhefpVdcBhojtRQZ7cg5prUjOcqeKBbPDfEbDsgLDZ1d3Ia-7_iPWSevvCdGuEl21EI4mOskGEodYSWM19KcfBAel8H0eUjFE6f9eo_wnrEhAc_9tXE7V-rfuWjauCV62LGhRuNVg9bJG4-Bwi3SP1DzftRymtZQ",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJpfd2q1OxbTkRhSFteqNSL7Y",
+            "plus_code": {
+                "compound_code": "WRF8+H5 Chandpol, Jaipur, Rajasthan",
+                "global_code": "7JRQWRF8+H5"
+            },
+            "rating": 5,
+            "reference": "ChIJpfd2q1OxbTkRhSFteqNSL7Y",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sisiyawas, Rajasthan 302028, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9973872,
+                    "lng": 75.84891
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.99873702989272,
+                        "lng": 75.85025982989272
+                    },
+                    "southwest": {
+                        "lat": 26.99603737010728,
+                        "lng": 75.84756017010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "f01f0d1cbddd216a67a3eee0279e9534d52d01dc",
+            "name": "Camping Ground",
+            "permanently_closed": true,
+            "place_id": "ChIJke3EwMuxbTkR68JzybE6gmo",
+            "plus_code": {
+                "compound_code": "XRWX+XH Sisiyawas, Rajasthan",
+                "global_code": "7JRQXRWX+XH"
+            },
+            "rating": 5,
+            "reference": "ChIJke3EwMuxbTkR68JzybE6gmo",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Polot.N.1576Gangapol.polis.sathan, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9316982,
+                    "lng": 75.8408865
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93307027989272,
+                        "lng": 75.84212017989272
+                    },
+                    "southwest": {
+                        "lat": 26.93037062010728,
+                        "lng": 75.83942052010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "220c73b3be42a93b77c82eab34059d5226d33c9e",
+            "name": "TENT HOUSE",
+            "permanently_closed": true,
+            "place_id": "ChIJ8drwSduxbTkRpD4m5nRfMEg",
+            "plus_code": {
+                "compound_code": "WRJR+M9 Jaipur, Rajasthan",
+                "global_code": "7JRQWRJR+M9"
+            },
+            "rating": 0,
+            "reference": "ChIJ8drwSduxbTkRpD4m5nRfMEg",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "217, Vijay Nagar Kachhi Basti, Behind Sector No.2, Shasri Nagar, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9401859,
+                    "lng": 75.8359646
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.94156377989272,
+                        "lng": 75.83733257989272
+                    },
+                    "southwest": {
+                        "lat": 26.93886412010728,
+                        "lng": 75.83463292010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "12f7f0528a060bb53a357d733ea05ef9b882a3c7",
+            "name": "Experience Desert Holidays",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 432,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100872103965333291628\">Indian Desert Holidays</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkqRJrnmyK8KGqadthSjrDJ0ZhVW7yFydeF4rGouYQkW3sEq0BcKwApyJuO1SY7NsYchqZDXhJu2lduE91sOdT4Tspm23axxY4wVggBHBqv-e11YoLQnfEswfclvU62I-EhDj_ph1D3m80Jr-nVODiZ0jGhT2Ar0fk-qmQyxsOrtQYxx0FCddMA",
+                    "width": 767
+                }
+            ],
+            "place_id": "ChIJ41ftE0QcbDkRV1XRdtTr6BU",
+            "plus_code": {
+                "compound_code": "WRRP+39 Jaipur, Rajasthan",
+                "global_code": "7JRQWRRP+39"
+            },
+            "rating": 5,
+            "reference": "ChIJ41ftE0QcbDkRV1XRdtTr6BU",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "76/1, Shipra Path, Mansarovar Sector 7, Shipra Path, Barh Devariya, Mansarovar, Jaipur, Rajasthan 302020, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8604867,
+                    "lng": 75.7736931
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.86184527989272,
+                        "lng": 75.77496817989272
+                    },
+                    "southwest": {
+                        "lat": 26.85914562010728,
+                        "lng": 75.77226852010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "8e417c5ccdc648ab965932b2449e0dfe7ffcfb99",
+            "name": "landscape park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105321562088560647927\">Gaurav Yadav</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAoFwzP9xBgKsAdssIJELQK8bqQlDRxSf3XXVfSTz935mHg-TueFbFU2VTMRffwOZF5tXcDDpci_CzRotIeI-9wl6xVvfmPcfZkWwbpasklWqjx-1qK70Hd_f79T0tH7orEhARiN1Ma3JCc0kIqpR_n_-kGhRMOycryvq-9FnKi-LD52LqElfgMQ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJOwWuQbC1bTkRECyavUjl-XU",
+            "plus_code": {
+                "compound_code": "VQ6F+5F Mansarovar, Jaipur, Rajasthan",
+                "global_code": "7JRQVQ6F+5F"
+            },
+            "rating": 4.3,
+            "reference": "ChIJOwWuQbC1bTkRECyavUjl-XU",
+            "types": [
+                "park",
+                "campground",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 128
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nathawat Farm - Sirani Village Post - Kalwara, Sanganer, Jaipur, Rajasthan 302037, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.7682564,
+                    "lng": 75.6293081
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.76961952989272,
+                        "lng": 75.63060137989271
+                    },
+                    "southwest": {
+                        "lat": 26.76691987010727,
+                        "lng": 75.62790172010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "144e8e6c0827f2a8866c51d96e1015df1dcb8f48",
+            "name": "Sirani Camps",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116403231922471104874\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAG4cykIVrmDuWcfYMup1OlV3x5IQRSVjJkjFJnB8XGmp6xj-xkBQtgVCtqb7yN56s9ujugNuKeL5fwracfhOu8bv2IPs4Y3p5gF5XD9mNrpiKtgod2PhRAesUAFhrhktMEhDGg-VozIzo8OFhusgJGEkFGhRMPMhQ4bSwZL3e6PhXqF5NyQ4fdg",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJr9XS2Js1bDkREsXcqrBd_Qg",
+            "plus_code": {
+                "compound_code": "QJ9H+8P Sirani, Rajasthan",
+                "global_code": "7JRQQJ9H+8P"
+            },
+            "rating": 4.7,
+            "reference": "ChIJr9XS2Js1bDkREsXcqrBd_Qg",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Anantpura, Rajasthan 303704, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1318642,
+                    "lng": 75.75381879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.13320982989272,
+                        "lng": 75.75516757989271
+                    },
+                    "southwest": {
+                        "lat": 27.13051017010728,
+                        "lng": 75.75246792010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "e54d79deddcbe085fc75b59eb8fe1639e4f21152",
+            "name": "Rocksport Camp, Jaipur",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1824,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114409139942326157299\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtsq0hLAAjrsZ2g-KwzdqLPO5RrMldGcoET4xAv-H-vG1wljv7zvfGKZvz6UfrlkgTaiGIXU1wj-gb--3HKANqj_6t_b_Nh6kbgFhjZrtqdYMYgqLcc_H4xnNT1Tgv-_WEhA2n9Yo6lIJmc3sRPEONM1DGhQPc9YAY1ZXX6EikXybVIaUB6yYFw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJlYCejJirbTkRdk0y-Ab6ca0",
+            "plus_code": {
+                "compound_code": "4QJ3+PG Anantpura, Rajasthan",
+                "global_code": "7JVQ4QJ3+PG"
+            },
+            "rating": 4.4,
+            "reference": "ChIJlYCejJirbTkRdk0y-Ab6ca0",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "NH 11C, Delhi - Jaipur Expy, Achrol, Rajasthan 303002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1358492,
+                    "lng": 75.9792026
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.13654805,
+                        "lng": 75.98083994999999
+                    },
+                    "southwest": {
+                        "lat": 27.13375265,
+                        "lng": 75.97429055
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e705bc3dcacf88beb7b1961c8ed8adf95399c5a7",
+            "name": "Moto Sport Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3121,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108596760723260769440\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkIZL4OFXyUOOpbA2Iw4z9pgKzbsDOdAkxwuH82uvGKFq8RC3gTd-ApCOrVCj7JkpUvES5dharGIwvcV617wGrqQUiqRKGXR9lZq-p5U-1dBDnBD07Q18FcolfmallzIuEhCqv3i-USNrakYOf0AleMtJGhSiML9RtADLYV2HkC_fXtDEvYLydA",
+                    "width": 5456
+                }
+            ],
+            "place_id": "ChIJuxW-8bqmbTkRrBtyGGeB1Hc",
+            "plus_code": {
+                "compound_code": "4XPH+8M Achrol, Rajasthan",
+                "global_code": "7JVQ4XPH+8M"
+            },
+            "rating": 4.6,
+            "reference": "ChIJuxW-8bqmbTkRrBtyGGeB1Hc",
+            "types": [
+                "campground",
+                "parking",
+                "tourist_attraction",
+                "amusement_park",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 184
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shrirampura, Rajasthan 303905, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.7323848,
+                    "lng": 75.7448701
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.73383502989272,
+                        "lng": 75.74626767989271
+                    },
+                    "southwest": {
+                        "lat": 26.73113537010728,
+                        "lng": 75.74356802010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "38ea11edd830fc832daf1a37d72302ff8a4c025e",
+            "name": "Prim Habitat",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100056748243248371853\">Er.SURESH MEENA</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOPVybezpy-CNPi9Fbnf36ah6yyb7IGC_CBt9UTxbJw05jbCdqamLWnFKB9W2sAxG-HWXB_wQ8DLHSxd6sal5K72AlOXgSvr_gROBNHGt1mv8TaqAG8PHEli5Es6dwTEVEhDSrTZbrBc0so35SBmZXRgeGhSNs0gHm0Ebb8-D-BL96dUOLw1zsA",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJ_yonE7HLbTkRre3BUWegPPg",
+            "plus_code": {
+                "compound_code": "PPJV+XW Shrirampura, Rajasthan",
+                "global_code": "7JRQPPJV+XW"
+            },
+            "rating": 2.3,
+            "reference": "ChIJ_yonE7HLbTkRre3BUWegPPg",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Village Novrang Pura, NH248A (Jaipur - Sariska - Alwar Highway, near Sariska National Park, Viratnagar, Rajasthan 303003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.4123194,
+                    "lng": 76.132159
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.41326682989272,
+                        "lng": 76.13352267989272
+                    },
+                    "southwest": {
+                        "lat": 27.41056717010728,
+                        "lng": 76.13082302010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "7a7ef535fcc602888060cfffa8fa4d89df3469f4",
+            "name": "Bikamp Aravallis Camp Resort in Sariska",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3632,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102217026880720687257\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAN7AplHTgBvdoi4V0UtZoUGG9l6R2onIhuj-g7PgmvZ3f1oE91qthtEhUBkDoQUD9opsLv8XGu1oxZPN9VJpLOtxJDPcGpBwEiKfkNQUTqVjpq9qYI9RcrihaXKj4yP9rEhA1hAgw71F9xyQt20SnbJ4VGhSdMbNFRkDXcx7LYCh8ZmpFp9zEAA",
+                    "width": 5780
+                }
+            ],
+            "place_id": "ChIJpaODR4BybTkRwG8r63kNjNI",
+            "plus_code": {
+                "compound_code": "C46J+WV Viratnagar, Rajasthan",
+                "global_code": "7JVRC46J+WV"
+            },
+            "rating": 4.2,
+            "reference": "ChIJpaODR4BybTkRwG8r63kNjNI",
+            "types": [
+                "campground",
+                "spa",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 90
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "RJ SH 25A, Doroli, Rajasthan 301408, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2081133,
+                    "lng": 76.4860885
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20949557989272,
+                        "lng": 76.48740552989271
+                    },
+                    "southwest": {
+                        "lat": 27.20679592010728,
+                        "lng": 76.48470587010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "4d6750b3719cb339f87e4751e50c02b894a50796",
+            "name": "CT Resort Jungle Camp, Sariska",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 581,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102065231748912245349\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAATgjIqAvtnOBsBMajSbZdQbHxV5ZkihT2Y-CpUJMLxVt7cI90jimSR5u-HQ9ES0wb_ERg9kfa7kCelXoO7A1zTfDmlMtjc60_4tg2WuypQgxoPNooPyyBPrACah2J6Y1fEhAby7uR9GgGFQSvzxTpMfvnGhTkoGFqbF2AuZ2eXLGGrxxtG7L5wA",
+                    "width": 1032
+                }
+            ],
+            "place_id": "ChIJwxx1bw5_cjkRxahUD_kV5i4",
+            "plus_code": {
+                "compound_code": "6F5P+6C Rundh Umri Deori, Rajasthan",
+                "global_code": "7JVR6F5P+6C"
+            },
+            "rating": 4.2,
+            "reference": "ChIJwxx1bw5_cjkRxahUD_kV5i4",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 224
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Amarsar- Kalka Mata Rd, Amarsar, Rajasthan 303601, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.373157,
+                    "lng": 75.85639599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.37471392989272,
+                        "lng": 75.85752082989272
+                    },
+                    "southwest": {
+                        "lat": 27.37201427010728,
+                        "lng": 75.85482117010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "5bc0ba76cfb6f9e89c0610ffba1cae6287a5719f",
+            "name": "Amarsar Camps",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113693020987592542767\">umang singla</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVpvI3OzfyHAED2PRNPjSU57TdVu97wGRUdW0GDkEPNBNPIb6hSC5Fwote718bsk766JEnpMd85rsEsxk4YgWnRQvXswe2zC7HrqvQ8YN6_u99FEJ6oY5bTLc6mM2THLKEhDKPPoD7jv3vYVB_qEV6r-hGhS_AxsSZhQ8dHo7y_gBFc8AeFeTDw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJxR-uIaIFbTkRihJ7IJ13qms",
+            "plus_code": {
+                "compound_code": "9VF4+7H Amarsar, Rajasthan",
+                "global_code": "7JVQ9VF4+7H"
+            },
+            "rating": 4.5,
+            "reference": "ChIJxR-uIaIFbTkRihJ7IJ13qms",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jaipur Road, near New High Court, Jhalamand, Jodhpur, Rajasthan 342001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.2336376,
+                    "lng": 73.0619388
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.23508262989272,
+                        "lng": 73.06345562989273
+                    },
+                    "southwest": {
+                        "lat": 26.23238297010728,
+                        "lng": 73.06075597010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "39034f6d3694ff919453b43ded2d5258072208a9",
+            "name": "Kross Adventure Campsite",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 537,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104042314205283497168\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhJe0URwTEs1grQ93hVFKXbKpKoTX1RscGFLxMuHick0BvBQbzsrc9t__5siQbcifgVbSRmLkruTXPrwJjDilAmh1gAka8mYtQWOrb7QjnQdV_5XEOC-3FizjWzHVi5hpEhBVg1p-oaY4MmZ7ozNyTWG1GhRPn-1atl113CccCUi6bE_wAzkIow",
+                    "width": 868
+                }
+            ],
+            "place_id": "ChIJxydwebSLQTkRh3DLhNB_X3E",
+            "plus_code": {
+                "compound_code": "63M6+FQ Jhalamand, Jodhpur, Rajasthan",
+                "global_code": "7JRM63M6+FQ"
+            },
+            "rating": 4.6,
+            "reference": "ChIJxydwebSLQTkRh3DLhNB_X3E",
+            "types": [
+                "campground",
+                "cafe",
+                "lodging",
+                "park",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Majhewla, Rajasthan 305021, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.559271,
+                    "lng": 74.5717292
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.56039504999999,
+                        "lng": 74.57781920000002
+                    },
+                    "southwest": {
+                        "lat": 26.55589885000001,
+                        "lng": 74.56969919999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "af595ed69f98a2c9fb7e7ef29e3b6abef17dbe8d",
+            "name": "Exotic Nature Camp",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118342740194096620780\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1ppcTdZf3zRXSOgm15tysiPjFmhCPGdiiarS8_HW2DxBrH05HG2Xl3k-nmO4s5yGeumQL8eRSnaQlQm2QrhM8klayTDJ7du_KAhp_qI43LiFmRLIvidBNuKZ3jqkzAVeEhCmVs1Boiloc1ef_BbRwIwQGhTR2d2OxRD_7AKjSFCilwFNc83Bog",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJz_gXO2DCazkRmHQ-PcWbapM",
+            "plus_code": {
+                "compound_code": "HH5C+PM Majhewla, Rajasthan",
+                "global_code": "7JRPHH5C+PM"
+            },
+            "rating": 4.8,
+            "reference": "ChIJz_gXO2DCazkRmHQ-PcWbapM",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ghooghra, Rajasthan 305023, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.5115445,
+                    "lng": 74.6848953
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.51283952989272,
+                        "lng": 74.68622937989271
+                    },
+                    "southwest": {
+                        "lat": 26.51013987010727,
+                        "lng": 74.68352972010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "e3416b49871b19ad8fefa449a064f50029d7d29d",
+            "name": "Terra Walker Camp (Ajmer)",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2976,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106980723509279130514\">lovepreet singh josan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAm4Ymgma1RP97A4Ni_DujGUpak0TUJwJlxEpLDvnRVpJz6duA2W9dCvKyjozzd0DqNvAyg9pAIap03A7q34abZrQdbXfR4I32criVkRm2L9Wc1uJmS4NmUvhCi-ghP9tvEhDXpjnjo552sk7EskS6CHdqGhRAP9j-3Df7tdVt-EbF7b_mhxpJXw",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJdbBkRAjmazkR8LFoEYDXCf8",
+            "plus_code": {
+                "compound_code": "GM6M+JX Ghooghra, Rajasthan",
+                "global_code": "7JRPGM6M+JX"
+            },
+            "rating": 3.2,
+            "reference": "ChIJdbBkRAjmazkR8LFoEYDXCf8",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Near Mokhampura Chouraha, Mokhampura Keriya Link Rd, Mokhampura, Rajasthan 303604, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.7728928,
+                    "lng": 75.3631029
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.77445502989272,
+                        "lng": 75.36444192989272
+                    },
+                    "southwest": {
+                        "lat": 26.77175537010728,
+                        "lng": 75.36174227010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "a755fa68a8af311394c91e166cd23ae58d362def",
+            "name": "The Resort Villas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104525679522193940987\">Taani Villas</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAY7ec7jAAlxhuTDGz7ElYMQCkDEFOlSul8WJ5OxfBH61chGhC684k-hoDj-Cmbl-4djZGSsufAZdCq4niFvPkgZn5x2DuzF_GfMHbElQNTq_CKUTyBdaxUQHhfJpxEInYEhBoLu6tkCF60zayEnMTxvR3GhQEQKN31athGeYYdYxNaiM40o4LKg",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJaR4i3vI_bDkR5zNeb_9w2kA",
+            "plus_code": {
+                "compound_code": "Q9F7+56 Mokhampura, Rajasthan",
+                "global_code": "7JRQQ9F7+56"
+            },
+            "rating": 4,
+            "reference": "ChIJaR4i3vI_bDkR5zNeb_9w2kA",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Subhash Chowk Station road malakhera, Alwar, Rajasthan 301406, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.3104429,
+                    "lng": 76.4389167
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.43407514999999,
+                        "lng": 76.46126854999999
+                    },
+                    "southwest": {
+                        "lat": 27.18230455,
+                        "lng": 76.37186115000002
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "4836eea2bd18f2529d900640a1153c9237f1bb3b",
+            "name": "Sariska Tiger Reserve",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 667,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108409436080167997496\">Bhishm Rathore</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAW-ha-dy5buMyfohgveHTdb31hcuKkwRBs1pSBk4pvB8WNCtq6tKMRLHrzPG9K3CFGiY1DGgrxN7Wsu4G5Zi0oG0kkH_Ow_P4lLDDbQi_z97euSsr8dFM0KNx4-0kNeGXEhBVTIEK1Cf9OW20ToyCZZYpGhTTwn-JTqvjj597ICT2CSWFq9IcgQ",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJXS44VK1_bTkRJk5ZLkOsYEg",
+            "plus_code": {
+                "compound_code": "8C6Q+5H Rundh Baleta, Rajasthan",
+                "global_code": "7JVR8C6Q+5H"
+            },
+            "rating": 4.3,
+            "reference": "ChIJXS44VK1_bTkRJk5ZLkOsYEg",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5023
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "New, Sumel, Beermalpura at Mukandpura, Rajasthan 302027, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9171056,
+                    "lng": 75.9207077
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91846062989272,
+                        "lng": 75.92206062989271
+                    },
+                    "southwest": {
+                        "lat": 26.91576097010728,
+                        "lng": 75.91936097010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "9f321c67009338b346a11658cc1f48fe3ff3178f",
+            "name": "Kanota Camp Resorts",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110612697599044500477\">Somya Shrimal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA24N31Fpe4zHSzHuAmPcsDqX7RMDDn40d-13ubZijaMTwTR0zjB7Q9mxLiMisjIjc8lQ8Mf2zwFDddmsXSGPbdGUyw4Snnc67pGSFP2e6cyXmO4BTyWBKKycPA7SpwX1DEhBBaSUhkw1z8e-YvcpvbLlQGhT0qt_NFC-_rp-R5NF1YA-X0XEuxQ",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJe5ne0pK5bTkRRNISkhvxbDQ",
+            "plus_code": {
+                "compound_code": "WW8C+R7 Sumel, Jaipur, Rajasthan",
+                "global_code": "7JRQWW8C+R7"
+            },
+            "rating": 4.2,
+            "reference": "ChIJe5ne0pK5bTkRRNISkhvxbDQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 155
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Pushkar by-pass Devnagar, Rd Bagolai, Pushkar, Rajasthan 305022, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.5161914,
+                    "lng": 74.564769
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.51748987989272,
+                        "lng": 74.56621817989272
+                    },
+                    "southwest": {
+                        "lat": 26.51479022010728,
+                        "lng": 74.56351852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "b4bd5662e1857ab85f1704ea251c13520228af50",
+            "name": "Rajasthan Royal Desert Camp",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100745450244672028974\">Rajasthan Royal Desert Camp</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMDiAhVJ3-nJvkk5E_iI-eyG5NXgYi0qQAX2YbgwH6DNz1yMufdl4DHgyefygHmLdWlgawha4yFPwfcIXybCHxZUlk4QFiHL1HdEisE_Wa3QLUyrxGMJOFJXmGryuvmNJEhC0NgE_5DUoYmnw82_dAD3PGhRPpXGf4nSK4J5VKdOEbRFOoHRptA",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJA8XPyibdazkROoh25nv7shw",
+            "plus_code": {
+                "compound_code": "GH87+FW Pushkar, Rajasthan",
+                "global_code": "7JRPGH87+FW"
+            },
+            "rating": 4.3,
+            "reference": "ChIJA8XPyibdazkROoh25nv7shw",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 62
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Village Khurad, Kukas, Tehsil - Amer, Jaipur, Rajasthan 302028, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.0449652,
+                    "lng": 75.870831
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.04631502989272,
+                        "lng": 75.87235562989272
+                    },
+                    "southwest": {
+                        "lat": 27.04361537010728,
+                        "lng": 75.86965597010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "b8eb392332dda5c3298c93ce5235ee80407271a7",
+            "name": "Dera Amer Wilderness Camp",
+            "photos": [
+                {
+                    "height": 1236,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103502197450914479986\">Robyn Restel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAALwhnLV_5M-dxMRb_fVbmAyI0OVJOJqiKyGMd5cgEYnhKLpjTjJ02zH5DOFWPsKNNM6juMHaMHWwLhJXGgAgeNnzr3s4Ve4QTU5gn4X_SVeIyaTCWNFMZKU52lFoTqkkWEhAqoZq4rC_15x_KJYkfSwZmGhQYJ1EalqibLJ8A7xRMVpltDzSkbQ",
+                    "width": 2543
+                }
+            ],
+            "place_id": "ChIJjeZS076vbTkRs7Q2JIqfRVg",
+            "plus_code": {
+                "compound_code": "2VVC+X8 Jaipur, Rajasthan",
+                "global_code": "7JVQ2VVC+X8"
+            },
+            "rating": 4.6,
+            "reference": "ChIJjeZS076vbTkRs7Q2JIqfRVg",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49
+        }
+    ],
+    "status": "OK"
+}

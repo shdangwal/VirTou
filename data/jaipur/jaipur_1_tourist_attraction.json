@@ -1,0 +1,987 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCBgEAABl2vVGtGb76g-p4i9eH2x68LHbZ5dcc4_piWnYb0FQfJukDoafufPXgZd-dLcY1PHpdnKFoZcJlIrSsAyAOk97ihDAs3nk7mdmOpDSjYDXxOnJBmEr9V7sWRrMRC7T1Ulfp_C25nKrEBMajVIYPQIRJMOIng2ip899xuJ69HrjeuwAaHg7S1_y15JzZJ1NXSosk3fWn5J50tAdGj2I_4J0VFDcFfyP-F4hSLOlphzcyAXIgcLqGpmRWWghSV0NK_cr9mL83OKeTTyN93ubKJZEzs3KkNeOOPJsPmnJ_DJOtLo_DGurdxukEhe50vuqgaNLR2WRMWmJyTY_vMnRT7eDtdPIk06DT7lGnXrkY55mJEhCC9G49n_F56sElArbrId1rGhR-3QboYZDXQItDDtc9KGNBx0Dddg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Devisinghpura, Amer, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9854865,
+                    "lng": 75.8513454
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.98918225,
+                        "lng": 75.85539884999999
+                    },
+                    "southwest": {
+                        "lat": 26.98409725,
+                        "lng": 75.84999425000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "58945ca970cac0a5a98613d845ba63a011ba8db9",
+            "name": "Amber Palace",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107242163933308009294\">Lakhankiya Darshan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQZi_j7zs05YcN9P7et4AutY4jLa8LhcX-ym7YVIZ7TpQ4tCJKKDa5VUTfCva1f6IYqEDMAu_OhvQaqzzWbAIdEb7yid7JHeKR_-yVXSyG1H6e-jjmE0y-FsASzyCKla5EhAMHWNz6g5z629tU407tf7wGhQGIWsZo79oDLqCbnwF3ghcmx3aKg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ-w3Sy1qwbTkRK34UR2ffIWI",
+            "plus_code": {
+                "compound_code": "XVP2+5G Amer, Jaipur, Rajasthan",
+                "global_code": "7JRQXVP2+5G"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ-w3Sy1qwbTkRK34UR2ffIWI",
+            "types": [
+                "tourist_attraction",
+                "premise",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 93670
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Hawa Mahal Rd, Badi Choupad, J.D.A. Market, Pink City, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9239363,
+                    "lng": 75.8267438
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92525457989272,
+                        "lng": 75.82824392989274
+                    },
+                    "southwest": {
+                        "lat": 26.92255492010728,
+                        "lng": 75.82554427010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "cbda97b8e1b121fbf8508e695fe18967aabdb757",
+            "name": "Hawa Mahal",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 531,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103985834410496334207\">Sanjay Jain</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAU5c4EUJLhe4aOlrk1WoAVTvXMzThLZKZHXHuMcGyaVOx63QHF5JkS4FRvm84qT6E2W7ojkD6HFHA_xX-QseuxIdaxplmEbOz3oFkjMPnNTP5G4SP6C4agM5pd9qAGZiuEhDJERwNGSAEqBTH3ncWGfnLGhSkPuA7SPkHkMskXM7r2-gcDSPIgw",
+                    "width": 921
+                }
+            ],
+            "place_id": "ChIJpQvTG0uxbTkRDLLMHlNdDoY",
+            "plus_code": {
+                "compound_code": "WRFG+HM Jaipur, Rajasthan",
+                "global_code": "7JRQWRFG+HM"
+            },
+            "rating": 4.4,
+            "reference": "ChIJpQvTG0uxbTkRDLLMHlNdDoY",
+            "types": [
+                "tourist_attraction",
+                "premise",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 83706
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Amer Rd, Jal Mahal, Amer, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.953456,
+                    "lng": 75.8462124
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.95555389999999,
+                        "lng": 75.84797320000001
+                    },
+                    "southwest": {
+                        "lat": 26.9527567,
+                        "lng": 75.84093
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "92e5196576056613767072cdcf64259078e11b3c",
+            "name": "Jal Mahal",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101577237551130307623\">Richa Sharma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAk510KuqQTTE2JmiKgR9uXHiwhTgnC9NquWd-NhLAaWOWEAAskPfqu-X5PWhWRh0REdZRZTrQtoz2jiQR9_k9Az9itzyn5UL0wyiWpjjRL9-fU1FFUDDk-1S3NknRouBREhAfG0_pa7pI6Uj8ulzgFPjrGhTX6XfojeFb_UIfkJRvrfBLQFX7oA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJlXJ26RuxbTkR0qsToxFP05c",
+            "plus_code": {
+                "compound_code": "XR3W+9F Jaipur, Rajasthan",
+                "global_code": "7JRQXR3W+9F"
+            },
+            "rating": 4.2,
+            "reference": "ChIJlXJ26RuxbTkR0qsToxFP05c",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17949
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tulsi Marg, Gangori Bazaar, J.D.A. Market, Pink City, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9257713,
+                    "lng": 75.8236581
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93017810000001,
+                        "lng": 75.82609665000001
+                    },
+                    "southwest": {
+                        "lat": 26.9235117,
+                        "lng": 75.82220804999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "72656e220912ad4bc38583c16c22a3511568868b",
+            "name": "City Palace, Jaipur",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104121440431764361728\">Narendra Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA6fVhW1GPVeQ3VZqW2rCjFUFCMfZLdReozGB8FaEywhqPYcoXJDXQzocOpS5oWnVWyuLJ2_fQYdaaXME2ER_usW5oWSvI0hqYxt1fwBwTpwCO2NpFTUkF0cslOBWgS2FjEhBySIlQ9kCv-i8hRsKTbl0cGhRMlYybCslY7atqa8t1WKgz81zQdw",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJwbAghgu0bTkRYHt9ATEVgEQ",
+            "plus_code": {
+                "compound_code": "WRGF+8F Jaipur, Rajasthan",
+                "global_code": "7JRQWRGF+8F"
+            },
+            "rating": 4.4,
+            "reference": "ChIJwbAghgu0bTkRYHt9ATEVgEQ",
+            "types": [
+                "tourist_attraction",
+                "premise",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34674
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Gangori Bazaar, J.D.A. Market, Pink City, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.924762,
+                    "lng": 75.82455999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92630352989272,
+                        "lng": 75.82575602989272
+                    },
+                    "southwest": {
+                        "lat": 26.92360387010728,
+                        "lng": 75.82305637010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "58d3671cbb8c932adf21304e66ff5aaa656e2049",
+            "name": "Jantar Mantar - Jaipur",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113584951292877508204\">Kishore CM</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAjLVcrGl1aSCiU7DwmoyUfol3-0oS-Js7PXybcSpU5up_CF5kjKXue0dCo6okcTRJRwS71wCO66IRD09lbYo8VYSsf7Bp83IlgnEak9raS9EhetA4lCVTZ7OP6sTWd8S1EhBpneEhO8mH4Tj7Sz-0ndWAGhSpS2j4lfKbdq2LfhHajhjF5o8CyQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJaXD1f0yxbTkRvquNoSkESuk",
+            "plus_code": {
+                "compound_code": "WRFF+WR Pink City, Jaipur, Rajasthan",
+                "global_code": "7JRQWRFF+WR"
+            },
+            "rating": 4.5,
+            "reference": "ChIJaXD1f0yxbTkRvquNoSkESuk",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24408
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Krishna Nagar, Brahampuri, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9373127,
+                    "lng": 75.8155259
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93885057989273,
+                        "lng": 75.81683852989272
+                    },
+                    "southwest": {
+                        "lat": 26.93615092010728,
+                        "lng": 75.81413887010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1afe2c08894c86b4b7a76bbaa90f00605e0e4fbd",
+            "name": "Nahargarh Fort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114764431082967559209\">Raspreet Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAn-oGyCQHGPsy52Blap-zzvrOl4ciAJ9zNvCWvslwKKmbOrNPj1lTA0U4Q1-Cv7gj-zHOB_I4ICQMJRGGJHW7ucmZHwdQwvWr0cnaBAN06ZM1gPHz9j_-DLw0CYrOdYIBEhAWQXN-njZwO4ZhHsQQyc3mGhQJqtTowhPR67FHiwKcUTSrG2fGtw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ0fNH81yxbTkRi56uF-amqgo",
+            "plus_code": {
+                "compound_code": "WRP8+W6 Brahampuri, Jaipur, Rajasthan",
+                "global_code": "7JRQWRP8+W6"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ0fNH81yxbTkRi56uF-amqgo",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38834
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Devisinghpura, Amer, Rajasthan 302028, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9850877,
+                    "lng": 75.84559279999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.98643752989272,
+                        "lng": 75.84694262989272
+                    },
+                    "southwest": {
+                        "lat": 26.98373787010727,
+                        "lng": 75.84424297010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "61da0201e069c1a9f4d55d7b58fb80a768895461",
+            "name": "Jaigarh Fort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 605,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101270382086237771967\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAf8OV19M1aSFEEs_veicWPQ9ESaStYZO9dNUJ27lXeFTzd7xH15yM5yZFJ0w6Un3brKZ64DAlbPvvv0u95Cw-3q5RoY2lIGD1NARB4RxvsmEwJ6XLKmYrh2Wdrf9OOWEwEhB-m67Bua_OaC1GzozwTEZIGhTlD0WguFHi1nktEaKb5TwykgKO6g",
+                    "width": 814
+                }
+            ],
+            "place_id": "ChIJx0lfsbGxbTkRgVOhxJ7EGbw",
+            "plus_code": {
+                "compound_code": "XRPW+26 Amer, Jaipur, Rajasthan",
+                "global_code": "7JRQXRPW+26"
+            },
+            "rating": 4.5,
+            "reference": "ChIJx0lfsbGxbTkRgVOhxJ7EGbw",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21124
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Museum Rd, Ram Niwas Garden, Kailash Puri, Adarsh Nagar, Jaipur, Rajasthan 302004, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9115755,
+                    "lng": 75.8194875
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91318237989272,
+                        "lng": 75.82085095000001
+                    },
+                    "southwest": {
+                        "lat": 26.91048272010728,
+                        "lng": 75.81803355
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "87923a9d4f10148e171eeb604c0b538b2f853e77",
+            "name": "Albert Hall Museum",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 533,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108551239308814641278\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA3eA1u9eMKtdexV2BeFmMBL0PosCXlhyWubjZ9qKjiRGdb6Bc240ZS-z4QoPH-4_e8iEFgYtuNRc0jppc_50tijmUhKZ24dNBO9GZ8GwAEexYXmRx8LOtcoJJr2ZDtRn5EhCJe8tYROSkAVrkkW9nvQ-MGhTpjyJgDV4ZvBw0wTGsvx1O2uZLoQ",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJXyn5OrC2bTkRaGk8EzNDuwU",
+            "plus_code": {
+                "compound_code": "WR69+JQ Adarsh Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWR69+JQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJXyn5OrC2bTkRaGk8EzNDuwU",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37679
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Prithviraj Rd, Rambagh, Jaipur, Rajasthan 302007, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9047845,
+                    "lng": 75.8072858
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.90613432989272,
+                        "lng": 75.80863562989272
+                    },
+                    "southwest": {
+                        "lat": 26.90343467010727,
+                        "lng": 75.80593597010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "371fefbb805b7aaf03c22b66c45c4c6e5d42321e",
+            "name": "Central Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3034,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113184808874805936918\">Narottam Nm</a>"
+                    ],
+                    "photo_reference": "CmRaAAAArgLjTpKTGgQ3qzLK-hPytg1VP0KD0pe7ES_5stBj4FItt2rFraF4-TRgBlN7euOUaGLIWIpdTcabTxk9WFawtQvL0ldRwQLrVP1GGnsw2xmgdfz-l8JdLbKYraDE3zNmEhBsziKu_A44CNi0QAkmDuNhGhQkqiyLyzjjIHJdA9Wx6QELdNP2wA",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJV9GWIae2bTkR3tu5UFSOwk0",
+            "plus_code": {
+                "compound_code": "WR34+WW Rambagh, Jaipur, Rajasthan",
+                "global_code": "7JRQWR34+WW"
+            },
+            "rating": 4.6,
+            "reference": "ChIJV9GWIae2bTkR3tu5UFSOwk0",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16009
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "C-16, Bhagwan Das Rd, Panch Batti, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9154985,
+                    "lng": 75.81016389999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91697782989272,
+                        "lng": 75.81117877989271
+                    },
+                    "southwest": {
+                        "lat": 26.91427817010728,
+                        "lng": 75.80847912010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "37b6b7137c750553ac197904aa7028214d37986b",
+            "name": "Raj Mandir Cinema",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104555833960108382941\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbBQ3mA3eEmP5LTMIN43U9eEzq66MsVJZ2ZbmI0DeDSpiMWkfu9w70sh4olr4YlH33HmwuzcFoAu1Qla9AUA0OZtzI-xd4NHCt0fO9cZtsr_Qv2a1hR_uUjJ2TSGwvDniEhDIrgFVl-jx8XRbts-jwPjcGhSIYYjxPUJLpLHioOsQweWBHVTynA",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJeSsYKBqzbTkRkOA72_U4lAw",
+            "plus_code": {
+                "compound_code": "WR86+53 Jaipur, Rajasthan",
+                "global_code": "7JRQWR86+53"
+            },
+            "rating": 4.5,
+            "reference": "ChIJeSsYKBqzbTkRkOA72_U4lAw",
+            "types": [
+                "movie_theater",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29233
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "plot no.74 ,2nd floor ahead akshardham mandir, Vaishali Nagar, Jaipur, Rajasthan 302021, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9022189,
+                    "lng": 75.7406225
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.90356872989272,
+                        "lng": 75.74197232989272
+                    },
+                    "southwest": {
+                        "lat": 26.90086907010728,
+                        "lng": 75.73927267010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "a9e512884dc9f3a93b20a59b9da703f21ff2b8c1",
+            "name": "The Dance Union",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101363217382358113148\">sachin</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgvlrF4_ALPJG4LilanpZIYSYQLH_Sf8sXNcV3lBYw2K7S-YSnP-UeQ8pIGEjMPGQVwEN7x71ZL6uYcigGokbVRHABsqPfnw1TPIhCQF2CV8sf6NSGrfkeSXkVTHY6PM6EhDEpGup38sk_QQnXmCSGSn2GhSnJzHtjQzTuKiMyHPCgIipplhNwg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJM02m2pm0bTkRzl6a8MU4Kd8",
+            "plus_code": {
+                "compound_code": "WP2R+V6 Vaishali Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWP2R+V6"
+            },
+            "rating": 4.7,
+            "reference": "ChIJM02m2pm0bTkRzl6a8MU4Kd8",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8013
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Laxman Dungri, Natata Mode Delhi Road, Kunda, Jaipur, Rajasthan 302028, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9341049,
+                    "lng": 75.8539884
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93532602989272,
+                        "lng": 75.85517967989273
+                    },
+                    "southwest": {
+                        "lat": 26.93262637010728,
+                        "lng": 75.8524800201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "4e397898ef5194460640ebe5e527ca9cf966fcdb",
+            "name": "Khole Ke Hanuman Ji Temple",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112829680968927059938\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9WTKAo6R5RO-P3l-ClATJF1CZrFUQ8MIM9Dpj-cxrRmxI7hoMexIhwyt0-5FJ6AYA5Veg257Zrq_1v0HXvwL8w7R2YqV1ukLLfjzSBhvI5gD8zh8LH8qOhevZ9G-nktaEhD7CiuqVASmQldXAlEM1mqhGhRLThUZJa7XxfdJhp3aG3o63wBJSw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJPd5eDNW2bTkRRLivoMYzwak",
+            "plus_code": {
+                "compound_code": "WVM3+JH Jaipur, Rajasthan",
+                "global_code": "7JRQWVM3+JH"
+            },
+            "rating": 4.8,
+            "reference": "ChIJPd5eDNW2bTkRRLivoMYzwak",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7362
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ghat Ki Guni, Jaipur, Rajasthan 302017, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8997912,
+                    "lng": 75.853619
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.90124912989272,
+                        "lng": 75.85512287989272
+                    },
+                    "southwest": {
+                        "lat": 26.89854947010728,
+                        "lng": 75.85242322010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "629e28ea1bae59cf3da164ff3d5b9b9551ff1fd3",
+            "name": "Vidyadhar Bagh",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108758682447910644096\">Ayush Shishodia</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAAcHa936P3GfL7kni19iZqoCWak6jN8-7v1TsyAy6zZcN9xDuI6GUO2XnWzRuKzsvtB08wqVssSq7YWs-yvlczEUN4PzzkdhEJyK5l6zeM7Xzlzmq538CGE-D9g5Ur7H9EhDDRBoiKvKY72GBpn8xp6C4GhRMGaggQdH6sIFcBubM9ue6vRhSlg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJq5wk2R-3bTkRLw-MpqvXGMg",
+            "plus_code": {
+                "compound_code": "VVX3+WC Jaipur, Rajasthan",
+                "global_code": "7JRQVVX3+WC"
+            },
+            "rating": 4.2,
+            "reference": "ChIJq5wk2R-3bTkRLw-MpqvXGMg",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 555
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Agra Rd, Ghat Ki Guni, Jaipur, Rajasthan 302023, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8994218,
+                    "lng": 75.8587309
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.90078967989272,
+                        "lng": 75.85998927989273
+                    },
+                    "southwest": {
+                        "lat": 26.89809002010728,
+                        "lng": 75.85728962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "a2c607059c68c14f237745087074e42ae132ded8",
+            "name": "Sisodia Rani ka Bagh",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1823,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103787493735841122880\">Bhavishya Garg</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfQgqI7lurQ5GN4G5XhoewEkrrmMQWMzVAlGh19z6ebewaArZuig9BsAKNX_mie2fqVESoLw6PyRSZENt1gT_OjhWY4amGPaD7DE8O0Z9FUxEL1f9rmB6r6oMoVWmJlxpEhBJsbqbxCf7O0LM8sBud2fgGhSOSJZkSyAxlAcS5aowAm_dQDkJQA",
+                    "width": 3679
+                }
+            ],
+            "place_id": "ChIJkzbjKhm3bTkRNiCT5-dA6vU",
+            "plus_code": {
+                "compound_code": "VVX5+QF Ghat Ki Guni, Jaipur, Rajasthan",
+                "global_code": "7JRQVVX5+QF"
+            },
+            "rating": 4.3,
+            "reference": "ChIJkzbjKhm3bTkRNiCT5-dA6vU",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3052
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Noor Building, S-34, MI Road, near indian Coffee house, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9165642,
+                    "lng": 75.8139164
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91802742989272,
+                        "lng": 75.81525527989272
+                    },
+                    "southwest": {
+                        "lat": 26.91532777010728,
+                        "lng": 75.81255562010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b60262356ae19961bd34f911e3df81871f3ed2d6",
+            "name": "Elefunenjoy| Elephant Sanctuary Jaipur",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 405,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103097204285147165228\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAD6_X3SZurZJHhAvyG06o4o07bf1K6XKcyF80Dde-bALu36Z6LyoKk4p9GpUeeyq9hbxsDRr0EavEpxd4WktjQPO7RYfbRBB3BKLGUhu_-uNLvRuWB4qhv0PB2WAuz2gHEhBevKJeGCkPre27Mj2DHXh-GhSSr8IbOtVE3g7uCr0Gzv-vMGl0cQ",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJFTu7a6y2bTkRqXNxQgc95sw",
+            "plus_code": {
+                "compound_code": "WR87+JH Jaipur, Rajasthan",
+                "global_code": "7JRQWR87+JH"
+            },
+            "rating": 5,
+            "reference": "ChIJFTu7a6y2bTkRqXNxQgc95sw",
+            "types": [
+                "tourist_attraction",
+                "car_rental",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 190
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "2, Jawaharlal Nehru Marg, Opp Commerce College, Jhalana Doongri, Jaipur, Rajasthan 302004, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8763612,
+                    "lng": 75.8091692
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.87800597989272,
+                        "lng": 75.81108992989272
+                    },
+                    "southwest": {
+                        "lat": 26.87530632010727,
+                        "lng": 75.80839027010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "fc8ba2305ac5048446a1ab509591e232444d8e10",
+            "name": "Jawahar Kala Kendra",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110936605563060647430\">GAGAN CHOWDHARY</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYIUSN4sqYWSemn17dXSasvQQJ-atdYRLO1pPCzDt_zLe2oXb9TYNk7Tq1XtZPNo1Tl6DhZysNQGYC1AMahstKcPUaEqxzNMEePjY6kMX1A_c3-zNKADPha-4X_nHv7g2EhDdTNvEWyDkIjbHiG_8coPhGhS2ZM7Fii3xYbEkj36dcd-1G4yK0g",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJxVyo7oC2bTkRMJbp0SqUAdA",
+            "plus_code": {
+                "compound_code": "VRG5+GM Jaipur, Rajasthan",
+                "global_code": "7JRQVRG5+GM"
+            },
+            "rating": 4.6,
+            "reference": "ChIJxVyo7oC2bTkRMJbp0SqUAdA",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8856
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "309B, Mangala Rd, Bada Akhada, Krishna Nagar, Brahampuri, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9429931,
+                    "lng": 75.8246384
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.94411907989272,
+                        "lng": 75.82602527989272
+                    },
+                    "southwest": {
+                        "lat": 26.94141942010727,
+                        "lng": 75.82332562010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cab5a237c21c332b6160c68ae1090e812a690cce",
+            "name": "Gaitor Ki Chhatriyan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111271381885783617341\">Satyendra Choudhary</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfDaBqCwh1aMgfvqMND-VpRGh0oUrINbkGiHq4ccApiLYDs5qpjV_rhjZaMBKhxAf3krjrD5ciPs5EPjc55Kqnvb7sWqyrlNskDbhSx8v6nqvEC1QMuO9YDPO6mLZ2P1dEhDMCOuCT9C7me_8XVQNPa0QGhRJmzD8k4PS5kozlEpFuJX7Z3SsHA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJxUfgi0GxbTkR5Vqeib76O00",
+            "plus_code": {
+                "compound_code": "WRVF+5V Brahampuri, Jaipur, Rajasthan",
+                "global_code": "7JRQWRVF+5V"
+            },
+            "rating": 4.5,
+            "reference": "ChIJxUfgi0GxbTkR5Vqeib76O00",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1511
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "S4, Tirthraj Apartment, Jacob Road, Civil Lines, Jaipur, Rajasthan 302006, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9103243,
+                    "lng": 75.7898378
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91160972989272,
+                        "lng": 75.79120067989273
+                    },
+                    "southwest": {
+                        "lat": 26.90891007010728,
+                        "lng": 75.78850102010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4a984c8635423dc16d1d2250fb24cd78a4aba6e3",
+            "name": "Things to do in Jaipur",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112718340283275781182\">vinod verma</a>"
+                    ],
+                    "photo_reference": "CmRZAAAA_YN8z6UOVM8xBWAeV-UYrjwTN4r99EmaFH6ndWzoIqGRJ_QC6Bdk_IK8rAi248HfYG_DvZMetxozt0Kg0xHsOWNozMQHkh8XYBYgjk16NOwbM9YINxHzmjE4hX67qoljEhCUxaybgmspLDnSH201ZAkUGhSmNPJWi_2KHA3wqHHtCa2kuVA8kw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJvzp3pBi0bTkRcItQNNvqvRc",
+            "plus_code": {
+                "compound_code": "WQ6Q+4W Jaipur, Rajasthan",
+                "global_code": "7JRQWQ6Q+4W"
+            },
+            "rating": 4,
+            "reference": "ChIJvzp3pBi0bTkRcItQNNvqvRc",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Amer Palace and Fort, Amer Road, Devisinghpura, Amer, Jaipur, Rajasthan 302028, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9871777,
+                    "lng": 75.85092550000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.98861057989272,
+                        "lng": 75.85221597989273
+                    },
+                    "southwest": {
+                        "lat": 26.98591092010727,
+                        "lng": 75.8495163201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a0d42a41f62f15c547dc1dd18a6ac4fc28172eb6",
+            "name": "Chand Pol (Moon Gate)",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2848,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103377717064313805230\">Doug Cook</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-9FX_z8HUuXr8RHsi8AxQGywypyQzS7bPJR48kf3cSCE089u2ezCKMnJmSc8K8SFbUfGK5hpyl18fedrABYo5nLnR4yceUG5vBk3UCm830vzasNUG_spwbFUos4kv1PSEhCS5VALxzze7wQhb2vmGz5fGhTFFj8urU4wXy5fxIDKixC-r46pkw",
+                    "width": 4288
+                }
+            ],
+            "place_id": "ChIJNWQbG7OxbTkR3i3awnO4lOE",
+            "plus_code": {
+                "compound_code": "XVP2+V9 Jaipur, Rajasthan",
+                "global_code": "7JRQXVP2+V9"
+            },
+            "rating": 4.4,
+            "reference": "ChIJNWQbG7OxbTkR3i3awnO4lOE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 63
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jaisingpurakhor jaipur Ner, Link Rd, Jaipur, Rajasthan 303027, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9295936,
+                    "lng": 75.8203955
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93090862989273,
+                        "lng": 75.82192402989273
+                    },
+                    "southwest": {
+                        "lat": 26.92820897010728,
+                        "lng": 75.81922437010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c5bde24c6ed21fd09d32ffca0b0c9f296a66de03",
+            "name": "Raj tour&travels jai sing pura khor jaiput",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 5760,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107265024611597493854\">balram vaishnav</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAt2D4PXhhfgioZKvQw3SXjJUO6wn-K-c3DgwmMkCcu6HrBcK3_7MHEH1PszjQXJ3gXkbi-knTUSqImX9ZIok5sD-MLmisYwZ7mTpS94hnkLK8mJoIbYW8mIg2WtNOJbBxEhBhnF1OPOV2YM2anfrtaF-gGhQOGER7_Ir4n3-5rYcm1EaSq9WGjQ",
+                    "width": 2736
+                }
+            ],
+            "place_id": "ChIJwzRV5FuxbTkRTr6ldx78sXM",
+            "plus_code": {
+                "compound_code": "WRHC+R5 Jaipur, Rajasthan",
+                "global_code": "7JRQWRHC+R5"
+            },
+            "rating": 0,
+            "reference": "ChIJwzRV5FuxbTkRTr6ldx78sXM",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        }
+    ],
+    "status": "OK"
+}

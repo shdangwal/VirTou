@@ -1,0 +1,52 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jalna Road, Chilkalthana, Aurangabad, Maharashtra 431006, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8673554,
+                    "lng": 75.39579599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86897092989272,
+                        "lng": 75.3971448798927
+                    },
+                    "southwest": {
+                        "lat": 19.86627127010728,
+                        "lng": 75.39444522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+            "id": "a53e86388fea52c932d85371d900a95960108792",
+            "name": "Aurangabad Airport",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114533555351748928526\">Akil Ali Sayyad</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfT6_18tepVnqPROpuiBPqVnpg6FCtS8Kl6FmFNmQ3g4nZHodpOsQIGEKKdjbQJ2DWVlKWxbBJDVXtLyIRiBIk84oJdD2BcFYWUUvFlLiItsYFOE_dB7VE-0FxrZhrWKMEhDNTpQV0UItHvi4yKLlXBDCGhR0doyJrbe7UG50VrFaEmyz4d_q8g",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJh3bjGgej2zsRZp59kcFhQGc",
+            "plus_code": {
+                "compound_code": "V98W+W8 Chilkalthana, Aurangabad, Maharashtra",
+                "global_code": "7JFQV98W+W8"
+            },
+            "rating": 4.2,
+            "reference": "ChIJh3bjGgej2zsRZp59kcFhQGc",
+            "types": [
+                "airport",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 795
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,954 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CqQDlwEAAJDnKI5_AsXeyxI3nJ7ji6ZJ6eV_GIcIjI_1HMbmopz8ZonylsIB6hXuFSqZG_jDJdwFM3KsN5sBRk1RWsK0D0CBDdVzH0rN0LzQwqx80wMaWrkiMaHe26QIzx_WYTE23kj7DikmRIg12kLhbLUC9t82D_FR1pqbsLvMr63GzDeNCuzZFYc3nDZl427fTCAD3CWJvW_rUFzQh6NXIf4DblTsO8luxLK1tx5-Wx7RYr4hfCKNGL55OPLpPISfs2DHQRvK4NzfHLDip5YrCjgqbeGyjyBm3Ow6zBFqXCi5NXCbIGVo4tn60Oj2JsGO8w7D3fP7Yf5-QJ3ZUghBj9yMOpRkHgirasUhxoZ5YNuiTOXzOtQCHWZ4kRfnqnKWbqBdYq4DkFCR0o_UOpoYVpd-0PgnR0DPXKte6-eqLsyqDvqcK4w46kTz4IsrB_bR5bLEysz45CkBzBO-kD8FjKwWRzuItWy74eFbDYmEMRo-raXbHAcLAwYRV6bT1Yz0bZXI-_l7TgIjqr3REKggtqryqNJ3BsD3EOfaibaPXVu3i2uVEhAzmtMVlqdzuU1C4pdZ2NAzGhQASSM5S6JvdnWrZu_KyhH2xVt54A",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Banastarim, Goa 403115, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4842597,
+                    "lng": 73.9591305
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.48558532989272,
+                        "lng": 73.96033257989272
+                    },
+                    "southwest": {
+                        "lat": 15.48288567010728,
+                        "lng": 73.95763292010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "e8c9051bad1b46e1476486a6ac570a5576e10d21",
+            "name": "Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104914082130413423344\">Sanjay As</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAXXXeQRsak-u7eg4M8BSHEVMR0P1-nXNCIoVuiMOahkbGANDOQny7bjYh2BQ1ToUg53WpJiUhoG3Vhs9qGZ9feA0tYt4FWfT6TbmngkxtlOkAH_2Qgvimj5KWNqkR8JEeEhDP-0t_4ry1JhmPFnE3tPoHGhS27oKbbPdjmS0O7O8qWaEAd21wSQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJK7xdMRO8vzsRSuPd_BqsYEA",
+            "plus_code": {
+                "compound_code": "FXM5+PM Banastarim, Goa",
+                "global_code": "7J7MFXM5+PM"
+            },
+            "rating": 4.1,
+            "reference": "ChIJK7xdMRO8vzsRSuPd_BqsYEA",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dangui Colony, Mapusa, Goa 403519, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5967048,
+                    "lng": 73.8118621
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.59790417989272,
+                        "lng": 73.81304762989272
+                    },
+                    "southwest": {
+                        "lat": 15.59520452010728,
+                        "lng": 73.81034797010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "2ca2194d9e5a2a235112fe0e3fd50df07d1d4d65",
+            "name": "Eidgah Masjid,Mapusa",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101891173299572879312\">Saidul Barbhuiya</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwcEA_mV0ZQJMxhd3nU5pVB4vPzyGH8X7_nq2xtJcu4CD0jB5v79mo-10tf-g91UGr4bEycQhYsOkEWFe4jjcPmyTGa1Kw9XlPD2Tp78CgeOX9GVg2RKEcHtJ6X_Pt4RnEhDiNK5Ezw2lcPodsOJoz-TaGhQ81wus0juIaQroRFtq-NrG9KtDkw",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJ_eFq0B3rvzsR5lAUQ3GDrWs",
+            "plus_code": {
+                "compound_code": "HRW6+MP Mapusa, Goa",
+                "global_code": "7J7MHRW6+MP"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ_eFq0B3rvzsR5lAUQ3GDrWs",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Demani, Cuncolim, Goa 403703, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.16977,
+                    "lng": 74.0081294
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.17118762989272,
+                        "lng": 74.00953917989271
+                    },
+                    "southwest": {
+                        "lat": 15.16848797010728,
+                        "lng": 74.00683952010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "31f116b1580cc51ff9f122f96e474e47617e9422",
+            "name": "Cuncolim Mosque",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102799454218020142260\">Javed Ahmed</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAiDeNoMs5qs0y59JLd0jC3BEvr93FCgJmeYJMVFFpx_BThXN0AQcPBiyslhSiEGXeym-B9K_dGWmaCA4Pela3uVVJsZu5MLiVVvXNhwwtVjfiCsu1Rvoz-WEzsoc1VR9xEhD99wP3esFGO-6IGubNpZBJGhSJBkX_Q5SmLN1SoZvsJyUlxQJ3GQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJhVJY6GxNvjsRUUsvvFUHBEY",
+            "plus_code": {
+                "compound_code": "5295+W7 Demani, Cuncolim, Goa",
+                "global_code": "7J7P5295+W7"
+            },
+            "rating": 4.3,
+            "reference": "ChIJhVJY6GxNvjsRUUsvvFUHBEY",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 50
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dabolim \u2013 Pale \u2013 Velsao \u2013 Colva \u2013 Benaulim \u2013 Varca \u2013 Cavelossim, Zuarinagar, Sancoale, Goa 403726, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.3793291,
+                    "lng": 73.878519
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.38072192989272,
+                        "lng": 73.87988737989272
+                    },
+                    "southwest": {
+                        "lat": 15.37802227010728,
+                        "lng": 73.87718772010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "ccf7fa05d7322c2c147bf0c3680d21aaac7eedd9",
+            "name": "Minara Masjid Birla \u0645\u0633\u062c\u062f",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112239844964048657666\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA7Uyo1TZi38fOicDkn-WkJzJO8xSSEDOlVe_0Qnb10GpzCnY4K98WdAfBKpVvMwwwedNoe1hWk2twcxU9aGMMgPDiU2HAf5Mp-4PtgJ2DN8YXsy8H_eVXtdX0YHnJtyf5EhAO8dhABFuRTxehfrHs91GgGhRt0mNCfwH-fKyyNMp_ECOKUuefdQ",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJyRIoQC-4vzsRLYLs4VOQGSo",
+            "plus_code": {
+                "compound_code": "9VHH+PC Zuarinagar, Sancoale, Goa",
+                "global_code": "7J7M9VHH+PC"
+            },
+            "rating": 4.2,
+            "reference": "ChIJyRIoQC-4vzsRLYLs4VOQGSo",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 55
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "NH17B, near Caculo Ford, Verna, Goa 403722, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.3637152,
+                    "lng": 73.9270556
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.36501362989272,
+                        "lng": 73.92841007989271
+                    },
+                    "southwest": {
+                        "lat": 15.36231397010728,
+                        "lng": 73.92571042010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "efe3a6949aaaea817c6f6e2961ea1b426d54caff",
+            "name": "Masjid \u0645\u0633\u062c\u062f",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113571296636716966315\">krutika halarnekar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwa3UUXqYbcgMdKArPMUVPwgLXA7kYfmNY_NCVmhHpTq5RNvJzHFrOkbwP5t--YDss5D6SXbdlhcGHuwaelKI2upQpHUI1mVTRNuy-9RruwuRBTwGqXbpgfXq4yVEJrBqEhDaorJDphOuLUuGJIXn-oKNGhQ-vLTY62uzyLFnucF0BuxKrtSjqQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJTV1mzU-3vzsRCwjWZxkV_AQ",
+            "plus_code": {
+                "compound_code": "9W7G+FR Verna, Goa",
+                "global_code": "7J7M9W7G+FR"
+            },
+            "rating": 4.4,
+            "reference": "ChIJTV1mzU-3vzsRCwjWZxkV_AQ",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 39
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bhatlem, Panaji, Goa 403001, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4824118,
+                    "lng": 73.82899499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.48369872989272,
+                        "lng": 73.83017327989272
+                    },
+                    "southwest": {
+                        "lat": 15.48099907010728,
+                        "lng": 73.82747362010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "3134668bee59952e1dc558213f7182720531098f",
+            "name": "Sunni Madani Masjid Bhatlem",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108600539976702698707\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAe540T3UOvzNJf2aYK368UY4zcH4UFnFFy-RnDucB9B1lZdYHiGYnrCjOm4uV-vvZMWnDCOapBiPCtFBdmw8z-uxJCuzQhWja_bua9nk1EPLNwK3LOrY_wU1HczVx7VMuEhB0Zw5ZoxBtxufqcj9bHLWrGhTUe6UMvB00VwpkKlsdfhpWHAd3oA",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJTxeA4JfAvzsRZAKwVed36x8",
+            "plus_code": {
+                "compound_code": "FRJH+XH Panaji, Goa",
+                "global_code": "7J7MFRJH+XH"
+            },
+            "rating": 4.5,
+            "reference": "ChIJTxeA4JfAvzsRZAKwVed36x8",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Navelim, Goa 403707, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.2660526,
+                    "lng": 73.9535796
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.26763747989272,
+                        "lng": 73.95502672989272
+                    },
+                    "southwest": {
+                        "lat": 15.26493782010728,
+                        "lng": 73.95232707010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "da50e8655be75d97cf6c70d09811cc0be57021e3",
+            "name": "Masjid-E-Quba",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109516706532519429257\">Nurul Islam</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAuhLE2Z3VtUTxmOOO_862JlDYfUQ6kIHb30XS9mwoLC545F2BWzOC4CvFXz5mdiS94veQINHWzbzYy5ik6dHwEBco6aaftEB8lO6492MV5LLDdPN6vHtNCMyr6e2vc7GIEhB_QWe4uZS16a79t-Ywqe8aGhTVa2MLxYhjnSZtBlvEfKYB2MWYSQ",
+                    "width": 2250
+                }
+            ],
+            "place_id": "ChIJra3xneyzvzsRHZjxKnf7ly0",
+            "plus_code": {
+                "compound_code": "7X83+CC Navelim, Goa",
+                "global_code": "7J7M7X83+CC"
+            },
+            "rating": 4.3,
+            "reference": "ChIJra3xneyzvzsRHZjxKnf7ly0",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 45
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Goa 403506, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5112865,
+                    "lng": 74.1259116
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.51259442989272,
+                        "lng": 74.12733307989272
+                    },
+                    "southwest": {
+                        "lat": 15.50989477010728,
+                        "lng": 74.12463342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "22f2565ba5f63f2f8792e5fcbbc1c00452445fb5",
+            "name": "Nanus Sunni Masjid",
+            "permanently_closed": true,
+            "place_id": "ChIJJYA_R2KhvzsRQXbSmACrk2g",
+            "plus_code": {
+                "compound_code": "G46G+G9 Ansolem, Goa",
+                "global_code": "7J7PG46G+G9"
+            },
+            "rating": 4.3,
+            "reference": "ChIJJYA_R2KhvzsRQXbSmACrk2g",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bicholim, Goa 403504, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5824605,
+                    "lng": 73.9461171
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.58377707989272,
+                        "lng": 73.9473882798927
+                    },
+                    "southwest": {
+                        "lat": 15.58107742010728,
+                        "lng": 73.94468862010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "83df8175b075803f5510cc5bdf578b3ef5822b11",
+            "name": "Namazgah",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117091868170798189866\">Vishal Talauliker</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAjlAULEN8D0Iu7oiHWQHBUY9M26Exu_C9l39pA1jDMVi9ek6ZE46LkPgtP0YgAB1NNrF0_pGBx71lsUM1CaCEO_wFRbMmN5taHKSN9Q63rZ8BzaC_xPAMI0FuTGZMhaflEhAYjaI0AjeGQUL9lJXS3QiFGhQOqqw43_nP4RL9hp1103swyVGMAA",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJX91kyHKWvzsRqMI1tBk80e4",
+            "plus_code": {
+                "compound_code": "HWJW+XC Bicholim, Goa",
+                "global_code": "7J7MHWJW+XC"
+            },
+            "rating": 4.5,
+            "reference": "ChIJX91kyHKWvzsRqMI1tBk80e4",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Chandrawado, SBI Housing Colony, Fatorda, Goa 403602, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.2968058,
+                    "lng": 73.9644204
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.29816732989272,
+                        "lng": 73.96577012989273
+                    },
+                    "southwest": {
+                        "lat": 15.29546767010728,
+                        "lng": 73.96307047010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "c35c84ce9554d5a076d925968b8e16ce9e7dcfb9",
+            "name": "Masjid e Bilal \u0645\u0633\u062c\u062f",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103375990584456816940\">ABO MSFEER</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgj4z2IQCgslTzq0ZKfVB6MQik2WWi0okkTvKX3crqC3qYGlXEuuSTXzE_70V2YFs1UrJvTOm7TaK2BUZTzj3_HOy1KIlKMxFU66wYYfRXglKe7E44Ec9SD7MkBd5E-7jEhDXvSLiDn592jcxN-I-LHEiGhT2KpPQV6RfRKapV50ldsH-wsm9EA",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJC71SZGaxvzsR9XrW767RpgE",
+            "plus_code": {
+                "compound_code": "7XW7+PQ Fatorda, Goa",
+                "global_code": "7J7M7XW7+PQ"
+            },
+            "rating": 4.8,
+            "reference": "ChIJC71SZGaxvzsR9XrW767RpgE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ambaji, Margao, Goa 403602, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.2990003,
+                    "lng": 73.9646806
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.30023887989272,
+                        "lng": 73.96606747989273
+                    },
+                    "southwest": {
+                        "lat": 15.29753922010728,
+                        "lng": 73.96336782010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "98a586bc8535b9019891145e36ef09f4f2a8eba7",
+            "name": "As Siraatul Mustaqeem Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112663021175728294371\">asim inamdar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVqLUwGEPGJLQqc1o0pCjR1oV8FqFoOUjnSwaq16yiDiQmHPN6h0UTkjL13lQw8YngRF5pjsr7GiPr18p_xe4FuueCoRSmMNp-jD3ErjZYusUOlpzeQCxuGI5vVk-aSL7EhCpjarBoX5BeK8vQFjmvSa9GhSZxkkIPdzE5CQtzwKxEJNWYhu2HQ",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJWQTIAmaxvzsRveNQ5eDW4OQ",
+            "plus_code": {
+                "compound_code": "7XX7+JV Ambaji, Margao, Goa",
+                "global_code": "7J7M7XX7+JV"
+            },
+            "rating": 4.4,
+            "reference": "ChIJWQTIAmaxvzsRveNQ5eDW4OQ",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 59
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Masjid E Noorani, Electricity Dept Staff Residential Colony, Ponda, Goa 403401, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4067264,
+                    "lng": 74.0068651
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.40804297989273,
+                        "lng": 74.00820652989272
+                    },
+                    "southwest": {
+                        "lat": 15.40534332010728,
+                        "lng": 74.00550687010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "a2349e5d851ff0ea3ac3be7c800d0d05ada6a7c4",
+            "name": "Masjid E Noorani",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102541491644885838187\">Suhail Shaikh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAn1Rw6GMvVu895bLx3Dyoy6hojJRIWufmLEHFG06tMBVvbDwMOy_of5qufMNNAYWSkW1Pci_vGzwT59XJJphrplrJuLd_iZ0Ct6kIHNsdcvW6H6aKdVeiYN3GDNBbQl-yEhAA0nuqAk-Bj2f8uYa3CW3EGhRTn9Y2Fa-mSnGXaKgTg8hmUQqs4A",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJEwArKcC6vzsRzPYVKcPFqpQ",
+            "plus_code": {
+                "compound_code": "C244+MP Ponda, Goa",
+                "global_code": "7J7PC244+MP"
+            },
+            "rating": 4.6,
+            "reference": "ChIJEwArKcC6vzsRzPYVKcPFqpQ",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Masjid Road, Cavorim Covatem, Guirdolim, Goa 403714, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.2656208,
+                    "lng": 74.0319447
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.26694142989272,
+                        "lng": 74.03326822989273
+                    },
+                    "southwest": {
+                        "lat": 15.26424177010728,
+                        "lng": 74.03056857010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "879cdc50076b41793295722727c15cdbe45283e0",
+            "name": "SUNNI JAMIA MASJID CHANDOR",
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117956186900717640463\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAUJAaLpzvbS3kOVpHPoY5etzgV0WAwAp5MObE8pCUvqbLHFi1py3f2Sb7tOLZmKf-h4J4Yf9cNTILntDBuVFkkGPQM-hiBQpkdItOx41VPoDnAXO3uH8FV9rhfwyUUv6VEhA_YEQRuyJV-DJqvN-P0rpDGhQheFwIcsDim7Eb7Hgy7mOaCFnq6Q",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJxVJ-oZGtvzsR1o2eKyPoADY",
+            "plus_code": {
+                "compound_code": "728J+6Q Cavorim Covatem, Guirdolim, Goa",
+                "global_code": "7J7P728J+6Q"
+            },
+            "rating": 4.9,
+            "reference": "ChIJxVJ-oZGtvzsR1o2eKyPoADY",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Oceanic Hotel Road, Palolem, Canacona, Goa 403702, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.0053097,
+                    "lng": 74.0313319
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.00669482989272,
+                        "lng": 74.03278072989272
+                    },
+                    "southwest": {
+                        "lat": 15.00399517010728,
+                        "lng": 74.03008107010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "0fa8c56b3790ebfe97984d437a02adea8d709dff",
+            "name": "Sunni Islamic Jamia Masjid",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112037463563324814472\">\u041a\u0438\u0440\u0438\u043b\u043b \u0421\u0435\u043c\u0435\u043d\u043e\u0432</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAboDvv9w4eDmKlZbl0xC82H_s7PEdZwobai1Lfz3klKz0TEnjomrVGbURXbNnJEVbBpjOEqAzGLW8g76IT9IoTVeVD0JSgmPmSJFQI-J_yVSymeuIm9Uuc2gMSsnT1MmMEhDVYq6IgtrpDP79RSTrofg6GhTWDxN7rNolFQOzSBWFL8wVe3imLQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ8eshPbNavjsROY07VcPP-XI",
+            "plus_code": {
+                "compound_code": "224J+4G Palolem, Canacona, Goa",
+                "global_code": "7J7P224J+4G"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ8eshPbNavjsROY07VcPP-XI",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Pilar, Goa 403402, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4384811,
+                    "lng": 73.8914667
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.43981177989272,
+                        "lng": 73.89277197989271
+                    },
+                    "southwest": {
+                        "lat": 15.43711212010728,
+                        "lng": 73.89007232010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "9294fda5c2063bbef97ba85dd22882c87d72b929",
+            "name": "Masjid us Salam",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109130512910078607478\">Shark Team</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA5jWX2shXasrnZttH_busj1BL9qW97xVg9l5mDxel03QpwjuJhQ1-xA_hcu-mzAxl7Qg_2ZAFosdILW8CcUTnRbH-oxgs3rYCmaMu87C5hmj-cZUzek1Qj2IkFSBTKvb-EhB9tah3_LS0CLQG7Tn8DwkfGhR1uLwYdxG1x7_uVZjROYVW_pqRRg",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJydZNUx65vzsRF8gQNqm83_I",
+            "plus_code": {
+                "compound_code": "CVQR+9H Pilar, Goa",
+                "global_code": "7J7MCVQR+9H"
+            },
+            "rating": 4.2,
+            "reference": "ChIJydZNUx65vzsRF8gQNqm83_I",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Muslim Wada, Konadi,, Corgao, Goa 403512, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.7352684,
+                    "lng": 73.74856989999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.73638467989272,
+                        "lng": 73.74978507989272
+                    },
+                    "southwest": {
+                        "lat": 15.73368502010728,
+                        "lng": 73.74708542010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "6e85047a60da418f2d75487f468e8fb5918150a6",
+            "name": "Sunni Khwaja Masjid and Dargah",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2976,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115265733352560640585\">Muneer Basha</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAaHk0E4smEbrunTKnz9aVaEwEdHZ5obJTTmR8Fp32vd3hTU8ZtkmGzGR10ZQI2RQ5Z-9MaAybe9X8vuwnUJrxhX2m_hH64d8jF4RGhKZlwJdqanquH7P2ZpZSzEzK6qn-EhC7OfSfjpoDuZ43zZePLRq8GhRUXp1pswaot2LNF6BMAGQgGNJ9Tg",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJDTuYjwLyvzsR142ASF-DuZE",
+            "plus_code": {
+                "compound_code": "PPPX+4C Corgao, Goa",
+                "global_code": "7J7MPPPX+4C"
+            },
+            "rating": 4.6,
+            "reference": "ChIJDTuYjwLyvzsR142ASF-DuZE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 44
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Islampur, Road, Sasmolem, Vasco da Gama, Goa 403802, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.389443,
+                    "lng": 73.8117216
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.39079637989272,
+                        "lng": 73.81307157989272
+                    },
+                    "southwest": {
+                        "lat": 15.38809672010728,
+                        "lng": 73.81037192010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "b4d41c77965d098d77299fcba6677b862aef9afc",
+            "name": "Masjid E Aqsa",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113430540060775977500\">Abdullah Nore</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAegIxKdY0jaIy4YY5smfUVEs4z6fir_6CNhVoMIKej8U2VJNu4WwApAgvDxyDnvECSgb_4bkQDyqV0bINiIqdaMKNdmB0TAZw-2J2ow6YCMZpkcUUGjRrcKiHBYsTzhx8EhBFSTPf86k1FFu5ygcJthV_GhSAVnL7FakRMJ26rkOFfrkFCwaHGQ",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ-9AvdODHvzsRoIuo1Zfc878",
+            "plus_code": {
+                "compound_code": "9RQ6+QM Sasmolem, Mormugao, Goa",
+                "global_code": "7J7M9RQ6+QM"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ-9AvdODHvzsRoIuo1Zfc878",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mapusa, Goa 403519, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.6194593,
+                    "lng": 73.8200485
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.62083817989272,
+                        "lng": 73.82143947989273
+                    },
+                    "southwest": {
+                        "lat": 15.61813852010728,
+                        "lng": 73.81873982010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "c4e788b0d521ac09d8311e6033a190cb3b4a618f",
+            "name": "Raza Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109236017698781052181\">mum taz</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAvsNNkPkg58QKCxNjiekD6Mm94g-o6hfZHfel9rqjH6XReJpwO7QERgI_Rhi_Uu8KOckP_f6R0-lvoPdc856sC4x3EKhjJPmIWm9LAdaSoTLrmwIB3rlpS0HbZUIvQLjpEhDP_0c1bZvxYO9KK9vrMSr8GhTl8iG5N9z3KJSsU0hi9WkSGRA1bg",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJYwMBQUDrvzsRfjxTW8h1OUk",
+            "plus_code": {
+                "compound_code": "JR9C+Q2 Mapusa, Goa",
+                "global_code": "7J7MJR9C+Q2"
+            },
+            "rating": 4,
+            "reference": "ChIJYwMBQUDrvzsRfjxTW8h1OUk",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sasmolem, Mormugao, Goa 403802, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.3886504,
+                    "lng": 73.81146079999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.38997502989272,
+                        "lng": 73.81279087989272
+                    },
+                    "southwest": {
+                        "lat": 15.38727537010728,
+                        "lng": 73.81009122010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "aecc9ca6b3c80474465e9bed64f59140899a00f1",
+            "name": "Taiba Masjid \u0645\u0633\u062c\u062f",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110692806826653946582\">kaleem qureshi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMy0-DmS3VhY1haBCp6sCMrew0X25VtOieOUHj7sSZNW4zuQQIo7Y9IGhs6zyJzuZz69HT9SOLw6zlrYsmGf-C2UhOLNy1wny7mVcwz8KZAoXDdEiDvN9yia6rTmvJvIhEhBjdzspWVxtGD99ddHtespKGhS_Qbb-qOz8xV74w8CzmeZLdgK6zQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJK7s4R8fHvzsRrGRu_0bUMJE",
+            "plus_code": {
+                "compound_code": "9RQ6+FH Sasmolem, Mormugao, Goa",
+                "global_code": "7J7M9RQ6+FH"
+            },
+            "rating": 4.3,
+            "reference": "ChIJK7s4R8fHvzsRrGRu_0bUMJE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Aquem Alto, Margao, Goa 403601, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.2751959,
+                    "lng": 73.9789218
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.27663832989272,
+                        "lng": 73.98027187989273
+                    },
+                    "southwest": {
+                        "lat": 15.27393867010728,
+                        "lng": 73.97757222010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "68fa0171c01c6c449d82ae2ab9c2bfae00186966",
+            "name": "Siddique Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108504007885766780211\">Shaikh Abdul Rauf</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1Lav88WBT-MeNkPjrRwIjYgRUInJHBJgKfob4BTU1Jm5HMSht55kkxwYv4MVfEnF8wPbX2QQGBnZ67b2Wdpb7fooEujeM4Yyku8YVPJK2S-RytL-Gw1Z4NumbRDL7cC7EhCJgjzi98-uyzS8xzx_Is4oGhSgExm-HEAH3i_-LrP2UQNf4OIdTQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJE4a0sM2zvzsRWLtrNlEzmbY",
+            "plus_code": {
+                "compound_code": "7XGH+3H Aquem Alto, Margao, Goa",
+                "global_code": "7J7M7XGH+3H"
+            },
+            "rating": 4.6,
+            "reference": "ChIJE4a0sM2zvzsRWLtrNlEzmbY",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67
+        }
+    ],
+    "status": "OK"
+}

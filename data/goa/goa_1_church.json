@@ -1,0 +1,977 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9wAAAOidm00xzcSzgaEji1Zwf_dd8_yk0gWQrvGJJpPCaAwX_b-JIsAgtUjBNK8HIGjdNKdeIRV_Yg_XinoDZURNN-5wiHY1vm1-Furg5gFuUrfcLnPZbZC-BThBPbvxY7ZLuApYnhCRBlGZUbSoyTXn4VlhumBrUY4s12ndUpurI9yhlSlmtdKuR1x865RUY3plrIFCWDPnG_cTF_goHj_EO1tClkSN4nsrdS2uGwSeo19NmrAcpk8raKzmeMbLTRipaObV5Z0e4YgeU42i2B51eKUMKH9HvMQyXUqwYPs-lKDoAKBGB6LNfMESzI5DZDELl6n5GJU1MB4RyiHZkDGpGgoSEMfzsWIOQTUXpDKHlRcn_xQaFBluXEZrkLqedZLcK-L9t7LEk5Oo",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Off National Highway 4, Goa Velha, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5030684,
+                    "lng": 73.9112497
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50440802989272,
+                        "lng": 73.9126360798927
+                    },
+                    "southwest": {
+                        "lat": 15.50170837010728,
+                        "lng": 73.90993642010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "ea628813c2af142d8405f97810042c8d3377b5d6",
+            "name": "Catholic Church of St. Francis of Assisi",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115172470411998194515\">gagan mishra</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAG_RXYfJx0R12CXlL1FQ525DggTpx_MZELU8PMJnuq9TQDUNfeZ5QfdnIXiawW-VbJgV8osFwgmoe7WeafOuc9dfPuefQu_iTnAFUlsv5lap7bpF_mM1X-GAISSuzB7huEhC9-1aQedKLkySYxPklnsaTGhQ0QKKOIo_HlRNn98fiqhzZ9JbvHQ",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ78JjO_O-vzsRRzk9_PvVgE0",
+            "plus_code": {
+                "compound_code": "GW36+6F Goa Velha, Goa",
+                "global_code": "7J7MGW36+6F"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ78JjO_O-vzsRRzk9_PvVgE0",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1888
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Old Goa Rd, Bainguinim, Goa 403402, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5008938,
+                    "lng": 73.9116272
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50260592989272,
+                        "lng": 73.91289957989272
+                    },
+                    "southwest": {
+                        "lat": 15.49990627010728,
+                        "lng": 73.91019992010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "b9f14db47880efeeeb2bf2bfce9cfbfe4dd5bd88",
+            "name": "Basilica of Bom Jesus",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3850,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106221594336222679473\">Kallol Sarkar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAzDiSDu6iDQCeHxtJLb0Okif5KsKTEQv8AtDAg1tjg7qyks8LrTEZJC-kQA8EuwNdzMgW7TpKxz6Ob0BNbEVDaKNlZQZerzy9v9hisRZIlfJ2rOXV5kD7r5QHAF00HqdlEhC_aeEbLNMHaFPzl9zzO2FrGhTfEQSc9iRlFQjVsTMG1Y2e3hpm4g",
+                    "width": 5775
+                }
+            ],
+            "place_id": "ChIJiQKbufK-vzsRuKcVn2hWgB4",
+            "plus_code": {
+                "compound_code": "GW26+9M Bainguinim, Goa",
+                "global_code": "7J7MGW26+9M"
+            },
+            "rating": 4.5,
+            "reference": "ChIJiQKbufK-vzsRuKcVn2hWgB4",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30674
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Goa Velha, Goa 403402, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5055969,
+                    "lng": 73.9150423
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50691792989272,
+                        "lng": 73.91635997989273
+                    },
+                    "southwest": {
+                        "lat": 15.50421827010728,
+                        "lng": 73.91366032010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "6dc0aed659d7bd9e6a5e70074bad490e71347269",
+            "name": "Church of St. Cajetan",
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111876822647779295855\">Koen Van Crombrugghe</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAj1dinlRkARmJYJP5RGSZ3DO_GSjaINY5AbFSzoeJ3Om9wiY44Mm8N8NRC3DrwspeQma3pMzeaRd7nEYLupCNCd8kn9OjFLT4HLIP8860juY81UUf8ZL_MEDi0M5ToBK7EhAJLmsh9s4RTNJIwIi1ibLpGhT8s6Z8eExjW0N8zTIZeHCswJ5ESw",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJPzptf4u-vzsRYl7FhM9LGJc",
+            "plus_code": {
+                "compound_code": "GW48+62 Goa Velha, Goa",
+                "global_code": "7J7MGW48+62"
+            },
+            "rating": 4.6,
+            "reference": "ChIJPzptf4u-vzsRYl7FhM9LGJc",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 589
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Velha, Goa 403402, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5038769,
+                    "lng": 73.9121918
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50492702989272,
+                        "lng": 73.91357422989273
+                    },
+                    "southwest": {
+                        "lat": 15.50222737010728,
+                        "lng": 73.91087457010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "8fdbfe7b793520b5c67ccd54943d44edde9f8fa9",
+            "name": "Se Cathedral",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116009745630581844989\">ChittiRajesh Sadi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwSZreQ3FwJ2d_5CjuUb6YiRz_pGKIAQz2oLVQs-0AHnfwI846WBG2LjDmc-HiHOIbSSNnNvw-9NLheOerS__ASnnxF2R0t_Vv-4vkU0A7Qx1YMMPoqOisJKXsgcv_eA-EhA4e3VWB7ECCavD_IdYH-XjGhRAvhSEk9LTd-c8CJ7L48_FDxLW7A",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJE0a0LfO-vzsR8JyKJEBHTMk",
+            "plus_code": {
+                "compound_code": "GW36+HV Goa Velha, Goa",
+                "global_code": "7J7MGW36+HV"
+            },
+            "rating": 4.5,
+            "reference": "ChIJE0a0LfO-vzsR8JyKJEBHTMk",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4258
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bainguinim, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.501778,
+                    "lng": 73.90498070000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50312782989272,
+                        "lng": 73.90633052989273
+                    },
+                    "southwest": {
+                        "lat": 15.50042817010728,
+                        "lng": 73.90363087010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "78ceee803e5ecf10d3f6fbf82858267cffe78508",
+            "name": "Church of Our Lady of the Rosary",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108221275161091909449\">vijaya bhaskara</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAoFRepcIAErpjKDnWOENCY9rZiudQ0lAh_yBriodGCmv2BSewSCop6YsDLru9zGdTadr_aW5Wu3-7p8oAvdP2B0rli73rD_ZATcW1qBAJ1ngn9MhQVw5Tk8u4Oyug-o7gEhBxt1aLTJR0QU_QPiScPmFeGhQtbZp2BX-zxhP3D61QipKus4rNkw",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJ89dPoPG-vzsRpKOATjYJRvE",
+            "plus_code": {
+                "compound_code": "GW23+PX Bainguinim, Goa",
+                "global_code": "7J7MGW23+PX"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ89dPoPG-vzsRpKOATjYJRvE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 52
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Goa Velha, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5045002,
+                    "lng": 73.9233584
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50580842989272,
+                        "lng": 73.92463737989273
+                    },
+                    "southwest": {
+                        "lat": 15.50310877010728,
+                        "lng": 73.92193772010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "3ec4ebf9ab3f41aa78a82a6a4d464c791e1d88d2",
+            "name": "Chapel of Our Lady of the Mount",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104818820931731788472\">Chiragsinh Bhalaiya</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA7VZJ0bVrzfYX0OQmsx5te42Ab18ekFfkmpRxNSj5v_eLTWlq6TYGU_W4vCzmGoteMVTNwX-kbPpIdaX0j3rjyUMd3Bn8YaoztZ5nlPAiuAjJJQOHOBuX5zRI16TvGU_6EhCC54reg8e3MwtRBD0HwHpBGhSIPv7UEVfg4nSU2vO3aSpqCsv28g",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJW9QdZo--vzsRdSugrHnV5Gw",
+            "plus_code": {
+                "compound_code": "GW3F+R8 Goa Velha, Goa",
+                "global_code": "7J7MGW3F+R8"
+            },
+            "rating": 4.5,
+            "reference": "ChIJW9QdZo--vzsRdSugrHnV5Gw",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1089
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Monte Santo,, Goa Velha, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5007694,
+                    "lng": 73.9078111
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50218682989272,
+                        "lng": 73.90914667989271
+                    },
+                    "southwest": {
+                        "lat": 15.49948717010728,
+                        "lng": 73.90644702010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "79104525adc327eb5f909bac4075b8c23e30a6ef",
+            "name": "Church and Convent of St. John of God",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107826899284500990954\">josan thomas</a>"
+                    ],
+                    "photo_reference": "CmRaAAAALO1nprDJmbH239oPK9pvCFM_qPjKYzl5tTsrzjhgcCebM3PZdfzVLviJ5PYowVXcjuWAikFqRFoULEREbKB-v_0xsQajFWaejTAPYxKm8ZojtTYFSgwHx9dzn3ku1RI9EhA7qWH5NtPJP5k_3_mN_NWGGhRIDrVkInEVsu1JH0wFxjrg-Lzcsg",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJWbMUFfK-vzsRxQGL0-uPxFM",
+            "plus_code": {
+                "compound_code": "GW25+84 Goa Velha, Goa",
+                "global_code": "7J7MGW25+84"
+            },
+            "rating": 4.5,
+            "reference": "ChIJWbMUFfK-vzsRxQGL0-uPxFM",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bom Jesus church, Ella Goa, Goa 403402, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5009985,
+                    "lng": 73.912218
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50234832989272,
+                        "lng": 73.91356782989273
+                    },
+                    "southwest": {
+                        "lat": 15.49964867010728,
+                        "lng": 73.91086817010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "6f80a3e0d832e9302a40865c2050c9b85f419454",
+            "name": "Cross Of Basilica Bom Jesus",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 426,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106053272249651542744\">karl cardozo</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAG6dqndrzCtMUXlM-k_CNslTi4twaEMpcL5sHw7T6_NQv0QwI2F6AmS161OK-8mGvOkZXDr9RbVHCTWl1KzHvKPSeX0oI1MHWCKyC81fx4NB_vEruQn4qO_DAwJT2fXLOEhCnETNNJn_ypzHZ4ufTjplEGhRYc0-XG4EzIsp9vO1Fr1O2TvkC4Q",
+                    "width": 598
+                }
+            ],
+            "place_id": "ChIJw8S7tfK-vzsR5NDN4VhVNjg",
+            "plus_code": {
+                "compound_code": "GW26+9V Goa Velha, Goa",
+                "global_code": "7J7MGW26+9V"
+            },
+            "rating": 4.4,
+            "reference": "ChIJw8S7tfK-vzsR5NDN4VhVNjg",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 185
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Goa Velha, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5003089,
+                    "lng": 73.89724869999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50159997989272,
+                        "lng": 73.89859577989272
+                    },
+                    "southwest": {
+                        "lat": 15.49890032010728,
+                        "lng": 73.89589612010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "e316e653078e5ebea6192105b6d817abefb4bc5b",
+            "name": "S\u00e3o Pedro Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3870,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102181826020175337198\">Jimmy Vazhakatt Devasia</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAoAdrBwIC6bo-wqvk6XNnNk88mFbauWDBJKed_QSAzvv46wGQu_sGgXlM3H1_x7lpjcvH7feGJ2YHNkWPc3s_8o77rnJniqCzUHtwWuaEH6uzz-qUlzp_DpYRVplFVpfIEhD3lInXf7WG_eYNvHXgbGcAGhTKMBW_JJkEkcyb3FgZnk0-4wYpCA",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJ624yk_q-vzsRS1inwISMJ4Y",
+            "plus_code": {
+                "compound_code": "GV2W+4V Goa Velha, Goa",
+                "global_code": "7J7MGV2W+4V"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ624yk_q-vzsRS1inwISMJ4Y",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 75
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bainguinim, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5006988,
+                    "lng": 73.9056926
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50194527989272,
+                        "lng": 73.90710987989272
+                    },
+                    "southwest": {
+                        "lat": 15.49924562010727,
+                        "lng": 73.90441022010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "e3852deae80946ae73edde53f8ba6682272b7bb2",
+            "name": "Royal Chapel of St. Anthony",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108094283711520203561\">Gavin Octavio Joseph DSouza</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAIritJKjkB-tfCbBSTzA_JJtSypbHKVnHOeV0jp3W7HMTl8GJXIKwE17cvv7f_6Ux4BEdk57V2PBFHp1T8KamgE4-tk-BAEBvK3Zf31SwGjruhYRPooWQ8tz85dUwK3J6EhDgBtN9CTvOpIxnUE_1WaK8GhTOL9Bkq-XEZK7_J9O27UwUO0wttQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ4TTwkvG-vzsR_nQNomX0_H8",
+            "plus_code": {
+                "compound_code": "GW24+77 Bainguinim, Goa",
+                "global_code": "7J7MGW24+77"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ4TTwkvG-vzsR_nQNomX0_H8",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ella, Goa 403402, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5007507,
+                    "lng": 73.9192269
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50205472989272,
+                        "lng": 73.92052837989272
+                    },
+                    "southwest": {
+                        "lat": 15.49935507010727,
+                        "lng": 73.91782872010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "26f1ed6ae2d8f22da5534d2671c762e2dcc4ca4b",
+            "name": "Chapel of St. Francis Xavier",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106406634587936302381\">Rejin Joy</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAGP0eJMF7v1BrO0qmg-2oOzbA1SVfVa7CEWRaWVaL4xF7m4gDzycISpsMi9-EkJi47yU_zqniGoMtR7L9PYOBvG_iqNTuYBXAKU9CqxtYVmY3mWiUBT6-8kkju9f4GRRgEhDI4eNQhlLStEFU3xohFDpBGhQ34nod7wrPZyMBtFcMheaoee4npg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJL5VuzY--vzsRomHlFP3bsyI",
+            "plus_code": {
+                "compound_code": "GW29+8M Ella, Goa",
+                "global_code": "7J7MGW29+8M"
+            },
+            "rating": 4.4,
+            "reference": "ChIJL5VuzY--vzsRomHlFP3bsyI",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 196
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Goa Velha, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4924326,
+                    "lng": 73.9134459
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49381987989272,
+                        "lng": 73.91474007989272
+                    },
+                    "southwest": {
+                        "lat": 15.49112022010728,
+                        "lng": 73.91204042010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "4713e753b357d23428cfb8ff2faacddb3e4e95ce",
+            "name": "Our Lady Of Miracles Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115774831166451790633\">Yogesh Patil</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA7x3tsgnTjrLdmPmRe7Qjgg2CoF3ZoXiAWNOQd6UNgCKH8wiq01EWKmyI9eCFgtYfMbdIocrenu8kH0ygYaf7nPrhRs9P-TW-zTblZgheUpEPHs-k2xl-dWyqdB6KGCwREhDNhj4lg9oAojp0FdCxHv-rGhQwUv-qRl-W6fTn_nGB5WcdjAXH0A",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJN1VVpu2-vzsRlQkcMrUJn4A",
+            "plus_code": {
+                "compound_code": "FWR7+X9 Goa Velha, Goa",
+                "global_code": "7J7MFWR7+X9"
+            },
+            "rating": 4.7,
+            "reference": "ChIJN1VVpu2-vzsRlQkcMrUJn4A",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 75
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Goa Velha, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5038813,
+                    "lng": 73.91237559999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50533302989272,
+                        "lng": 73.91369497989272
+                    },
+                    "southwest": {
+                        "lat": 15.50263337010728,
+                        "lng": 73.91099532010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "eb4250ab30dbf7dfab3c61410bcf04b4d4a140fa",
+            "name": "Old Goa Book Stall (Jivitacho Sondex)",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104788354748986115677\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAsIwPMVtdmzfuhueNiSBHQ4K5l9DP59KUQGsHRCIfOs5vSy3NK1veP0N3s9ogNttL87Con3AvwxBWHPw6BEEFXEENHtgjytbO7PQKHm5O0r8YHSgw2JiGDSb9OL8gXVsLEhAaZUPNJpbW8gdLWeelilY_GhR7Y8Eh15VkKSjzTH40KPR8qsjGuQ",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJUaDp2fK-vzsR-hP5gyIRAOc",
+            "plus_code": {
+                "compound_code": "GW36+HX Goa Velha, Goa",
+                "global_code": "7J7MGW36+HX"
+            },
+            "rating": 4.5,
+            "reference": "ChIJUaDp2fK-vzsR-hP5gyIRAOc",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Old Goa Rd, Samper, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.500979,
+                    "lng": 73.91516659999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50235747989272,
+                        "lng": 73.91652997989272
+                    },
+                    "southwest": {
+                        "lat": 15.49965782010728,
+                        "lng": 73.91383032010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "76d37abba26efb19eab2cbdde1c798e70c5b6d82",
+            "name": "St. Peter's Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101362081578942533781\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhn-ze5FOZiHnNfIdgimDp8kwFi8gsoBHBJSWDei4irCZz_WjL1_NYq79lWwgMSw4yiQUUKvBmnQchHJBF8LhpHBwq2x9yxUA5ck-bb4Rh-_BkEoQzwQOT34CrxVpUMZDEhDJTwfI3TKOKatslYmOUJ8TGhQC-hU1DEbzZJYTgVal1-BSU5bD7Q",
+                    "width": 1840
+                }
+            ],
+            "place_id": "ChIJGXmddo2-vzsREFxFNNMNjFc",
+            "plus_code": {
+                "compound_code": "GW28+93 Goa Velha, Goa",
+                "global_code": "7J7MGW28+93"
+            },
+            "rating": 3,
+            "reference": "ChIJGXmddo2-vzsREFxFNNMNjFc",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Goa Velha, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5002453,
+                    "lng": 73.90610579999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50159512989272,
+                        "lng": 73.90745562989272
+                    },
+                    "southwest": {
+                        "lat": 15.49889547010728,
+                        "lng": 73.90475597010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "c256008f6504f375d5a1d11c4e6a0348096266bd",
+            "name": "Church of Our Lady of Grace",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2327,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107413078216519708505\">Ashwinee Kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2DjdU4eoWq6lBDf2K9sTO4vTxbvbOavNy0y0VSo-aW15grv9kLA7e7LCUB5H-Im5yoqeWOPlT2sABozPiurmB22p0fM0o5AqTFM3Pr6k9a5mog7FRbYc1U_HAB5WuP0MEhDuKBUBFLCp4Q6yCUKezxRfGhTGQq1oYhR5p7ieHtvxVEU5x-rx0Q",
+                    "width": 3490
+                }
+            ],
+            "place_id": "ChIJxapT8fG-vzsRv5zxNSl-WWI",
+            "plus_code": {
+                "compound_code": "GW24+3C Goa Velha, Goa",
+                "global_code": "7J7MGW24+3C"
+            },
+            "rating": 4.4,
+            "reference": "ChIJxapT8fG-vzsRv5zxNSl-WWI",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 960
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "North Goa, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.503375,
+                    "lng": 73.91043499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50472482989272,
+                        "lng": 73.91178482989272
+                    },
+                    "southwest": {
+                        "lat": 15.50202517010728,
+                        "lng": 73.90908517010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "3b7077866d4b28255e228379dae9525cb1da87d1",
+            "name": "Chapel of St. Catherine of Alexandria",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1890,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118152664623483693827\">sam desouza</a>"
+                    ],
+                    "photo_reference": "CmRaAAAADm4fpnF_aEaPQufs7xEd-Y1fjVS8pCEtOUVFO906jS2QMFL95RfyfKq2pBWsYZ0uTskKUJVEuhYOrvCrm3Sf2ImhrJTSeLkJTTLkZjtk82NSxTkOUzJROX-lwrO7S-ogEhA6WUJLvEV3WP-cCvO34TvSGhSmEjS6KlrefbnyOHRFiY6QWrkFyA",
+                    "width": 2774
+                }
+            ],
+            "place_id": "ChIJNcH7EPO-vzsRl1RKlSloJoI",
+            "plus_code": {
+                "compound_code": "GW36+95 Goa Velha, Goa",
+                "global_code": "7J7MGW36+95"
+            },
+            "rating": 4.3,
+            "reference": "ChIJNcH7EPO-vzsRl1RKlSloJoI",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 96
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Navelcar Hill City, Bainguinim, Goa Velha, 403402, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4907915,
+                    "lng": 73.8965984
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49214557989272,
+                        "lng": 73.89790677989272
+                    },
+                    "southwest": {
+                        "lat": 15.48944592010728,
+                        "lng": 73.89520712010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "356dc40b44e2c62b065bf7218d9111605d01582d",
+            "name": "Shiloh Prayer Fellowship Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100278638578674043995\">Samuel Mavaskars</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAx1xkTqm-lOiRMuYcXCYNkNjncElW0a-FZzmC4WeDlA8lZ7_A9mW-W_Y27xoDYiWItj69IpSEeEhInG93OkDAR7bxFS_mM6zdpYam8GkMpN_nnsbiIKRXqZ5_bFqsebbbEhDhyEfPlhnvduSjDEMDvfANGhQeQyktGV1wrir4J_Lszy32gprDSw",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJYXVmNKO_vzsR15mkEDom-og",
+            "plus_code": {
+                "compound_code": "FVRW+8J Goa Velha, Goa",
+                "global_code": "7J7MFVRW+8J"
+            },
+            "rating": 0,
+            "reference": "ChIJYXVmNKO_vzsR15mkEDom-og",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Monte Santo, Goa Velha, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5013889,
+                    "lng": 73.9075
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50252957989272,
+                        "lng": 73.90877337989272
+                    },
+                    "southwest": {
+                        "lat": 15.49982992010728,
+                        "lng": 73.90607372010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "166f7e1bc1f88a77f83482d660b3b9765f6d8eff",
+            "name": "Convent of Santa Monica and The Chapel of The Weeping Cross",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115709247605821795783\">brenden silveira</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAIr774YT0a6GJ0ElnUbiCtwk-SUfi6y61CI8-mpHS3SME8sMj5VUcPqUBYPeMtpWYxXhb9Ft_Tk8u5qc997NaNIYfCfhAvyyfJq85N_hxCzK-c9w7ywWFjCnsmr416eTYEhBzsp0tdK9FQDc41L_C8SRQGhQHR4oBplmtobiDhft7IScJ9jmFXw",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ1TGrOvK-vzsR97M1pNwn4yY",
+            "plus_code": {
+                "compound_code": "GW24+HX Goa Velha, Goa",
+                "global_code": "7J7MGW24+HX"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ1TGrOvK-vzsR97M1pNwn4yY",
+            "types": [
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Talaulim, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4781079,
+                    "lng": 73.891706
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.47961787989273,
+                        "lng": 73.89309657989271
+                    },
+                    "southwest": {
+                        "lat": 15.47691822010728,
+                        "lng": 73.89039692010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "2e0b6a4af9d0390e8ac32eec437f204ac08beb83",
+            "name": "St. Anne's Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3492,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111553323619260949308\">Alden Aranjo</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAI2ucavEuNCVior_VRaTnzSbRplg5nuKg35TKnHtscbT9pIZRZeo5N0h-O2p49GJZPdfVjeMrLoHk2yIzj6OsU9iYvQusuMulst25_d4DX_YEyFeNy5g7nw_Nyn4ThlBpEhDuy_3qOYr2yfWmJV60C8qxGhT0c33jzsHmi0UmyH_Cy_DRLjtupg",
+                    "width": 4656
+                }
+            ],
+            "place_id": "ChIJLQE-VNi-vzsRz50PIq-vPYQ",
+            "plus_code": {
+                "compound_code": "FVHR+6M Talaulim, Goa",
+                "global_code": "7J7MFVHR+6M"
+            },
+            "rating": 4.6,
+            "reference": "ChIJLQE-VNi-vzsRz50PIq-vPYQ",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 124
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Tiswadi, Carambolim, Corlim, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.489442,
+                    "lng": 73.9347502
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49091552989272,
+                        "lng": 73.93612077989272
+                    },
+                    "southwest": {
+                        "lat": 15.48821587010728,
+                        "lng": 73.93342112010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "9da3e69dd9db934a9702f01c924ae0a7b0ade530",
+            "name": "St. John Facundo Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102181826020175337198\">Jimmy Vazhakatt Devasia</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9fno0jSa7vKqeM8FmOSIxSDrRPmPsF3RtfSFfIEjUR2zdMtSb7YI4-yyweg-7ekwWdJOo5aSQ4zlma1cwAGYZDmAlMO2bNDOppkZJZoQKiLQ-NhNgVqCQAc173TnoUvfEhAA1XkG2GIpeN8vvchtzSVKGhTeAFYd52E0QCFKXQHJlk7ts-zO1A",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJB94pyyG8vzsRQSPWJFZ_MLA",
+            "plus_code": {
+                "compound_code": "FWQM+QW Corlim, Goa",
+                "global_code": "7J7MFWQM+QW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJB94pyyG8vzsRQSPWJFZ_MLA",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33
+        }
+    ],
+    "status": "OK"
+}

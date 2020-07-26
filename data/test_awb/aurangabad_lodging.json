@@ -1,0 +1,957 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_wAAAL1qfgzPnApg5jkwfTr3m-3eshsSg2hIq0ELiGZTa67t1Vw_FwTI3my1CaxxiL9xSTm9UMP8efxya-e5hsjomZqM-M3Y1wD-U4aSWK-s4ZafwR1L9cWYRh4XxaXQ9SL2vgjfPLQS_9OHAZZQxGJTfRdbQSUAaepXR5mZ7WwpKO8cew4mqxxcqJ8dA6VRavSSfwsz9PpR-R0W7y2IhQj8OEgur-darii1afs0NujXCwIb6nSjAo2D1UBfUXVgO0Q_q53MFkP6y7RtAEB62xDc_2FEnVfMZWTjo4C3bJK44Nw9NFWgRtThSNrbZxfWrtoeWb36Cd2hqs1bpDkYrpeTvZwSEGfJNn9oMujnTC0TiOQvObwaFAGVCFvGntRILz4M14GXkihHCGOM",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5-14-34, Adalat Rd, beside Raymond's Men Wear, Kranti Chowk, Snehnagar, Konkanwadi, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8722696,
+                    "lng": 75.3267228
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87370112989272,
+                        "lng": 75.32803972989272
+                    },
+                    "southwest": {
+                        "lat": 19.87100147010727,
+                        "lng": 75.32534007010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "f560e86993ef4dec5b99cbc9c0e3af5e3fbf532a",
+            "name": "Zostel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114786696209895568380\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAiRv2ZWI15c2h52nl0h-9cKCD_qQa6EQVPVUealcbMRZle9O-__UIE1DvQuBosJJQv_OIw1dowjuIeTN9azoTRu-BEKuJep5TLU6THemK-2TfoW7_WAtnTc0RePxeqKVkEhBHEnXfGhjlw4-ZsYzY0i4kGhQda-AP8KNsKAHnqcDk1hRZ-Ct-8A",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJtX55CTSZ2zsR-NnGsHpT4Eg",
+            "plus_code": {
+                "compound_code": "V8CG+WM Konkanwadi, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8CG+WM"
+            },
+            "rating": 4.4,
+            "reference": "ChIJtX55CTSZ2zsR-NnGsHpT4Eg",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 391
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Padma Pany Colony, Railway Station Road, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.861242,
+                    "lng": 75.3137161
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86250552989272,
+                        "lng": 75.31497287989272
+                    },
+                    "southwest": {
+                        "lat": 19.85980587010728,
+                        "lng": 75.31227322010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "35b7ce629fc3b7ca45101997d8b45758b1797b29",
+            "name": "Asia Lodge",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110290394787568996826\">Asia Lodge</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAekYUMlbVPD24wF4MqxCp1nfnbyqJSvPjT-Mh9AaweDOo9TldvZ85P0VnAhfUPK5qot7Jd3QsVJHT2K6lCNwVvQFEmKuYeErY3Bbj4ZXmJLDRIONqV6F8QBjcP3cVBDI3EhAgnHDkkre6QJWbDRViMlU-GhTnhUM3xeaWrKgMUdfvveoJAfjc5Q",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJ4WzZ4F6Y2zsRrRoKqlYm05s",
+            "plus_code": {
+                "compound_code": "V867+FF Aurangabad, Maharashtra",
+                "global_code": "7JFQV867+FF"
+            },
+            "rating": 3.2,
+            "reference": "ChIJ4WzZ4F6Y2zsRrRoKqlYm05s",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 194
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No.6, Jalna Road, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.874834,
+                    "lng": 75.353842
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87615662989272,
+                        "lng": 75.35518567989271
+                    },
+                    "southwest": {
+                        "lat": 19.87345697010728,
+                        "lng": 75.35248602010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "2620fede68f5b8d6bfd15d68f333a0ebb964f76d",
+            "name": "OYO 8997 Angeethi Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2610,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116951124047069639302\">Promila Kapoor</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA46vtto8hH4Pfa2yGksSQCAQkucAg-WDQRgPIkvyc-5BXx8Z3tj522TIhIREnBmBP7K0wHeEcOl6StASZgvW3-CXD9bgv2U18l35d2PkhwsbqOYT1D7UOrqh9IFslQSEaEhBSWaTo6w948OHTgMiBmzAQGhTBmUADut7DO7PFa1OPLpf-VTqXgw",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJmx2dbpCi2zsRiTimUn2IuJ0",
+            "plus_code": {
+                "compound_code": "V9F3+WG Aurangabad, Maharashtra",
+                "global_code": "7JFQV9F3+WG"
+            },
+            "rating": 3.6,
+            "reference": "ChIJmx2dbpCi2zsRiTimUn2IuJ0",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 140
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "21, Varad Ganesh Mandir Rd, Samarth Nagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8796199,
+                    "lng": 75.3191559
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88095927989272,
+                        "lng": 75.32051682989272
+                    },
+                    "southwest": {
+                        "lat": 19.87825962010728,
+                        "lng": 75.31781717010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "a22890d42e1e7ebf25c16f9c819f24ce600476c6",
+            "name": "Sunder Lodge",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 360,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103259363600039903836\">Sunder Lodge</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkN2cHcxAbsIbt1_c9WWs-dBJhjaMB925-Xph1nFIA2jaJUq1uYkSWUdtHeZbvMGx1p4QQMUXjqOxV2MJogjrXLgX0DtufxldcTx6xiDEgy35-zlBfMjxhqrqg0EJUP7lEhCBU19_IvBuARb1tQ7WLsCiGhTM17dZCxhFZpfoft13OVpZyGTG7w",
+                    "width": 639
+                }
+            ],
+            "place_id": "ChIJ-5KDk2qY2zsRXpZo1lOaWA4",
+            "plus_code": {
+                "compound_code": "V8H9+RM Samarth Nagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8H9+RM"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ-5KDk2qY2zsRXpZo1lOaWA4",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 263
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Padaraynapura, Nr. TANGEEN GATE, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8956166,
+                    "lng": 75.336416
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89721182989272,
+                        "lng": 75.33775927989272
+                    },
+                    "southwest": {
+                        "lat": 19.89451217010728,
+                        "lng": 75.33505962010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "2b1549ec716c157d70089eb24f812506abf725b0",
+            "name": "Subhedari Guest House",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112492894829446971031\">Nirav Trivedi</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAo_twxE1h39mbPk6sOkG7NEYGo263KAM94j5K6fNYFdZgheIpXwTB8hXZ2jWBjqazVPPp9lpJFJ00Vqqq0An9vN6siAL-oh144xHbRHSkfNIhMWQY4p6JSsFZjUZAkPOVEhAoDpAa1PGrcNk3qmDMBZ7cGhRUgjx2BfSyHSUma6VVj03zZizDGg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJY7xpoxWY2zsRE_78FG6kS14",
+            "plus_code": {
+                "compound_code": "V8WP+6H Himayat Bagh, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8WP+6H"
+            },
+            "rating": 4,
+            "reference": "ChIJY7xpoxWY2zsRE_78FG6kS14",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 176
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Town Centre, N 1, Cidco, Aurangabad, Maharashtra 431006, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.878658,
+                    "lng": 75.3660453
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87999787989272,
+                        "lng": 75.36734457989273
+                    },
+                    "southwest": {
+                        "lat": 19.87729822010728,
+                        "lng": 75.36464492010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "01e1dcaa25c408ebc606c53afcaf79867180e934",
+            "name": "Radhika Guest House (Radhika Ex)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 607,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106722627601733446285\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhxjuM85xOC-FZPuft1Le9c8D_lGiZsHGDCZCLkTM-zo65LR8wE6Nir3uiXkpUrOo5zUE1XG4VjGmVJnGgddgEYMAIUC7KUHFgCVdv6a0AwdCAQAoDBeuAVwM2QHqnzGmEhC-l3sXPa69P8KPmKsqNGWIGhRCb2i0RIIFBRcfJ-zUlNS3TInW8Q",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJG0rtleyi2zsRtj_8SWhEsqA",
+            "plus_code": {
+                "compound_code": "V9H8+FC Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H8+FC"
+            },
+            "rating": 4,
+            "reference": "ChIJG0rtleyi2zsRtj_8SWhEsqA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 86
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Gulmandi, Shahgunj, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8851536,
+                    "lng": 75.3272703
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88650717989272,
+                        "lng": 75.32856347989271
+                    },
+                    "southwest": {
+                        "lat": 19.88380752010728,
+                        "lng": 75.32586382010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "c2ec01c57de7e961acc4b4b7d819b3bf9888d1b4",
+            "name": "OYO 30952 Hotel Om Sai Leela",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117778159657966295772\">a.nazeer shakeel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA8Qak0GTSW41VIJSG_LchIG1zoVQsImQE--LAIvlAqVgvs0omV7ofc0fwZXVpMQCx2TbUs78yzVIZ-Le8tPv-0qtrjTp_x5H1vrGObDsa4VB5Wgbx6r6nySo5-9he8KC2EhC73OLqsJj6tiXqyKTGrYfiGhT2tEypO0UQKnVJhrtMuMbVBbCb8A",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJYTXtC5CZ2zsRVNB1yYG3Mwo",
+            "plus_code": {
+                "compound_code": "V8PG+3W Shahgunj, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8PG+3W"
+            },
+            "rating": 3.9,
+            "reference": "ChIJYTXtC5CZ2zsRVNB1yYG3Mwo",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 99
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Opposite Railway Station, Rajnagar, MIDC, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8613511,
+                    "lng": 75.3115448
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86270982989273,
+                        "lng": 75.31284362989271
+                    },
+                    "southwest": {
+                        "lat": 19.86001017010728,
+                        "lng": 75.31014397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "4ad7a7b4e2fc8deab2a5dbd39dfc9d8ef7139250",
+            "name": "Hotel Holiday Era Lodging",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111042592141601731930\">HOTEL HOLIDAY ERA LODGING</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASJpUSRYykEP6AW53W2ov1hI38FIWe2I2BzEZFBog_LRvX9ZL8WSmREOjSxXTfMl8jEnqvex0HLz2W0l6OJpCowxZDrUKVjdbHaka4CkPi5EXGKxbRcI3M3ECddgKcY38EhDFi41BRUgUJNmeOy9OEj70GhT7XLD14Q0DKMWuyEQSDWfs5Gvqeg",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJSY05LlmY2zsRGp5trxDB74Y",
+            "plus_code": {
+                "compound_code": "V866+GJ Aurangabad, Maharashtra",
+                "global_code": "7JFQV866+GJ"
+            },
+            "rating": 3.7,
+            "reference": "ChIJSY05LlmY2zsRGp5trxDB74Y",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 236
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dr Bhapkar Marg, Bansilal Nagar, New Usmanpura, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8672794,
+                    "lng": 75.31917609999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86860847989272,
+                        "lng": 75.32053747989272
+                    },
+                    "southwest": {
+                        "lat": 19.86590882010728,
+                        "lng": 75.31783782010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "69a4b2834aa1c1300f5ad0d7c1822584c631082b",
+            "name": "Ginger Aurangabad",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116075340959278188501\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYRGKd7xSJj_EcZhrfPI9N5mrqkEcfHu8NsLLpa1Mg6FWxvjmV-KHfVUifTaoqVtz-9ixtOQksemMX_n2PcryzYudf1TeaLMdaZxfLIgnn43ZpR3FzDgw8ngljiT77sa0EhDzoOyMwcTI71Bqd6hSjaJuGhRpmHwrswySa1lvK5jwy2Z2j6r0jw",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJj0XYPLKi2zsRWL_4tDOMb_o",
+            "plus_code": {
+                "compound_code": "V889+WM Aurangabad, Maharashtra",
+                "global_code": "7JFQV889+WM"
+            },
+            "rating": 4,
+            "reference": "ChIJj0XYPLKi2zsRWL_4tDOMb_o",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1168
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Town Center, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.876748,
+                    "lng": 75.355916
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87809367989272,
+                        "lng": 75.35733232989271
+                    },
+                    "southwest": {
+                        "lat": 19.87539402010728,
+                        "lng": 75.35463267010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "75fbbef53c91e4e98153ad1154f51d53858484b3",
+            "name": "Opal's Nirmal Residency",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113928278556256451046\">A.R Ansari</a>"
+                    ],
+                    "photo_reference": "CmRZAAAA2qHSM0MDc6-EElSPL3x9iBzFozKf_ikjWNeGYOxc1daVSY6uPiWmS3hCNClhwycoUTHiVMVAw8FKOa1_3sMVTexHy17kSu0prPVdoKRiUCMwM9qkjNaTxf96bdOvayhSEhDLkMPcsF0186hdoMJtz9aJGhRamRUtYCfqF-GDO6D6gEGQMtwhMw",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJJWTEApGi2zsRAG-mhY4oRwU",
+            "plus_code": {
+                "compound_code": "V9G4+M9 M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G4+M9"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJJWTEApGi2zsRAG-mhY4oRwU",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 59
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "New Gulmandi Rd, Gomtesh Market, Khokadpura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.883433,
+                    "lng": 75.3304199
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88477392989272,
+                        "lng": 75.33166867989273
+                    },
+                    "southwest": {
+                        "lat": 19.88207427010727,
+                        "lng": 75.32896902010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "2c1c2b4b4ea9b822c858a6fcfb6e0c014aa0204f",
+            "name": "Hotel Gomatgiri",
+            "photos": [
+                {
+                    "height": 4208,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100278122884605523664\">Divyanshu Dhruw</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-oAcnFOPAPuxm0qfyQCc1S5Y99vgRGwo3arTFsRWo4EQNOfFvtDQEjhN1uwMZ2HPfkVltwILk5zDWPwJ6pwliq4FQ5QaH7XuzWW3F5hloTRnBv70tLjOefg5hX5lwUDUEhCYSZKIt2YulYBgaxyER_zBGhRLXencJylVtANOH_gM4TdK44eV3g",
+                    "width": 2368
+                }
+            ],
+            "place_id": "ChIJIZtaYhKY2zsR6LS-RjH3-ho",
+            "plus_code": {
+                "compound_code": "V8MJ+95 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MJ+95"
+            },
+            "rating": 3.6,
+            "reference": "ChIJIZtaYhKY2zsR6LS-RjH3-ho",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 127
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Railway station, Rajnagar, MIDC, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8625432,
+                    "lng": 75.31424849999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86381042989272,
+                        "lng": 75.31564182989271
+                    },
+                    "southwest": {
+                        "lat": 19.86111077010728,
+                        "lng": 75.31294217010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "32780b7c47be90cfd60345e1dff98e16c8803213",
+            "name": "MTDC Aurangabad Resort",
+            "photos": [
+                {
+                    "height": 364,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108442805859806692442\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAg5BHzV5oNRrGO2svQUjWjUsOAKHr9eHej51AiJLSRTVX7_UPank2f-7qlR1PtVwud42UfEXZVF2KoqirXvxQ0IlYfcojSYdBHmzIiCdkJsID9orKiZHs_fzgH24J6-sMEhDxF1y1ioQsiIgYGj3g7nY7GhSvOeoIMdsH7YhR7a8BQuTvBEHS4A",
+                    "width": 648
+                }
+            ],
+            "place_id": "ChIJLQWekl6Y2zsRqJzWw2TZG7U",
+            "plus_code": {
+                "compound_code": "V877+2M Aurangabad, Maharashtra",
+                "global_code": "7JFQV877+2M"
+            },
+            "rating": 3.7,
+            "reference": "ChIJLQWekl6Y2zsRqJzWw2TZG7U",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 719
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "18, Shradashram Colony, Paithan Rd, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8806177,
+                    "lng": 75.326921
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88191287989272,
+                        "lng": 75.32826742989272
+                    },
+                    "southwest": {
+                        "lat": 19.87921322010728,
+                        "lng": 75.32556777010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "0b6446eb25a3fdce71f563985dae91c0eee3db3e",
+            "name": "Nirala Guest House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116129212949650974356\">Pawan Jaju</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA3H114E_2KrbooeeyTl4USwVqwClfyFGC1D3qTCULsjjfR194RrtOEqNF6Nvxq2l9j3FdAoTdYrvAtNH5tsg8NyUJoo5BmVBZHfgD3rNjfYVBxbLqzhOMnJBhKo8yFJnHEhAhXrwZejyYhq2L0m0f827hGhT_niYLLYSatty4_MD_OPyhLbJR9g",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJY7xpoxWY2zsRyN0lj-O48IA",
+            "plus_code": {
+                "compound_code": "V8JG+6Q Aurangabad, Maharashtra",
+                "global_code": "7JFQV8JG+6Q"
+            },
+            "rating": 3.9,
+            "reference": "ChIJY7xpoxWY2zsRyN0lj-O48IA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 79
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8-N-12, Dr Rafiq Zakaria Marg, Rauza Bagh, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.907598,
+                    "lng": 75.34646699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90900682989272,
+                        "lng": 75.34788732989271
+                    },
+                    "southwest": {
+                        "lat": 19.90630717010728,
+                        "lng": 75.34518767010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "83ca3812daa060d63041a0b1fb4e977223218c88",
+            "name": "Vivanta Aurangabad",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113186071944478973978\">Abhishek Misra</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhjXrtUXnauY3k8nlb0qdGuZyUrBuzmlr6G-DNnkEvByDgw-Z_M6PC5WmeuR9WCYaK9Lvxf95x3e9bZPjzamjpbzghTXyzUCGrE3vpWlf3hdkrC7dsX8FJXECca9utduZEhCOUJCiFDXz2oxylw9qvqFrGhQKsAMiY_MCUnW7aEoYGnLWP_Cptg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJgW5zzgyY2zsRzq4aTj_mNkw",
+            "plus_code": {
+                "compound_code": "W85W+2H Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQW85W+2H"
+            },
+            "rating": 4.4,
+            "reference": "ChIJgW5zzgyY2zsRzq4aTj_mNkw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2103
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tourists Home, Rajnagar, Bansilal Nagar, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8643009,
+                    "lng": 75.3113727
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86568727989272,
+                        "lng": 75.31252607989272
+                    },
+                    "southwest": {
+                        "lat": 19.86298762010728,
+                        "lng": 75.30982642010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "4ea1cf295979d03217111d9a67356bcc6c425bea",
+            "name": "Tourists Home Hotel",
+            "photos": [
+                {
+                    "height": 2176,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104330009918547585916\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAzYSjfiYPoS6wpjM9RCOZ5WnoS_pprFqM1HLEyJvjOjaZh1HXGatblTH2ogey64ngNq_l59nJes51VbA7Lz_k-TxTAynpiZXUTfSngesDGGy9-XQvWVJe1VpG5Ri_teOiEhDerw3939wIzXlgXOqLpsRzGhRIATox54W5ol5OKJjZUBCEnjPyYQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJFcJ5nmeY2zsRB-r9Oh_58O8",
+            "plus_code": {
+                "compound_code": "V876+PG Aurangabad, Maharashtra",
+                "global_code": "7JFQV876+PG"
+            },
+            "rating": 3.9,
+            "reference": "ChIJFcJ5nmeY2zsRB-r9Oh_58O8",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 432
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Near Tapadiya Natya mandir, Shardashram Colony, Nirala Bazar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8806243,
+                    "lng": 75.3253884
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88192082989272,
+                        "lng": 75.32674027989272
+                    },
+                    "southwest": {
+                        "lat": 19.87922117010727,
+                        "lng": 75.32404062010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "ae032d57c3316636ae88fb9e7151d64b1bbbfd4f",
+            "name": "GURU GUEST HOUSE",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4288,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113042625808345197632\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKF5yuiYdiT4b0kUHsLOPfDje-22nQreVlu6sHoIBQ4B1-BWlT9owikpa1m4AuUPj9JiPUjukksvD6PDX7vrkdBLDeNNtUSEcsVr6q7hoPDs4BFL9e7iXnuVJhvObbsV4EhDoPUzNfuz5nIsHa08aKc7YGhQMKO-Ngm8r2AV1ZxcBYZukqHUtWw",
+                    "width": 2848
+                }
+            ],
+            "place_id": "ChIJM7gRkWeZ2zsRzsxplMcfHoE",
+            "plus_code": {
+                "compound_code": "V8JG+65 Nirala Bazar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8JG+65"
+            },
+            "rating": 4.3,
+            "reference": "ChIJM7gRkWeZ2zsRzsxplMcfHoE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 54
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Near Asian Citi Care Hosptial New Usmanpura 5-5-66, Nabhraj Lalitya, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8716491,
+                    "lng": 75.3301601
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87294562989272,
+                        "lng": 75.33151167989271
+                    },
+                    "southwest": {
+                        "lat": 19.87024597010728,
+                        "lng": 75.32881202010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "50fc4907817d2b3ebd7ce39bb3b4f58c1d08ae37",
+            "name": "Opal Apartment Suites",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1513,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115661078363514427235\">Opal Apartment Suites</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAww5ep4L1QpfJWpflwg3snGUBdgRpc5y9SC37yQJgo1F8wbdM4LKaUuuZo3QXoqAvyOjfMOpvKlBF4ll1Niwm9MIj5DzPmFlPoTjY8PLHvmeARpj1K5Z5TnO1b9W363lwEhBf1-4d5MvcIAQKu0zWSvLfGhSojUzGHewSUr5ALoQ_XxSfgmQ74w",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJvdBL_G-Y2zsRCgwqTyozksk",
+            "plus_code": {
+                "compound_code": "V8CJ+M3 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8CJ+M3"
+            },
+            "rating": 4.1,
+            "reference": "ChIJvdBL_G-Y2zsRCgwqTyozksk",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 51
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kushal Nagar, Jalna Road, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.87542,
+                    "lng": 75.33545099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87680417989272,
+                        "lng": 75.33679912989273
+                    },
+                    "southwest": {
+                        "lat": 19.87410452010728,
+                        "lng": 75.33409947010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "8d94e578c0ea5aa94d62d34ff7da69a78d235a92",
+            "name": "Hotel Raj",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 428,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104940269368943583363\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAnd6qP2FsY8rYk4xFX4FmJFtXM0iAgqOIwwwrQ_VRF2XBmmXzYy_62JUF7_t5sQ2g9qF36ZBUCKzZVbQFfiUOVbpE0Mbnh7fgxf9kqMQmrNprTcvxCqCBpqGgjVnSf18dEhCLi9Ec8MsOtKAoTd7ncE3kGhTo7ZDUwtiL6-QLL_r-q1RZ74nQSQ",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJKbSkzHaY2zsRYkMb_K8sPAw",
+            "plus_code": {
+                "compound_code": "V8GP+55 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GP+55"
+            },
+            "rating": 3.9,
+            "reference": "ChIJKbSkzHaY2zsRYkMb_K8sPAw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 557
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Beside RTO office, DhootHouse, Station Rd, Padampura, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8636828,
+                    "lng": 75.311172
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86506362989272,
+                        "lng": 75.31235937989271
+                    },
+                    "southwest": {
+                        "lat": 19.86236397010728,
+                        "lng": 75.30965972010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "8ddea7c70de2e8d827b929430bbc10d2703ebd28",
+            "name": "Hotel Natraj",
+            "place_id": "ChIJd9mI4luY2zsR9S9-AmJM1Tg",
+            "plus_code": {
+                "compound_code": "V876+FF Padampura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV876+FF"
+            },
+            "rating": 4.4,
+            "reference": "ChIJd9mI4luY2zsR9S9-AmJM1Tg",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Near Khadkeshwar Mandir, Khadkeshwar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8841079,
+                    "lng": 75.3196169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88545782989272,
+                        "lng": 75.32100032989273
+                    },
+                    "southwest": {
+                        "lat": 19.88275817010728,
+                        "lng": 75.31830067010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d802e9f2ab223affd458fe75ed68890ece6dd25a",
+            "name": "LAXMINARAYAN Lodging & Boarding",
+            "photos": [
+                {
+                    "height": 955,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108825178272390228135\">Amitkumar O. Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJOPX-htS-boERO2GrlS6TUuOiNts9RPiG0Ui_yvW-CrIlw7J7fOfKgENVLnq6Vb7jr925lGSaQlTabEiM8DEdsdMATQLpYbfV2Eo92DcLQRU41xpPplg929gKrKtkN7xEhDoUvlrZgQ6DJj8ltKypdnPGhRAzL3Eao5IPJmkvyRM7uQw1qKUkg",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJUba1DRWY2zsR54sTAo8rlOc",
+            "plus_code": {
+                "compound_code": "V8M9+JR Khadkeshwar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8M9+JR"
+            },
+            "rating": 3.8,
+            "reference": "ChIJUba1DRWY2zsR54sTAo8rlOc",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60
+        }
+    ],
+    "status": "OK"
+}

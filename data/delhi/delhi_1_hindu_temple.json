@@ -1,0 +1,897 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_wAAAEjrIVMT0RzXZ8YllkdB_9MH1j_1oWSy2A0LBJTw8qPlGxHjrFqc1Pxbrkus-8MHgGkjAYy-ujNjLDsv0RjCjXEoddnF1I7AB12JmylGP1MsfhRjee1SIijWzUtgldkTWEpmQYRTHREl6z9bW-aZQngZH85pLBcDkm8d9ym2uRwWAOdtlZnKo9h5e9CL5uiA-Por8sgHxsdhTIDZy32Qb8_Xm1dAakE_-3toj4eb3Tx0w5Xn-8tNY0873Rtt4mfUgbBHdnOMJtwKxYom-51mGueALIZnJtyq3rRdJBvh95RMIvIbkXXk__-NNAqbILfEA_ni3bZF1pHR21MVFAQ4VikSEEMRakaBdms7aF6znobEr3waFDDm34feEn3RWYIZ6ovVo7_fGrfZ",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Noida Mor, Pandav Nagar, New Delhi, Delhi 110092, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6126735,
+                    "lng": 77.2772619
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61701029999999,
+                        "lng": 77.279216
+                    },
+                    "southwest": {
+                        "lat": 28.6112279,
+                        "lng": 77.2741928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "3e6e6ce0fcf6f4bc49e646ee71e278aa44342a49",
+            "name": "Akshardham",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106431670053147443169\">Sanjay Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAATF-AFLshP72VqnrHclD-k1n5mbYMroONX6WPxD6sEIOLqoY4J2eNR0fbj7D6cX7IeOhSvZbAB7owoTxFO4OstZdJxZ7f__KmAcieunyJOPV_jilkvz02u11IzXMl4oJTEhDjr23raXmPX7djcRpDTV6tGhRSchMyBBMAoxgHgmW2Xi5V9o3GOw",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ-7F1mVvjDDkRKrLzXiafoGk",
+            "plus_code": {
+                "compound_code": "J77G+3W New Delhi, Delhi",
+                "global_code": "7JWVJ77G+3W"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ-7F1mVvjDDkRKrLzXiafoGk",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26362
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mandir Marg, near Gole Market, Gole Market, New Delhi, Delhi 110001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6326666,
+                    "lng": 77.19899629999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63393937989272,
+                        "lng": 77.20048212989272
+                    },
+                    "southwest": {
+                        "lat": 28.63123972010727,
+                        "lng": 77.19778247010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "21a21ccdb38a1b1cad18cd8d36a9ee1605646859",
+            "name": "Sri Laxmi Narayan Mandir",
+            "photos": [
+                {
+                    "height": 1944,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117419660027908126118\">Suparna Malik</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbLg9eGxnYF57LIr2qLuhcM6hHijWV1ahuPpuC8JeGRaCc2xTs8mEpfk1_2SrvlwxeEdYdVaZq8JmeTZWcu8LYxHE6UD0Ahmym_PNBnthebQ-n6i80byQtoLS0PZAQKl5EhC684mamz0ECUTpglGlLlfnGhRvhImQLMsc57JK_OxHw0lAa4RyuA",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJFdt-qrr8DDkRbn-qUmvHLS0",
+            "plus_code": {
+                "compound_code": "J5MX+3H New Delhi, Delhi",
+                "global_code": "7JWVJ5MX+3H"
+            },
+            "rating": 4.6,
+            "reference": "ChIJFdt-qrr8DDkRbn-qUmvHLS0",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7414
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Iskcon Temple Rd, Sant Nagar, East of Kailash, New Delhi, Delhi 110065, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5561132,
+                    "lng": 77.25383060000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.55746492989272,
+                        "lng": 77.25519587989272
+                    },
+                    "southwest": {
+                        "lat": 28.55476527010727,
+                        "lng": 77.25249622010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "a1f74e1528229b496d7a7760771f543b58c80c96",
+            "name": "ISKCON Temple Delhi-Glory Of India & Vedic Cultural Centre, New Delhi",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 381,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107510564118576788586\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAp94Uez0CSYIxMHqErKLiNijJ_4wyV3BykWuGs7ypm7Sd8wu97HhxVQu2PeqCtP1hIKOudq2uEFwouCSxM2RcGuBqgy1c0D6-ENAoe5cdQJbsOd3BEf3_fJGe1XJo0iGbEhBYhSsYfqlZ8-0Jz4Qs3cbiGhTij2WkW44sbIuXyxaVSz4uaUdqCg",
+                    "width": 679
+                }
+            ],
+            "place_id": "ChIJn-cqslTiDDkRvx76S8NxV_I",
+            "plus_code": {
+                "compound_code": "H743+CG East of Kailash, New Delhi, Delhi",
+                "global_code": "7JWVH743+CG"
+            },
+            "rating": 4.6,
+            "reference": "ChIJn-cqslTiDDkRvx76S8NxV_I",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15811
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Metro Station, Near, Ma Anandmayee Marg, NSIC Estate, Block 9, Kalkaji, New Delhi, Delhi 110019, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.549838,
+                    "lng": 77.2607232
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.55122542989272,
+                        "lng": 77.26197997989273
+                    },
+                    "southwest": {
+                        "lat": 28.54852577010728,
+                        "lng": 77.2592803201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "8659094ba81219cccfba9f76ae787b90dc390eeb",
+            "name": "Shri Kalka Ji Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 891,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103771055695140661555\">sing star</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASBNMUq3rVa-mEb6zygiweEUlPb8JxbnnQkK9Y6undsT8lUJQWzQOlus-kxHaVqY3kqyAR-8O4kjnB0XDG4bkWmJIOtAgjB62lOE53DrYVcyxCB_FuspRC06-jkq3s27oEhDLG-6oeLYiIjBp0Bp5A30WGhRqNY5oTTAmjhNzuIi7InUDOvmWxQ",
+                    "width": 719
+                }
+            ],
+            "place_id": "ChIJm9cr_sLjDDkRZ3dBQmMVr5U",
+            "plus_code": {
+                "compound_code": "G7X6+W7 Kalkaji, New Delhi, Delhi",
+                "global_code": "7JWVG7X6+W7"
+            },
+            "rating": 4.6,
+            "reference": "ChIJm9cr_sLjDDkRZ3dBQmMVr5U",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22337
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Block A, Mangolpuri S Block, Delhi, 110083, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6926321,
+                    "lng": 77.0945256
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69401847989273,
+                        "lng": 77.09587647989272
+                    },
+                    "southwest": {
+                        "lat": 28.69131882010728,
+                        "lng": 77.09317682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "9517421520b9045e90d474f8b0cd5bd9205109b2",
+            "name": "A block Hanuman Mandir Mangolpuri",
+            "permanently_closed": true,
+            "place_id": "ChIJ5w6cZQAFDTkRoBzFzqtMSD8",
+            "plus_code": {
+                "compound_code": "M3VV+3R Mangolpuri S Block, New Delhi, Delhi",
+                "global_code": "7JWVM3VV+3R"
+            },
+            "rating": 5,
+            "reference": "ChIJ5w6cZQAFDTkRoBzFzqtMSD8",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Main Chhatarpur Rd, Block A1, Dr Ambedkar Colony, Chhatarpur, New Delhi, Delhi 110074, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.50225,
+                    "lng": 77.18124399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.50365712989272,
+                        "lng": 77.18261207989272
+                    },
+                    "southwest": {
+                        "lat": 28.50095747010728,
+                        "lng": 77.17991242010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "c06b4bfec9f0358e0483bbe4731c09a99fe6a2d2",
+            "name": "Shree Adya Katyayani Shaktipeeth Mandir",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3008,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104318283389519490481\">VISHAL V_log</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA8yf_8QBBPFo9wj2LnpVPdptu_yWTuB335vkGVmdgmg75HYN54L7xQRuN5KUrKH9DaK4x-VM1hcvt3pEUu6p5wgZaAsJhGh_CLJMc-Fie-qMtMA0ngpW2GfSGnPZe8_iWEhCXbDJM9Owg6nGDTFW0uRndGhT2r5y2rVm8wnoz-rQcM8paOyrF4w",
+                    "width": 4592
+                }
+            ],
+            "place_id": "ChIJodtQtT0eDTkRqABsQH_R5FY",
+            "plus_code": {
+                "compound_code": "G52J+WF New Delhi, Delhi",
+                "global_code": "7JWVG52J+WF"
+            },
+            "rating": 4.6,
+            "reference": "ChIJodtQtT0eDTkRqABsQH_R5FY",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12869
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "near community hall P-2, Sultanpuri, 110086, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7031004,
+                    "lng": 77.08330149999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70445932989272,
+                        "lng": 77.08465497989273
+                    },
+                    "southwest": {
+                        "lat": 28.70175967010728,
+                        "lng": 77.0819553201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "0bbb242b51944a25c81c584f4c20d12499c200ec",
+            "name": "Hanuman Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJj-swgBgHDTkRTDz5ObujLxM",
+            "plus_code": {
+                "compound_code": "P33M+68 Sultanpuri, New Delhi, Delhi",
+                "global_code": "7JWVP33M+68"
+            },
+            "rating": 5,
+            "reference": "ChIJj-swgBgHDTkRTDz5ObujLxM",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Block K, Budh Vihar Phase I, Budh Vihar, Delhi, 110086, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7099538,
+                    "lng": 77.0883399
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71126957989272,
+                        "lng": 77.08968942989272
+                    },
+                    "southwest": {
+                        "lat": 28.70856992010727,
+                        "lng": 77.08698977010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "f3c7e14ec6c5c236787ea4f798618c71521ce5ca",
+            "name": "Anandpur mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJRai9taUGDTkR-m8KzDZ6wE4",
+            "plus_code": {
+                "compound_code": "P35Q+X8 Budh Vihar, Delhi",
+                "global_code": "7JWVP35Q+X8"
+            },
+            "rating": 4.1,
+            "reference": "ChIJRai9taUGDTkR-m8KzDZ6wE4",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "HL Parwana Rd, Parvana Vihar, Pocket 53, Sector 9, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7204492,
+                    "lng": 77.12229169999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72183587989272,
+                        "lng": 77.12358802989272
+                    },
+                    "southwest": {
+                        "lat": 28.71913622010728,
+                        "lng": 77.12088837010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "cd858df2866f222097019231e13346f3ad2af392",
+            "name": "Hindu Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103087610927501295288\">Rajneesh Vohra</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAuLKGdNmLILyrxw-17Zd0bU21Qyt9ab29Wyf5ypsPj2ds8k-pAg8kWF8ES0KDxDnQhpZ5X8EcfgHmE1fePmpgw24Zk497LJYle667D6jqV14oJxv16danyc27jqoMkIRFEhD4PBeozA7zzT5bWJfdECvRGhRdhn673vNNy_9Zq9augFHZVBIrGA",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJwad6qUMBDTkRVJp8c6OuWmc",
+            "plus_code": {
+                "compound_code": "P4CC+5W Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4CC+5W"
+            },
+            "rating": 5,
+            "reference": "ChIJwad6qUMBDTkRVJp8c6OuWmc",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "mcd staff Quarters, Model Town, New Delhi, Delhi, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7050871,
+                    "lng": 77.1001525
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70649277989273,
+                        "lng": 77.10142127989272
+                    },
+                    "southwest": {
+                        "lat": 28.70379312010729,
+                        "lng": 77.09872162010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "83ac250f734ee4d5dd0a63c28b5da2b58255252c",
+            "name": "Gauri Sankar Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJw0Vy-_4BDTkRvUB2wfXZMmc",
+            "plus_code": {
+                "compound_code": "P442+23 New Delhi, Delhi",
+                "global_code": "7JWVP442+23"
+            },
+            "rating": 5,
+            "reference": "ChIJw0Vy-_4BDTkRvUB2wfXZMmc",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "G28-62, Pocket 28, Sector 3G, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.704425,
+                    "lng": 77.10526
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70576467989272,
+                        "lng": 77.10662292989274
+                    },
+                    "southwest": {
+                        "lat": 28.70306502010727,
+                        "lng": 77.10392327010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "916d525233a93437658d564143975cd3ec610e31",
+            "name": "Sai shiv mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1872,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117859686368646652237\">Puneet Batra</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAzU9j-DmXO2SBW_J49Mn8P8_juRHgZiPa33anWb8KmOwXP9o-OEI49O_KUdkw5Bfb57OvUrwikshRYWMzV2c6tLwlPr3-ALFkWaQRqmaPBdSrvBwbXtdi8yk41NciRdOjEhC35LLdiTELw_uGrfyGXsSsGhQIxerSH61FeHj7pOVk1ARGNnX8uQ",
+                    "width": 3328
+                }
+            ],
+            "place_id": "ChIJq9g5nhgBDTkRu9j0m4uVA5g",
+            "plus_code": {
+                "compound_code": "P434+Q4 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP434+Q4"
+            },
+            "rating": 1,
+            "reference": "ChIJq9g5nhgBDTkRu9j0m4uVA5g",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Block M, Mangolpuri S Block, New Delhi, Delhi 110083, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.696054,
+                    "lng": 77.089466
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69737302989273,
+                        "lng": 77.09081497989271
+                    },
+                    "southwest": {
+                        "lat": 28.69467337010728,
+                        "lng": 77.08811532010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "56ed054127ef4a9a7685d1dec936372b73e84e22",
+            "name": "Shiv Shakti Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115864138445801832788\">Amit Kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAcLkp-EMxSN0v68B84In4pZo12pBt9YmlfEp3BJg22XA7j8ew1s70ZRrul_otL0XED1D0Im4u8ix29TiOUXMS8cvb5NWiF_UXaj0AaMZTO05wxpCkbFKvbcAs8V-08c4uEhDeJUBG14Mp23ZcPKY4liQQGhTXwN64lY37bPrqL_Pfmt_FoUgyKw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJbWPuaRsEDTkRegvcLzO3VuM",
+            "plus_code": {
+                "compound_code": "M3WQ+CQ Mangolpuri S Block, New Delhi, Delhi",
+                "global_code": "7JWVM3WQ+CQ"
+            },
+            "rating": 3.5,
+            "reference": "ChIJbWPuaRsEDTkRegvcLzO3VuM",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "E- 1/ 74, Rithala Road, Sector 11E, Rohini Pocket E, 110085, Pocket 1, Sector 11, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7336384,
+                    "lng": 77.1134089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73504902989272,
+                        "lng": 77.11466977989272
+                    },
+                    "southwest": {
+                        "lat": 28.73234937010728,
+                        "lng": 77.11197012010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "9e001089129869b86919bd542501cce167f17ec5",
+            "name": "Shiv Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJEXPvUjcBDTkRafwSb340PT0",
+            "plus_code": {
+                "compound_code": "P4M7+F9 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4M7+F9"
+            },
+            "rating": 4.6,
+            "reference": "ChIJEXPvUjcBDTkRafwSb340PT0",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Budh Vihar Phase I, Budh Vihar, Delhi, 110086, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7055496,
+                    "lng": 77.0885921
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70684067989272,
+                        "lng": 77.08989252989272
+                    },
+                    "southwest": {
+                        "lat": 28.70414102010728,
+                        "lng": 77.08719287010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "2cebfe33b4f2175b0b5b56038de726652f06b821",
+            "name": "Shahi Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJ8YqWPU4HDTkR3gPbXgNeCMQ",
+            "plus_code": {
+                "compound_code": "P34Q+6C Budh Vihar, Delhi",
+                "global_code": "7JWVP34Q+6C"
+            },
+            "rating": 0,
+            "reference": "ChIJ8YqWPU4HDTkR3gPbXgNeCMQ",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Palam Marg, Sector 7, Rama Krishna Puram, New Delhi, Delhi 110022, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5676481,
+                    "lng": 77.16581819999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56888807989272,
+                        "lng": 77.16698002989271
+                    },
+                    "southwest": {
+                        "lat": 28.56618842010727,
+                        "lng": 77.16428037010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "04e9c940a3c07b312783647c4306316a589bb689",
+            "name": "Uttara Swamimalai Mandir R K Puram",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109402659100519013662\">`UTTARA SWAMIMALAI</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAt9jU6zzGkXnPd7cU1J8MU3xXOGZJmcYtKvt4OIAsk7DG4XP5fdlrTSspVTSHhYWSSvjtf6NZMs6INSi8MqoWsvXjxBsP8Om0tJkSKhHr_qrdaYPRNZhk0-ANAlrrEXzxEhCURZGCuJHzZTqNgUVq_A1MGhS3emZS4tJs-37sz-KzOzB-u6z07Q",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJZQksTaEdDTkRxHLEuOsjkDI",
+            "plus_code": {
+                "compound_code": "H598+38 Rama Krishna Puram, New Delhi, Delhi",
+                "global_code": "7JWVH598+38"
+            },
+            "rating": 4.7,
+            "reference": "ChIJZQksTaEdDTkRxHLEuOsjkDI",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3790
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sultanpuri, New Delhi, Delhi 110086, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6951404,
+                    "lng": 77.07702309999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69650582989273,
+                        "lng": 77.07837977989273
+                    },
+                    "southwest": {
+                        "lat": 28.69380617010728,
+                        "lng": 77.07568012010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "650e4f8b10ae9c5fee523402d450d74d88207528",
+            "name": "shiv Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJPXDhMSIEDTkR7CtnEEkbfNE",
+            "plus_code": {
+                "compound_code": "M3WG+3R Sultanpuri, New Delhi, Delhi",
+                "global_code": "7JWVM3WG+3R"
+            },
+            "rating": 5,
+            "reference": "ChIJPXDhMSIEDTkR7CtnEEkbfNE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "A 6 Block, Paschim Vihar, New Delhi, Delhi 110063, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6736875,
+                    "lng": 77.10511389999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67502682989272,
+                        "lng": 77.10652757989271
+                    },
+                    "southwest": {
+                        "lat": 28.67232717010728,
+                        "lng": 77.10382792010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "0a58bf488182a656ff0bcf4e8378e71eaf598875",
+            "name": "Shiv Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100209707625436329370\">Yogesh Kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-k0aRJoyVHou7F1wmuuum9fi7LpTplhvlSnsvj0URosPbRIIkou9NSWOyD0AgmRO6xeXvawy60-XcyrAbVsIRt52OsRNckv6_UQAepue1dHI5YvvFMc2zNPARwCMBVo8EhAfLEak7HjIDlSBqkthWCZlGhT3JtGEpbhC8KypUw-HyqQp7UTVBQ",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJy894O7sDDTkR0pC0nVuZ9cY",
+            "plus_code": {
+                "compound_code": "M4F4+F2 Paschim Vihar, New Delhi, Delhi",
+                "global_code": "7JWVM4F4+F2"
+            },
+            "rating": 4,
+            "reference": "ChIJy894O7sDDTkR0pC0nVuZ9cY",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "house no 291, Block C, Avantika, Sector 1, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7035387,
+                    "lng": 77.0986376
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70489962989272,
+                        "lng": 77.09996752989272
+                    },
+                    "southwest": {
+                        "lat": 28.70219997010728,
+                        "lng": 77.09726787010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "a1e4969696c05d700acb5cedd5a41558506c96a1",
+            "name": "Nr Durga Mata Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJ34wSrnkFDTkRZba-y03CyG0",
+            "plus_code": {
+                "compound_code": "P33X+CF Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP33X+CF"
+            },
+            "rating": 5,
+            "reference": "ChIJ34wSrnkFDTkRZba-y03CyG0",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "21, Jagdish Chandra Marg, Azad Pur, Gujarat Vihar, Swasthya Vihar, Delhi, 110092, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6429241,
+                    "lng": 77.2897404
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64437392989272,
+                        "lng": 77.29110312989272
+                    },
+                    "southwest": {
+                        "lat": 28.64167427010727,
+                        "lng": 77.28840347010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "fce2bfe9ce628d6fdf65a72bbd97bfafd5ef6312",
+            "name": "Shree Swaminarayan Mandir New Delhi",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106793864131564266865\">Kalpesh pandya</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAv13k9XX-LCYhpPoRSzTLMprLiezGWk66Hc7mF-AbDOU37KasC2eH2bNjGI7Away-bkrIXhqliubv2yISO0e4aC7YJS_jvOLxANO_NCHO7adhWV5gNbgOcHmx0I6ToC8CEhDCuJI16G8w5cIUUd1BXeTFGhS98T_nUdFJjXis4bRMYEgMOkLNTg",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJL5wTyVn7DDkRLWgS3hDYS5Q",
+            "plus_code": {
+                "compound_code": "J7VQ+5V Swasthya Vihar, Delhi",
+                "global_code": "7JWVJ7VQ+5V"
+            },
+            "rating": 4.4,
+            "reference": "ChIJL5wTyVn7DDkRLWgS3hDYS5Q",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Behind dispensary, Lodhi Colony, Sector 3, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7037235,
+                    "lng": 77.1029375
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70511437989272,
+                        "lng": 77.10432662989271
+                    },
+                    "southwest": {
+                        "lat": 28.70241472010727,
+                        "lng": 77.10162697010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "080d22dd2ab2f349792e05920ee9af073b917156",
+            "name": "Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107843880355950766922\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAlMeREaE5hd5qVGapP6gaovokJ_iHBczcLUHagp4AYnT0yQ2Xn77XUN0laOhofah-7UDYBrftzhNsTkH6o8L0TmoUBj6_sce9PATZK707I8PdzTQQQ9z4DaGXdcFjSi7oEhAboWqFDN80U5KUIG1kOGhpGhQYQQuT9X-pGMobka6MGZvQZzt-5A",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJr66M-_8DDTkRLGtDzbNWpfo",
+            "plus_code": {
+                "compound_code": "P433+F5 Delhi",
+                "global_code": "7JWVP433+F5"
+            },
+            "rating": 3.2,
+            "reference": "ChIJr66M-_8DDTkRLGtDzbNWpfo",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        }
+    ],
+    "status": "OK"
+}

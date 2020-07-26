@@ -1,0 +1,896 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_wAAAIEkGI3g-z6wgdlevXmVElvYjNO8RvW93EssKlPCTvRnvdn9hOVEG-fJ1zU6MW5rxHMWNLjHMFrnSdN7SK4HnNbEKa46e4-2hSHhIbbgk0Jc2Zvt1RM0Q2iNQilb-CKjvjzlK-get056F4be6xJBo4XCPnfNcyBIvD-5XPraADMwxnRf-v5yDFjYNyttm06AsQCUBcsJescZYhZIFHpy-n7hCX4CNjzsYJGYJ-3GMofinVVmXUpHWYra9GhYxzS1_3ykBQfUM84fUSsf0y3dXuOG4R1TwaCNruSdH1I_VRNRG3jE34iyiyVwzc-gc8-xZrtlBhIAQNbnmygqDurUQ68SEO5rteYdGbL3bkCbg5M6cfIaFOzQGmNR_AJu65SVpKAsXJmj_64l",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "MIDC, Technology Park, Jhadav Mandi, Chilkalthana, Aurangabad, Maharashtra 431210, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8858727,
+                    "lng": 75.3709126
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88741872989273,
+                        "lng": 75.37176142989271
+                    },
+                    "southwest": {
+                        "lat": 19.88471907010728,
+                        "lng": 75.36906177010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "607d362d6e79c84b42bcb9e48d3fa3c789a92da2",
+            "name": "Garware Stadium",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117245012619656662214\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVNGIrO35VNVIyzOf-e65dsLj4IkNpu73TVwKMlxX3eGzy_sVdfpNpyTg1izUIJVj59VzrONocxACZL5yjBxv7USm_ndGxwSKEKKY_YAAseloZewZo1xX2qwzsdpPG44QEhBt8BfkCzaAcfuil9iZlE4lGhT3mXNIQ69BSj32Y3lMquPBPLV7AQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJl3xUB8Ki2zsRzHZ2UeY1k5E",
+            "plus_code": {
+                "compound_code": "V9PC+89 Chilkalthana, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9PC+89"
+            },
+            "rating": 4.1,
+            "reference": "ChIJl3xUB8Ki2zsRzHZ2UeY1k5E",
+            "types": [
+                "stadium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1110
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "c/o Gramvikas bhavan Cidco N - 2 Thakre Nagar Near N 2 cricket stadium, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8704735,
+                    "lng": 75.3683446
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87185442989272,
+                        "lng": 75.37000592989271
+                    },
+                    "southwest": {
+                        "lat": 19.86915477010728,
+                        "lng": 75.36730627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0a21d04425ba440a1c88a51d2db723e09efdab77",
+            "name": "SIDDHIVINAYAK SERVICES",
+            "photos": [
+                {
+                    "height": 1456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111889131462560485682\">om thoke</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVhMWtDEWaNsYAYHX4JvQQ2p-EDQu2rtSxQBnAocBqYqsRtkDlLOYzA0-TimleaQdr3mk-xolSwuKtvtpToH86f0mMEX8WKzFLCrj2KWO7R3wIt_8pA5t3MtfpS_778-uEhAtH-R_N6M7lMNcYfVFt_sSGhSztoJWCX8pIOK0NDJmOvPi4HEGiQ",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJqx_0uvOi2zsRX-_Is0JT35c",
+            "plus_code": {
+                "compound_code": "V9C9+58 Aurangabad, Maharashtra",
+                "global_code": "7JFQV9C9+58"
+            },
+            "rating": 3.9,
+            "reference": "ChIJqx_0uvOi2zsRX-_Is0JT35c",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 197
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sports Club & Stadium, MGM Sports Complex,, N-6, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8798511,
+                    "lng": 75.35443149999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88113512989273,
+                        "lng": 75.35614962989271
+                    },
+                    "southwest": {
+                        "lat": 19.87843547010728,
+                        "lng": 75.35344997010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f09ffcfd26ffd0a52dfdca3468ee2c8b957a6908",
+            "name": "MGM Cricket Stadium",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100614990109210488510\">Saurabh Chaudhari</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAg5t5xsX-ex_gsWa2EerdcLbkLeuTS-l5EoKlHnNi76qgZxTzq-SJhpNFc1vDfQa5TI7C9_NSsofDBTXXIKi5Vgbd3jqw8oBvLOTUZLlRtX1WBdzeeATFa2vZaVcYIVyZEhAvrh47lFgQsvkZcVOL4Z0MGhSN-USdwYKKtKUUPxYc32wX9WIkvQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJIz3rOJei2zsRcQBNvKBR1vk",
+            "plus_code": {
+                "compound_code": "V9H3+WQ M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H3+WQ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJIz3rOJei2zsRcQBNvKBR1vk",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 259
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jalna Road, Motiwala Nagar, Mayanagar Colony, Venkatesh Nagar, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8703455,
+                    "lng": 75.36805729999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87163897989272,
+                        "lng": 75.36906357989271
+                    },
+                    "southwest": {
+                        "lat": 19.86893932010728,
+                        "lng": 75.36636392010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "10c98378709fbd432afa81f2f79584cf216c1763",
+            "name": "A.D.C.A CRICKET GROUND",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108752144045721955720\">jayraj chauhan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1kyoKd3n7cUuPfMjyU1gsOMLtWuY5H64FyZMFVgbD3fUQBXXeU4nsa4tNpqYpRSt0znb2VDIRIz9WEtsqb_aF0GQzVqTxshWFMjY_Qvn8sSA3Qx8LnhVLikWB_3jUZw-EhDPpZN4c7X6AY9KJZELGQAYGhS-xFRstwLDPu3dl8MVpoMEG6TwDQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJhwdbk_qi2zsRC823OacEiaY",
+            "plus_code": {
+                "compound_code": "V9C9+46 M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9C9+46"
+            },
+            "rating": 3.9,
+            "reference": "ChIJhwdbk_qi2zsRC823OacEiaY",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 909
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "MGM Sports Complex, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8809536,
+                    "lng": 75.35529679999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88246262989272,
+                        "lng": 75.35669447989271
+                    },
+                    "southwest": {
+                        "lat": 19.87976297010728,
+                        "lng": 75.35399482010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7026a2c7ab3d3f1e2e5015146f0daaccdb8ae8b2",
+            "name": "MGM Sports Club And Stadium",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100809948819207908566\">MGM Sports and Health</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-JwBkIn9xlfpMmo0xA2XMSCvxJTko7YJrMTNI_y2EM_7VhYbvic266DiLeuu-qC5HcLoZZZHwsHirERaxi8C-GKsk2ptN5aCT0AXEe89t4NkHBbC_kU44-6bt4Ut1ci3EhBQBNZyy1qa8GLv7MfogecNGhQS2bUx5OUD0Wbo55ihiPxn2N-idg",
+                    "width": 830
+                }
+            ],
+            "place_id": "ChIJE8nUGpei2zsR_n5jvVwnKIg",
+            "plus_code": {
+                "compound_code": "V9J4+94 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J4+94"
+            },
+            "rating": 4.2,
+            "reference": "ChIJE8nUGpei2zsR_n5jvVwnKIg",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 299
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sut Girni Road, Gadia Vihar, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8576841,
+                    "lng": 75.3421288
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85904927989272,
+                        "lng": 75.34329872989272
+                    },
+                    "southwest": {
+                        "lat": 19.85634962010728,
+                        "lng": 75.34059907010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "c3ff5f6324bee9c932768f5ab33789eef6ed9a5d",
+            "name": "Sut Girni Stadium vibhagiy krida sankul",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112516633531853150506\">Anurag Dandge</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVKxEdZWjE6e62Sens1lwX7Gj1D5yQxYsjcl6sxAePgtKfbtiT0GvyIgQCt0Cij_4BM0TrFWjHaplCO8H0-qXOsGDeAwvl09yI1G66cVCf-KkZOwtwlcdP9a8cTvlUnHrEhBW7RpH9braONORyfnBpmMUGhSvTIW45D7n-kjrPMsB7X1uvV6kOw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJLTOxnX-i2zsRtzuUQ7tjB08",
+            "plus_code": {
+                "compound_code": "V85R+3V Aurangabad, Maharashtra",
+                "global_code": "7JFQV85R+3V"
+            },
+            "rating": 4.1,
+            "reference": "ChIJLTOxnX-i2zsRtzuUQ7tjB08",
+            "types": [
+                "stadium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1243
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "SBI Quarters, Savarkar Nagar, N 5, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8836228,
+                    "lng": 75.3610909
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88497227989272,
+                        "lng": 75.36229247989273
+                    },
+                    "southwest": {
+                        "lat": 19.88227262010728,
+                        "lng": 75.35959282010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "0d2da8db84854591b3b015292205febf9fa293b6",
+            "name": "Rajiv Gandhi Stadium",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116897047209286918137\">Balaji Jagtap</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZstKrlN3r9ko9tbljPenLVVTjMSrxkv0doP1vxzPflKnuuFcJCvFM-d1Zf1BgV4gDTZjFYIlXXei9L1Iee8bskfarN5lTLwmGldPSId0JJX3wnY97A1H5ejeMauwOtMjEhDcU8ftkVeZJUxf0caKr_62GhTbmuyO9i_0WxH8sErgi-ofvREkBQ",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJYaSKmJWi2zsR-wCuC9w2Ojo",
+            "plus_code": {
+                "compound_code": "V9M6+CC Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9M6+CC"
+            },
+            "rating": 3.4,
+            "reference": "ChIJYaSKmJWi2zsR-wCuC9w2Ojo",
+            "types": [
+                "stadium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1067
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kailash Nagar, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8761653,
+                    "lng": 75.3433139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87749477989272,
+                        "lng": 75.34466647989272
+                    },
+                    "southwest": {
+                        "lat": 19.87479512010728,
+                        "lng": 75.34196682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "561a3974fd8e8489dfd7296f4c0af695debcc09f",
+            "name": "Garaware Stadium",
+            "permanently_closed": true,
+            "place_id": "ChIJXazyuZ2i2zsRIaM_aeK_UxY",
+            "plus_code": {
+                "compound_code": "V8GV+F8 Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GV+F8"
+            },
+            "rating": 3.2,
+            "reference": "ChIJXazyuZ2i2zsRIaM_aeK_UxY",
+            "types": [
+                "stadium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8804124,
+                    "lng": 75.35434599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88177747989272,
+                        "lng": 75.35530432989272
+                    },
+                    "southwest": {
+                        "lat": 19.87907782010728,
+                        "lng": 75.35260467010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e4adcb883b9d164bc8d2200a4bb600b195d3a749",
+            "name": "MGM Sports Club And Stadium",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 683,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104147428875509029086\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtwrBcAwuuoi3LSwNDbY5K7MiWaXk8DWWKGURCPup5NrYHkaQTDgdKxI83haKcWcGq1tlPwBbjBeJng4v4yimel7fTgZmkEJ-aWRzge383eujmxIv6Ma6TkEPGo9NAox-EhCuTmzyX7_jxGyjYQZg1NyxGhRriR8F3HK2LcUxWlJ1ww_T5c3Y-w",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJEVgIVrSj2zsRUqz6rtTTqZU",
+            "plus_code": {
+                "compound_code": "V9J3+5P Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J3+5P"
+            },
+            "rating": 4.3,
+            "reference": "ChIJEVgIVrSj2zsRUqz6rtTTqZU",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Plot no. 185 opposite MGM Stadium,amaanullah masjid, road, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8796429,
+                    "lng": 75.35020949999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88103992989272,
+                        "lng": 75.35157457989273
+                    },
+                    "southwest": {
+                        "lat": 19.87834027010728,
+                        "lng": 75.34887492010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "3fe1220d9db4515cf261c55aa611f3f1848bfda1",
+            "name": "Battle Field (sports arena)",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2730,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114447941523368092234\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAgxYXFU6uVeurzCxhCSjlXBX7y5mqQbnLx6N8oGpJkVKJKrg_OYa-t35jW4sqD5q31ZhlwWydKAI7pjHUC7alsgrhDjoHtHaZdYqVPZy000LQSnwngxtXtvSeSljdqVQGEhB5Xxq2q7CUb-FGv0jTUkCiGhSMm2LDeX3BsfwMfJB98kAhzonrpg",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJh45AP7iZ2zsR7bGpIAIllco",
+            "plus_code": {
+                "compound_code": "V9H2+V3 Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H2+V3"
+            },
+            "rating": 4.3,
+            "reference": "ChIJh45AP7iZ2zsR7bGpIAIllco",
+            "types": [
+                "stadium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 204
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Gadia Vihar, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8568079,
+                    "lng": 75.3430858
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85792377989272,
+                        "lng": 75.34450522989272
+                    },
+                    "southwest": {
+                        "lat": 19.85522412010728,
+                        "lng": 75.34180557010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3d63f2f7eda175fbbb8b990f7a742183aecc5456",
+            "name": "Divisional Sports Complex Aurangabad",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102874432631805764880\">Shantanu Papal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAPDy017zKtJzgkGqZwyOk4BcPARsAB1mX0BGCY7lDO8ZSS1Ycnd730wM0b0hUHwuT4Py_i7KYcSCxh_5xCVOWGTuA7sL1LFq0-GYRsWQEMBH8JlrXNh581B69j7OI3M1DEhCuhvI436IAYibp214nRmbDGhQi_ynljYG_DC7LhijUqhnneW_ubw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJTZeREX-i2zsRmptsB_Q463Y",
+            "plus_code": {
+                "compound_code": "V84V+P6 Gadia Vihar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV84V+P6"
+            },
+            "rating": 4.1,
+            "reference": "ChIJTZeREX-i2zsRmptsB_Q463Y",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 196
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Stadium Rd, Kamgar Chowk, N 3, Cidco, Aurangabad, Maharashtra 431007, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8707065,
+                    "lng": 75.36678250000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87206062989272,
+                        "lng": 75.36817132989272
+                    },
+                    "southwest": {
+                        "lat": 19.86936097010728,
+                        "lng": 75.36547167010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "94e9289bc86b85151b8117755934794654d131da",
+            "name": "Cidco diagnostic centre",
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101707521463560131583\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAaa92oHBqtWb4vqdZ0kAMo4hIIiwXm39misevNxLlnPnEu2hw6UAXfhIlHRuuMOJNk-AScn4Z_Kn9nJqBTTRA0CUIez70ybMQEfaQFLGP9fNfV-aifHd3sbv55O-O7izlEhD2y5vp4-Y5622_n6HCzSkKGhQN-BAejUfeq6Wq5QW0asqScw5sjw",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJzwF1tcSj2zsRnbJ3S5bmTzU",
+            "plus_code": {
+                "compound_code": "V9C8+7P Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9C8+7P"
+            },
+            "rating": 5,
+            "reference": "ChIJzwF1tcSj2zsRnbJ3S5bmTzU",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Chate House N 2, Cidco Near N-2 Cricket Stadium, Aurangabad, Maharashtra 431007, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.870653,
+                    "lng": 75.3671899
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87198827989272,
+                        "lng": 75.36842492989273
+                    },
+                    "southwest": {
+                        "lat": 19.86928862010728,
+                        "lng": 75.36572527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "e573d2b68980bf7e302aee010411fc1bbe54f4ce",
+            "name": "Chate Junior College Of Science IIT/NEET",
+            "permanently_closed": true,
+            "place_id": "ChIJ-4leBvOi2zsRtRS11bmeb1E",
+            "plus_code": {
+                "compound_code": "V9C8+7V Aurangabad, Maharashtra",
+                "global_code": "7JFQV9C8+7V"
+            },
+            "rating": 2.9,
+            "reference": "ChIJ-4leBvOi2zsRtRS11bmeb1E",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "NH52, Mirajgave Nagari, Aurangabad, Maharashtra 431007, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.851047,
+                    "lng": 75.357095
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85217747989272,
+                        "lng": 75.35845732989272
+                    },
+                    "southwest": {
+                        "lat": 19.84947782010727,
+                        "lng": 75.35575767010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "6f35b06bf750fc3410f789c4e79051e9821819ad",
+            "name": "Vibhagiya Krida Sankul, Garkheda",
+            "permanently_closed": true,
+            "place_id": "ChIJV6QjLcej2zsRNEOc4czad0w",
+            "plus_code": {
+                "compound_code": "V924+CR Mirajgave Nagari, Aurangabad, Maharashtra",
+                "global_code": "7JFQV924+CR"
+            },
+            "rating": 0,
+            "reference": "ChIJV6QjLcej2zsRNEOc4czad0w",
+            "types": [
+                "stadium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No-6, Shop No-3, Pal Apartment, Stadium Rd, N 2, Cidco, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8700768,
+                    "lng": 75.3672826
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87141302989272,
+                        "lng": 75.36850822989271
+                    },
+                    "southwest": {
+                        "lat": 19.86871337010728,
+                        "lng": 75.36580857010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c6ba54e6537c47a20629f16ed4dceadf1e0da72e",
+            "name": "Shree Aurangabad Property",
+            "photos": [
+                {
+                    "height": 605,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109179307606912764260\">Shree Aurangabad Property</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAjsFpC_LtKAlTSXStZvepZYXWedaz1dDvKc8ID_e8PqOZbv0TJSV7sYX2swU71RF-MjXGkwoZjwfYLbtJ_Ch-cz0ME8pq_e1iWv8f78Sl3VFkOjOwENU9GbBlg4jmEsEDEhDeZwgw-zDyel74sS3vCDaPGhSoMFhnOkpuDEDmhaYs7WHrOJcuFA",
+                    "width": 1068
+                }
+            ],
+            "place_id": "ChIJ2zHcCPOi2zsRRaqBfeUMCEw",
+            "plus_code": {
+                "compound_code": "V9C8+2W Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9C8+2W"
+            },
+            "rating": 5,
+            "reference": "ChIJ2zHcCPOi2zsRRaqBfeUMCEw",
+            "types": [
+                "real_estate_agency",
+                "premise",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Parklane, N 2, N 12, Rauza Baug, N 2, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9044722,
+                    "lng": 75.3457727
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90588847989272,
+                        "lng": 75.34688147989273
+                    },
+                    "southwest": {
+                        "lat": 19.90318882010728,
+                        "lng": 75.34418182010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "aebede29543c2894f37d755b0a6d3f00e1059917",
+            "name": "Naval Tata Stadium",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107318208510593270621\">Prashant Tidke</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAaBh256atr60jr1emn06h0HbdbiyQltssT1mHruiFsap_qkVKpO0RZUQXW9nWLkBb6n3tswodN4IEypHuodQpzCw-q7ssmL1aaa8pvLThiTioQ3Bd_UPXg3Gb_uNFR785EhBJIR1IcwPfOliipY2o5_bDGhQgXFdfqF_SAlv-KIWYWjuBt5Blhw",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJfUZddaui2zsRS69GkbfFZls",
+            "plus_code": {
+                "compound_code": "W83W+Q8 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQW83W+Q8"
+            },
+            "rating": 4.2,
+            "reference": "ChIJfUZddaui2zsRS69GkbfFZls",
+            "types": [
+                "stadium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 345
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "V/D-27, Jawahar Colony Rd, All India Radio Staff Quarters, Vishnu Nagar, Sindhi Colony, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8747952,
+                    "lng": 75.34383729999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87615317989272,
+                        "lng": 75.34582052989272
+                    },
+                    "southwest": {
+                        "lat": 19.87345352010728,
+                        "lng": 75.34312087010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "df782c31b686f28e436f5ff2646d08ec53b98d72",
+            "name": "koghul studiam",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108241950756707066774\">ganesh kavhar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYQ8pIkT8djR6OZ3-Rqd0_Jw0sLXjq1ZjEin-Sl1L06uGgoJ69rBnkEZYSGtxRxN3epaEHsj5BegsdgOThjQlHblCa2F4Ox98_l06XRDn1x83XnwlyUFJ-KV4UpWW03R9EhATXlbVcnpTkq0SRJktoNbUGhS-ymxFgHV340O6_oi798HNP3uBsg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJYc1AAZ2i2zsR-OfUUN2p2x8",
+            "plus_code": {
+                "compound_code": "V8FV+WG Sindhi Colony, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8FV+WG"
+            },
+            "rating": 4.3,
+            "reference": "ChIJYc1AAZ2i2zsR-OfUUN2p2x8",
+            "types": [
+                "stadium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "A-H2-4, Near N-2 Cricket Stadium,, Thakre Nagar, N-2, Cidco,, Aurangabad, Maharashtra 431007, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8714274,
+                    "lng": 75.3692721
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87277707989272,
+                        "lng": 75.37062187989272
+                    },
+                    "southwest": {
+                        "lat": 19.87007742010728,
+                        "lng": 75.36792222010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "07a56eea6cbb4f23906344046da7be526882c65e",
+            "name": "Aasawa Brothers Abhyasika A-H2-4",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108459795329124635654\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOluwqQC7NcbVkqlJrRBwrKpwXAx3DKkeI4mnXsMk03KzQxNDkgheaMcACxwWsyC0WzmkIErrQodURqA_3xY7M3kFPxJWGN8u5oluZCRiqZm--et2rIdMGxEcLnqNd4raEhAremcFDVHUdGVzTmQxYDxOGhRFrTC7uAzVUE95wKrMiRr2RJqDqg",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJLUq3NPKi2zsRjNQ9GpFZA6s",
+            "plus_code": {
+                "compound_code": "V9C9+HP Aurangabad, Maharashtra",
+                "global_code": "7JFQV9C9+HP"
+            },
+            "rating": 4.8,
+            "reference": "ChIJLUq3NPKi2zsRjNQ9GpFZA6s",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Aurangabad Times Colony, Sadaf Colony, N 10, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8940022,
+                    "lng": 75.34529409999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89535172989272,
+                        "lng": 75.34667917989272
+                    },
+                    "southwest": {
+                        "lat": 19.89265207010728,
+                        "lng": 75.34397952010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "d8c9522e43f407bb52fd211e7954c0723841bae4",
+            "name": "Gokul Stadium,Gramin Police Mukhyalaya",
+            "place_id": "ChIJQdW4QKai2zsROCvTFhHeL-k",
+            "plus_code": {
+                "compound_code": "V8VW+J4 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8VW+J4"
+            },
+            "rating": 3.8,
+            "reference": "ChIJQdW4QKai2zsROCvTFhHeL-k",
+            "types": [
+                "stadium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 61
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sudarshan Resideny, Aurangabad Ulkanagari(east) Ramayana cultural hall to stadium road, Road, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.870486,
+                    "lng": 75.36698
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87183802989272,
+                        "lng": 75.36828542989272
+                    },
+                    "southwest": {
+                        "lat": 19.86913837010728,
+                        "lng": 75.36558577010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "39976724c2ee52f703919a983c44b3675a26c85e",
+            "name": "Shrawani Science Academy",
+            "permanently_closed": true,
+            "place_id": "ChIJN6m_TYCi2zsR3OrCka1X4Wc",
+            "plus_code": {
+                "compound_code": "V9C8+5Q Aurangabad, Maharashtra",
+                "global_code": "7JFQV9C8+5Q"
+            },
+            "rating": 3.9,
+            "reference": "ChIJN6m_TYCi2zsR3OrCka1X4Wc",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        }
+    ],
+    "status": "OK"
+}

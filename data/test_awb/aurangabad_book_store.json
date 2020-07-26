@@ -1,0 +1,105 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "R.M. 124, Jai Bhavani Chowk, Bajaj Nagar, Ranjangaon Shenpunji, Waluj, Aurangabad, Maharashtra 431136, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.842724,
+                    "lng": 75.23312790000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.84406152989272,
+                        "lng": 75.23451967989273
+                    },
+                    "southwest": {
+                        "lat": 19.84136187010728,
+                        "lng": 75.23182002010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "5ef504628322963300c7a84d698365cefb9e3435",
+            "name": "Shraddha Gift Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102599345561955671554\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAArxifRiv8O23AyOu0VwhguiUhejDIOcbItvm2UdqQn0WQshe_vMrvehXslRH_ZRIKp8aQBm0uoQJgZZpKr-wswd8sgoT8aXuA-KNJh-2X0aOuNfSclsdKggl3IpSvWMHqEhCJxGghRL7ulk7xYbtW-UVAGhQA77dIw9kS288LV4XXA4NsJC7JrA",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJLQdV_s6b2zsR9RoR19e__m4",
+            "plus_code": {
+                "compound_code": "R6VM+37 Aurangabad, Maharashtra",
+                "global_code": "7JFQR6VM+37"
+            },
+            "rating": 3.6,
+            "reference": "ChIJLQdV_s6b2zsR9RoR19e__m4",
+            "types": [
+                "book_store",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Gut no 54 plot no 2 B Sajapur M I D C, MIDC, Waluj, Maharashtra, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8660464,
+                    "lng": 75.21973249999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86735877989272,
+                        "lng": 75.2211391298927
+                    },
+                    "southwest": {
+                        "lat": 19.86465912010728,
+                        "lng": 75.21843947010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "993d8f3631bfde285ef4a17f00b6f2c4e7dd1b4d",
+            "name": "Ashutosh Engg Works",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112201236624585939693\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAEN6r5Lt1o2hdzcgdtLZaPKigqaL_SmJlMOvcX_2h6F2wlvFf8kpyqFtYFZIfd6rU4SYl0xrDrrt8456VOQBk-kSxJoiOjC3LZ45qqoIjxTJPCL3zAFRBSGpkE0ZxQMiWEhC0hq-0PLIgAbIqKRVbRH7gGhQzh5xX6-NeYaP5GDPa7rXOcs2qPQ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJh5Y9lkaa2zsRulwfInkbj-o",
+            "plus_code": {
+                "compound_code": "V689+CV Waluj, Aurangabad, Maharashtra",
+                "global_code": "7JFQV689+CV"
+            },
+            "rating": 4,
+            "reference": "ChIJh5Y9lkaa2zsRulwfInkbj-o",
+            "types": [
+                "book_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        }
+    ],
+    "status": "OK"
+}

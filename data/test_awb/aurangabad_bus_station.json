@@ -1,0 +1,889 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCAwEAAMk8tQix_jKJm9P1Xxjbw7iIfKoKh25pGWnGnnWQmdyTu-kHJ6eifVIfs3jpFECjcPbWV2qwoeEis0CyD_AsKmkfKIA3sgnQVBMckcc-GI15zwccqD2i0ldaVL3IXI1ePYcaC_3m_vB9UVk_WdTaxBr2ot0JOroEd9TJlK7-M7KWi9C4YMb-dtbKrWJHwt1JxKWm500aYPngeHjcdgn0jZVXJelsqjtk4wLyDKLkXAO0Rq4YmCrac6YuK-N-GVAMzX-i9nraLTwUjyqsnX6z1qW1_lIRXz5U8kEaRdD5Ew-AMJ2LWffxYQhg8q_lQdgA-yz-9-QUtdj7dKH3sGZvCGGJGrwua6nkMDG0HiVAqbgREhDD2CTVuR5lRGGhookLxZqAGhQM3MgBlF0uB-53u9wZRDwKxYCdQw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Pawan Nagar, N 9, Cidco, Aurangabad, Maharashtra 431006, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8753995,
+                    "lng": 75.3672694
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87686572989272,
+                        "lng": 75.36849682989272
+                    },
+                    "southwest": {
+                        "lat": 19.87416607010728,
+                        "lng": 75.36579717010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+            "id": "f974103ce194b861883dc80df28caf0a989b66b0",
+            "name": "CIDCO Bus Station",
+            "photos": [
+                {
+                    "height": 2386,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104986412661590876320\">Vaibhav Shirke</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2hw90LAFft0Ful70311D10RB_BAVA0UPMoFXjIFlt6GS3xtyi1FyHlYy9h8cEbcpTvYwAz5QtModHrGZtEf-3F-tP50h4qHGY4wtsQzT_ft9retUEi44IfpLA7764GrTEhA2l5nWQM809iHjRR0zkW37GhQL2NgOzB8REy0ZF-pmJQlcZKqohg",
+                    "width": 3713
+                }
+            ],
+            "place_id": "ChIJiwLdde2i2zsRBJRUDKWIp-E",
+            "plus_code": {
+                "compound_code": "V9G8+5W Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G8+5W"
+            },
+            "rating": 3.5,
+            "reference": "ChIJiwLdde2i2zsRBJRUDKWIp-E",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 151
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "N 3, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.874303,
+                    "lng": 75.364919
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87561742989272,
+                        "lng": 75.36626232989272
+                    },
+                    "southwest": {
+                        "lat": 19.87291777010728,
+                        "lng": 75.36356267010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+            "id": "c67db36b7db266700d8d557c294ba3fc58095131",
+            "name": "Cidco",
+            "place_id": "ChIJlXiIU-2i2zsRUUrbqlp5lgQ",
+            "plus_code": {
+                "compound_code": "V9F7+PX Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9F7+PX"
+            },
+            "rating": 0,
+            "reference": "ChIJlXiIU-2i2zsRUUrbqlp5lgQ",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Waluj, Wadgaon Kolhati, Maharashtra 431136, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8370797,
+                    "lng": 75.2532061
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.83842132989272,
+                        "lng": 75.25456897989272
+                    },
+                    "southwest": {
+                        "lat": 19.83572167010728,
+                        "lng": 75.25186932010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+            "id": "072912bf7e432597030d2b1b680aea9a60517fec",
+            "name": "Kamgar Chowk",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116261850206931425837\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAsHjhLcGsye7MBSGGQv-i4iK-mRv6uSlS99WEe67uxTBUX5Zp_g2auFyRghvHNJqE0xW83b4depoo7rHSKr1ATmX1vWKA_JIIv9gIVz3tnRZt0Dtf-NFENw_O9BlcSCNdEhBxDr4MoSJDQE_tNvVOm431GhTyn0emFFGrjyVsZIKgwub0z4KPIw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ7fDgjGOZ2zsRJcEW6IOh7UE",
+            "plus_code": {
+                "compound_code": "R7P3+R7 Waluj, Aurangabad, Maharashtra",
+                "global_code": "7JFQR7P3+R7"
+            },
+            "rating": 3.2,
+            "reference": "ChIJ7fDgjGOZ2zsRJcEW6IOh7UE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bhagyanagar, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8739515,
+                    "lng": 75.3156351
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87531532989272,
+                        "lng": 75.31695847989272
+                    },
+                    "southwest": {
+                        "lat": 19.87261567010728,
+                        "lng": 75.31425882010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+            "id": "fcfb9d4fec405576e26ecbabdb9129987bc84ae6",
+            "name": "Baba Petrol Pump",
+            "place_id": "ChIJeQ_ud0KY2zsRq8yqJBCSgvw",
+            "plus_code": {
+                "compound_code": "V8F8+H7 Bhagyanagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8F8+H7"
+            },
+            "rating": 5,
+            "reference": "ChIJeQ_ud0KY2zsRq8yqJBCSgvw",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Chintamani Colony, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8729178,
+                    "lng": 75.3197959
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87423632989272,
+                        "lng": 75.32113562989272
+                    },
+                    "southwest": {
+                        "lat": 19.87153667010728,
+                        "lng": 75.31843597010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+            "id": "814e468e8d3d96029ad6403957a00003b5a3372c",
+            "name": "Baba Petrol Pump",
+            "place_id": "ChIJ86uNTGiY2zsR-wIC8l9Qn-c",
+            "plus_code": {
+                "compound_code": "V8F9+5W Chintamani Colony, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8F9+5W"
+            },
+            "rating": 0,
+            "reference": "ChIJ86uNTGiY2zsR-wIC8l9Qn-c",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ulkanagari, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.858145,
+                    "lng": 75.335512
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85950442989272,
+                        "lng": 75.33685902989272
+                    },
+                    "southwest": {
+                        "lat": 19.85680477010728,
+                        "lng": 75.33415937010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+            "id": "1d83fca6d9e6e1dbe348fcc06c4005ba7a9c2bde",
+            "name": "Dargah Road (Easy Day Mall)",
+            "place_id": "ChIJnbMTy4CY2zsR1V8Rs0PZwaM",
+            "plus_code": {
+                "compound_code": "V85P+76 Ulkanagari, Aurangabad, Maharashtra",
+                "global_code": "7JFQV85P+76"
+            },
+            "rating": 0,
+            "reference": "ChIJnbMTy4CY2zsR1V8Rs0PZwaM",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Waluj, Aurangabad, Maharashtra 431133, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.839885,
+                    "lng": 75.236254
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.84123562989272,
+                        "lng": 75.23758857989273
+                    },
+                    "southwest": {
+                        "lat": 19.83853597010728,
+                        "lng": 75.23488892010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+            "id": "6c04ea07b36dbe082a618f53fd3f455e25d4f250",
+            "name": "Fdc Chowk",
+            "place_id": "ChIJI4bKqtqb2zsRS9lR17etIHo",
+            "plus_code": {
+                "compound_code": "R6QP+XG Waluj, Aurangabad, Maharashtra",
+                "global_code": "7JFQR6QP+XG"
+            },
+            "rating": 5,
+            "reference": "ChIJI4bKqtqb2zsRS9lR17etIHo",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Muddhalwadi, Krishnapur, Bidkin, Maharashtra 431105, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.7040449,
+                    "lng": 75.29916039999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.70531147989272,
+                        "lng": 75.3005007298927
+                    },
+                    "southwest": {
+                        "lat": 19.70261182010728,
+                        "lng": 75.29780107010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+            "id": "7c339027b37802658749489006fa5cb27f6f80aa",
+            "name": "Bidkin Bus Stand",
+            "photos": [
+                {
+                    "height": 331,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106317823423283516636\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9sSF6nVZsZo8o0-ylV4aCCh_A1_KE1U-emMiAu2cgyiOaR3L0zDUVzCQN6BDYWqVknFxPudVbTbyniJQ0Qe8qOyr3HA1Wi6rN3GrOUSj_io2ORssKMpGwH_ke05ZORQDEhA9NKuWWTNZIiG4IvyGt4kFGhS4QCxgEXHh7Jefb7GrX7sLin4M_g",
+                    "width": 591
+                }
+            ],
+            "place_id": "ChIJy8dAN3d12zsRx5TbOoOXnZY",
+            "plus_code": {
+                "compound_code": "P73X+JM Krishnapur, Bidkin, Maharashtra",
+                "global_code": "7JFQP73X+JM"
+            },
+            "rating": 3.7,
+            "reference": "ChIJy8dAN3d12zsRx5TbOoOXnZY",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sindkhed Raja, Maharashtra 443203, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.957139,
+                    "lng": 76.124557
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.95848897989272,
+                        "lng": 76.12590697989272
+                    },
+                    "southwest": {
+                        "lat": 19.95578932010728,
+                        "lng": 76.12320732010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+            "id": "8126c470392a564c54560acd722928b1abfe9b00",
+            "name": "Sindkhed Raja Bus Station",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103537737350542624112\">bhushan varma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA8X4Xj4VEMFWphZiNDZqrLRgS8inRrDrdXn1pKFEzAD-NwmzMbqi2l-aJBGs9c33VxSpTQImpaCB_H3a2Ga6IuU9LmfMh9hd7NvtsGGbIkJgaQyXVPyctWSOQCoLfQo4ZEhB9aGfWhMq1gvtZffU5jlxIGhTi8FEXc3mL9Yqu_T2gNGisB3MFag",
+                    "width": 2176
+                }
+            ],
+            "place_id": "ChIJj_rMQ85n2jsRL7fAz9-YscI",
+            "plus_code": {
+                "compound_code": "X44F+VR Sindkhed Raja, Maharashtra",
+                "global_code": "7JFRX44F+VR"
+            },
+            "rating": 4,
+            "reference": "ChIJj_rMQ85n2jsRL7fAz9-YscI",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Joshiwadi Rd, Shirur, Maharashtra 412210, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.8269652,
+                    "lng": 74.37285940000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.82816617989272,
+                        "lng": 74.37441512989271
+                    },
+                    "southwest": {
+                        "lat": 18.82546652010728,
+                        "lng": 74.37171547010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+            "id": "de1106c3f808b46999e87031958dd454409ef3fd",
+            "name": "Bus Station",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107327526658644977315\">Amol Ghemud</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAj6WG1yjJ4aq97z_SvPLExt-i-Ovs_xwUz8U7LRjrgoxD_SoEe1m27TiIuJMQZIrCIUvDnRak2mMF2Qcn-uAC8WAhpgxndKu-JMEeulbFKWoLqnK9ATtzaE9ckGn9yl4JEhAX76JupaRL239S70Tmc6DxGhRpsUhsoe2QfydMzexike_O71RzVQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ6ZkJmcctwzsRpRNovfGu1uw",
+            "plus_code": {
+                "compound_code": "R9GF+Q4 Shirur, Maharashtra",
+                "global_code": "7JCPR9GF+Q4"
+            },
+            "rating": 3.3,
+            "reference": "ChIJ6ZkJmcctwzsRpRNovfGu1uw",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot.no.E9,MIDC Industrial Area, Chilkalthana, Aurangabad, Maharashtra 431006, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.87953,
+                    "lng": 75.382848
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88083682989272,
+                        "lng": 75.38419292989272
+                    },
+                    "southwest": {
+                        "lat": 19.87813717010728,
+                        "lng": 75.38149327010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "814e39b70f013e5e295604075dfe54d4d4b01300",
+            "name": "Harman Finochem Ltd",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116348029450418857361\">saleem shaikh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-5E1kKZ8TRuLgLg8caYsBd-oWGhW-rkxNjv2C6kasewKvDYijLfWDcWpBiNT_7w6-XqGSFfgBo6tJZxlr76RgMqrGz5HkrRsZSV3FdX5w0RxWvuIN22xpLdfcta-8AsqEhDRmzTDtcSrtO9Cx0OdBB7NGhRpZF82uZoSU9OBeSGVmnlDw1mXKg",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJsaH7k-Oi2zsRVl6ObecGSfU",
+            "plus_code": {
+                "compound_code": "V9HM+R4 Aurangabad, Maharashtra",
+                "global_code": "7JFQV9HM+R4"
+            },
+            "rating": 4.1,
+            "reference": "ChIJsaH7k-Oi2zsRVl6ObecGSfU",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rathi Jin, Telhara, Maharashtra 444108, India",
+            "geometry": {
+                "location": {
+                    "lat": 21.0280833,
+                    "lng": 76.84335639999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.02952197989272,
+                        "lng": 76.84470092989272
+                    },
+                    "southwest": {
+                        "lat": 21.02682232010728,
+                        "lng": 76.84200127010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+            "id": "08a68fbca475504e3ee30768597a32aaabbaaa9f",
+            "name": "Telhara Bus Stand",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118223959442785252767\">Sushant Mahalle</a>"
+                    ],
+                    "photo_reference": "CmRaAAAATWCWCK6nAppDmy4OR8Si_piGx_BTymJyDT6JFE6CBv83MLKzk93s3zo9EmEEyZG73RTCugqOffgRtmSu1igrQf81Z6moAeBM5giFRiihW1lV_ZkffuhhU6v5-df2wwwiEhDf2R3zx_DerUFBJAeUxHANGhQ92vY6vG3rUiKFSAeEejhyKnxs6A",
+                    "width": 2218
+                }
+            ],
+            "place_id": "ChIJ6Y4jK8EU1zsRIwEwiqK8WVc",
+            "plus_code": {
+                "compound_code": "2RHV+68 Rathi Jin, Telhara, Maharashtra",
+                "global_code": "7JHR2RHV+68"
+            },
+            "rating": 3.3,
+            "reference": "ChIJ6Y4jK8EU1zsRIwEwiqK8WVc",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Central Bus Station, 38, National Highway 6, Asiyana Nagar, Aksha Nagar, Bardoli, Gujarat 394601, India",
+            "geometry": {
+                "location": {
+                    "lat": 21.1165269,
+                    "lng": 73.10792099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.11792912989272,
+                        "lng": 73.10937757989271
+                    },
+                    "southwest": {
+                        "lat": 21.11522947010728,
+                        "lng": 73.10667792010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "187911e820b22b0e0ba46bc869b6c12567ea6e6c",
+            "name": "Central Bus Station, Bardoli",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105178589181849585367\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbW445Z7k9yBH8nZU45YqHa0lZTGBeOrb4w8sK7Xvy6lrp35rGRU9_wA-UKCQcm5pZVklQFcmTmYwmhB6O3aeHOOEF6tUcR8C7A3duZVypwbs-7IbXLHzrBsu1sNl2Ji8EhBD_DEPdlOPekohbWvhUmkFGhQDXngBT_XjlgXMnBGS4r4iVwf_sw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJCSRpiT1n4DsRchK9d9IU9F8",
+            "plus_code": {
+                "compound_code": "4485+J5 Aksha Nagar, Bardoli, Gujarat",
+                "global_code": "7JHM4485+J5"
+            },
+            "rating": 4.1,
+            "reference": "ChIJCSRpiT1n4DsRchK9d9IU9F8",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Wani, Maharashtra 445304, India",
+            "geometry": {
+                "location": {
+                    "lat": 20.0603089,
+                    "lng": 78.9516278
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.06168687989272,
+                        "lng": 78.95301157989272
+                    },
+                    "southwest": {
+                        "lat": 20.05898722010728,
+                        "lng": 78.95031192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+            "id": "5d842dc52469881571db65cbeb9d59f8f39c9a9c",
+            "name": "Wani Bus Station",
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103436200736897146438\">Mayank Madhu</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAzFB12CLTgqtc_kNSbepVKrXZSIotw9-2dGEE6nNHnbzzcgf0F0inzyj7EKN9gNQRgfm2ixhtSlwRIFmH0D7INJ3cF1vS-tOegRZQFV-P5f5K0X3Z3XK0HimclY2YmQq3EhA7vT3iw9h93x3lYMkhpIL4GhRKDkVMvd6mJ5DKylng0qb59KPi3g",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ_f_4qsAe0zsRTJg05vnr00A",
+            "plus_code": {
+                "compound_code": "3X62+4M Wani, Maharashtra",
+                "global_code": "7JGW3X62+4M"
+            },
+            "rating": 2.9,
+            "reference": "ChIJ_f_4qsAe0zsRTJg05vnr00A",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bas dipo st, Gujarat 396001, India",
+            "geometry": {
+                "location": {
+                    "lat": 20.6103487,
+                    "lng": 72.9319679
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.61172102989272,
+                        "lng": 72.93327192989271
+                    },
+                    "southwest": {
+                        "lat": 20.60902137010728,
+                        "lng": 72.93057227010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "fd124ebb24efffc0d4bf4f6c47222cb2ad0a4a2f",
+            "name": "Om bhaj sing chana",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101055338900677161339\">Mehul Chauhan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQOrIhbopZqSNpqWEimNSO9zgZR9XxRdfAcYh2rEl6LZMjBVLp3U31KGQCwAM3se-Irfy31Tv6K9FKnqV61vYWDyPOnlLHLO7ilejWqxWs5xdA2BOfjAuiL1GQL_7CkYREhCYNE1c7ciR39xrdZemmKB7GhSanYRw7J-RGD2qF8CcGwly37ITjA",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJDY_RqrzD4DsRiOCTUJDRWmQ",
+            "plus_code": {
+                "compound_code": "JW6J+4Q Kapadia Chal, Valsad, Gujarat",
+                "global_code": "7JGJJW6J+4Q"
+            },
+            "rating": 3.8,
+            "reference": "ChIJDY_RqrzD4DsRiOCTUJDRWmQ",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 194
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Saraswathi Nagar, Bodhan, Telangana 503185, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.6587345,
+                    "lng": 77.8955813
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.66002347989273,
+                        "lng": 77.89709762989273
+                    },
+                    "southwest": {
+                        "lat": 18.65732382010728,
+                        "lng": 77.89439797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "206940b6f9e4f35d193413f2384950476c2d08cb",
+            "name": "TSRTC BODHAN",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105532654125725477977\">Praneeth Bhagat</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhAx0AFuDlGauiL8r0icxLYJRNhs-OVHC3UEfLOD7IS0n0kGaFTU4cFFPCt1GNxPIRUyJob0yT1-i1nXQbVdWxiFuzhJTPVZnn2eTiuV6wicM8beLpgd3P4j49j6K7RTaEhCnPFzKUmWr4u7WJZnOdeuPGhRBqJBRY5YMcBa14BfD1loDg0R6Tg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJkSBzak52zjsRzCGtpfMbO-k",
+            "plus_code": {
+                "compound_code": "MV5W+F6 Saraswathi Nagar, Bodhan, Telangana",
+                "global_code": "7JCVMV5W+F6"
+            },
+            "rating": 3.6,
+            "reference": "ChIJkSBzak52zjsRzCGtpfMbO-k",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 70
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Zahirabad, Telangana 502228, India",
+            "geometry": {
+                "location": {
+                    "lat": 17.6824469,
+                    "lng": 77.6140449
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68379672989272,
+                        "lng": 77.61539472989271
+                    },
+                    "southwest": {
+                        "lat": 17.68109707010728,
+                        "lng": 77.61269507010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "fc6a18dccc4f9f34899ca0da5b794ca4be245406",
+            "name": "Tsrtc Zaheerabad Bus Depot",
+            "permanently_closed": true,
+            "place_id": "ChIJlVOC6PG1zjsR4p89BwauV3g",
+            "plus_code": {
+                "compound_code": "MJJ7+XJ Zahirabad, Telangana",
+                "global_code": "7J9VMJJ7+XJ"
+            },
+            "rating": 3.7,
+            "reference": "ChIJlVOC6PG1zjsR4p89BwauV3g",
+            "types": [
+                "parking",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Korutla, Telangana 505326, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.8251727,
+                    "lng": 78.7162719
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.82639102989272,
+                        "lng": 78.71757002989271
+                    },
+                    "southwest": {
+                        "lat": 18.82369137010728,
+                        "lng": 78.71487037010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "54938a7e1a42a9b54e2b5d3dee8998cee446ca80",
+            "name": "Korutla Bus stand",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2368,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114080779112076809444\">mohmmad samyudheen</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAr6LBrG1E8L6ffXZ8x1HuXjt6qOnx1pEMTIjF8y4dKlHOrikPsZCEtMzIlUeEKs6GL7HBJSYANljPd1f28oZVEmzBfvz2gLXqo28zBLZM2ynGRmNZNFh-UNIAcoGrHjDuEhANqkJ2vXAsE4gao8IPXY28GhSD7KOrfVh5ymj3q0_qHg2nwWEXrg",
+                    "width": 4224
+                }
+            ],
+            "place_id": "ChIJqw19iDwLzTsRzfHe-Biu62E",
+            "plus_code": {
+                "compound_code": "RPG8+3G Korutla, Telangana",
+                "global_code": "7JCWRPG8+3G"
+            },
+            "rating": 3.8,
+            "reference": "ChIJqw19iDwLzTsRzfHe-Biu62E",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1158
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bazar Ward, Chandrapur, Maharashtra 442402, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9640666,
+                    "lng": 79.2979914
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.96528922989273,
+                        "lng": 79.29949517989273
+                    },
+                    "southwest": {
+                        "lat": 19.96258957010728,
+                        "lng": 79.29679552010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "77170a13945a414951dfd618648742cbff2f9caf",
+            "name": "Chandrapur Bus Stop",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102707123476892661675\">Pritesh Jiwne</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZ91letw4SF2Ml64idW1RPr7jvAZAVxMPvLniYN0uaYXc3JTfvIDivf9BVuQpIhjg5uflCQxlt89te0WEwNEHB90jWPPX1hpwAEiTEHjQPskuQpdOl6GElp6yecvHVXfSEhAAmx_fFc3txKuy2KdIAi7OGhSIlkNj-BCO4MDE_8k_FRLrYZL8mg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJo5Zb19PV0jsRcT8EFYjxqls",
+            "plus_code": {
+                "compound_code": "X77X+J5 Bazar Ward, Chandrapur, Maharashtra",
+                "global_code": "7JFXX77X+J5"
+            },
+            "rating": 3.5,
+            "reference": "ChIJo5Zb19PV0jsRcT8EFYjxqls",
+            "types": [
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 88
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Visakhapatnam, Andhra Pradesh 531163, India",
+            "geometry": {
+                "location": {
+                    "lat": 17.929236,
+                    "lng": 83.424031
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.93058467989272,
+                        "lng": 83.42538877989273
+                    },
+                    "southwest": {
+                        "lat": 17.92788502010728,
+                        "lng": 83.42268912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+            "id": "fe504f8ffdb450b3d111d5e408b72c2dc84ba981",
+            "name": "Tagarapuvalasa",
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115801822074971406578\">my lovely daughter&#39;s</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-c3fTHaGlKfZTmAbuI4BtYnPkAYQQaMKxxDoJXSFb6tXYj36L1K4oX17tnKzVUPAVCB2uj33Sw578lKi5pDHlKlc7VuMNnggb9O5oi_sJK5hpb26ir4iLJRoZEd3FLbKEhDn66geQwuh2L1aHoYpe4p2GhQZIrxDFyHz_TVYnd1484Z46xBlXA",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJv-Ig3vhXOToRmCS4zM65aLk",
+            "plus_code": {
+                "compound_code": "WCHF+MJ Bheemunipatnam, Andhra Pradesh",
+                "global_code": "7M95WCHF+MJ"
+            },
+            "rating": 0,
+            "reference": "ChIJv-Ig3vhXOToRmCS4zM65aLk",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        }
+    ],
+    "status": "OK"
+}

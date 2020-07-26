@@ -1,0 +1,956 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCAgEAAKsik3JyIRkupkKQYtqluAxrwTJTjX_1UvMPXqlRh7bD01cYKu01A-4Ni68inxzgLS044ytiPiIeaRcwj02t6aaRwiXxGhfkXmzwf5ZB6AviF1Ah0aRcLQrVAD1Bm4g7KCyAyQBn5797hrnNLL-DUBbEzKF-3n7UUlT-Ck8-_yBxJEjm_TL7ISwKCNVpArerGv6pnvnmVXbqslmJoUGDK9B8DGzIQTGtVJ17Il-lvIL7ie8ldzg3vjRrAvkuNL8g_O7G98YeNb_6vrKtiqTKOEofbeaoar5hcwJJBuxMbj0aNnmrF6mvmQ7rPl0G1uQWD0ZkshdhjiaBGHVw9ERhSuPLF2iJ-WXQ3OI08HfWqVcBEhBob-CUAa9_1TEYflKj90hYGhRf2E19ghwFWZG6mzBB_MtiTzEtbw",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "RIICO Industrial Area, Mansarovar, Jaipur, Rajasthan 302020, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8379133,
+                    "lng": 75.7832956
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.83979702989272,
+                        "lng": 75.78452062989273
+                    },
+                    "southwest": {
+                        "lat": 26.83709737010728,
+                        "lng": 75.78182097010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5d007ec30b26dda5fe8fe909fd6efd15a153bb96",
+            "name": "Fun Kingdom Amusement Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102317696192913415128\">apperna sharma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA3QeYHz-6ynD1n8JLJdNCUGEaBK7dQvmtmJfyGtfBpsOKbe0AWq8J-ip-kRXQMKhIOVvCdZw4Y3L9DHro8clnwYAF6cvnv7qe-9B9xa1XtI8L-0SW1rUtwX0MOxuEJ9bxEhBLJY5bTDGQcFmZ6wC9984jGhRn5YInhGJi1rOJW56JfY64sHyIOQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJl_m8uZK1bTkR9EcgjjSIZgc",
+            "plus_code": {
+                "compound_code": "RQQM+58 Mansarovar, Jaipur, Rajasthan",
+                "global_code": "7JRQRQQM+58"
+            },
+            "rating": 3.8,
+            "reference": "ChIJl_m8uZK1bTkR9EcgjjSIZgc",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 191
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Premises, Jawahar Circle, near Car Parking, Jaipur, Rajasthan, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8391692,
+                    "lng": 75.7993206
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.84051902989272,
+                        "lng": 75.80067042989272
+                    },
+                    "southwest": {
+                        "lat": 26.83781937010728,
+                        "lng": 75.79797077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7053d5dccd4a622e919898333d0d808258db0b1e",
+            "name": "Children's Park And Play Ground",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 691,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117638819121893548103\">santramratan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAGJStg5pD4aoksAZr4-noRk2qEFaO0VkZRQpLOtg8xig8Z44hAim4_-7jHhEoQhBTCjlLGgP3JP5B9BQIB2jQWm56L23dB54eyo3kre6JM870DBYq7mKrRKWEKfRg6fk6EhCJy3U3CFfw5JrmbqGQ01qsGhQ4_uoS7EXyad2A5HyNPv5ztIUjYg",
+                    "width": 922
+                }
+            ],
+            "place_id": "ChIJMbmoyOS1bTkRhj0R-tRVvho",
+            "plus_code": {
+                "compound_code": "RQQX+MP Jaipur, Rajasthan",
+                "global_code": "7JRQRQQX+MP"
+            },
+            "rating": 4.1,
+            "reference": "ChIJMbmoyOS1bTkRhj0R-tRVvho",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 104
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Alkapuri Main Rd, Alkapuri Township, Niwaru Rd, Jhotwara, Jaipur, Rajasthan 302012, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9663226,
+                    "lng": 75.71520459999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.96768302989272,
+                        "lng": 75.71649047989271
+                    },
+                    "southwest": {
+                        "lat": 26.96498337010728,
+                        "lng": 75.71379082010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1530ebb345e637c55934edc17ed473d0d53cdc2d",
+            "name": "Alkapuri Kids Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108498042878214510345\">Parth Rathore</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAt40i9t8IImN0P-pF8Ura58pmvoC7X8fUhHxgC4A28Vj_73PEfibgkWoN6ljbQWM61U04dGRsgu4YIhxK3wtnF8X94ymnJHMGvGpDXGBOq00idsa3RkQVjtwO4j-CpI9KEhBKiUWbAAAgXGt1J21CcvsTGhRoytHLeSNZ3X2WKc3Nuq4aTdLiAw",
+                    "width": 2250
+                }
+            ],
+            "place_id": "ChIJtVYvwtKybTkRvnNQK6Qb3mc",
+            "plus_code": {
+                "compound_code": "XP88+G3 Jhotwara, Jaipur, Rajasthan",
+                "global_code": "7JRQXP88+G3"
+            },
+            "rating": 3.9,
+            "reference": "ChIJtVYvwtKybTkRvnNQK6Qb3mc",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Goner Rd, opposite Chokhi Dhani, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan 302029, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.7666339,
+                    "lng": 75.8415205
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.76799527989272,
+                        "lng": 75.84286477989272
+                    },
+                    "southwest": {
+                        "lat": 26.76529562010728,
+                        "lng": 75.84016512010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "dd7a22789d670511549e2f41376489d6be30a49b",
+            "name": "THE SOUTH AQUA PARK- Resort & Water Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104885376267552319106\">All in one With Raiya ji</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFumtxtSyaNHrsdqdGKRiM3h70FzNZhx4cqTy2GMlVeOmDVf89WMHIXkXxmMFql-qodGzavlsE5Ehgm_8MapwSNmM_ku3rprLOnYSFkKr7QB4V0mbWnwIByaR8km6udRREhC6NHuPQpOdMpkvCXXYsRSNGhSubn_fbM7nW0HcpEIETqUQBUzpBg",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJFV647ZPJbTkRWKWTkFJ0uqI",
+            "plus_code": {
+                "compound_code": "QR8R+MJ Sitapura, Jaipur, Rajasthan",
+                "global_code": "7JRQQR8R+MJ"
+            },
+            "rating": 3.8,
+            "reference": "ChIJFV647ZPJbTkRWKWTkFJ0uqI",
+            "types": [
+                "amusement_park",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 446
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sector 2 Rd, Sector 2, Central Spine, Vidyadhar Nagar, Jaipur, Rajasthan 302023, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9603065,
+                    "lng": 75.77893519999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.96147797989272,
+                        "lng": 75.78038932989271
+                    },
+                    "southwest": {
+                        "lat": 26.95877832010728,
+                        "lng": 75.77768967010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5f7bf9dafc5e493f1027471d95efd582ac221b32",
+            "name": "Summer Holiday Amusement Ride Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109189417744154835987\">D Sami</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAx-xKf7HIoxJL8Wmv0E3A1m3RpSE63qLR2W9J_3qbsjWI9oikT-9HBkbilbhiyZFGlguBHZQ-Hi6kbLRoNvkEwIzEmGsmFec4zADYpsgxUK3YymJneZCbWFmLC4zPgFcJEhB9ySX5WJYAQSN4moJAbpXUGhSThHaGOhpGSDDKhW_lhpsPiFOa_A",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ7QlAQFKzbTkRApd9x_r1ynE",
+            "plus_code": {
+                "compound_code": "XQ6H+4H Vidyadhar Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQXQ6H+4H"
+            },
+            "rating": 5,
+            "reference": "ChIJ7QlAQFKzbTkRApd9x_r1ynE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2009 Pitaliya Bhawan, Pitaliyon Ka chowk, Peetliyon, Bordi Ka Rasta, Johari Bazar, Jaipur, Rajasthan 302013, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9231407,
+                    "lng": 75.818142
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92449562989272,
+                        "lng": 75.81949327989271
+                    },
+                    "southwest": {
+                        "lat": 26.92179597010728,
+                        "lng": 75.81679362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "dd3fcc51df44a195d878b35d691b4e6361e8d92f",
+            "name": "Elefanjoy Elephant sanctuary",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108916569890488092822\">elefanjoy</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA0IVpNFOmmmDGyEpqnq2LqMqjKrq0qusp5-TDCDLCDHl_2zpE3poSazt87GBPC4RfOMOAZwLZexuS_xMsCLn7vMXUwTCUCGq-CgeSAp3FFgtImztFQFpk0Pc0nFH1iyMgEhBdGhIJ0Uk_nfmc4jhhJqWWGhQ1-A0UiCrJMo8ZPRPTMVPb0ASq2g",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJUbHNbADTWjoRFU_j1tlWXys",
+            "plus_code": {
+                "compound_code": "WRF9+77 Johari Bazar, Jaipur, Rajasthan",
+                "global_code": "7JRQWRF9+77"
+            },
+            "rating": 4.4,
+            "reference": "ChIJUbHNbADTWjoRFU_j1tlWXys",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 57
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Vidhyadhar Nagar Rd, Vishwakarma Industrial Area, Vidyadhar Nagar, Jaipur, Rajasthan 302039, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9692205,
+                    "lng": 75.78483469999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.97068657989272,
+                        "lng": 75.78625502989271
+                    },
+                    "southwest": {
+                        "lat": 26.96798692010728,
+                        "lng": 75.78355537010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "13545b33f8b6d2320dee517823680ace479e90ed",
+            "name": "Summer special Amusement Park \u0917\u094d\u0930\u0940\u0937\u094d\u092e\u0915\u093e\u0932\u0940\u0928 \u090f\u092e\u094d\u092f\u0942\u091c\u092e\u0947\u0902\u091f \u092a\u093e\u0930\u094d\u0915",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109189417744154835987\">D Sami</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9qSy_pz_9o-Q-GhL-ZehGJa_ENdlpuU05qbsKlwnRkwtwIC9LD6rQ2f46dAYkkbvpnfC2RZFilTmvOXUcXX1FgvcKg1AwU9lra9dkdx13aC-7qnXZdQenFWJ1_uR2YfvEhAeOEC-fn_ysLkp92hAGRemGhRpfN-0f-fzPhQEcNA1aqWYtcKNmQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJZQw9zaSzbTkR4_mk4Wfh23Q",
+            "plus_code": {
+                "compound_code": "XQ9M+MW Vidyadhar Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQXQ9M+MW"
+            },
+            "rating": 0,
+            "reference": "ChIJZQw9zaSzbTkR4_mk4Wfh23Q",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan 302022, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.785915,
+                    "lng": 75.85698479999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.78724737989272,
+                        "lng": 75.85834302989271
+                    },
+                    "southwest": {
+                        "lat": 26.78454772010728,
+                        "lng": 75.85564337010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "930986422c6fdb46ed33d3e110304d796c3daec1",
+            "name": "Ramchandrapura Damp",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117480067772537687589\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxHOpZusNnpnsuZr-NMsGV745n6eZY_8eCF7rrhaqyU0yCPrhgbZVLdYyjgjoNfmaVBfrnhQVqZXh4KQUzucaHhfdHjKb8JQWDDSYv0F8lCeLN1MMl5FmvcZmp3rtJAH_EhBu_3HiFaP4D4bc4abV1SgjGhRhtJXO4ORasISbX30aldAcnMdF5g",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJPTyoBIzJbTkRDziQSYkhWeI",
+            "plus_code": {
+                "compound_code": "QVP4+9Q Sitapura, Jaipur, Rajasthan",
+                "global_code": "7JRQQVP4+9Q"
+            },
+            "rating": 3.5,
+            "reference": "ChIJPTyoBIzJbTkRDziQSYkhWeI",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shikarpura Rd, gular ka bandh, Jaipur, Rajasthan 302029, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8062236,
+                    "lng": 75.7936608
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.80757332989272,
+                        "lng": 75.79501062989273
+                    },
+                    "southwest": {
+                        "lat": 26.80487367010728,
+                        "lng": 75.79231097010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f65043d200d43b759b05f0e122b38e85fd5af33e",
+            "name": "Dravyavati River Front Sanganer",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2093,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116241983964148607959\">Deepak Soni</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAcczzPj-UsqNeF6UroPktBsPoI_3H0VfmqZ6bOY4doyE0mGoaaIfbYEZ54RGtzPqrI4U1F6LGx4vAQiX8_ahTP5Lsc55OIkePgBuuZ3kU3yM16KGGEqbRKGJG5X71U74LEhBJL0FUSovOIles2_iOjH0jGhTBrvToGMb9k47iSu6t-ujttLHa5g",
+                    "width": 3978
+                }
+            ],
+            "place_id": "ChIJLzOGChfKbTkRCb8VXMBifdw",
+            "plus_code": {
+                "compound_code": "RQ4V+FF Jaipur, Rajasthan",
+                "global_code": "7JRQRQ4V+FF"
+            },
+            "rating": 4.4,
+            "reference": "ChIJLzOGChfKbTkRCb8VXMBifdw",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 66
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Near Daulathpura Toll Gate, Delhi Ajmer Bypass Rd, near Vishwakarma Industrial Area, Jaipur, Rajasthan 302013, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.0542338,
+                    "lng": 75.83956719999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.05557197989272,
+                        "lng": 75.84093402989271
+                    },
+                    "southwest": {
+                        "lat": 27.05287232010728,
+                        "lng": 75.83823437010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c46fb878b7e965c625aea6cb9575e8d73013ab93",
+            "name": "Appu Ghar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3261,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117437202279518830555\">Amit Jangid</a>"
+                    ],
+                    "photo_reference": "CmRaAAAABbkUpq1fjHFn-V-XuxTa3uzTIivgnclc7YHjcqoZxy3saRnVpee05BUsM5Deh3wtsnoB19ab-H0qR6x71i9yYHTwfsf0cVxAlrviyL7PPo8Gakh5kxdzmNFNOrqxWfr1EhCC79sGYc2WNNyPjE10CUDoGhRqtJcZDhFnrWd-Q773iQjR8u7jiw",
+                    "width": 4904
+                }
+            ],
+            "place_id": "ChIJaQDS_Aa0bTkRyqOZtEihagg",
+            "plus_code": {
+                "compound_code": "3R3Q+MR Jaipur, Rajasthan",
+                "global_code": "7JVQ3R3Q+MR"
+            },
+            "rating": 3.6,
+            "reference": "ChIJaQDS_Aa0bTkRyqOZtEihagg",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1194
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shankar Vihar Extension, Jamna Puri, Jaipur, Rajasthan 302032, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9908801,
+                    "lng": 75.7444185
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.99224477989272,
+                        "lng": 75.74570082989273
+                    },
+                    "southwest": {
+                        "lat": 26.98954512010728,
+                        "lng": 75.74300117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "432c5313ae22c2183838a3bf8094569aec76a062",
+            "name": "Krishna Water Park And Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 853,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109248501146322598327\">krishan yadav</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAigFHzgcU8qMzTWFbaDHF9NdulpalzHU1aD0y67IaydMtYR2_NcTGFBkU9eMK52Pc8u0KeVGA1G39AE2xKWIsLXZ7h9bMDTWGZNMi-JeYfoC7A0KuHhOeglwgqVmLwmdPEhCSnRdXirAHpDBq43ngc7rTGhTgjn4soMZzcQc5TBXK4hb5IMdDww",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ0d3DtKezbTkRrPXtytHvC0k",
+            "plus_code": {
+                "compound_code": "XPRV+9Q Jamna Puri, Jaipur, Rajasthan",
+                "global_code": "7JRQXPRV+9Q"
+            },
+            "rating": 4,
+            "reference": "ChIJ0d3DtKezbTkRrPXtytHvC0k",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 91
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "D-601 UDB Orchid, Jaipur, Rajasthan 302026, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.860615,
+                    "lng": 75.668633
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.86189307989272,
+                        "lng": 75.66988407989273
+                    },
+                    "southwest": {
+                        "lat": 26.85919342010728,
+                        "lng": 75.66718442010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "dbc3b1f2f462ca5f4e6aba5749d5b47f63868bf0",
+            "name": "Pink Pearl Water Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 452,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106151598697364163160\">MUKESH ROLANIA</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFA3zX53RXexwL1ccfwZeRzHJzQjNb0CYaDtVed5QBxWbXpNUrXyKc2v5bbKg8AX4HIUh9xyZL_TgO5ulfLr5Y7McMAl7bZeIp4NN-ueNTOGg3iqA8QbMSr1JzIP-jvC-EhA3MM9Bs8tS5HwB4zAXcW8zGhSKBN6BCZ8-MBe-QjbCynKMy7Cm2w",
+                    "width": 678
+                }
+            ],
+            "place_id": "ChIJRcCiQVpLbDkROxMre9xEzq0",
+            "plus_code": {
+                "compound_code": "VM69+6F Jaipur, Rajasthan",
+                "global_code": "7JRQVM69+6F"
+            },
+            "rating": 4,
+            "reference": "ChIJRcCiQVpLbDkROxMre9xEzq0",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 713
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Adarsh Krishna Nagar, Kartarpur, Gopal Pura Mode, Jaipur, Rajasthan 302015, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8837582,
+                    "lng": 75.786033
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.88507542989272,
+                        "lng": 75.78747932989273
+                    },
+                    "southwest": {
+                        "lat": 26.88237577010728,
+                        "lng": 75.78477967010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8ecaaa95a11322b87fcf3172a7057ee8d70c38dc",
+            "name": "Water Tank",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113009822060391879115\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYkIuHfAjgQygSS-P2FmB9Q_vr_afuUfab4E8mzSs6VY6Wu4Mdt5K2Sbk0TwTWNiMd2C9n4qRGp5y58gMGHujiMd144JKiXKlZyXDrR0C33EL8xR8CMJ0GwguS0GJO5aWEhC6l_oiN66_0iXvqrL8rGjTGhRaLoUCTHE3grzvTKNYkvJ_dNFjxg",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJpXT_Lji0bTkR8jw0t0ngogY",
+            "plus_code": {
+                "compound_code": "VQMP+GC Gopal Pura Mode, Jaipur, Rajasthan",
+                "global_code": "7JRQVQMP+GC"
+            },
+            "rating": 4,
+            "reference": "ChIJpXT_Lji0bTkR8jw0t0ngogY",
+            "types": [
+                "premise",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 178
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sikar Rd, opp. Sun city, Jaipur, Rajasthan 302013, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.0445397,
+                    "lng": 75.7607
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.04585157989272,
+                        "lng": 75.76222892989271
+                    },
+                    "southwest": {
+                        "lat": 27.04315192010728,
+                        "lng": 75.75952927010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "9103bf88207dc5550f38e08d8f89d33cd5eb763c",
+            "name": "Hotel Mauj Mahal Water Park & Fun Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 632,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115173481466350271043\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVUYo-pmQAEbc_2sr5Wi1nf4EoiPPcgx7rYuMbxfrojjAFioHhdX_WFOqrA16P8dUV1XF51HOebdHhUzJimC6h74wMKyD5JBJDi0POIqYNAPSYHzra_wZzsFXQSBdPK1jEhDsUIGePhZTpe7wgGYOW8wGGhTVsk-_RVdPTulvl9TRlU3lfxiTxQ",
+                    "width": 1128
+                }
+            ],
+            "place_id": "ChIJXQ80MKitbTkRKrkozD-3c0k",
+            "plus_code": {
+                "compound_code": "2QV6+R7 Jaipur, Rajasthan",
+                "global_code": "7JVQ2QV6+R7"
+            },
+            "rating": 3.9,
+            "reference": "ChIJXQ80MKitbTkRKrkozD-3c0k",
+            "types": [
+                "amusement_park",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1372
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Topkhana Hazuri, Jaipur, Rajasthan 302003, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9137612,
+                    "lng": 75.8400523
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91517527989272,
+                        "lng": 75.84141257989272
+                    },
+                    "southwest": {
+                        "lat": 26.91247562010728,
+                        "lng": 75.83871292010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "6cf9ce9c74fd42b41e6d3ce78f02ce9e7c0d852d",
+            "name": "Wonderland Acedmy",
+            "permanently_closed": true,
+            "place_id": "ChIJ58gKuc-2bTkR6hlf9o7SjoA",
+            "plus_code": {
+                "compound_code": "WR7R+G2 Topkhana Hazuri, Jaipur, Rajasthan",
+                "global_code": "7JRQWR7R+G2"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ58gKuc-2bTkR6hlf9o7SjoA",
+            "types": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Eden Garden, 20th Milestone, Rajawas, Sikar Highway, Jaipur, Rajasthan 302021, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.066656,
+                    "lng": 75.75224
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.06836207989272,
+                        "lng": 75.75362267989271
+                    },
+                    "southwest": {
+                        "lat": 27.06566242010728,
+                        "lng": 75.75092302010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2f43f446ff117349b858e523b06283ddc23df126",
+            "name": "Angel Resort & Amusement Water Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 715,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109499277498988384105\">Angel Resort &amp; Amusement Water Park</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAnpV3ycJAdWYLf3IJ2gr3ggXUcJyURsaoppiGw5-hQPwqnHic4AQqvTLFku_iWsS7fwmBG54jrPSxofRzPw6KGvHVfGuXRSdhbsp5Bn006z67wV5J9-4f5kkwUrHyDdycEhALtqQ_v56a23Lh-fo80kb8GhTCNfzwzreD8hNZsuuIqle1rC0kow",
+                    "width": 1272
+                }
+            ],
+            "place_id": "ChIJk8n8-PCsbTkRJlR6FwNN7U0",
+            "plus_code": {
+                "compound_code": "3Q82+MV Rajawas, Rajasthan",
+                "global_code": "7JVQ3Q82+MV"
+            },
+            "rating": 3.8,
+            "reference": "ChIJk8n8-PCsbTkRJlR6FwNN7U0",
+            "types": [
+                "amusement_park",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1365
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bandi Puliya Near Toll Plaza At Tatiawas, Sikar Road, Jaipur, Rajasthan 302013, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.081148,
+                    "lng": 75.74522
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.08243717989272,
+                        "lng": 75.74699442989272
+                    },
+                    "southwest": {
+                        "lat": 27.07973752010727,
+                        "lng": 75.74429477010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "9221e312d84867c8d72432e037ab275517824571",
+            "name": "Sun Shine Resort And Water Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102446091013166805847\">Sun Shine Resort</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVuX-hmDUdCRF5sleg5oVbbCMaNXWftVDjGsE4XAoIoM6iIdpyZJ2VqU9zi5YQNPcM8jtFuPaY47_iB-vIrBWq1knZNiLhYJKJDFsZK7Ku_Cvra0iy7EopoOGXpF7-u_LEhAePMe9VkrS8U2Eau8UYoFNGhR0mR4f4Ndo5NAvR8tMR3cZm_LIPg",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJpdwhRWWybTkRtqDKp0Azbpo",
+            "plus_code": {
+                "compound_code": "3PJW+F3 Tantyawas, Rajasthan",
+                "global_code": "7JVQ3PJW+F3"
+            },
+            "rating": 3.8,
+            "reference": "ChIJpdwhRWWybTkRtqDKp0Azbpo",
+            "types": [
+                "amusement_park",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 534
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "CISF Rd, Kunda, Amer, Jaipur, Rajasthan 302028, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9984442,
+                    "lng": 75.8843428
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.99980377989273,
+                        "lng": 75.88570957989273
+                    },
+                    "southwest": {
+                        "lat": 26.99710412010728,
+                        "lng": 75.88300992010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5dd8fe70a98d8143aedea25d2045fe8e52c7f329",
+            "name": "Eleday",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115865499551392376775\">eleday</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAatJZrLVjWP-WOlhg31pGr8ezley-wm84DYZXqTvlU9_JzgGCQ5s_3icejcp2jFAa_dbXTgd2r3BybeEGpw1CLqyoepI6va_JFXjKJiFEmQsbS-BL7I0TV2MbzOf3ilE2EhBFuj8wJ5ltbATw1oJtnOhhGhQiyowjRrJUNE2NkLyj7G2aBauEuA",
+                    "width": 2712
+                }
+            ],
+            "place_id": "ChIJ7Y-7kmqwbTkRRNgzMJPj874",
+            "plus_code": {
+                "compound_code": "XVXM+9P Amer, Jaipur, Rajasthan",
+                "global_code": "7JRQXVXM+9P"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ7Y-7kmqwbTkRRNgzMJPj874",
+            "types": [
+                "travel_agency",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 171
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "NH - 8, Ajmer-Jaipur Expressway Near Mahapura, Mod, Bhakrota, Jaipur, Rajasthan 302026, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.860591,
+                    "lng": 75.6686362
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.86188107989272,
+                        "lng": 75.66988567989273
+                    },
+                    "southwest": {
+                        "lat": 26.85918142010728,
+                        "lng": 75.66718602010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "5c1842da5291eb9630a21ee96fbf558e8bd448f8",
+            "name": "Pink Pearl Resort and Fun City",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 614,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106984609350922119515\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA5_gZgCdqsR8K0E2tZV0RrKuB87KrHGItnq361U1Y_zAhd2DsCjSvwUuKrSMx3K9Ze1A-A3xofPYVAF1aouawhG2ox1ye9OE3ARLZbyRIm0KGXWxOCZlVCnXB-_hgMAcTEhARGmrZTmWIJ3PoxHxUxsP6GhQClARG1M01FtTl4blrIUyIWPScjA",
+                    "width": 920
+                }
+            ],
+            "place_id": "ChIJXdeACAhLbDkR2gUAEUceB9k",
+            "plus_code": {
+                "compound_code": "VM69+6F Bhakrota, Jaipur, Rajasthan",
+                "global_code": "7JRQVM69+6F"
+            },
+            "rating": 3.9,
+            "reference": "ChIJXdeACAhLbDkR2gUAEUceB9k",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4592
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Near, Gaurav Tower, GT Central Mall, Jawahar Lal Nehru Marg, D-Block, Crystal Court, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8564012,
+                    "lng": 75.80604559999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.85783097989272,
+                        "lng": 75.80741362989271
+                    },
+                    "southwest": {
+                        "lat": 26.85513132010728,
+                        "lng": 75.80471397010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3a91f3ba4e1b54c40b1872b3f0379b23ef005655",
+            "name": "Mastiii Zone Flavors GT Central Jaipur",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 528,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101602229557856307312\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgllKbsGtqZrceoNk6KbsnR1hpBjgqes3jnhzv3A4hrjUwQuWFKjy5ipDe-vZ8Mo2v_kGR1z7SAnXYsm6evVPgP7tgtHOcwbjsjjJcXb14zLTov0kFB-nY1-wPKXsH5A4EhBlV4wIS3RYQFYkBXx_WVmTGhTgVZ165ufix7nR642dW2mtmExYVw",
+                    "width": 939
+                }
+            ],
+            "place_id": "ChIJBwAwTd-1bTkR5WPAyH6b20c",
+            "plus_code": {
+                "compound_code": "VR44+HC Malviya Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQVR44+HC"
+            },
+            "rating": 4.3,
+            "reference": "ChIJBwAwTd-1bTkR5WPAyH6b20c",
+            "types": [
+                "bowling_alley",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1811
+        }
+    ],
+    "status": "OK"
+}

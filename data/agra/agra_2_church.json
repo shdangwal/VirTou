@@ -1,0 +1,875 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CqQDmAEAAGE1Mzl8-VDmcqAF5J6Rkhip8D1UBXkamN23N15AFRsRF3JQET0KdumE0Sdico995viGEl8_OHyipodnXGF62EEaWKMOdDw7ig_ODCZv3HlDU7MW_2aouNS-PNPDQ6JLHeflCsJaJBeuFlW9y4kK9Gc7IT57Q1C3_vPACyv8sV2yPPiDDtQ0plJHVOnoIl1DTHyo0b4haHLdOtAUuCMdN7Y_CEgVbD2oo8ANarQFDWAiig5_pCwjeJbXQFtMclBIwZfAMivIB0BUhVh2lyPOh_q3wDOF54XMH0q-TNgix8d4j1ufKStisEzIHpqD61mzl5uhp-_pA8Qy8zFNmDNtBvf1rr98yMuNVAgi1k6Y0pU2WQGO6QwEz02TlNV7Mx38g2_Hq8Sn4SW35ZTCxhrOMjPl8MLfwmJxN0E3LcAOhijrErRLXS2okR-ZL0C_8aKbZh7OkPkIPPL9DWU-FLRgiWGgCjOvWh_GqHqVcCHIR-PgSIy43PVCEm9LkP80iK3IHN3Pr9tghUX2I28_Czjbk78lokUn1DUfaR9jK7jjYYm9EhDPwSOkjyzxrjyAMvoStnSuGhRrr5HyHlhp1lOps-NJFSSNhU-OEA",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Plot No. 18 & 19, Maharshi Parsuram Nagar, Agra,, Shamsabad, near Panna Palace, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1417501,
+                    "lng": 78.0458749
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14309202989272,
+                        "lng": 78.04722917989272
+                    },
+                    "southwest": {
+                        "lat": 27.14039237010728,
+                        "lng": 78.04452952010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "5e6b01b787d9f6c0c1f19f2b43cea65cfc40bf01",
+            "name": "Mar Thoma Centre Agra",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 540,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110002268423423291248\">Joseph</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASx7WZ1lBIquVao9K_8MCS0hUlwDvu2kQnmspuX_ZgKfq1OXVwTpHTER0J2lHGPuILHazUYiE_rizsobvEUXM60skfTO4Hg-4Wbd9vmYY-5UXlQPs0mOX3HYVvccunCT7EhB6WccPY3sxX1azFIcu1UpgGhQcXL7wTj1xkFKw_7zB3vNkUt4yhA",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJQ8mWKGZxdDkRMAZGRpJs2bA",
+            "plus_code": {
+                "compound_code": "42RW+P8 Agra, Uttar Pradesh",
+                "global_code": "7JVW42RW+P8"
+            },
+            "rating": 0,
+            "reference": "ChIJQ8mWKGZxdDkRMAZGRpJs2bA",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1537592,
+                    "lng": 78.0009053
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15516722989272,
+                        "lng": 78.00227417989272
+                    },
+                    "southwest": {
+                        "lat": 27.15246757010728,
+                        "lng": 77.99957452010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "713d0e92079625c60e202e6d6fc03b45ae541b16",
+            "name": "St. Clares Church",
+            "permanently_closed": true,
+            "place_id": "ChIJ6cbmFcF2dDkRaoS0vIGmEmo",
+            "plus_code": {
+                "compound_code": "5232+G9 Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVW5232+G9"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ6cbmFcF2dDkRaoS0vIGmEmo",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kamla Nagar, Gadhapura, Civil Lines, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1970802,
+                    "lng": 78.0098166
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19829092989272,
+                        "lng": 78.01146467989271
+                    },
+                    "southwest": {
+                        "lat": 27.19559127010728,
+                        "lng": 78.00876502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "241c7ae0a5f9d465ee831e711b5ad09d47fb2b73",
+            "name": "Cathedral House",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116429056047235188354\">jpthottungalvc</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQgdDxT6Fnd974U9O-VCFhpBirBlL5T7NwiVIgcOnN2xrjTrb1l6LoM2EPGytvxpAggnrohkLDmlCEDlF8O4u32RKoL-OQJ3zM6Pc5xvkNqwtr9kcvoftEFEbEvMzpcGeEhDTvOctuJcCXAKtlLX53flaGhTDTy57TSxctCcY-aqKBGlnO43Tag",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJnyh0TDt3dDkRNoURu1imoQc",
+            "plus_code": {
+                "compound_code": "52W5+RW Civil Lines, Agra, Uttar Pradesh",
+                "global_code": "7JVW52W5+RW"
+            },
+            "rating": 4.8,
+            "reference": "ChIJnyh0TDt3dDkRNoURu1imoQc",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ajmeri Rd,Mahatma Gandhi Rd, Adarsh Nagar, Pratap Pura, Rakabganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1671334,
+                    "lng": 78.0091822
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16841457989272,
+                        "lng": 78.01050732989273
+                    },
+                    "southwest": {
+                        "lat": 27.16571492010728,
+                        "lng": 78.00780767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "2253ff2da7e487afcf7a8ff83473d74c34867523",
+            "name": "Baptist Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1632,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104714386582019924466\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAAlrvm4wVbdyCidhZx8Ls5Bmj8Dv2GaG8wqaXuc2NccOXgBbd7qV8TNEUmrsVvERB1T0IGLLW2ydSkk4Iqgucs9yo_9hW-mJR_PZIi0GWSm6VqDrQIdGC5lZGi6Sk4CYhEhAicoc4uIACz34xebiP2TJKGhRXUHgpkbV8vyO3FAURHXS1GEpVxQ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJWydDt9B2dDkRTQ4kNX_R1Io",
+            "plus_code": {
+                "compound_code": "5285+VM Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW5285+VM"
+            },
+            "rating": 5,
+            "reference": "ChIJWydDt9B2dDkRTQ4kNX_R1Io",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Chanderi, Panchkuian, Rakabganj, Agra, Uttar Pradesh 282010, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1770036,
+                    "lng": 78.00752159999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17835312989272,
+                        "lng": 78.00885742989271
+                    },
+                    "southwest": {
+                        "lat": 27.17565347010728,
+                        "lng": 78.00615777010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "3bca0a2b148c1175ef846d590d747a2ac046a45e",
+            "name": "CENTRAL METHODIST",
+            "permanently_closed": true,
+            "place_id": "ChIJe6yWLyZ3dDkRn9gGHBzHeOY",
+            "plus_code": {
+                "compound_code": "52G5+R2 Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52G5+R2"
+            },
+            "rating": 5,
+            "reference": "ChIJe6yWLyZ3dDkRn9gGHBzHeOY",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1576048,
+                    "lng": 78.00099449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15897157989272,
+                        "lng": 78.00228112989272
+                    },
+                    "southwest": {
+                        "lat": 27.15627192010728,
+                        "lng": 77.99958147010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "4029265e6d7246de8a92f6e07276b53a5f028e74",
+            "name": "Havelock Methodist Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107456327071984468166\">Ramanjeet Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYeKan0GWLTGf787ADmGVatbEKVMNMKRueI6HGS1Wf_G_cGlqBAqdseRZJez28MLg6XV-yjXlaxUH-lPXExd0jWFhogsccsnFzWr1Po7lNqMUgaK6MC4mWPbJGmqU3HL6EhAlQpHCVA50GtdiEA26ZKidGhSwNBRjKzZPfNRrlxeTwol_Vn6r5w",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ903gl8N2dDkR4BfZ2kiEZWE",
+            "plus_code": {
+                "compound_code": "5252+29 Agra, Uttar Pradesh",
+                "global_code": "7JVW5252+29"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ903gl8N2dDkR4BfZ2kiEZWE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "6/252 A-1, Prakash Nagar, Shahganj, Agra, Uttar Pradesh 282010, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1764491,
+                    "lng": 77.9817137
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17784232989272,
+                        "lng": 77.98306642989272
+                    },
+                    "southwest": {
+                        "lat": 27.17514267010728,
+                        "lng": 77.98036677010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "06529ec7ae2f31c2cec0d690c528298c3d83f306",
+            "name": "Rehoboth Assembly Of God Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110590891071541914574\">Rinson Mammen</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA0Qmjg_JdGaSv919liFHJqw0AHwJCWL9jaRS6ZhB1t6gNDWk5xsA_ca9ZTd5-ROSqUsIlvJx-fGrc0QROxk09lre3jMzN4nJTN0EvqJQdsgBbgAiyosPKTbZMxtVMpWQvEhDo0yr3qlkDyBdHLdXpgwcjGhTBNM18KDiXb6AXCs8gbrwEke2QJg",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJb7fQym53dDkRafNOaHqPcV4",
+            "plus_code": {
+                "compound_code": "5XGJ+HM Shahganj, Agra, Uttar Pradesh",
+                "global_code": "7JVV5XGJ+HM"
+            },
+            "rating": 0,
+            "reference": "ChIJb7fQym53dDkRafNOaHqPcV4",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shamsabad Road, Jangjeet Nagar, Shamsabad, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1441199,
+                    "lng": 78.0412849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14545417989272,
+                        "lng": 78.04265592989272
+                    },
+                    "southwest": {
+                        "lat": 27.14275452010728,
+                        "lng": 78.03995627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "1e8bee0c88d8f2f18114deea488bb14652024db4",
+            "name": "Central Church Of Christ",
+            "permanently_closed": true,
+            "place_id": "ChIJG3sBjEJxdDkRm-5w4sKdQr4",
+            "plus_code": {
+                "compound_code": "42VR+JG Agra, Uttar Pradesh",
+                "global_code": "7JVW42VR+JG"
+            },
+            "rating": 5,
+            "reference": "ChIJG3sBjEJxdDkRm-5w4sKdQr4",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "C-15, Ram Mohan Nagar Colony, Rishipuram Colony, Sikandra, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2079097,
+                    "lng": 77.95008779999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20925897989272,
+                        "lng": 77.95146032989271
+                    },
+                    "southwest": {
+                        "lat": 27.20655932010728,
+                        "lng": 77.94876067010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "84a69587f1a87cd9be90bc25b8d59f6b66d95df5",
+            "name": "Gilead Worship Center",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1224,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107796773215147003316\">Saji Chacko</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFw0wVSjMCM5sN0exi3HRiWirfFGuu8pLQoV9mDYkpOn6AIJPFfHmqeuO6iPNPa0pAJLMIZeyeRgwjKd4CQbjueQf0llWr2RKrVygcWXHM8DYWUL0jEpu5LxOyxKn5pO2EhB2ZLUHCCXVaMHYNxbDuhWYGhRxOukELTQlWxDVYCLmbw1nyb8Xdg",
+                    "width": 1632
+                }
+            ],
+            "place_id": "ChIJ3xBjRvN3dDkRCnnKqwmfVC4",
+            "plus_code": {
+                "compound_code": "6X52+52 Sikandra, Agra, Uttar Pradesh",
+                "global_code": "7JVV6X52+52"
+            },
+            "rating": 3.5,
+            "reference": "ChIJ3xBjRvN3dDkRCnnKqwmfVC4",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Gur Ki Mandi, Rawatpara, Bodhi Ka Nagala, Mantola, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1883415,
+                    "lng": 78.01341409999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18968912989272,
+                        "lng": 78.01476432989271
+                    },
+                    "southwest": {
+                        "lat": 27.18698947010728,
+                        "lng": 78.01206467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "46d9577e139d4699da381216c0ebaed186f05148",
+            "name": "St John's CNI Church",
+            "permanently_closed": true,
+            "place_id": "ChIJrxKM_7p3dDkRwEiu7FEsoQ4",
+            "plus_code": {
+                "compound_code": "52Q7+89 Mantola, Agra, Uttar Pradesh",
+                "global_code": "7JVW52Q7+89"
+            },
+            "rating": 5,
+            "reference": "ChIJrxKM_7p3dDkRwEiu7FEsoQ4",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sector 11, Avas Vikas Colony, Lohamandi, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.202325,
+                    "lng": 77.9645884
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20368827989272,
+                        "lng": 77.96587547989272
+                    },
+                    "southwest": {
+                        "lat": 27.20098862010727,
+                        "lng": 77.96317582010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "b6a6993768ef14c9aaa15a1387150e83f711f770",
+            "name": "Aashray Church",
+            "permanently_closed": true,
+            "place_id": "ChIJmz6si7d3dDkRbENyZ5rNdJw",
+            "plus_code": {
+                "compound_code": "6X27+WR Lohamandi, Agra, Uttar Pradesh",
+                "global_code": "7JVV6X27+WR"
+            },
+            "rating": 5,
+            "reference": "ChIJmz6si7d3dDkRbENyZ5rNdJw",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "112, 16, 113, Wazirpura Rd, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1977613,
+                    "lng": 78.009779
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19926697989272,
+                        "lng": 78.01111957989274
+                    },
+                    "southwest": {
+                        "lat": 27.19656732010728,
+                        "lng": 78.00841992010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "b26940e9878ab45d84e89cab5df154fd919cb4cd",
+            "name": "Cathedral of The Immaculate Conception",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116957053139708578160\">Manoj Sharma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAdU58PWfgPm_2qS46Mr9pWKi5ZAdY1aoagBwVXj_5Dy_6B5Hc5n1lQAZYacNBJ7GnP1TvesWGYer4Hmko7BTajwNVWRFosoru2YjKy8NLfTbnqgP7ro_oOyVig9bFGd6REhDuAecMgxMZFouRn4er1MNpGhSFp_6BakYQON56Vfar-jFpMkkkHg",
+                    "width": 3480
+                }
+            ],
+            "place_id": "ChIJJclaPEh3dDkRPhIbjmudSgE",
+            "plus_code": {
+                "compound_code": "52X5+4W Agra, Uttar Pradesh",
+                "global_code": "7JVW52X5+4W"
+            },
+            "rating": 4.7,
+            "reference": "ChIJJclaPEh3dDkRPhIbjmudSgE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 39
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Tedi Bagiya, Hathras Rd, Agra, Uttar Pradesh 282006, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2335935,
+                    "lng": 78.0463814
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.23498667989272,
+                        "lng": 78.04774207989271
+                    },
+                    "southwest": {
+                        "lat": 27.23228702010728,
+                        "lng": 78.04504242010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "638ca0d18f49b79c42788e01425abc302ddfcc5d",
+            "name": "Jesus Mission Church",
+            "permanently_closed": true,
+            "place_id": "ChIJN2b1cMx7dDkRyy2QjkiTwQM",
+            "plus_code": {
+                "compound_code": "62MW+CH Agra, Uttar Pradesh",
+                "global_code": "7JVW62MW+CH"
+            },
+            "rating": 5,
+            "reference": "ChIJN2b1cMx7dDkRyy2QjkiTwQM",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Prithvi Raj Rd, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1540948,
+                    "lng": 78.0010679
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15540672989272,
+                        "lng": 78.00261292989272
+                    },
+                    "southwest": {
+                        "lat": 27.15270707010728,
+                        "lng": 77.99991327010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "bc8d3a80b9f924ff8e153db38b83b98af9be6035",
+            "name": "St.Patricks church",
+            "permanently_closed": true,
+            "place_id": "ChIJq-K-Pfp3dDkRfonhx8F1WoA",
+            "plus_code": {
+                "compound_code": "5232+JC Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVW5232+JC"
+            },
+            "rating": 0,
+            "reference": "ChIJq-K-Pfp3dDkRfonhx8F1WoA",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Siroli Rd, near Bharat Gas Godown, Ram Vihar Colony, Dhanauli, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.133635,
+                    "lng": 77.9698779
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.13499117989272,
+                        "lng": 77.97123077989272
+                    },
+                    "southwest": {
+                        "lat": 27.13229152010728,
+                        "lng": 77.96853112010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "7cda7826386a76fba8afb1fa1cbb93eb3ea694b1",
+            "name": "I.M.N. CHURCH",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 809,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115110329174657307046\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACAKBDhUmLjJCZetwFsIFQGOuUeO4dQHbmTZfHiP0ydO7sN2IHqABjDxFxajPf2EpnnPZu2ALfKq2TeqZNWX37lZzj9MhCEQJnTI75qOIznFlP-4XVRe-Rvuvb3s6mUVqEhCCGFVfhK24dRZ4h0UcAqiLGhSjwRAX0UvBC-l_9bx3xSHCCHtLIw",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJ-Zm7NkZ3dDkR90oVJ-uu-rQ",
+            "plus_code": {
+                "compound_code": "4XM9+FX Dhanauli, Agra, Uttar Pradesh",
+                "global_code": "7JVV4XM9+FX"
+            },
+            "rating": 0,
+            "reference": "ChIJ-Zm7NkZ3dDkR90oVJ-uu-rQ",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Station Road, near Eklavya Sports Stadium, Sadar Bazar, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1587094,
+                    "lng": 78.00741099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16007192989272,
+                        "lng": 78.00866057989272
+                    },
+                    "southwest": {
+                        "lat": 27.15737227010728,
+                        "lng": 78.00596092010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "b1b9df3ebe960f3d1638fb0915b3d9db0a753015",
+            "name": "St. George's Cathedral",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108104622528090866393\">Aaron Toch</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFZZaRvQsudrftIdzag7QcVd_AeEgIwe89Fns3d4L9y2A3oxHGg5WqbHH4iNPKEwLXWnO9NjxxGSVAHmOWQRTyugZDRRPUYuHFq9srvUXh5OKr4VfvEOaOJ2FGHATv7lZEhASF4X3BOFnrqR00gnnbx44GhSYvbV_yKrgp0rbGFrSjvZf00LK2g",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ_dtgdMV2dDkRIiBF2ggpSQ4",
+            "plus_code": {
+                "compound_code": "5254+FX Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVW5254+FX"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ_dtgdMV2dDkRIiBF2ggpSQ4",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Purani Teri Bagiya, Baghel Colony, Foundry Nagar, Agra, Uttar Pradesh 282006, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.233565,
+                    "lng": 78.046224
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.23497982989272,
+                        "lng": 78.04757922989272
+                    },
+                    "southwest": {
+                        "lat": 27.23228017010728,
+                        "lng": 78.04487957010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "9d31395a3ee3b567f1dd17e5e05eb5a9d0b98ba3",
+            "name": "Jesus Mission",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 585,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116787832940163635266\">JESUS MISSION</a>"
+                    ],
+                    "photo_reference": "CmRZAAAA2nWAGdfXTF8xED2XmCZz9Vp-D2adBqPljCgil3JOt6cL1ZsACNJorrtKY1yKZctDgAAJdX4wYpjN9KqKDbRsasbNMt9_jUJFSzBU_h4FbUJ1aY9bsHlvXpuJhrwQJnvbEhC6OQHwmPnrIITbj99PxobSGhSJfnDp0VQOgQusgOC_CZVolCVmDA",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJTYhWx216dDkRQJYD4bHi51g",
+            "plus_code": {
+                "compound_code": "62MW+CF Foundry Nagar, Agra, Uttar Pradesh",
+                "global_code": "7JVW62MW+CF"
+            },
+            "rating": 4.1,
+            "reference": "ChIJTYhWx216dDkRQJYD4bHi51g",
+            "types": [
+                "church",
+                "place_of_worship",
+                "school",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mulberry House, Cathedral House, 14/193, Wazirpura Road, Church Road, Near by St. Peter College, Ghatia Azam Khan, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1967646,
+                    "lng": 78.0085589
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19815352989272,
+                        "lng": 78.00962537989271
+                    },
+                    "southwest": {
+                        "lat": 27.19545387010728,
+                        "lng": 78.00692572010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "41b7e6252f44ced2b76a6103c18f6d4f21e27646",
+            "name": "Agra Catholic Diocese Samaj Seva Sansthan",
+            "place_id": "ChIJyaxTHUh3dDkRzKFVIcjs9Ic",
+            "plus_code": {
+                "compound_code": "52W5+PC Civil Lines, Agra, Uttar Pradesh",
+                "global_code": "7JVW52W5+PC"
+            },
+            "rating": 5,
+            "reference": "ChIJyaxTHUh3dDkRzKFVIcjs9Ic",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Lajpat Kunj, Civil Lines, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2026193,
+                    "lng": 77.99949339999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20373672989272,
+                        "lng": 78.00076552989272
+                    },
+                    "southwest": {
+                        "lat": 27.20103707010728,
+                        "lng": 77.99806587010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "448ab2e6b1a2803ba2fb44d3ce65f52b876970d5",
+            "name": "st paul's church college khandari road agra",
+            "place_id": "ChIJV6nYMkJ3dDkRUm3sd6f48u0",
+            "plus_code": {
+                "compound_code": "6X3X+2Q Civil Lines, Agra, Uttar Pradesh",
+                "global_code": "7JVV6X3X+2Q"
+            },
+            "rating": 4.5,
+            "reference": "ChIJV6nYMkJ3dDkRUm3sd6f48u0",
+            "types": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2/37, Church Rd, Opposite Sur Sadan, Ramnagar Colony, Civil Lines, Agra, Uttar Pradesh 282004, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2031576,
+                    "lng": 78.0029076
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20425002989273,
+                        "lng": 78.00418637989273
+                    },
+                    "southwest": {
+                        "lat": 27.20155037010728,
+                        "lng": 78.00148672010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "79ee9fd359534921e4f235304dc4827369b61c1c",
+            "name": "Dr Kusum Gupta Nursing Home",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113099982358029224465\">1neclick Online Pvt Ltd</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA0GlW-EP1LRhTf70Fe7PkbDwDMG7Lo-y1Mj8pDxoJ2KKC02cEmYzpCcfaJFfjZlp7asoNtQ-3xmiAHdxZejF9cZ5LrtClVxGzxI8hdX4fzvcx5cuzUX_7wp3aKPOJULXAEhA0M1V_wII6h8ZG_iagHKpfGhQeN3QUXUFu0INlhXprFY0ddPzoWg",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJOUTfDUR3dDkRQUD3jroTMY4",
+            "plus_code": {
+                "compound_code": "6233+75 Agra, Uttar Pradesh",
+                "global_code": "7JVW6233+75"
+            },
+            "rating": 4,
+            "reference": "ChIJOUTfDUR3dDkRQUD3jroTMY4",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        }
+    ],
+    "status": "OK"
+}

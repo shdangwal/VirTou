@@ -1,0 +1,947 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shamshan Road, Qila Rai Pithora, New Delhi, Delhi 110016, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5324015,
+                    "lng": 77.17427599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.53379957989272,
+                        "lng": 77.17565827989272
+                    },
+                    "southwest": {
+                        "lat": 28.53109992010728,
+                        "lng": 77.17295862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "463d762170c7deac936ccea0f49d334a336ad6fe",
+            "name": "Well",
+            "place_id": "ChIJxYqvmcsdDTkR-aJvkPJemuY",
+            "plus_code": {
+                "compound_code": "G5JF+XP Qila Rai Pithora, New Delhi, Delhi",
+                "global_code": "7JWVG5JF+XP"
+            },
+            "rating": 3,
+            "reference": "ChIJxYqvmcsdDTkR-aJvkPJemuY",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kalindi Kunj Park Adjacent to Kalindi Kunj Metro Station, Delhi 110025, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5448824,
+                    "lng": 77.30928399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.54614517989272,
+                        "lng": 77.31053417989271
+                    },
+                    "southwest": {
+                        "lat": 28.54344552010728,
+                        "lng": 77.30783452010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8149ca177eff6706b8ccef38b99fb2f863047716",
+            "name": "Atlantic Water World",
+            "permanently_closed": true,
+            "place_id": "ChIJFW8BwhDlDDkRh9Lnj-6Q6SA",
+            "plus_code": {
+                "compound_code": "G8V5+XP New Delhi, Delhi",
+                "global_code": "7JWVG8V5+XP"
+            },
+            "rating": 4,
+            "reference": "ChIJFW8BwhDlDDkRh9Lnj-6Q6SA",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "A-44, Naraina IA Phase 2 Rd, Block A, Nariana Industrial Area Phase-2, Naraina, New Delhi, Delhi 110028, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6426237,
+                    "lng": 77.14512599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64395557989272,
+                        "lng": 77.14650522989271
+                    },
+                    "southwest": {
+                        "lat": 28.64125592010728,
+                        "lng": 77.14380557010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "f8e0cbb8a8df620940dbb646387707ff6fe4235c",
+            "name": "Wet N Wild Hotels & Resorts",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 344,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105188392520709137228\">amit yadav</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmyJRzazPfwy-qD2RQRJRYHk1M1PJ4g1zXvzTazlMLoDaG1XM_gTmfExQIeyiHjcHIWWbnsS-Q5tpQzHYS0RrsVLGybHax8jcXiOxHJMHZqrMxLrQTyw7ArES6eSxSkhdEhDtyGmCl01fxwUTmAj_XIidGhS_7yRHpix1Xaq1P0xJk-FbD-JoSw",
+                    "width": 612
+                }
+            ],
+            "place_id": "ChIJidCG-x4DDTkRr-Z34XIx-ZI",
+            "plus_code": {
+                "compound_code": "J4VW+23 New Delhi, Delhi",
+                "global_code": "7JWVJ4VW+23"
+            },
+            "rating": 4.1,
+            "reference": "ChIJidCG-x4DDTkRr-Z34XIx-ZI",
+            "types": [
+                "amusement_park",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 66
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "K Block, K-4, Feroze Gandhi Rd, Block K, Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi 110024, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5668387,
+                    "lng": 77.2458718
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56814562989272,
+                        "lng": 77.24719687989273
+                    },
+                    "southwest": {
+                        "lat": 28.56544597010727,
+                        "lng": 77.24449722010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "dbf0db803539944204b2dfa866d58d40aaa660fc",
+            "name": "Back In \"Gaon\" Restaurant - Lajpat Nagar 2",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111040350818013306446\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZiEN1u_H9Ju-8WQYjVv486udbGgdGE81TTU5y4Umid29KKTkdNx_OhRxgdOfY5WE-FWQN3BWcPqtkGagj7Cm9pV1a1q9ME5ThsEpS-G8HzqtbzQ1MMiZvSWK0xbqdl1xEhAAUh3YU_xRRAy5Oqtw_84xGhRYsDNPX0QE9eWwduUTCHPFrHpbYg",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJNxOaEnLjDDkRkn4y-PB53-Y",
+            "plus_code": {
+                "compound_code": "H68W+P8 Lajpat Nagar, New Delhi, Delhi",
+                "global_code": "7JWVH68W+P8"
+            },
+            "rating": 4.3,
+            "reference": "ChIJNxOaEnLjDDkRkn4y-PB53-Y",
+            "types": [
+                "amusement_park",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 307
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Palla Bakhtawarpur Rd, Bakhtawar Pur Village, Delhi, 110036, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.81287,
+                    "lng": 77.160354
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.81461407989272,
+                        "lng": 77.16137107989272
+                    },
+                    "southwest": {
+                        "lat": 28.81191442010728,
+                        "lng": 77.15867142010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "68860b6a5b8d6670f9d0dceac9ad9c0432f596d8",
+            "name": "The Retreat",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110149543609920480435\">Pranav Sharma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbwK62rLxycuASqdjmX1U0MgvkeIWtUp3R0jOVXOXHKFCo_hFj8XZMniRaeSbupseRlOP9gF-3079Su8O-6cTKS2poQCK123LFyHdh5ycJih2i1gJ7yZCazTcVN6Op4jnEhBCjDEoadQo46o-Y6QRocQxGhRML5zxHZfi-N30fNkzoprIzbRXUA",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJC4HlXdurDTkRrTrhDiGPHkU",
+            "plus_code": {
+                "compound_code": "R576+44 Bakhtawar Pur Village, Delhi",
+                "global_code": "7JWVR576+44"
+            },
+            "rating": 3,
+            "reference": "ChIJC4HlXdurDTkRrTrhDiGPHkU",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "West Punjabi Bagh, Punjabi Bagh, Delhi, 110026, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6715909,
+                    "lng": 77.1384309
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67282227989272,
+                        "lng": 77.13972702989273
+                    },
+                    "southwest": {
+                        "lat": 28.67012262010728,
+                        "lng": 77.13702737010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "19a35e60f82dd8bce00298e6d4f6ec8fdbdfafed",
+            "name": "Traffic Training Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111780927001107882325\">Parveen Paswan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAy3NO1EVOVr2DB9xe8yuxvDp_KkOvHrXciikoTdiLj2uC2VTltET4hxeAQwy3c_6-Gtu1o8NX35tfVLz3NvfjxOT-6PSvWKKNiIWafYTNDkz_Z6LDtRAxbi-0xAGwGOqqEhDjPL1AZHgAlri5_hFhWsOuGhT74rIrTkgHstHXW28tmg3daQJ2XQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJMbMEVVIDDTkRWh50IOEXo5E",
+            "plus_code": {
+                "compound_code": "M4CQ+J9 Delhi",
+                "global_code": "7JWVM4CQ+J9"
+            },
+            "rating": 4,
+            "reference": "ChIJMbMEVVIDDTkRWh50IOEXo5E",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 66
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "GD-ITL Tower, OFFICE NO - 509 5TH FLOOR, A-09, Netaji Subhash Place, Pitam Pura, Delhi, 110034, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6915778,
+                    "lng": 77.15188669999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69296862989272,
+                        "lng": 77.15312012989271
+                    },
+                    "southwest": {
+                        "lat": 28.69026897010728,
+                        "lng": 77.15042047010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c1d5ab871dbf35e0bec1403eba25beeb7da565fb",
+            "name": "WILD PIKE",
+            "permanently_closed": true,
+            "place_id": "ChIJq6qaeDQCDTkR80c3qNMfk5c",
+            "plus_code": {
+                "compound_code": "M5R2+JQ Pitam Pura, New Delhi, Delhi",
+                "global_code": "7JWVM5R2+JQ"
+            },
+            "rating": 0,
+            "reference": "ChIJq6qaeDQCDTkR80c3qNMfk5c",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "ILD Trade center, Sohna Rd, D1 Block, Malibu Town, Sector 47, Gurugram, Haryana 122018, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.4250487,
+                    "lng": 77.0389223
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.42634977989272,
+                        "lng": 77.03987572989273
+                    },
+                    "southwest": {
+                        "lat": 28.42365012010728,
+                        "lng": 77.03717607010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f62b92b4d7cb04940fc58b5eaae7734e3453fb79",
+            "name": "SkyJumper Trampoline Park Gurgaon",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 639,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102579471325722922046\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2jPNtgVpdTDIgNGf7KzhReJZ90egMd4JoV-Yjx57wzAErDRG1TRB2EAnN_vXczOXywaQ5en43pIeXULOXl7LsSvbW-mqGiiFNGlgBWn0lme89tRx8HDTLyuE6IXAovAyEhDxVLbMUZS08ThBMlWwZBvgGhTecVweoHvxa_tkITecZUPJFAZHHQ",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJrWQPWEXnDDkR9Qs0C1tJd_4",
+            "plus_code": {
+                "compound_code": "C2GQ+2H Sector 47, Gurugram, Haryana",
+                "global_code": "7JWVC2GQ+2H"
+            },
+            "rating": 4.4,
+            "reference": "ChIJrWQPWEXnDDkR9Qs0C1tJd_4",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5191
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Seekri, Delhi Mathura Road, Faridabad, Haryana 121004, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.2863418,
+                    "lng": 77.2919726
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.28768582989272,
+                        "lng": 77.29344427989271
+                    },
+                    "southwest": {
+                        "lat": 28.28498617010728,
+                        "lng": 77.29074462010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "dbff593a191660208d52d4a9ed19f377effede17",
+            "name": "Family Kingdom Faridabad",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104898836309863418834\">Lakshay Sharma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVdJkPK6Dh1nh0npSUobaWYI8_oYgwpjgVJ7uM_VeGkwWTTeGzRvyqoKuuQlYspfWoH1wQJir3X8_L1nEIhCKPq39H08PdMSD0Vyz90O76fdwiGmfb2sDvmzyoojrQswGEhCMZNo9t5xSXUdFTSP51X44GhQz-93ciNhfBGaaaS8Cz513YezjBQ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJZ9LK_iHaDDkRa6GG3Z2SgHE",
+            "plus_code": {
+                "compound_code": "77PR+GQ Faridabad, Haryana",
+                "global_code": "7JWV77PR+GQ"
+            },
+            "rating": 3.7,
+            "reference": "ChIJZ9LK_iHaDDkRa6GG3Z2SgHE",
+            "types": [
+                "amusement_park",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 214
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sector 77, Gurugram, Haryana 122004, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.3867579,
+                    "lng": 76.973793
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.38813922989272,
+                        "lng": 76.97510147989271
+                    },
+                    "southwest": {
+                        "lat": 28.38543957010728,
+                        "lng": 76.97240182010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d8047555729cf4643b1fe843f9315132af5e218c",
+            "name": "AapnoGhar - Best Wedding Resorts in Gurgaon, Water Park, Amusement Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 683,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106408243635370062703\">Airport Motel Aapno Ghar Resort</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA6AaAjNtXyBp4ng42Gfoyp08nv32geowUQtw6vP4R4tFTB5MTK5MBZlss-iT_scDjQHprHY3FSNo6Ef5bhFZPmsMzNQm1JUSH_pk30_JnXbnlZzwQVFqc8aHUSPKCNRZ8EhCy57iS2dlO91r4fSWD7_zvGhQPIJGXGxwmG370i6yycMw0MRlVmA",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJG8FI6_UXDTkRHGRJJxf6O_w",
+            "plus_code": {
+                "compound_code": "9XPF+PG Sector 77, Gurugram, Haryana",
+                "global_code": "7JWR9XPF+PG"
+            },
+            "rating": 3.9,
+            "reference": "ChIJG8FI6_UXDTkRHGRJJxf6O_w",
+            "types": [
+                "amusement_park",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3827
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kalindi Kunj Park Adjacent to Kalindi Kunj Metro Station, New Delhi, Delhi 110025, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5449201,
+                    "lng": 77.3090801
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.54621827989272,
+                        "lng": 77.31037082989273
+                    },
+                    "southwest": {
+                        "lat": 28.54351862010728,
+                        "lng": 77.30767117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c4956cce8c19b165479f3a561b5f2725a48f1679",
+            "name": "Atlantic Water World",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116059818015135970897\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyb-T8x8f9wgt0yMkp6vdjjzWM80_7pWu0wGgEetAufgM8y4WfSOuSVPPusAaHzNlxN3F3aCvokaahkD_-2J8SS6tKnVaZa1IXwtZ-wD0qJ4yXLl-tXJlSsd0O8Vsd44DEhBL7AVT0WR1RfZJI7rnJXR_GhR6H8eZiZ4kwMncg_5D537W2F7hsw",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJG6246GXlDDkRDgkuE5xC4qE",
+            "plus_code": {
+                "compound_code": "G8V5+XJ New Delhi, Delhi",
+                "global_code": "7JWVG8V5+XJ"
+            },
+            "rating": 3.8,
+            "reference": "ChIJG6246GXlDDkRDgkuE5xC4qE",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3057
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "GA-24, Rammurti Passi Marg, Swarn Jayanti Park, Sector 10, Rohini, New Delhi, Delhi 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7239825,
+                    "lng": 77.1133883
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72533232989272,
+                        "lng": 77.11473812989271
+                    },
+                    "southwest": {
+                        "lat": 28.72263267010728,
+                        "lng": 77.11203847010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "36ab45f40b96834ba8dfb992f12df693d015d911",
+            "name": "Metro Walk",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 922,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100804377483837420745\">Kanwardeep Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAljsvM63UH8IiSx_v0O7InHssr21RNd9oIzdv-G8NGej-fuSFpDn0xxPLCC-DZt58lxCBAC501PDK3lXgxux8dacvnYnC_03NKVUsMIn7bFfusIuulhMiIX0Wc--t9fZlEhDoHNWEH-jtsscNQYFBmIjRGhSkRu1Pkm2cjVPjBlq-3KPdmog7MA",
+                    "width": 1228
+                }
+            ],
+            "place_id": "ChIJGb2Si0gBDTkRd_ERP-MLeTs",
+            "plus_code": {
+                "compound_code": "P4F7+H9 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4F7+H9"
+            },
+            "rating": 4.1,
+            "reference": "ChIJGb2Si0gBDTkRd_ERP-MLeTs",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8016
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Appu Ghar Marg, Behind Huda City Metro Station, Sector 29, Gurugram, Haryana 122009, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.461541,
+                    "lng": 77.0712088
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46295282989272,
+                        "lng": 77.07248352989271
+                    },
+                    "southwest": {
+                        "lat": 28.46025317010728,
+                        "lng": 77.06978387010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "911c4eca8430c018e7088c6771dd26c091c3ecc0",
+            "name": "Appu Ghar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 415,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116307101211857310541\">Vipul Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANi8XCnZIPkFiqmFYYwlohrPcE994y-VEqsLfd67whRCAR7GZGAFZmdztc7FWMwEiR3gPnY2ZSr3hIcGR3PF8t_LEJhQt2yn2Olxd6vALTbF5w9GtrqHjxLkRD0-O7eUiEhB-sO9yoEu403Rm99jyho2EGhQ5gRC5VWEhbZUvMFYkTJ60lKl7KQ",
+                    "width": 700
+                }
+            ],
+            "place_id": "ChIJ61U4ouUYDTkRhYa0kuWK1Wc",
+            "plus_code": {
+                "compound_code": "F36C+JF Sector 29, Gurugram, Haryana",
+                "global_code": "7JWVF36C+JF"
+            },
+            "rating": 4,
+            "reference": "ChIJ61U4ouUYDTkRhYa0kuWK1Wc",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2898
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "L05 & L06, DLF Mall of India, Sector 18, Noida, Uttar Pradesh 201301, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5674285,
+                    "lng": 77.321135
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56890147989272,
+                        "lng": 77.32282717989271
+                    },
+                    "southwest": {
+                        "lat": 28.56620182010728,
+                        "lng": 77.32012752010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "48d67c20ff55186b7039a9df4dc1365a96c82199",
+            "name": "Snow World",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3118,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102797128579967527517\">rajesh kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkKP69t5HNLOsq1yvmlb_g3fHt7YXYYnyP6_oxL6Ojwciumm3KqKc5GJI3X6FEhPE515HV68OiVFYlwFoh9U85N9MzeYSs07gfmBmcd3o6JGlKv4VbFlyxa4Avm2xd4-VEhD3_Ma39Y0clNj0-akICEedGhQ1tOYa9TwRLqcbSDDFpKc5qUbRzw",
+                    "width": 4158
+                }
+            ],
+            "place_id": "ChIJ-yw3J0bkDDkRMTxIHAK_Ous",
+            "plus_code": {
+                "compound_code": "H88C+XF Sector 18, Noida, Uttar Pradesh",
+                "global_code": "7JWVH88C+XF"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ-yw3J0bkDDkRMTxIHAK_Ous",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8839
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Subash chowk, Behind celebration mall, Sohna Rd, Gurugram, Haryana 122002, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.4278046,
+                    "lng": 77.0349427
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.42924397989272,
+                        "lng": 77.03626397989271
+                    },
+                    "southwest": {
+                        "lat": 28.42654432010728,
+                        "lng": 77.03356432010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "dc30b80441ef140534eb76a40565c10974d27176",
+            "name": "OBSTACLE PARK",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 451,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115936779238047748459\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhnDi2IqsM4U9K5-60xhgVG5CuqoEhCX-abmdwlPnaonGxs61YciD2DgbugtJ01EWL606noUw9RJ39NiKHSNEScJZ_PRx35dE0i5EdR3ds1GFv-Za8IriKBVb5NqbW4mpEhAoBQEXWuOMKf4zH4IrGgaIGhQMP6IGYwQ7PxWMHOe0jD_JPKDrhA",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJVW0TX-QZDTkRSgYxhs7Qvn8",
+            "plus_code": {
+                "compound_code": "C2HM+4X Gurugram, Haryana",
+                "global_code": "7JWVC2HM+4X"
+            },
+            "rating": 4.1,
+            "reference": "ChIJVW0TX-QZDTkRSgYxhs7Qvn8",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 124
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Auditorium Complex, near IFFCO Metro Station, Sector 29, Gurugram, Haryana 122001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.4678664,
+                    "lng": 77.0688866
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46921472989272,
+                        "lng": 77.07095454999998
+                    },
+                    "southwest": {
+                        "lat": 28.46651507010727,
+                        "lng": 77.06681154999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a4f4cb74d1880b00d0127d6b748967b3800c5be8",
+            "name": "Kingdom of Dreams",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114623541135049315747\">shivam anujit</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAoaXyZL4FqJ3lHcbwm1svYlvRxGQ4bb7wEnC0YaR7myP5oQlEm5Pj_MSMzLR4DS7YMo77FtNRGC-BqGMHVcDrYIvf9RbKkYbXd2KMBTJSVY1Z7gTXgO4MviOSXgH9hMI5EhDF5tpVuuz0xpuabO68UKeFGhRfyGc36_lStlEEH9bUg9OKycQlsA",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJtfI9I-MYDTkRMp3l99Uj-ME",
+            "plus_code": {
+                "compound_code": "F399+4H Sector 29, Gurugram, Haryana",
+                "global_code": "7JWVF399+4H"
+            },
+            "rating": 4.4,
+            "reference": "ChIJtfI9I-MYDTkRMp3l99Uj-ME",
+            "types": [
+                "night_club",
+                "tourist_attraction",
+                "amusement_park",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 29605
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sanjay Colony, Mohan Nagar, Ghaziabad, Uttar Pradesh 201007, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.674422,
+                    "lng": 77.4003178
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67577177989272,
+                        "lng": 77.40166762989271
+                    },
+                    "southwest": {
+                        "lat": 28.67307212010727,
+                        "lng": 77.39896797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "44786e7b8673e707c077a9ce86f8afbd24ccb522",
+            "name": "Indraprasth Amusment Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115234714535836087508\">Dipankar Bhattacharya</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAP0l0r1iYzrJlcukQ22oxoOSi8hAXbuWxmlETcOZCdfPtW09PcOxrjF9FGRKO1W5d0aF9DHFnyoxlnZrI90Sv3N-0p0tY9Ghoo_R6aw9JO2Ym4LcN1XTtA5WySCbH3K4tEhDPzxgTltTnF1GzvIjZbi4SGhQbJLgLfHmmNPaYnJRdabiUP4mSlw",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJcw4bDmjwDDkRKguPLADmxJw",
+            "plus_code": {
+                "compound_code": "MCF2+Q4 Mohan Nagar, Ghaziabad, Uttar Pradesh",
+                "global_code": "7JWVMCF2+Q4"
+            },
+            "rating": 3.8,
+            "reference": "ChIJcw4bDmjwDDkRKguPLADmxJw",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 182
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2nd Floor, Shop No. 50, MGF Metropolis Mall, Mehrauli-Gurgaon Rd, Sector 28, Gurugram, Haryana 122002, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.4792337,
+                    "lng": 77.08237009999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48067042989272,
+                        "lng": 77.08364612989271
+                    },
+                    "southwest": {
+                        "lat": 28.47797077010728,
+                        "lng": 77.08094647010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9d2928f707af0b78f295da01d9ad51465e0d642b",
+            "name": "The Hidden Hour Gurugram - Mystery Escape Rooms",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1289,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105111156193837561675\">The Hidden Hour - Real Life Escape Games</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAa73f6S4AEEfHdw-d508dVbWXX1cY6lU28dYAzkWqJXm3PzpMUwld_DkZlY34lKWI2oIzLo0ypPlFgSaYqCUFDfrsa7HlGMvSGbvtBpGrTJ3T3chhj1yn_pMeoFERL1qMEhCFxiZOa26nFFzQfWmdtwxnGhQcZtZ0twtwaXTuFC4lyySq6C0Qfw",
+                    "width": 2021
+                }
+            ],
+            "place_id": "ChIJ1c7jLiIZDTkRmilk8ozDSoQ",
+            "plus_code": {
+                "compound_code": "F3HJ+MW Sector 28, Gurugram, Haryana",
+                "global_code": "7JWVF3HJ+MW"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ1c7jLiIZDTkRmilk8ozDSoQ",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 927
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "54th Mile Stone, Grand Trunk Rd, Murthal, Haryana 131039, India",
+            "geometry": {
+                "location": {
+                    "lat": 29.0753251,
+                    "lng": 77.05991900000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.07667122989271,
+                        "lng": 77.06121952989272
+                    },
+                    "southwest": {
+                        "lat": 29.07397157010727,
+                        "lng": 77.05851987010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0b383db687b23b589600f118a90f79c044a221f3",
+            "name": "Mojoland",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102784842806907259986\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAPi76bfWuX7IIajIfrZ1N-QP8l4Sd4owkcJ2rnnhMiBztIuyHO0kesGZ6S72PzI2QuyV7WEJnM_2NvL2YCe5cmBb3D39crOlqrGn6ttpkRLD1qQ9Lcnsz8Jw7BIM5NuiwEhByLkxiCpqVvDen11dS3N-gGhQHEjJnw3qOt5FawgyCfEvfJBSmag",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJKZa9L9G2DTkRRh7QKQUZxe4",
+            "plus_code": {
+                "compound_code": "33G5+4X Murthal, Haryana",
+                "global_code": "7JXV33G5+4X"
+            },
+            "rating": 4.1,
+            "reference": "ChIJKZa9L9G2DTkRRh7QKQUZxe4",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2746
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ground Metro Walk Mall Kiosk No. 2 Near Rithala Metro Station Rohini, Sector 10, New Delhi, Delhi 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7237619,
+                    "lng": 77.11331109999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72511172989272,
+                        "lng": 77.11466092989271
+                    },
+                    "southwest": {
+                        "lat": 28.72241207010728,
+                        "lng": 77.11196127010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "5586b53850f3ba4855b886ec27b841703936b67f",
+            "name": "MR. CHEF INTERNATIONAL",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3492,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113707454418093635901\">Pawan Kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAEyYSOv63owtnyqZlEGyMV98vl4dHrYmQRQQQWMYLcCTMpNT-w5WzkrEj4VtG-4hplPD1cpmP0Vaz406KqkZowUK4G0IvXfccqPBOcTqrFlwmjJzf1OrROHrpJN57zW8nEhDOEE2xJO1vtcjKXEM4wGYnGhQCoYsGxfQcavYDWHY38uFpfigAEg",
+                    "width": 4656
+                }
+            ],
+            "place_id": "ChIJ7akEvkgBDTkRNYYH0oxJ2qY",
+            "plus_code": {
+                "compound_code": "P4F7+G8 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4F7+G8"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ7akEvkgBDTkRNYYH0oxJ2qY",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8900
+        }
+    ],
+    "status": "OK"
+}

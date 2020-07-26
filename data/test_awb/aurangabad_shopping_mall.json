@@ -1,0 +1,416 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Hamid Colony, MIDC, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8538505,
+                    "lng": 75.30929859999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85520852989272,
+                        "lng": 75.31059197989272
+                    },
+                    "southwest": {
+                        "lat": 19.85250887010728,
+                        "lng": 75.30789232010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "f9717137d5843afe64e61a27ceaf640531d63d99",
+            "name": "Mj Palaza",
+            "permanently_closed": true,
+            "place_id": "ChIJXZn44vaY2zsRWQta93dOM1g",
+            "plus_code": {
+                "compound_code": "V835+GP Aurangabad, Maharashtra",
+                "global_code": "7JFQV835+GP"
+            },
+            "rating": 0,
+            "reference": "ChIJXZn44vaY2zsRWQta93dOM1g",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "joban complexTilak Road, opp. Raymond's showroom showroom, Paithan Gate, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.881516,
+                    "lng": 75.3295244
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88286712989272,
+                        "lng": 75.33085847989273
+                    },
+                    "southwest": {
+                        "lat": 19.88016747010728,
+                        "lng": 75.32815882010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "5b19b0cd09413459ba42eaf38dd36665fc41d089",
+            "name": "JOBAN(readymade family shop)",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101289146278330750925\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAlonDBzK_4hTsO33Wp1HturVukV9wg8c2nnux9Zi01oYaCRWJHqM3M7MaqqCcjxWqtnF5H-jBhu9-JsDzbZEJVYiRVPR9iovkoCnbSYXWjSpmg8e2jfN1mdym4CqhHfZjEhAi3NZNc2vMlwybrhqxTvKeGhSAsUHMzKX0qIQdQevDBg1_FBVPIg",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJub1JX22Y2zsRR3aaW0omDyc",
+            "plus_code": {
+                "compound_code": "V8JH+JR Aurangabad, Maharashtra",
+                "global_code": "7JFQV8JH+JR"
+            },
+            "rating": 3.8,
+            "reference": "ChIJub1JX22Y2zsRR3aaW0omDyc",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ranjangaon Shenpunji, Waluj, Aurangabad, Maharashtra 431133, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8437909,
+                    "lng": 75.2085878
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.84513262989272,
+                        "lng": 75.21002607989273
+                    },
+                    "southwest": {
+                        "lat": 19.84243297010728,
+                        "lng": 75.20732642010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "f5d7af80cc9723b3c4fa9538387de942eb95ae1c",
+            "name": "Samarth Provijen",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114782984175535762121\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAX60gaA60VPUjhAOqMglCRTpFnKbpWztosBSLiSmMYylX5sJs87QP9FwndA1KxgxhTI4R4CEuFl9-YkuJv4OX1cuMbUBquhZRJfRHoM0m8eGoN5bmH-msLDJccDwvD9sqEhAjohS33_mBzdZngtthuPJmGhRbwNsR6nDVoLAaoucwdjyA1Vj1IA",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ05LwIayb2zsRDXLrq77z3NQ",
+            "plus_code": {
+                "compound_code": "R6V5+GC Waluj, Aurangabad, Maharashtra",
+                "global_code": "7JFQR6V5+GC"
+            },
+            "rating": 2.5,
+            "reference": "ChIJ05LwIayb2zsRDXLrq77z3NQ",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Shikshak Nagar, Ranjangaon Shenpunji, Waluj, Aurangabad, Maharashtra 431133, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8434131,
+                    "lng": 75.211433
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.84475407989273,
+                        "lng": 75.21278587989272
+                    },
+                    "southwest": {
+                        "lat": 19.84205442010728,
+                        "lng": 75.21008622010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "360c503cd6d9cfd3a9176e2a312ed1b84f4ed079",
+            "name": "Jay Shree Ram Kirana Stores",
+            "permanently_closed": true,
+            "place_id": "ChIJ6XR4U_Cb2zsRUghs-Mjyz78",
+            "plus_code": {
+                "compound_code": "R6V6+9H Waluj, Aurangabad, Maharashtra",
+                "global_code": "7JFQR6V6+9H"
+            },
+            "rating": 5,
+            "reference": "ChIJ6XR4U_Cb2zsRUghs-Mjyz78",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ranjangaon Shenpunji, Waluj, Aurangabad, Maharashtra 431133, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8450899,
+                    "lng": 75.210453
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.84643972989272,
+                        "lng": 75.21180277989272
+                    },
+                    "southwest": {
+                        "lat": 19.84374007010728,
+                        "lng": 75.20910312010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "8ac34af0e0cbbb135a5b82752d4aabdbb73b867a",
+            "name": "salim kirana sotr",
+            "permanently_closed": true,
+            "place_id": "ChIJXZxAtq2b2zsRmVdhrx4EYe8",
+            "plus_code": {
+                "compound_code": "R6W6+25 Aurangabad, Maharashtra",
+                "global_code": "7JFQR6W6+25"
+            },
+            "rating": 1.5,
+            "reference": "ChIJXZxAtq2b2zsRmVdhrx4EYe8",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Main Rd, Shikshak Nagar, Ranjangaon Shenpunji, Waluj, Aurangabad, Maharashtra 431133, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8437196,
+                    "lng": 75.2124882
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.84507747989272,
+                        "lng": 75.21383432989273
+                    },
+                    "southwest": {
+                        "lat": 19.84237782010728,
+                        "lng": 75.21113467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "d7a9cd4ff6505d20387e5c2d062ba08ad5a8c427",
+            "name": "Good Luck Collection",
+            "permanently_closed": true,
+            "place_id": "ChIJ9Z93yDKb2zsR_XAM3FTTry0",
+            "plus_code": {
+                "compound_code": "R6V6+FX Waluj, Aurangabad, Maharashtra",
+                "global_code": "7JFQR6V6+FX"
+            },
+            "rating": 0,
+            "reference": "ChIJ9Z93yDKb2zsR_XAM3FTTry0",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Karodi Rd, Karodi, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8797006,
+                    "lng": 75.2125428
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88105752989272,
+                        "lng": 75.21384722989274
+                    },
+                    "southwest": {
+                        "lat": 19.87835787010728,
+                        "lng": 75.21114757010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "85526ecc57af1b0f8af32229f41a57bd05cc5bd4",
+            "name": "Lucky Chicken Center",
+            "permanently_closed": true,
+            "place_id": "ChIJXY6PjTqb2zsRgi5EeRVo7g8",
+            "plus_code": {
+                "compound_code": "V6H7+V2 Karodi, Maharashtra",
+                "global_code": "7JFQV6H7+V2"
+            },
+            "rating": 0,
+            "reference": "ChIJXY6PjTqb2zsRgi5EeRVo7g8",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ambelohal, Maharashtra 423702, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8361717,
+                    "lng": 75.1390334
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.83736802989272,
+                        "lng": 75.14036917989273
+                    },
+                    "southwest": {
+                        "lat": 19.83466837010728,
+                        "lng": 75.13766952010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "e1a811ff4c4fe4cd8358b8fa85770d742a7613e2",
+            "name": "Sandeep Provisions",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105539193733591391311\">Sunil Ankushrao</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkx-yFTTskXIvbWNC5YTvbHS40lJ48g04M3WRlWIaarg44ZXNVuzFwhnHEc0DMXhO1ROkAoBOJa-TnQRRw2IJXe2VJI0C2HQdG5CLjwd_r0FytENKCWBF3V6lIRyLRVZqEhD8y3CCV9e058bn-e-LUhtvGhSFSpZB1etc6l-ZJoLAt3kNDXwotg",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJuRep19uE2zsRFitOqXaRaHk",
+            "plus_code": {
+                "compound_code": "R4PQ+FJ Ambelohal, Maharashtra",
+                "global_code": "7JFQR4PQ+FJ"
+            },
+            "rating": 4.2,
+            "reference": "ChIJuRep19uE2zsRFitOqXaRaHk",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Eklahera, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8387953,
+                    "lng": 75.1390823
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.84015087989272,
+                        "lng": 75.14042532989271
+                    },
+                    "southwest": {
+                        "lat": 19.83745122010728,
+                        "lng": 75.13772567010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "81ad90b339ef95a92e64b838a326e88bb9ef27b4",
+            "name": "Irfan Auto Moible",
+            "permanently_closed": true,
+            "place_id": "ChIJmxX6yZGF2zsRqwRin6dfkMI",
+            "plus_code": {
+                "compound_code": "R4QQ+GJ Eklahera, Maharashtra",
+                "global_code": "7JFQR4QQ+GJ"
+            },
+            "rating": 0,
+            "reference": "ChIJmxX6yZGF2zsRqwRin6dfkMI",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jalana Rd, Sillod, Maharashtra 431112, India",
+            "geometry": {
+                "location": {
+                    "lat": 20.2987926,
+                    "lng": 75.6530628
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.30014047989272,
+                        "lng": 75.6544116298927
+                    },
+                    "southwest": {
+                        "lat": 20.29744082010728,
+                        "lng": 75.65171197010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "2c14a3e3e77e8f96eef75263616cc9eaa1149697",
+            "name": "Navkar Auto Parts O.E Spares Sillod",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104613815561841846633\">Pratik Ostwal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMdhel3DQ6Mas-0Qywv7W8UyJUxj2jjQuoyfAOugLZt907s1AZcsfOCdrRWheP7tvl37qlyWTJdJkO35lvU9XLY2OScukcr9Ww172mJJZ2YO57iEDA8EJ8GTRF_vlbkxIEhAVjpM5QRki3Z0UyDnfsSTJGhSdpzTU0wqZD9V13Jawikavsy8Y5A",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJu7m3LInN2zsRekhviCNzBtI",
+            "plus_code": {
+                "compound_code": "7MX3+G6 Sillod, Maharashtra",
+                "global_code": "7JGQ7MX3+G6"
+            },
+            "rating": 4.3,
+            "reference": "ChIJu7m3LInN2zsRekhviCNzBtI",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,866 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sanjay Nagar, N 2, Mukundwadi, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.87025,
+                    "lng": 75.378176
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87165027989272,
+                        "lng": 75.37952647989272
+                    },
+                    "southwest": {
+                        "lat": 19.86895062010728,
+                        "lng": 75.37682682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "49c8d487146a5827bb4158a47f07c52f6b920b88",
+            "name": "Shiv Ganesh Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJC6rOO_qi2zsRy6F8gIXTpPY",
+            "plus_code": {
+                "compound_code": "V9CH+37 Mukundwadi, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9CH+37"
+            },
+            "rating": 4.7,
+            "reference": "ChIJC6rOO_qi2zsRy6F8gIXTpPY",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Near Jinsi Police Station, Sanjay Nagar, Baijipura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.884666,
+                    "lng": 75.343409
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88604612989272,
+                        "lng": 75.34476787989271
+                    },
+                    "southwest": {
+                        "lat": 19.88334647010728,
+                        "lng": 75.34206822010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "615a0b257ef2db0169ba4bcd116dc2113136d78b",
+            "name": "Shree Vittal Rukhmai Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJrw2AMKCi2zsRI24bM5pJcEM",
+            "plus_code": {
+                "compound_code": "V8MV+V9 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MV+V9"
+            },
+            "rating": 0,
+            "reference": "ChIJrw2AMKCi2zsRI24bM5pJcEM",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ward Number 2, Gavalipura, Aurangabad Cantonment, Aurangabad, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8822994,
+                    "lng": 75.3093926
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88365292989272,
+                        "lng": 75.31073962989272
+                    },
+                    "southwest": {
+                        "lat": 19.88095327010728,
+                        "lng": 75.30803997010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "6c647895400658ae33c192f86aea616199634b96",
+            "name": "Dakshinmukhi Hanuman Mandir Gavalipura Ward No 2",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115699045083287944406\">sar y</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhPfX2RN55tHidvV5CzHGmFIutNybdrTq6_Ssm99tDkCdcR6QOyCxFsV5FQgg_WwLHqUFKMYucJosSw9zS_ABxUPdRErWL_oB6SPqWD2hHmopJDPTzmeU7fYUMSPejG7bEhDCJ3Ex8G-0PBFcimRXYzCTGhTIizVErht94CG0Bvh7S7O-RFt_hA",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJCcM4iziY2zsRfQJS8pAhhj0",
+            "plus_code": {
+                "compound_code": "V8J5+WQ Aurangabad, Maharashtra",
+                "global_code": "7JFQV8J5+WQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJCcM4iziY2zsRfQJS8pAhhj0",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "12 Hiranya Nagar, Garkheda Area, Ulkanagari, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8620374,
+                    "lng": 75.3452927
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86336262989272,
+                        "lng": 75.34669437989272
+                    },
+                    "southwest": {
+                        "lat": 19.86066297010728,
+                        "lng": 75.34399472010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "1d5a4c4466e0a14928af0cd70a451a4fdb9ef042",
+            "name": "Swaminarayan Hari Mandir Aurangabad",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103353041116686975871\">akshay8ahir</a>"
+                    ],
+                    "photo_reference": "CmRZAAAA3CHKXzzNADjzUAGy-h5qBFZEIBDGAXvgAvFyrqzW6SxdWDwseADyMFoFBtdN3FY2pXSjEb3Y0Xbui3h_TeBoirLkobowj87gmZJAC1TqIN0L5bPL4Pzkm2ConNA2BEajEhCpS1OSOsFjaS1wj_nyW-tqGhTcdIfyLEmlfTZ7ZiqArJWuy1VkvQ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJY-S9lICi2zsRacqWgrkXCqs",
+            "plus_code": {
+                "compound_code": "V86W+R4 Ulkanagari, Aurangabad, Maharashtra",
+                "global_code": "7JFQV86W+R4"
+            },
+            "rating": 4.8,
+            "reference": "ChIJY-S9lICi2zsRacqWgrkXCqs",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Arunodaya Colony, Sahyadri Nagar, N 5, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8820479,
+                    "lng": 75.361848
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88340507989272,
+                        "lng": 75.36328307989271
+                    },
+                    "southwest": {
+                        "lat": 19.88070542010728,
+                        "lng": 75.36058342010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "11fccd39ba8aa8ae810779dfa51e41affe511847",
+            "name": "Shree Omkareshwar Paavan Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJAw_S_pSi2zsRCCjmbQlaQ4s",
+            "plus_code": {
+                "compound_code": "V9J6+RP Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J6+RP"
+            },
+            "rating": 4.3,
+            "reference": "ChIJAw_S_pSi2zsRCCjmbQlaQ4s",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Aurangabad, Rokda Hanuman Colony, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.87674,
+                    "lng": 75.33713
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87810972989272,
+                        "lng": 75.33836262989273
+                    },
+                    "southwest": {
+                        "lat": 19.87541007010728,
+                        "lng": 75.3356629701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "338589204c3072eca1d958381c1ade232f8f6c94",
+            "name": "Rokda Hanuman Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106979949462742551468\">Jayant Ghodke</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJgzEbq51rozDaimD02ICuBn6bmUoVsWT5VVxzRpE6u7xCetR4P2Zp39NAecxIsQYWg6pNrSbHJAlXUDcOAbVPSRi2kg9R14GYoZnKykHbwS3h8Mdz6kb7e1BTP-HWomgEhCtS1FCwKvnYd5k6UR9YMrjGhQ45L5w82xAQja4CKOmMtFu5Cf-Pg",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJfYDomXaY2zsRtSsWzaxO1a4",
+            "plus_code": {
+                "compound_code": "V8GP+MV Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GP+MV"
+            },
+            "rating": 4.7,
+            "reference": "ChIJfYDomXaY2zsRtSsWzaxO1a4",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "5-25-28, Khokadpura, Banjara Colony, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8788408,
+                    "lng": 75.3313556
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88023237989272,
+                        "lng": 75.33271072989272
+                    },
+                    "southwest": {
+                        "lat": 19.87753272010727,
+                        "lng": 75.33001107010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "6a672050a090523bc32a0695f607623fc784af4b",
+            "name": "\u0939\u0928\u0941\u092e\u093e\u0928 \u092e\u0902\u0926\u093f\u0930, \u0916\u094b\u0915\u0921\u092a\u0941\u0930\u093e",
+            "permanently_closed": true,
+            "place_id": "ChIJUyCKe6uZ2zsRueNFrLsUaV4",
+            "plus_code": {
+                "compound_code": "V8HJ+GG Banjara Colony, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HJ+GG"
+            },
+            "rating": 5,
+            "reference": "ChIJUyCKe6uZ2zsRueNFrLsUaV4",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bari Colony, Jaswantpura, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.887313,
+                    "lng": 75.3495544
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88859187989272,
+                        "lng": 75.35090057989271
+                    },
+                    "southwest": {
+                        "lat": 19.88589222010728,
+                        "lng": 75.34820092010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "c04b2078eb4788d2e6cde1ad09ca8a4a65f93bf2",
+            "name": "Ram Mandir Telephone Exchange",
+            "permanently_closed": true,
+            "place_id": "ChIJtVaFrKOi2zsRL0m0FrU2N6s",
+            "plus_code": {
+                "compound_code": "V8PX+WR Jaswantpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8PX+WR"
+            },
+            "rating": 4.3,
+            "reference": "ChIJtVaFrKOi2zsRL0m0FrU2N6s",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Chouraha Road, Moti Karanja, Mahavir Chowk, Shahgunj, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8839516,
+                    "lng": 75.3343427
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88530237989272,
+                        "lng": 75.33569492989272
+                    },
+                    "southwest": {
+                        "lat": 19.88260272010728,
+                        "lng": 75.33299527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "df273dea580a832ce664b8f9729fed741a25fde7",
+            "name": "Shree Siddheveer Hanuman",
+            "permanently_closed": true,
+            "place_id": "ChIJSVPFuwyY2zsRGDVYNL1ysXE",
+            "plus_code": {
+                "compound_code": "V8MM+HP Shahgunj, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MM+HP"
+            },
+            "rating": 0,
+            "reference": "ChIJSVPFuwyY2zsRGDVYNL1ysXE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Chaitanya Nagar, Garkheda, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8661398,
+                    "lng": 75.35251889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86749272989272,
+                        "lng": 75.35390122989271
+                    },
+                    "southwest": {
+                        "lat": 19.86479307010728,
+                        "lng": 75.35120157010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "4198cabde620eb3cbd02a5f118a5b277e2c2affb",
+            "name": "Bhagwan Maharaj mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 405,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105340057719740023867\">jagdish dhakne</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA8E6uob9CqOU_3Y7El7NfTr6aWcWz6EgrUIIK4xIR-h6-X-qweS1vdJoUCdk5ljwaOxFzY003gu2x2IReLHGh8TFdaX9unlyKDCBP8jlwXW_8RTtfpd-qhB8OT4B9Jw8DEhCEY5WtYqD33UpbDJx8C486GhQc9CIHnXak8ivhQKRlj02xWETNWg",
+                    "width": 540
+                }
+            ],
+            "place_id": "ChIJHWp4HIai2zsROk7yWoI_5uw",
+            "plus_code": {
+                "compound_code": "V983+F2 Garkheda, Aurangabad, Maharashtra",
+                "global_code": "7JFQV983+F2"
+            },
+            "rating": 5,
+            "reference": "ChIJHWp4HIai2zsROk7yWoI_5uw",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Swami samarth Housing society, Satara Parisar, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8472407,
+                    "lng": 75.3443838
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.84861027989272,
+                        "lng": 75.34576322989271
+                    },
+                    "southwest": {
+                        "lat": 19.84591062010728,
+                        "lng": 75.34306357010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "a52aa19265cdc6f20b454ddaa27e733caa2b1510",
+            "name": "Tridevta temple",
+            "permanently_closed": true,
+            "place_id": "ChIJw2evHE2j2zsRkGoEmJ8fqbc",
+            "plus_code": {
+                "compound_code": "R8WV+VQ Satara Parisar, Aurangabad, Maharashtra",
+                "global_code": "7JFQR8WV+VQ"
+            },
+            "rating": 5,
+            "reference": "ChIJw2evHE2j2zsRkGoEmJ8fqbc",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "11, Aurangabad, Jijamata Nagar, Sanmitra Colony, Nirala Bazar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8798753,
+                    "lng": 75.32815579999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88127452989272,
+                        "lng": 75.32952822989272
+                    },
+                    "southwest": {
+                        "lat": 19.87857487010728,
+                        "lng": 75.32682857010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "588ef8567d6aaeba559325841ea111dc2e7a1075",
+            "name": "Kanphate Hanuman Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115098076789603223652\">prashant kadbhane</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAILHJE6rBZQphsIViqznIOoWHYgBPiJmQTXaa1HiqLkYCGbqtJUT7YuISIJL-rIabSLD2zM8VefyneKaZYFVCs4DJx5GD5XDLjFUiOt6ZaeTjyZbv_CU5RRAAfWCLIEItEhDSNIUBCCakCEJfxxLAXam2GhQV28dkpm5SCgiAmwBA4hnl9eCGnw",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJuZHOdG2Y2zsRGFZvt-bgX-g",
+            "plus_code": {
+                "compound_code": "V8HH+X7 Nirala Bazar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HH+X7"
+            },
+            "rating": 4.2,
+            "reference": "ChIJuZHOdG2Y2zsRGFZvt-bgX-g",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jalna Road, Raghuveer Nagar, Venkatesh Nagar, Nyay Nagar, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8780151,
+                    "lng": 75.3485141
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87935222989272,
+                        "lng": 75.34988072989272
+                    },
+                    "southwest": {
+                        "lat": 19.87665257010728,
+                        "lng": 75.34718107010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "5791a6e3c7dfb72d4c3bd8c27937fc858bc59ab2",
+            "name": "Kalyan Maruti Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1386,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104172227452212352321\">SK B</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkaYKs6OY6tgSXP61S8ODZJbBulAc6_O6usFaGWyck8AWk_7pddRjEyqtoWRqgTKOMBlPv9rKmV6Hm4Gm9TxubmQ5g_TygmWsqD3soGPMMqR4hUYizTCs3ncs5HSmJkBpEhBypQlbT7o7SpPaMZKT9DVIGhQA2J7Aw7B3hiKzsAY2VEVTxWKi_w",
+                    "width": 702
+                }
+            ],
+            "place_id": "ChIJTV0A3pui2zsRZO4I_WvKr_o",
+            "plus_code": {
+                "compound_code": "V8HX+6C Nyay Nagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HX+6C"
+            },
+            "rating": 4.8,
+            "reference": "ChIJTV0A3pui2zsRZO4I_WvKr_o",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nawabpura, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.88395,
+                    "lng": 75.3379279
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88530102989272,
+                        "lng": 75.33928512989273
+                    },
+                    "southwest": {
+                        "lat": 19.88260137010727,
+                        "lng": 75.33658547010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "c54788696fa2dce885813fe15645b995237122ff",
+            "name": "Jagdamba Mata Madir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112549305474273867130\">sanjay chintamani</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARXlYmTcTlff78okHZD4mfXAXSsv7ahEzF6rOaA9bk-oSfa95F7coXvDw34t5hqTxbxOa-lW4LPDD_csVVXyb5L3OToCGx5vCdhKwVdkdRkIBvY3MkXrITh3koRQy1YtZEhDDznJKgWM5ZvYtBcXzvxKRGhRuh-CIAEF0dD3sNkNwJUGZ1jlt2Q",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJxXRLLwuY2zsR4sUoHIjZhbk",
+            "plus_code": {
+                "compound_code": "V8MQ+H5 Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MQ+H5"
+            },
+            "rating": 5,
+            "reference": "ChIJxXRLLwuY2zsR4sUoHIjZhbk",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ward Number 1, Aurangabad Cantonment, Gawalipura Cantonment, Aurangabad, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8833006,
+                    "lng": 75.310041
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88461852989272,
+                        "lng": 75.31134632989271
+                    },
+                    "southwest": {
+                        "lat": 19.88191887010728,
+                        "lng": 75.30864667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "a90c10fa92cd02b9bd4c1e93cde5a2b47d397325",
+            "name": "Durga Mata Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJU0kB5TiY2zsRGdVpLfmi_do",
+            "plus_code": {
+                "compound_code": "V8M6+82 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8M6+82"
+            },
+            "rating": 5,
+            "reference": "ChIJU0kB5TiY2zsRGdVpLfmi_do",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sanjay Nagar, Sambhaji Nagar, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.880183,
+                    "lng": 75.343862
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88154137989272,
+                        "lng": 75.34508812989272
+                    },
+                    "southwest": {
+                        "lat": 19.87884172010728,
+                        "lng": 75.34238847010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "83eb22cdae1276562bbc00267967410bfd3f9aa2",
+            "name": "Shri Smashan Hanuman Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJRa5gV56i2zsRk-3HPxXbi5M",
+            "plus_code": {
+                "compound_code": "V8JV+3G Sambhaji Nagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8JV+3G"
+            },
+            "rating": 0,
+            "reference": "ChIJRa5gV56i2zsRk-3HPxXbi5M",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "back side hyundai showroom, District Ct Rd, nearby place, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8761653,
+                    "lng": 75.3433139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87749477989272,
+                        "lng": 75.34466647989272
+                    },
+                    "southwest": {
+                        "lat": 19.87479512010728,
+                        "lng": 75.34196682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "4b2428987df797253a020a882f4bf24856b745d3",
+            "name": "Keshari Nath Shiv Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117769109116491811789\">krishna kakade</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAqAjB60tVGPUknqYOqZTwZnqyjYRgHsDvQS94sH1ueIxLapBk9gJbBY8xspz24m3YCBlzJrmEaNT0iDADImUCQtiI_gE6mAlZ4e0tjd4L3K7x2zb6TNi2GGDxSHJJ3Z75EhCJuZ6U_20LrtFCwyMsHNUEGhQUW13dvCsz46fx5wPJrncPaQkbhg",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJT_VD_HWj2zsRTWdWyr67NGc",
+            "plus_code": {
+                "compound_code": "V8GV+F8 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GV+F8"
+            },
+            "rating": 5,
+            "reference": "ChIJT_VD_HWj2zsRTWdWyr67NGc",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Aurangabad, Gulmandi, Shahgunj, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8837692,
+                    "lng": 75.3285081
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88512437989272,
+                        "lng": 75.32985897989272
+                    },
+                    "southwest": {
+                        "lat": 19.88242472010727,
+                        "lng": 75.32715932010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "3d54844d5e24cf5edb0e254898653e779aec6230",
+            "name": "Jabre Hanunan Temple.",
+            "permanently_closed": true,
+            "place_id": "ChIJ234tvBKY2zsRFEC9HAHuOBk",
+            "plus_code": {
+                "compound_code": "V8MH+GC Shahgunj, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MH+GC"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ234tvBKY2zsRFEC9HAHuOBk",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Memon Colony, Vidya Nagar, Nyay Nagar, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8715579,
+                    "lng": 75.35413129999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87291407989272,
+                        "lng": 75.35540622989272
+                    },
+                    "southwest": {
+                        "lat": 19.87021442010727,
+                        "lng": 75.35270657010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "9157218edb66c559e7935549b0402eaf25ddcca9",
+            "name": "Datta Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2352,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102332367040249988854\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMAwN9vYPKBKfxJHykk9c4rL8axm6vz1_mGMs8CsOy5-qVMPogB_u5bwHW8ktgysGEExbNQLwtY1m-PvkPHSFvDxTnd1akMMAEtqVdKQRmKyaxqgpGCsyoSpkxqmWl5gIEhCxDNhHYLb_j33QwqG84goZGhR3uygYWnDEu1jLAjq_7vW_KqjkMg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ8QbUlI-i2zsR0jj57oF5be0",
+            "plus_code": {
+                "compound_code": "V9C3+JM Nyay Nagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9C3+JM"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ8QbUlI-i2zsR0jj57oF5be0",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Satara Parisar, Aurangabad, Maharashtra 431010, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8520455,
+                    "lng": 75.3134522
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85322577989272,
+                        "lng": 75.31444982989272
+                    },
+                    "southwest": {
+                        "lat": 19.85052612010728,
+                        "lng": 75.31175017010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "792c4d625c42b9a9e9d194c17586554ba6a73404",
+            "name": "Ramakrishna mission Aurangabad",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 871,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111895003082796136440\">Harish Gupta</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASXGf5Fm4sM-T9H545LRMNxom9ctWkVHDmVATw9oMNFgksvxv0cCJBJO_td2ZF8Iqlgzovd9gvHa4TEq3ifEE94OT1r4bYezhrZqjsLp636FB7NywPs303wJrX8949lutEhAVyZf42KyQY_ZQdzhes63jGhSK78kk_lYyW81jIQY4DCWzhnIDqQ",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJhUg8oP-Z2zsRtFXDeoO9O7Y",
+            "plus_code": {
+                "compound_code": "V827+R9 Satara Parisar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV827+R9"
+            },
+            "rating": 4.7,
+            "reference": "ChIJhUg8oP-Z2zsRtFXDeoO9O7Y",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27
+        }
+    ],
+    "status": "OK"
+}

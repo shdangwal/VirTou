@@ -1,0 +1,1013 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_AAAAGuH5Et6yRm71E-6_jRQTrtIxE8CdSryFLPT4xkQfTafM8aDfAC6cVqALs6xBOXdYd9az1Dbc29L37uoKOO-h2dpYanbgarag7VSU2hPtbUlYF4iM5EcKJeOi1yjSqC65wsBIEs5q2Sbol4fXLxTBKSuOc3iPwmoFqSGY-eraao2robEPDG5cY3g3T0-pI8x8qDFOjPDn9pj8fKLI6sq9qXHAv2Nq2oPT9Apg4H4COLP3Ts7Zpx-SxdOK2soYGrYPeivJnal92iwGIi7JW_h8oYXfyvO4c5MLUFHdBV_BH8GXkEm6rAKYuSXzyBulOCP_yOiHSdTR9i_C9ko08i0WN8SEG-mOwMEU58FuL7bflYiXE0aFOQyZQmMPhBtSkI7kn65d0tbWczh",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Town Center, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8771959,
+                    "lng": 75.35899479999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87859542989273,
+                        "lng": 75.36029277989272
+                    },
+                    "southwest": {
+                        "lat": 19.87589577010728,
+                        "lng": 75.35759312010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "979b846239b71f573ea8deea8b721a1814b954a8",
+            "name": "The Unusual Cafe",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 708,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108018713964908543537\">Titus P. R</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQ2u9--74CYWVqF089q11WrFrpFGNtifGGjpG4B2JmVjcUnqlr-Kusv5dXBV7014fwiP-0dc_Mmi50oItUinlgs_5qyrv3ui4YmOmHYGqmAGn1O9RvvNpH_SY_eaCiHzHEhAQTDTiWDexEnfraKJ6BKlOGhQUan_phBJhGBforOUmMeBpz50I9Q",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJxQSX2ZOi2zsRN5gYoWolp8A",
+            "plus_code": {
+                "compound_code": "V9G5+VH M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G5+VH"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJxQSX2ZOi2zsRN5gYoWolp8A",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 444
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "L1 L2 L3 Chetan Trade Center Opposite SFS School, Jalna Road, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.876324,
+                    "lng": 75.347599
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87766587989272,
+                        "lng": 75.34897777989272
+                    },
+                    "southwest": {
+                        "lat": 19.87496622010728,
+                        "lng": 75.34627812010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "d55b4b7f3d031dc5dab51aa1dc126860a7799e10",
+            "name": "The Hyde-out Cafe",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 683,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113780438021918011522\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARwizA1bNMfe9dJjx7R_t7PjJEL8loO9IxBkNX-oGMh0QUx4Qc3Am54MdyuuvOEfrkoogYWBoj_TUZHVxmMm3wLOaA-jcinK-t6tu1Gn7hw3o1pcG9tojq1eCEaDEgCgLEhCM46KNSXQ2O8vQCvsEEJRIGhRYGgEu02EhGQf3VMcOSRwWaigV3A",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJTZwpjJui2zsRRIN7nkQ32TA",
+            "plus_code": {
+                "compound_code": "V8GX+G2 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GX+G2"
+            },
+            "rating": 3.9,
+            "reference": "ChIJTZwpjJui2zsRRIN7nkQ32TA",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 892
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jalna Road, Raghuveer Nagar, Venkatesh Nagar, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8763351,
+                    "lng": 75.3481573
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87757882989272,
+                        "lng": 75.34948807989271
+                    },
+                    "southwest": {
+                        "lat": 19.87487917010728,
+                        "lng": 75.34678842010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "f6840a47c153b3f3d5e42ee0919f1e0c06340050",
+            "name": "Cafe Coffee Day - Raghuveer Nagar",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106062442206633377454\">Animesh Paithankar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkvTCI8E4p0lVpaS--BJQ5Y6G1a3-2khsJkBBLKRMs_zyd7evIVx5zaDZhAulHQHNtaNVc0hbMn45QOLxEXCox5EzHf9lFnPKSXiNC0YX5X-Bw0pO5CSCQJpn3z_xMpmHEhC2ZJtZ_LUHvNrezpLkp2mmGhRoAUdzewoTRn3GFT7tHXN3gh0woQ",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJd0K9Q5yi2zsRYtdNO_NnRNU",
+            "plus_code": {
+                "compound_code": "V8GX+G7 Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GX+G7"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJd0K9Q5yi2zsRYtdNO_NnRNU",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 356
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "CIDCO Cannought, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8769352,
+                    "lng": 75.3635134
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87831737989272,
+                        "lng": 75.36486567989272
+                    },
+                    "southwest": {
+                        "lat": 19.87561772010728,
+                        "lng": 75.36216602010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "46673a420eef9f03e74be1414ac56b97c154b0a5",
+            "name": "Nukkad Cafe",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104952947647062311308\">Parag Bandewar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVzv19nptPFx0jmSw-60MWWvliloFq04cjLbsQ6Y3Zeszo05Mi2UzFZTnrVTVLeqGC6hvjR1sDqACKGYaoQjDE3ho1g9jCGsuwYXZoXro1_2WVrBEX9hgld2upEIlzrZwEhCARAXGdpNIVGEQlN4oEpLSGhTa8HxFLo39AtuBcTH4CnjNogp4qw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJL2XQJpOi2zsR4P8A96PotWA",
+            "plus_code": {
+                "compound_code": "V9G7+QC Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G7+QC"
+            },
+            "rating": 3.9,
+            "reference": "ChIJL2XQJpOi2zsR4P8A96PotWA",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 464
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Surabhi appt,Opp.August Homes,ulkanagri,garkheda, Auranagabad,Maharashtra, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.863521,
+                    "lng": 75.344543
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86484837989272,
+                        "lng": 75.34587822989272
+                    },
+                    "southwest": {
+                        "lat": 19.86214872010728,
+                        "lng": 75.34317857010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "db6d3dd6474833096cbacf7aaab5962397474562",
+            "name": "Caf\u00e9 Ninety9",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4016,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103976536588719126528\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAABbbYd9vPE58SIyFLYFRMkVqGWK2kj3QjVc99IMfCOrd2tIn1HTDVU_cspOgdgCRc7UIxxuNnIJaWRP6Yaiw46sBjneaYyGsoJHnClXsfSWg0ykfbFoidg93nl57SBUfuEhCXxgDVskGitxekTQYsS1ZiGhRDAG45phocaPIoEehzywKdhr4QpA",
+                    "width": 6016
+                }
+            ],
+            "place_id": "ChIJ2____4OY2zsRiNfI2HPBbzs",
+            "plus_code": {
+                "compound_code": "V87V+CR Ulkanagari, Aurangabad, Maharashtra",
+                "global_code": "7JFQV87V+CR"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJ2____4OY2zsRiNfI2HPBbzs",
+            "types": [
+                "bakery",
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 349
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ground Floor, The One Hotel F 21, Cidco Town Centre, Jalna Road, next to Ramgiri Hotel, CIDCO Cannought, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8749621,
+                    "lng": 75.3629511
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87631937989272,
+                        "lng": 75.36422587989273
+                    },
+                    "southwest": {
+                        "lat": 19.87361972010728,
+                        "lng": 75.36152622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "c5fd3e423b28100d2e8bae38872e207b721f3d34",
+            "name": "The Chocolate Room - Cafe and Bistro",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114774872446602400434\">Palash Badjatya</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYFwLbUlpSOdo_fu1oHWOWmOajbBg_oLn3bTBH71YSz1ES09LFLyAKltILLY3W5wSxgEne9XSN3cZ5y9IXeFDhAoe9VDP4lTxqJrmO5M_C7dH9hWGASic2O651bs8je6lEhDfxzw7UpSMG1MqZr_HScZ9GhTtJWkA6JQLYzs3fvcE1T3f3NiwHA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJy2jElZKi2zsRGM2P6ML_12o",
+            "plus_code": {
+                "compound_code": "V9F7+X5 Aurangabad, Maharashtra",
+                "global_code": "7JFQV9F7+X5"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJy2jElZKi2zsRGM2P6ML_12o",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 982
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Near Tapadiya Merit School, Shreya Nagar, New Usmanpura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.866118,
+                    "lng": 75.33176
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86747177989272,
+                        "lng": 75.33310467989273
+                    },
+                    "southwest": {
+                        "lat": 19.86477212010728,
+                        "lng": 75.33040502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "2a616243cf1046f76f01a9e4f13af0f48a14fc73",
+            "name": "Caf\u00e9 Woodie's",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3265,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114909156590009234570\">Caf\u00e9 Woodie&#39;s</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA8HfCzdI0FFPudcLPBvPYXk7l437AUreBSJaSG4S35WA582EA7nbXabqmyFfxx8_N3wnDOSYPEQHw57qbhWb3Z_vAHxBFoo1vLG7JaXS0Qy7Mkjy3dRgHX-Snaxh1yaA6EhBTORT2wO0Yrdoq0JrCtKWzGhRcdoQhXwLTLhc5cTIgo0Hf5_U-XQ",
+                    "width": 4898
+                }
+            ],
+            "place_id": "ChIJQZUicHuY2zsRkQaOyLCjXTY",
+            "plus_code": {
+                "compound_code": "V88J+CP New Usmanpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV88J+CP"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJQZUicHuY2zsRkQaOyLCjXTY",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 906
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "G-45, Town Center, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8786942,
+                    "lng": 75.36028859999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88004367989272,
+                        "lng": 75.36163927989271
+                    },
+                    "southwest": {
+                        "lat": 19.87734402010728,
+                        "lng": 75.35893962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "5ec6f053e7eac83ee822f0214ca9165f74ee52a5",
+            "name": "Sip N' Brew Cafe",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116297973091259652008\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA362W2EhW-M2rp1h-rxOoMYjg_2ed1hDUeOfcWa73lcuwOnWqULkHdcuFWCnNqpEFzH_m62JKHKs_lNRqD8tIGkkuqnfFL0tnSoqTihu4w5kdMX33WFSZMshpnvKHogveEhDR-vR3CSGdtjOpwUkeFNaEGhR6ZLxu_feGtU-FU-CGVAzyh1iPtQ",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJz45ujZOi2zsRZL9iKd3UwDE",
+            "plus_code": {
+                "compound_code": "V9H6+F4 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H6+F4"
+            },
+            "rating": 4.1,
+            "reference": "ChIJz45ujZOi2zsRZL9iKd3UwDE",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 163
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shop No 7, Aman Complex, Beed Bypass Rd, Near MIT College, Disha Nagari, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.851539,
+                    "lng": 75.320562
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85303142989272,
+                        "lng": 75.3219344298927
+                    },
+                    "southwest": {
+                        "lat": 19.85033177010728,
+                        "lng": 75.31923477010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "f4596fe59168ab490e915e753bf8645837ebf37f",
+            "name": "Pokket cafe Aurangabad",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3257,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103058269643712216567\">Kedar Chougule</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9kYU2XZQlbI5HqMY8a_LgYPYITSdge4PycRc4Ta9rrFo-5-mSA6yfzNhUw8ZID56bofwMbfIOTL63bwaAo7IEBmY7t5CiVcwVyomOZpFeb_pssgR42K5tZUXFFRK08UhEhBR_XrNwVAsXsgzRfr9hPNHGhQOEfmWcQnzbiNg1tE8-6RsD_wS8g",
+                    "width": 2731
+                }
+            ],
+            "place_id": "ChIJnb-hi4yY2zsRtUb-mUAuokY",
+            "plus_code": {
+                "compound_code": "V82C+J6 Disha Nagari, Aurangabad, Maharashtra",
+                "global_code": "7JFQV82C+J6"
+            },
+            "rating": 4.5,
+            "reference": "ChIJnb-hi4yY2zsRtUb-mUAuokY",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 132
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mathura Nagar, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8813591,
+                    "lng": 75.3571142
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88266992989272,
+                        "lng": 75.35843322989273
+                    },
+                    "southwest": {
+                        "lat": 19.87997027010728,
+                        "lng": 75.35573357010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "2ac8aa6fc5355eea48d3774da049a399e80109cb",
+            "name": "Bombay Cafe",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1040,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106008274193594229419\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJMFcsynppIhGYOu9IUOXff9-9PHqFx80LI-dFEj4895tb4CG_pE8fxJ88zTer1iAwxIjXZCK4NPVPhgyL_ALUntD3MyJH7FWkB8tb59XDOuuTxvzlB6FFVKXcKEZxhWEEhBqoXYjJtoFnz6wCat_m4yfGhRfkxseP469KEa8MUpsXMDR9vwq-g",
+                    "width": 780
+                }
+            ],
+            "place_id": "ChIJdamS8pai2zsRxnserlq3D34",
+            "plus_code": {
+                "compound_code": "V9J4+GR Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J4+GR"
+            },
+            "rating": 3.9,
+            "reference": "ChIJdamS8pai2zsRxnserlq3D34",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 235
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kailash market, J Towers, Station Road, Padmampura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8672368,
+                    "lng": 75.3192968
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86858822989272,
+                        "lng": 75.32064577989273
+                    },
+                    "southwest": {
+                        "lat": 19.86588857010728,
+                        "lng": 75.31794612010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "79bda64bc95fddf744fd0639bee2b27334248dcc",
+            "name": "Cafe Creme",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3004,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103683693810218051571\">Mayur Shinde</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAk4OxIoOjbSPseyCy0PwMfiAge0CEaUXWmSiBs7qfsCvNelfV3gi-lvQLM54i43uAdUh5Jsi45KQvpNogdz2BnkxQSDdn0Hcd-Zz4JaxvmhyK2mDS6W14nJELgPFL9rAVEhBa_JuVQc01Les8jEd48CteGhRHruZoyySWMCgm32NJb0qMyfsJ-w",
+                    "width": 4005
+                }
+            ],
+            "place_id": "ChIJjZwCoGeY2zsRwQz2p0MaG1Q",
+            "plus_code": {
+                "compound_code": "V889+VP Aurangabad, Maharashtra",
+                "global_code": "7JFQV889+VP"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJjZwCoGeY2zsRwQz2p0MaG1Q",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 142
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Eknath Nagar Rd, Opp. Govt. Engineering College, New Usmanpura, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8679999,
+                    "lng": 75.3252334
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86934937989272,
+                        "lng": 75.32653602989272
+                    },
+                    "southwest": {
+                        "lat": 19.86664972010728,
+                        "lng": 75.32383637010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "1de53cd310abe8e806673146964ebe4741b6238f",
+            "name": "Blackstone Cafe & lounge",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 6000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107006595627103650164\">Nikhil Wagh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAlk_SJwkUDp_jjIzCVMTay7grcjePq0vG8MnS6Hc2k7Gv1JTchJ57HKgH4Htnk1l3WLQ8rR-l3L73YrKHy48TZmyR9giIR7xA8essWegbW4NMUJeHvYo9US_3LjeNNmEjEhCZA2zkHT0DvX7zBiWTsP9kGhTRAD7wNOBaPjqmIDK_AsOh0ul47Q",
+                    "width": 8000
+                }
+            ],
+            "place_id": "ChIJcRNyymWY2zsRz4fRY-MnhIY",
+            "plus_code": {
+                "compound_code": "V89G+53 New Usmanpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV89G+53"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJcRNyymWY2zsRz4fRY-MnhIY",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 483
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Plot No-21-22, Khinvasara Park East, Basant Bahar, Ulkanagari, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8645518,
+                    "lng": 75.34405960000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86585112989272,
+                        "lng": 75.34552527989271
+                    },
+                    "southwest": {
+                        "lat": 19.86315147010728,
+                        "lng": 75.34282562010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "421629941e792b6e5787208969f7093bf0757718",
+            "name": "In Town cafe",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105110555072299497863\">Saurabh Solanke</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAV7grGQzXCdLltZvzfdcV40YrBsWZSROZe9wrwUdBFI9frQfz-5HdLMycKGzMtMj-ajdFJsQ27ODoNBJzh5B04LrLP9j2RHr-gpXZrzQD4Fx6CTMAvbk3picR8p8G5mdXEhBu0eceJWK-qLk6rXEkVHIaGhTGFENnY8Lha2OoOObpcoKpNGBlmg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJA7SwhKyj2zsRKAnN09v2QNU",
+            "plus_code": {
+                "compound_code": "V87V+RJ Ulkanagari, Aurangabad, Maharashtra",
+                "global_code": "7JFQV87V+RJ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJA7SwhKyj2zsRKAnN09v2QNU",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shop No 9, Tulsi Arcade, CIDCO Cannought, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8766625,
+                    "lng": 75.3623003
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87802312989272,
+                        "lng": 75.36365027989272
+                    },
+                    "southwest": {
+                        "lat": 19.87532347010728,
+                        "lng": 75.36095062010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "4662f141a2c34ea2955af604067fd47b4d8e18d1",
+            "name": "Mokoholic 2.0 Juice Bar & Cafe Cannought",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 750,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114359281940887990856\">Khan Rafiq</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA6xelh4C0xjjGOZV2hhhRuG1QYs-QAFGSIkVK1pYmUR0u-1YcKUfCuW6HwXe_DIoRuHXFjtOuKmcaZGgSDbJNEsd3QMTP2VqHR2WLkRf0OYSHEYmWcsvVnyKNiIJibxSyEhCzp9AAALm5jqxXG_WqknIBGhRQi0E-9iSPBtGI8eKV8GA_PDgX2Q",
+                    "width": 926
+                }
+            ],
+            "place_id": "ChIJN-u8ApOi2zsRAY529fP3Ml4",
+            "plus_code": {
+                "compound_code": "V9G6+MW M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G6+MW"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJN-u8ApOi2zsRAY529fP3Ml4",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 549
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jayalaxmi Colony, Satyam Nagar, N 5, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8863927,
+                    "lng": 75.3648578
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88774077989272,
+                        "lng": 75.36620772989274
+                    },
+                    "southwest": {
+                        "lat": 19.88504112010728,
+                        "lng": 75.36350807010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "a896bf23e977a00f367578148bdb5d829e4dd83f",
+            "name": "RELAX TEA KATTA - AURANGABAD",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102035873448290588549\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUMwI3yC1HFK9IBwTOp2XvSajkJsGyxy1px7SXI91vUDBnSXTyZP2rsXb48l_CHX125b-ecFUNHEycJHgMRiOIPXfasW1VVAHNKh2Y0MBntoWD6W6YqSwy9GjAUyFiqZrEhBa1rK4Zx8xk7GKSihlXecyGhSaSwkGrR_z8XFTFD-J7HHRWz6K5A",
+                    "width": 2340
+                }
+            ],
+            "place_id": "ChIJMXCr-6Cj2zsRKpFDibVy_8k",
+            "plus_code": {
+                "compound_code": "V9P7+HW Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9P7+HW"
+            },
+            "rating": 4.9,
+            "reference": "ChIJMXCr-6Cj2zsRKpFDibVy_8k",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shop No 18, Kailash Arcade, opp. Quadr Angle Connought Place, CIDCO Cannought, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8772155,
+                    "lng": 75.36459520000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87856427989272,
+                        "lng": 75.36590117989273
+                    },
+                    "southwest": {
+                        "lat": 19.87586462010728,
+                        "lng": 75.36320152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "8b77e5988e39e2e007294da8710a5b9ca5a5f254",
+            "name": "Lokmanya's South Indian Cafe",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100813026898104768400\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFwkeE1tk6o7qOS7LnDHUYH1QMeSuZ9nwpzRPfQsJC-RWyAGtg_B48xc5z5N-Yc4_ZHZj8LbFGWCMZLGP-CZOhj7klc18gpvbrOW4Vb-GRvlT4Lh3uKarW3j9ha6Z4Ai1EhAJOmEMqJlbvc8R340c4ntjGhRZMthyUvr2-Nu-FNyu3N9MKhorvw",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJ-cjG1Oyi2zsRwCq8Ej3ftQA",
+            "plus_code": {
+                "compound_code": "V9G7+VR Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G7+VR"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJ-cjG1Oyi2zsRwCq8Ej3ftQA",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 262
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shop No. 17, 18, 19, Chandrakala Arcade, Nirala Bazar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8813339,
+                    "lng": 75.3249106
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88263817989272,
+                        "lng": 75.32624167989272
+                    },
+                    "southwest": {
+                        "lat": 19.87993852010727,
+                        "lng": 75.32354202010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "e958a4c19c02fb891235485275f37346d77042b8",
+            "name": "Backstreet Cafe",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113099982358029224465\">1neclick Online Pvt Ltd</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtiBjA65dtDD2C_PMS0H6tv3Ao88PTJ6srbIlV02-lA26E8tFicOloSzZ3xiPochnTOQwro2QBZxrRR7d8lKYQHRShnhcxM697dD0szspt-u1jW5bqcJ-aLd4wCESwgghEhD3f0BiLB_C7pDDpoJdPv2FGhT57skhAxwZXgjpUcDxqKOPbFZ_RQ",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJvdsio52Z2zsRla6clulr5jM",
+            "plus_code": {
+                "compound_code": "V8JF+GX Nirala Bazar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8JF+GX"
+            },
+            "rating": 4.1,
+            "reference": "ChIJvdsio52Z2zsRla6clulr5jM",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 314
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Muthiyan Corner, Dashmesh Nagar, New Usmanpura, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8659383,
+                    "lng": 75.32882699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86733182989272,
+                        "lng": 75.33011532989272
+                    },
+                    "southwest": {
+                        "lat": 19.86463217010727,
+                        "lng": 75.32741567010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "2f49131ae0d6641d662e244853e79fd78f3f99df",
+            "name": "Cafe octa 7",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111765573525307460338\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAsNTzSMmNch-eEMPScLGiGHp9IKToCaHzR15EyKCHfFqR9hvepFTunPeTTWR6jqMIYsB0bUPrbDV_ddzWwlQo3KhKe2iQ-oBK_Tgg3WUvBvhT4kR935oQ9sWSgmPB0U0_EhDFAWmpZ51IeSdHmHxaoaCuGhSguK_7bkK7wXs8GNdfEj6YP4cOrw",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJ324NYA-Z2zsRL71qS3P4UoU",
+            "plus_code": {
+                "compound_code": "V88H+9G New Usmanpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV88H+9G"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ324NYA-Z2zsRL71qS3P4UoU",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shop no. 11, Ground Floor, Tulsi Arcade, CIDCO Cannought, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8766728,
+                    "lng": 75.36238340000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87802172989272,
+                        "lng": 75.36373317989272
+                    },
+                    "southwest": {
+                        "lat": 19.87532207010728,
+                        "lng": 75.36103352010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "2be175752cef791c8b40ce95638d617f2d4a8b1f",
+            "name": "Coffee & Cookies",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102469775264957246808\">Mehul Sampath</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4abYCfUY2qbxXryr60d45hcFL1r8JYiR8UvV0s1Newgi3BgEnSncFu8kKp_AHIWtAglJWmsYbaeTt06APUQjjJcrqHxeNiP1wC-k2bpSGahfFFyukpocVybqNGPDx1cCEhB8phBzB1_gg4tLpNfPQfz0GhSKXap48294n6vy5iKg3pRs1r-OeA",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ04tOHZOi2zsRAmgtU4lQQ_Q",
+            "plus_code": {
+                "compound_code": "V9G6+MX Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G6+MX"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ04tOHZOi2zsRAmgtU4lQQ_Q",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 300
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Venkateshwar Colony, Rachanakar Colony, New Usmanpura, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8633191,
+                    "lng": 75.3180998
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86461367989272,
+                        "lng": 75.31943847989271
+                    },
+                    "southwest": {
+                        "lat": 19.86191402010728,
+                        "lng": 75.31673882010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "67f36e0a62dbd6f383b2e60d94028530cd13a37c",
+            "name": "Cafe Royal de",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117006987098540399165\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAG88TdW0KdZkhhhLHw1yPaeEhInHYWiqYbC3YWTiX-EVUgGaj35VhDsESPMwKRo870rFdkTx4UtIlgKyECeQJ-icxXEnAmMYtXTPyWeBTxOc8QabIc6ohltzoPNfzaSyXEhDm_rMED5zVM44B1TkPQRt7GhQ0U1zZ872yhDsGABnBf__iOzDVtg",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJsdpVpmCY2zsR_iDEaomAAP8",
+            "plus_code": {
+                "compound_code": "V879+86 New Usmanpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV879+86"
+            },
+            "rating": 4.2,
+            "reference": "ChIJsdpVpmCY2zsR_iDEaomAAP8",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 388
+        }
+    ],
+    "status": "OK"
+}

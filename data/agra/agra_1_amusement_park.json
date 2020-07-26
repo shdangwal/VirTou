@@ -1,0 +1,972 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQCAAEAAOYUWifXgbVUBw4GGYlWDlKO_Fady8zbUBTSnQ-RT1f88ryHh8xRMCb2wo8sSEG5pU1BE3sCtHYMFipA3XKsLYHuLmYGBYEOpgcW8OKikA3xEEmGCOAwSUuArzZLwHKhU6EIIzdMlQUD1z4TZQ27cKtHQGlkLoANjCsIAPdN-UeLAqiNPrdRcIzXKQmzR0Cnm7fT7emQgc_DaUP7OwhUZpMhvtplppAdROAjHpMkQ0e1x4BaM1yWcZ1MzxJYhuppZBGWQ8vbqw6O-CONRXd-tKoKB6f2pyDYF6e0NCnuXfFP5-PFuR2Ixdo-itagKN4nVbO0woWzGyj5JMTB0Z2YKugSECkdzzU4Ft4VR7HqNo3SnyEaFBdKyLUaDK35XZOdA-XfMiVFUE71",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Agra, Uttar Pradesh 283105, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1811473,
+                    "lng": 77.9210432
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18256087989272,
+                        "lng": 77.92242932989272
+                    },
+                    "southwest": {
+                        "lat": 27.17986122010728,
+                        "lng": 77.91972967010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5fcf75b82733f62702a7f28a15d06ae3d62afce6",
+            "name": "Nurcy Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3265,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104053254203332743587\">Gaurav Chaturvedi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2XaCP6PdAThFU4TEphzWRd_e7IlU3PiAIuIqqAZmKJHgKKBmoDNHCrlD_p4Rkv-GIPNj4BRp-AzaVyKKuio-WX9knUBDTF-xTGZscIc9i1qKG_uNjJhrVAUxHvB5OYgUEhB86BwR1Ra6__0WuvdF5URpGhSWwZc-3UNCOSws8WARNIdm3mfUOg",
+                    "width": 4898
+                }
+            ],
+            "place_id": "ChIJ1fb-NySIczkRC5k5mRGxQ6E",
+            "plus_code": {
+                "compound_code": "5WJC+FC Agra, Uttar Pradesh",
+                "global_code": "7JVV5WJC+FC"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ1fb-NySIczkRC5k5mRGxQ6E",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 146
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "chuchena post, Nagala, Bainpur, Sikandra, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2286179,
+                    "lng": 77.94245310000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.22985952989272,
+                        "lng": 77.94354327989274
+                    },
+                    "southwest": {
+                        "lat": 27.22715987010728,
+                        "lng": 77.94084362010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c32ba75909f67b077518fa7289d3dbb195c391cf",
+            "name": "Mahesh chandra",
+            "permanently_closed": true,
+            "place_id": "ChIJuUWlXgd5dDkRIdzOIcIhWdA",
+            "plus_code": {
+                "compound_code": "6WHR+CX Sikandra, Agra, Uttar Pradesh",
+                "global_code": "7JVV6WHR+CX"
+            },
+            "rating": 0,
+            "reference": "ChIJuUWlXgd5dDkRIdzOIcIhWdA",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1699069,
+                    "lng": 78.0342187
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17114832989272,
+                        "lng": 78.03545317989273
+                    },
+                    "southwest": {
+                        "lat": 27.16844867010728,
+                        "lng": 78.03275352010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "96d2379d194de27d9e17a5b2d11530aae402736c",
+            "name": "Nauka Bihar",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107777671760994228242\">ABHISHEK SHEKHAR</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOSTeIs-tZVVh_-NFog4mRFxwXBxpOhb7II_hMQRbeImxsnHRAnaktAzx28pJALc18CH7Y5KX4kki8L_6jE1CBkbtmNdz08BjdfZaAvakIqmJ2gDQq3eUDVD5a4hrBEb8EhAG_OrX-pI2keoPlvvCGMVTGhR-St8FWFJjxkEwPlHiwW2UeUr4Jw",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJya7vKSRxdDkRXqm9qAzu3WI",
+            "plus_code": {
+                "compound_code": "529M+XM Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW529M+XM"
+            },
+            "rating": 3.5,
+            "reference": "ChIJya7vKSRxdDkRXqm9qAzu3WI",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "A-Block, KaliCharan Pahelwa Marg Ansal Town, Baroli Ahir, Agra, Uttar Pradesh 283125, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1257133,
+                    "lng": 78.070238
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.12716532989272,
+                        "lng": 78.07165597989272
+                    },
+                    "southwest": {
+                        "lat": 27.12446567010728,
+                        "lng": 78.06895632010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "75b65fe951bc591cb8bc00044014a9032b46c75a",
+            "name": "Rimjhim The Water Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 673,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101863234876543644046\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAXbeqE0_N7ch4k6dYKqRdkcmck_XYVoktl3OcUiq4aFhuntiHHy7ZMnddNFQOqxC0Ka6HdXYvOK10ciV0h-Y6PLIapmpUmI17yyEuzGecDjgDuAfOkUF6vWwxv0E41s5VEhCohXpsggU7dUIqzbaGAPXIGhQzn2s7QIjkvk18xwYYCIqDxwHFtA",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJk7hPpmpzdDkR3cFaxFz6cbI",
+            "plus_code": {
+                "compound_code": "43GC+73 Baroli Ahir, Agra, Uttar Pradesh",
+                "global_code": "7JVW43GC+73"
+            },
+            "rating": 4.1,
+            "reference": "ChIJk7hPpmpzdDkR3cFaxFz6cbI",
+            "types": [
+                "amusement_park",
+                "park",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "NH-2, Mathura Rd, Lohamandi, Runkata, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2383903,
+                    "lng": 77.8678133
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.23976432989272,
+                        "lng": 77.86919007989272
+                    },
+                    "southwest": {
+                        "lat": 27.23706467010728,
+                        "lng": 77.86649042010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6c8e9efc27033ebe8a21a911aa5298c1f4a28ea3",
+            "name": "Dolphin Water Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1376,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111978102136986770151\">Suren DC</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKM1q4t--UkJm9w0lTwnTpnB9KcIVxJoiD2jc2iEM-oRbrJYyjoWviTKreDs3WUnx7GwchuwWRHrOU3OyKI-rcnNCswpFv3XouQJKuz1RrXipYmMxTBrg3OZKiaHHc_8qEhC0NmNZec3GLtKLoOnSFqfWGhRw-IPiosywKHLXIjtde7E16XMjDA",
+                    "width": 1870
+                }
+            ],
+            "place_id": "ChIJi1I1T0SGczkRdrN7KUXTjdg",
+            "plus_code": {
+                "compound_code": "6VQ9+94 Runkata, Uttar Pradesh",
+                "global_code": "7JVV6VQ9+94"
+            },
+            "rating": 3.7,
+            "reference": "ChIJi1I1T0SGczkRdrN7KUXTjdg",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2007
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1751448,
+                    "lng": 78.0421422
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.1772325,
+                        "lng": 78.04546859999999
+                    },
+                    "southwest": {
+                        "lat": 27.1688817,
+                        "lng": 78.03880380000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "dcc9586b99ab0f0471fccecbe2dbb40fdc1fc2b5",
+            "name": "Taj Mahal",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108059568100427860058\">PAPU GAYAK</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAq3B7LqQxYN_308q7XW2N6AoQlyOm5o6YfIZoLI4w341vlo09-xUr8ptvUH5tD7IquN-nEoX7NHjeHzbcrFE7nVfHg-oxpHh3PakdF_NPki6i6YQyQ4fuCein8EkVRk9FEhAddoyvKatB5zThu20e8gbIGhQ-2V2cmmClQj4RMvHMVni4UajPjQ",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJbf8C1yFxdDkR3n12P4DkKt0",
+            "plus_code": {
+                "compound_code": "52GR+3V Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52GR+3V"
+            },
+            "rating": 4.6,
+            "reference": "ChIJbf8C1yFxdDkR3n12P4DkKt0",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 169091
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Mundhera, Uttar Pradesh 283102, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.0814905,
+                    "lng": 77.9450523
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.08283392989272,
+                        "lng": 77.94640312989272
+                    },
+                    "southwest": {
+                        "lat": 27.08013427010728,
+                        "lng": 77.94370347010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "313f9413a80a737c01afb31da9064ddfdf32d88f",
+            "name": "T.S Chahar Waterpark",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1040,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105022540565797384516\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRZAAAA4hMPLEbuPCksXA4o9HAOr6CwkPziDODGJfilaOjv3JmA4cye9KF8sSdvUrUGZJkrF_hmYl1F0_CBwroxyoTRJkbchkGm5ZynTFU-O_TlQaJLMFAL4XGdXZmR4uKNNiGiEhDG2H2e04DBqdJE_MOfxk-3GhQxZx5WWcQX-2_7GFBkK-ZANyKviA",
+                    "width": 780
+                }
+            ],
+            "place_id": "ChIJl9SWkHB1dDkRAv3naQOZBXo",
+            "plus_code": {
+                "compound_code": "3WJW+H2 Mundhera, Uttar Pradesh",
+                "global_code": "7JVV3WJW+H2"
+            },
+            "rating": 4.1,
+            "reference": "ChIJl9SWkHB1dDkRAv3naQOZBXo",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Didamai, Uttar Pradesh 283203, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1539459,
+                    "lng": 78.42600019999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15511117989272,
+                        "lng": 78.42712947989271
+                    },
+                    "southwest": {
+                        "lat": 27.15241152010728,
+                        "lng": 78.42442982010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2a8266c8eb5e0cf9f169eb66e1a612dd12904f3b",
+            "name": "Siddni Water Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103555988454160268863\">Neeraj Kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxfY_Rb1Si6Y6uUyxaFil9YBjOHaaU_mN0KqoR2jXwJHt9By55DFVVJPLTNxtjamYxnKXne2s_GgifHZtAVlw7gPKR6YJ-YgcvjuLqjjAPxbtc2_SI3G9ZPwuObFGA-35EhB1g0GWvXZ8QxcPn6x3YUGIGhRZXxhHeBmEZ43hkb0eTvJWR7eUvg",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJo3vK94ZGdDkRTmfOcRGCBuA",
+            "plus_code": {
+                "compound_code": "5C3G+HC Didamai, Uttar Pradesh",
+                "global_code": "7JVW5C3G+HC"
+            },
+            "rating": 3.9,
+            "reference": "ChIJo3vK94ZGdDkRTmfOcRGCBuA",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 66
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "GT Rd, Uttar Pradesh 202136, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.0038366,
+                    "lng": 77.9879093
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.00523362989272,
+                        "lng": 77.98921657989271
+                    },
+                    "southwest": {
+                        "lat": 28.00253397010728,
+                        "lng": 77.98651692010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b9bf3333ccc7bb64e8a9aad578a3c628ca1c4e4c",
+            "name": "State Deer Park & Research Center",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107271128214362968650\">Nishant Creations</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAnACc1Ts1UZurZa6oMNOeh1A88gkhk6gxAWrBRU9JebcDhWMADlefHCIShprQF71m-Lu92iu0lyrBRfB-8fudCmlYkS0DnfC_ZiBPCKyUaaCmaqHrW2XqSXrTBG32C9QIEhBzi-vQwGa3OxjKoh5PTpsRGhTnHUdgi1nMFhMG3BRX0j-bUG9k5g",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJt2-mgeKodDkRoSyAjkKKa6s",
+            "plus_code": {
+                "compound_code": "2X3Q+G5 Nagla Viria, Uttar Pradesh",
+                "global_code": "7JWV2X3Q+G5"
+            },
+            "rating": 3.8,
+            "reference": "ChIJt2-mgeKodDkRoSyAjkKKa6s",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8 KM Mile Stone, Delhi-Meerut Highway, Duhai, Ghaziabad, Uttar Pradesh 201003, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7261111,
+                    "lng": 77.46972219999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72723932989271,
+                        "lng": 77.47135872989271
+                    },
+                    "southwest": {
+                        "lat": 28.72453967010727,
+                        "lng": 77.46865907010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d461b9946f02e42c21a21bc1133ff6bc7013cbff",
+            "name": "Drizzling Land Water and Amusement Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118347819298330737698\">Gaurav Gusain</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhzV9s0-x4LCiR1YeBTsicQMYDfkQ9u3mykgz5UCWrsoHwggc3S4jNi9ak071m8bBAOL9RnBknzFWdZjkmZL5mIkhfNxVBhf6zAPamnozjbSTjOAbaz2vI3FcZZkGHpzuEhAmD5762zAHWS5oz-d5-40iGhQdlISO3vj5rI6dESDcg60yCjvCqg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJwQcqDVjxDDkRE1P2nBQDC4I",
+            "plus_code": {
+                "compound_code": "PFG9+CV Ghaziabad, Uttar Pradesh",
+                "global_code": "7JWVPFG9+CV"
+            },
+            "rating": 3.9,
+            "reference": "ChIJwQcqDVjxDDkRE1P2nBQDC4I",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3429
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sector 77, Gurugram, Haryana 122004, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.3867579,
+                    "lng": 76.973793
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.38813922989272,
+                        "lng": 76.97510147989271
+                    },
+                    "southwest": {
+                        "lat": 28.38543957010728,
+                        "lng": 76.97240182010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d8047555729cf4643b1fe843f9315132af5e218c",
+            "name": "AapnoGhar - Best Wedding Resorts in Gurgaon, Water Park, Amusement Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 683,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106408243635370062703\">Airport Motel Aapno Ghar Resort</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAiNgIUrf3NCiFFTTSWFEAl8JSF_dacHz7HyQVZwQBQlVHueWdG0iniWejaV05ZzqjcJjixOv7v6NmMpViKzuCV1NhQRy1a6aLX4O0tifaNjENk2x99atCCZY7NeLkmFp4EhAxr29aFhl8i1xxLtbg1b2FGhTT-PVQrLnvuj32KJWzSezGUADOOw",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJG8FI6_UXDTkRHGRJJxf6O_w",
+            "plus_code": {
+                "compound_code": "9XPF+PG Sector 77, Gurugram, Haryana",
+                "global_code": "7JWR9XPF+PG"
+            },
+            "rating": 3.9,
+            "reference": "ChIJG8FI6_UXDTkRHGRJJxf6O_w",
+            "types": [
+                "amusement_park",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3827
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Pilibhit Bypass Rd, Chhoti Vihar, Bareilly, Uttar Pradesh 243001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.40454,
+                    "lng": 79.45972700000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.40589347989272,
+                        "lng": 79.46083317989273
+                    },
+                    "southwest": {
+                        "lat": 28.40319382010728,
+                        "lng": 79.45813352010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2e422d067ee51cb9403e740ef6137ecb7d3c5258",
+            "name": "Fun City",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117424418501194795043\">Arshi Naaz</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANSoVoPSAA9vo3-E3TZDCTHA_OZLn_Fk3bbaVC7MrASJ-1S6Ikebn3VuOf2uCBb0U2zSbnI0HhGsw8-kEWTZSglHIb1MX6eQxiOZzWohMT3SshgwP8IYsSfEvapLb3GrNEhCyncFaPbqAOKlTS-ew4wr8GhStmfnVAlyFTu5jRP9V6FNk4NIoBw",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJYQt3Sn0GoDkRf3ebSAZuUUQ",
+            "plus_code": {
+                "compound_code": "CF35+RV Bareilly, Uttar Pradesh",
+                "global_code": "7JWXCF35+RV"
+            },
+            "rating": 4,
+            "reference": "ChIJYQt3Sn0GoDkRf3ebSAZuUUQ",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5089
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "RIICO Industrial Area, Mansarovar, Jaipur, Rajasthan 302020, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8379133,
+                    "lng": 75.7832956
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.83979702989272,
+                        "lng": 75.78452062989273
+                    },
+                    "southwest": {
+                        "lat": 26.83709737010728,
+                        "lng": 75.78182097010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5d007ec30b26dda5fe8fe909fd6efd15a153bb96",
+            "name": "Fun Kingdom Amusement Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102317696192913415128\">apperna sharma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAqan1T_T_vVBtC-6SMRI-Uz7t4P2TKTdeiE_E0LAJo1SoC7oA_YEqiQGvE3FLDK9FFlKAVhZWllgF1r_u_2-cSssBn3CTW6PkGkfqJp8XWEUoITlVVVPtPmSCDXrLl2HjEhCC1xFz7ALRUiHdBH9FtZYkGhQXPXwuQAsaNuph1ZREFNz6x4e70A",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJl_m8uZK1bTkR9EcgjjSIZgc",
+            "plus_code": {
+                "compound_code": "RQQM+58 Mansarovar, Jaipur, Rajasthan",
+                "global_code": "7JRQRQQM+58"
+            },
+            "rating": 3.8,
+            "reference": "ChIJl_m8uZK1bTkR9EcgjjSIZgc",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 191
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "NABARD, Kanpur - Lucknow Road Opposite, Sector H, LDA Colony, Lucknow, Uttar Pradesh 226012, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.792288,
+                    "lng": 80.904607
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.79361267989272,
+                        "lng": 80.90602097989272
+                    },
+                    "southwest": {
+                        "lat": 26.79091302010728,
+                        "lng": 80.90332132010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3784a1448b8b031a98daa990e9e66f06214b7195",
+            "name": "Dream World Amusement Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2235,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107258206948557535508\">RC-The Indian Rail World</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAiualhNm_UgpbjfK19BL4kL1qe0oj4IbYH3DdHGOUUHYVA_dyl_21jo4bvjLlt4-yT70r0cMOKY6bAyfYdJ7wPAAPBUkX9tdMLXDnh_uiLJZ2AVeVYrLu-SO1p5_hUAn2EhBmOVMz2jtJWiqVZxOjLXBdGhQjemG2HcHkq7ZOJzISwVdgquflDw",
+                    "width": 3973
+                }
+            ],
+            "place_id": "ChIJ4Zt0qQb8mzkRlRRIssSzhnA",
+            "plus_code": {
+                "compound_code": "QWR3+WR LDA Colony, Lucknow, Uttar Pradesh",
+                "global_code": "7MR2QWR3+WR"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ4Zt0qQb8mzkRlRRIssSzhnA",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2750
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "ILD Trade center, Sohna Rd, D1 Block, Malibu Town, Sector 47, Gurugram, Haryana 122018, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.4250487,
+                    "lng": 77.0389223
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.42634977989272,
+                        "lng": 77.03987572989273
+                    },
+                    "southwest": {
+                        "lat": 28.42365012010728,
+                        "lng": 77.03717607010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f62b92b4d7cb04940fc58b5eaae7734e3453fb79",
+            "name": "SkyJumper Trampoline Park Gurgaon",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 639,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102579471325722922046\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAS12eM399WlnzxEE_T8ZI5rbMzEMFHU1GTKYm04Vc7wi6g3lHJjG_A0AXztcHEbEudzlWV7WV848l9Y2lapjUNMpEVSClqvxYlGlgZvVBvXSYOcmLZWDefSpx1ljAtup1EhAWrvLF7s_vR0OnyIMopidgGhSy31Cp6ZUpOD0vh45mFNM0KpgT5w",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJrWQPWEXnDDkR9Qs0C1tJd_4",
+            "plus_code": {
+                "compound_code": "C2GQ+2H Sector 47, Gurugram, Haryana",
+                "global_code": "7JWVC2GQ+2H"
+            },
+            "rating": 4.4,
+            "reference": "ChIJrWQPWEXnDDkR9Qs0C1tJd_4",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5191
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Opposite Rithala Metro Station, Sector 10, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7237007,
+                    "lng": 77.1140798
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72500747989272,
+                        "lng": 77.11484405
+                    },
+                    "southwest": {
+                        "lat": 28.72230782010728,
+                        "lng": 77.11178704999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8b3f1fef16b8e43638a08aeeea0b972d4f524c60",
+            "name": "Adventure Island",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4928,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104613025305786982808\">Adventure Island</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9s2pMay2oVQZ-nOXE4Ts3DEfGnmah64o0rsvLBJKTda1lZLPopeUrHeTrShI-Pt014PW_RF8exIfcdqSHaMIyyyqey0iiyUlACy43nAR16PFc57wPzmeyZM69jg6RbI3EhAlITRYHrjYJjCW-YWJ9aKZGhRJ1drizBGUDjk6GRsn-rO8tIJt_Q",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJq6qqmkABDTkREBpp5hT5OSo",
+            "plus_code": {
+                "compound_code": "P4F7+FJ Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4F7+FJ"
+            },
+            "rating": 4,
+            "reference": "ChIJq6qqmkABDTkREBpp5hT5OSo",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13458
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "42 Km Stone Main Mathura Road Behind Royal Villa Village Sikri, Faridabad, Haryana 121004, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.2840456,
+                    "lng": 77.2928939
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.28543877989272,
+                        "lng": 77.29410297989273
+                    },
+                    "southwest": {
+                        "lat": 28.28273912010728,
+                        "lng": 77.29140332010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b891bb142d89958b712b6174a88816a9ac2bfc27",
+            "name": "FFUNMAX",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 303,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102449270226900837158\">FFUNMAX</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAGKpCob8p5gOiMN5roDXqsd9Fze0O5w8hDUyaqpV7STQVy3Zo7db_mLvOcIrbEbKhMswvnx4Gn7DhzS6q70VcpJd3xQgxVVEgA82qA-mJLiOs46Zz_AcxlkRoIFZcXEC5EhCQ3o9gg1ozudJkMDtmNseOGhRMF7sA_0mm3qareKsqTReWt1TFzw",
+                    "width": 540
+                }
+            ],
+            "place_id": "ChIJZ2qsVhjaDDkROYMZXo_-gG0",
+            "plus_code": {
+                "compound_code": "77MV+J5 Faridabad, Haryana",
+                "global_code": "7JWV77MV+J5"
+            },
+            "rating": 3.5,
+            "reference": "ChIJZ2qsVhjaDDkROYMZXo_-gG0",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 761
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ahead of Rau Circle & Guru Kripa Restaurant Infront of Corel Reefs township, Mumbai - Agra National Hwy, Indore, Madhya Pradesh 453331, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.6194877,
+                    "lng": 75.800646
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.62086742989272,
+                        "lng": 75.80192307989272
+                    },
+                    "southwest": {
+                        "lat": 22.61816777010727,
+                        "lng": 75.79922342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "89f1419008bd215e8136035dd8bc97616a464d6a",
+            "name": "Fundore",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113621579290082008257\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwmbzMbLIIg84XwZyNUiZzE0lDKwXqiYdlRPa1LQPsti29lBA6Y7TkDHlHN2r0Vb50klS1dFFPqH9OaZnUkG8ZsWu7_-YSniHtTL-wDE0DViPZRyCrBKqR3Zlb1Y020_hEhA0jxzidfWxnx5h99RoLAjwGhSBoizo076hr9oJ9qDoXl85nFXlkw",
+                    "width": 6240
+                }
+            ],
+            "place_id": "ChIJr0M-w1_5YjkR5TbmgI7zM14",
+            "plus_code": {
+                "compound_code": "JR92+Q7 Indore, Madhya Pradesh",
+                "global_code": "7JJQJR92+Q7"
+            },
+            "rating": 4.2,
+            "reference": "ChIJr0M-w1_5YjkR5TbmgI7zM14",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 882
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Aklimpur Teekli Road, Nurpur Jharsa, Badshahpur, Gurugram, Haryana 122101, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.3757737,
+                    "lng": 77.0407464
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.37746427989272,
+                        "lng": 77.04245222989272
+                    },
+                    "southwest": {
+                        "lat": 28.37476462010728,
+                        "lng": 77.03975257010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f9adedc2765ff5ecaf904e9dc0ec47337e1596a2",
+            "name": "De Adventure Park - Adventure sports centre in Gurgaon",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110070131696036342475\">D.R CABLE TV NETWORK</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAL9VRsfGsPtJTo6HPOd_nCyw2jkCwft2npTa9Oo9huHfPropkzUbvJdXS60Iv6cJ0RDk0JJBczctNfF1WD4nZSQQ_78NhI-geDJ-g0l56HO1zvqkc_iEuk7G3j1Pm6UKtEhCP1zx_zhbo66QJ5TTwgETIGhRLWzbigI0MZaKPX48OIShAl6SNyg",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJbTljp-IjDTkREbOX6tstUco",
+            "plus_code": {
+                "compound_code": "92GR+87 Gurugram, Haryana",
+                "global_code": "7JWV92GR+87"
+            },
+            "rating": 4.8,
+            "reference": "ChIJbTljp-IjDTkREbOX6tstUco",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 624
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Thekda Road, Thekda, near Career Point University, Kota, Rajasthan 324001, India",
+            "geometry": {
+                "location": {
+                    "lat": 25.1597053,
+                    "lng": 75.881536
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.16106437989273,
+                        "lng": 75.88285542989271
+                    },
+                    "southwest": {
+                        "lat": 25.15836472010728,
+                        "lng": 75.88015577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5812edf0efd2996571815221e5a4a93fb9a7e714",
+            "name": "Radhika Resort and Amusement Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116879821552545970560\">Vivek Fouzdar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAd2Ty4bWXh83zo56aHw0n46rrGOH-xQrnHaz4ynoSPdMhI8PQlvKc14kFxUtWXN3UIJ9fAH4VeVD8bTWGmORWtim9w0VKih-szBlOgHWTVNzgeOIDNNqXfKzRH7bMkzt-EhDGyAMlfg20UcIPFrosql1hGhQ8mFwTMDMAhNln2_WDyK0i9WSrPg",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJdV3hXi2FbzkRclrUfWmVwps",
+            "plus_code": {
+                "compound_code": "5V5J+VJ Kota, Rajasthan",
+                "global_code": "7JQQ5V5J+VJ"
+            },
+            "rating": 3.9,
+            "reference": "ChIJdV3hXi2FbzkRclrUfWmVwps",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1132
+        }
+    ],
+    "status": "OK"
+}

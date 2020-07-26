@@ -1,0 +1,973 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "nearby hotel retreat, Taj Nagari Phase 1, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1621673,
+                    "lng": 78.0535329
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16355357989272,
+                        "lng": 78.05489252989271
+                    },
+                    "southwest": {
+                        "lat": 27.16085392010728,
+                        "lng": 78.05219287010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "199e768f3e466b97186333285d1528b1998e7c2e",
+            "name": "Hotel MARYGOLD Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 370,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107143490778911118005\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACSwbqeiiet45Kvafs8wQrIqr7VA8Z3geWBFR4mbVeHMKQnhq9mvWHWqgDsQtRl73ynasgxbZrY9dK9dFg2I7vLk6A9keQ7hT0oMdr30O3x9eUD5LjZRezWmx7Rv-sYUBEhA8gyMzl91bHrRp8ZRG284jGhROlGuL_34K2iZYdIqyar1isKsHTw",
+                    "width": 658
+                }
+            ],
+            "place_id": "ChIJQ2gurz1xdDkRu8o8NUx1yJA",
+            "plus_code": {
+                "compound_code": "5363+VC Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW5363+VC"
+            },
+            "rating": 4.9,
+            "reference": "ChIJQ2gurz1xdDkRu8o8NUx1yJA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2/26 Tajmahal south gate, Road, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1697892,
+                    "lng": 78.0421295
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17113812989272,
+                        "lng": 78.04346652989273
+                    },
+                    "southwest": {
+                        "lat": 27.16843847010728,
+                        "lng": 78.04076687010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d968559696d7bd7fa7bdb4fd3397a0559f2b58a3",
+            "name": "Hotel Raj Bed and Breakfast",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1872,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100930006363088222991\">\u4e45\u4e4b</a>"
+                    ],
+                    "photo_reference": "CmRaAAAADeYtEzWYKCTcqjpCgIDs0Ggl8L6hLSMEgSsWgkpvm39x-D0UUPHXdsbakJwxQ6QKE1RA5OoJPMAiFqhqEGiRDdwR9J4SI6iByZRv5YOYgKNhRE4WGU2Lz4jb8v-WZpEFEhDbQjejqhFCJFB9URAi4bBPGhSCyeTUjxKrYLwvXE0c180K9s27Sw",
+                    "width": 3328
+                }
+            ],
+            "place_id": "ChIJF7YvlQ9xdDkR6p7vs6pCtcI",
+            "plus_code": {
+                "compound_code": "529R+WV Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW529R+WV"
+            },
+            "rating": 3.5,
+            "reference": "ChIJF7YvlQ9xdDkR6p7vs6pCtcI",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 134
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "18/147 A-27 Fatehabad Road Tajganj, Nai basti, Khairati Tola, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1707966,
+                    "lng": 78.0295454
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17211827989273,
+                        "lng": 78.03083662989273
+                    },
+                    "southwest": {
+                        "lat": 27.16941862010728,
+                        "lng": 78.02813697010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "0448c99715f45e7c6b31ace88e19e72b2b63e63e",
+            "name": "Sukoon Home Stay Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117460861904014756944\">Dhruva Palaye</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAv0kI6cIcg3kTQ2Y9oF7hK6N8R55q6rA5ElVIvnFi29V3X6avhJ-BwAd2cRVU_Vz9m7_uHI9Wv_4-VlIF4p_FtvMBVAOz84OOlABKIR2OZEaHslHpJ1fI2631yIU_mFiuEhD7xLHL_Wi2W5Dq8G8W3ylNGhR-_0nT_WcRd0txQqUzYY8uZrvjAA",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJVfKawChxdDkR2QrM7acxaII",
+            "plus_code": {
+                "compound_code": "52CH+8R Khairati Tola, Agra, Uttar Pradesh",
+                "global_code": "7JVW52CH+8R"
+            },
+            "rating": 4.1,
+            "reference": "ChIJVfKawChxdDkR2QrM7acxaII",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 108
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Eastern Gate 1/16 B, opp. Jalma Hospital, Telipara, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1673864,
+                    "lng": 78.0512715
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16873632989272,
+                        "lng": 78.05262327989273
+                    },
+                    "southwest": {
+                        "lat": 27.16603667010727,
+                        "lng": 78.04992362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "8d871484545f45f2b34972abbe2ae4f2d3231c86",
+            "name": "OYO 16359 Sheela Inn",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115770518902712236778\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1L4EtLYChM9nN-_U6_YEIvfqJX9g9LcPVTwYzen4CmySaP09EiduzZSmn_G4kK7WH2wGx0jhTp1NtqwhL5ECCOnOV0o2zuQMZyvbGdehHvt8IW81t8Y_lwOgcPKEzX3cEhDWnzFWRyeWRJTrg8g9OZ68GhQecvQpsEbqqiy3_JyGUmAi49OkIg",
+                    "width": 759
+                }
+            ],
+            "place_id": "ChIJ22w_9BpxdDkRobXmk5D1CEc",
+            "plus_code": {
+                "compound_code": "5382+XG Agra, Uttar Pradesh",
+                "global_code": "7JVW5382+XG"
+            },
+            "rating": 3.4,
+            "reference": "ChIJ22w_9BpxdDkRobXmk5D1CEc",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 253
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Subrata Rd, near Babu Jagjivan Chowk, Bansal Nagar, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1618348,
+                    "lng": 78.0360908
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16318607989272,
+                        "lng": 78.03748222989273
+                    },
+                    "southwest": {
+                        "lat": 27.16048642010728,
+                        "lng": 78.03478257010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "4ad5103dc04cce6230189ea800b5850b5f4230d5",
+            "name": "Hotel Viren Holiday Home Agra",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110792162930590189962\">Surya teja Tunuguntla</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJcRyLTuSIUYNQ_dGKLkK0Egk6XO9x-bYIykmegFjxfgMmkooljcd6AuAkwtNeCb8HiypZJaNSbzLd2vrfelG5Ckd0HnRRAhp9Gp1zf08gZWCjmXudGx6LT7kHryHkQPAEhC3P3men6Vb_AcSp6MloD-zGhSRcuGylo0__Zd1BO9aGv532DEE7Q",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJUffaiihxdDkR4xEJZDuMmEI",
+            "plus_code": {
+                "compound_code": "526P+PC Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW526P+PC"
+            },
+            "rating": 3,
+            "reference": "ChIJUffaiihxdDkR4xEJZDuMmEI",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 110
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Khasra no 1639. Nagla deem opposite taj hotel and convention center Tajmahal, road, behind mughal museum, Eastern Gate, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1639693,
+                    "lng": 78.0601488
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16531547989272,
+                        "lng": 78.06150847989271
+                    },
+                    "southwest": {
+                        "lat": 27.16261582010728,
+                        "lng": 78.05880882010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "e552b14f7ea612c2eb81ddedcec4f8fe31f035e9",
+            "name": "Freedom Hostel agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2880,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116544309852338445764\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgtKhnOxI5qrxkSzK7W3-CGCzK4HJ_ZO1GhD_RSAtfKJbjvhyUj0LVrqBi7XJdwIw83DUzpzvd5gh9Fluwq_3SGRUgT38qg86eCI4Zcdm01ZMOfV1MFNnWf1Qd6paO_BDEhD5q3PMxdp_4-53Qc7oXsdHGhRZoc0vYgxoIPnkX0MPmAReCm6rSg",
+                    "width": 1728
+                }
+            ],
+            "place_id": "ChIJmxAgURpxdDkR3snM1cJtGi0",
+            "plus_code": {
+                "compound_code": "5376+H3 Agra, Uttar Pradesh",
+                "global_code": "7JVW5376+H3"
+            },
+            "rating": 3.9,
+            "reference": "ChIJmxAgURpxdDkR3snM1cJtGi0",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 160
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "41/ND/10/2 Nagla Deem, Opposite Taj hotel & Convention Center, behind of Mughal Museum, Agra, Uttar Pradesh 282006, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1649096,
+                    "lng": 78.0598243
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16625377989272,
+                        "lng": 78.06121327989273
+                    },
+                    "southwest": {
+                        "lat": 27.16355412010728,
+                        "lng": 78.05851362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "b77ea17ad175872e149c847c0c837ab02e13b478",
+            "name": "Tree House Homestay",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3712,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110718187986966367531\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQzaVVVlwQ_rARoRKG9DnFvABIsVCFgzSjgmsVNvkjuCwO8d3GhmBjpB3r-2qryTOH1pHMtftyrGSUS7qyx5jYQIpzu6mh3-j-mzLwVWRbB5kdIkhX8eAAwGdbFlwssy4EhCZ_WGdyVwoTvgyp1YYmgE5GhR_A8YC2MwoweUFdixcYUtPyPAKGQ",
+                    "width": 5568
+                }
+            ],
+            "place_id": "ChIJx9-EsBpxdDkR4155eBf18Bk",
+            "plus_code": {
+                "compound_code": "5375+XW Agra, Uttar Pradesh",
+                "global_code": "7JVW5375+XW"
+            },
+            "rating": 5,
+            "reference": "ChIJx9-EsBpxdDkR4155eBf18Bk",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tajmahal, Bhanumati Rd, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1690457,
+                    "lng": 78.0429365
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17036477989272,
+                        "lng": 78.04427472989272
+                    },
+                    "southwest": {
+                        "lat": 27.16766512010727,
+                        "lng": 78.04157507010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "73147dc07389384cb4ade02c20737e651f4723e9",
+            "name": "Shanti Lodge",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3104,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112142323238383951868\">Riaz Hossain</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAO48DMQsRYhebNQb-3JnWQXaNTWyFeqsZuppI1fB5lY08IBfASQfjE7IUWdv__-yFIk_1NVp9X-tWdIIclde4AKRsAAdTTNv8-v8jACRfqzEhmmrr2DFEEUhKr9_Fkr9-EhCzWTGRGV1h4XsLt4d1ATjbGhQsu0Bw9q_mdcKiW2VfTvC7K32tvA",
+                    "width": 4192
+                }
+            ],
+            "place_id": "ChIJs3ivmRhxdDkRb2Lz4O17tmQ",
+            "plus_code": {
+                "compound_code": "529V+J5 Agra, Uttar Pradesh",
+                "global_code": "7JVW529V+J5"
+            },
+            "rating": 3,
+            "reference": "ChIJs3ivmRhxdDkRb2Lz4O17tmQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 93
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "377, Mahatma Gandhi Rd, Near Canara Bank, Sadar Bazar, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1584454,
+                    "lng": 78.00864279999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15981702989273,
+                        "lng": 78.00974392989271
+                    },
+                    "southwest": {
+                        "lat": 27.15711737010728,
+                        "lng": 78.00704427010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "a96d4ff452afc35595c4077568ee556ab4db8e49",
+            "name": "Hotel Vanshika Palace - Budget Hotel Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 450,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102698260697218736086\">Hotel Vanshika Palace - Budget Hotel Agra</a>"
+                    ],
+                    "photo_reference": "CmRaAAAADAoUX8sh_zwHecyPy8YDIidcBBmsoJPlNRC1OKdHNJlyh00D7QxIyw0FGiBPCktgz6ScJG3fZ1z9WOcXSKJ_MdfZe3d8uiQgOwGmEnffq4_hgjXGnecu5gvleX8xQ9tYEhCHNWhHXjtDmZ6YiNlJPIEaGhQJDghWHDRvGaJFLMzJVJwCDp358w",
+                    "width": 500
+                }
+            ],
+            "place_id": "ChIJoQneV852dDkRnBDWgFf1uXc",
+            "plus_code": {
+                "compound_code": "5255+9F Agra, Uttar Pradesh",
+                "global_code": "7JVW5255+9F"
+            },
+            "rating": 3.8,
+            "reference": "ChIJoQneV852dDkRnBDWgFf1uXc",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 264
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No, 294, Mall Rd, Sultan Pura, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1578189,
+                    "lng": 77.9943603
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15916437989272,
+                        "lng": 77.99573962989271
+                    },
+                    "southwest": {
+                        "lat": 27.15646472010727,
+                        "lng": 77.99303997010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "a09994fc8bee714f310711cf2e0c5322b3309a3f",
+            "name": "Hotel Vishal",
+            "photos": [
+                {
+                    "height": 3474,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103265433816936867329\">Muhammad ibrahim</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYj3hQHP1E4RO6qfIYcLefs5xjONwPKBW8-ce8JtBxCfr_rhdmluzAp7l7Lgo6ab5La43ZGkLMIoaNjBt8SsNCcDqgxOFbVmTtIxU8qe46FhxgtjbOP6_OPGmgU7Eh1lmEhCO_1iY3vWUFrqnmrvM4lPlGhQ9dkKG22fpkJPFmamkh1Al7hLZUQ",
+                    "width": 4632
+                }
+            ],
+            "place_id": "ChIJ94B60eh2dDkR4Nwj8NtFuFg",
+            "plus_code": {
+                "compound_code": "5X5V+4P Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVV5X5V+4P"
+            },
+            "rating": 3,
+            "reference": "ChIJ94B60eh2dDkR4Nwj8NtFuFg",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 265
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mmig 49, tajnagri, phase 1 TAJMAL EASTERN GATE ROAD, near Shilpgram, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1641944,
+                    "lng": 78.05380559999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16552842989272,
+                        "lng": 78.05519142989272
+                    },
+                    "southwest": {
+                        "lat": 27.16282877010728,
+                        "lng": 78.05249177010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "687b058b6c9870c0f0677afa44e151465a4a1334",
+            "name": "OM Home Stay",
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101969255690048769625\">Gordon Chan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmh_SoJAFY2QPibpqfAAEoTerxrf0NesN04PIteSwKIkFtAn77hcg5Ll5I60f01RzCrIaUhwh-4FR6bOuqVtrapXPeNzYcBJ4K4_BAcC4V8ivmag9SqS_aEolNFLDNnLvEhAvO6sXXJNUHiImOnc_XoXPGhSiPePEJVEaJ64NMIkrZCkFfmZskQ",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJ8_RlOthxdDkRlCGzFRSeXao",
+            "plus_code": {
+                "compound_code": "5373+MG Agra, Uttar Pradesh",
+                "global_code": "7JVW5373+MG"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ8_RlOthxdDkRlCGzFRSeXao",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "P-14 & C-3 Fatehabad Road Opposite Shanti Manglick Hospital Tajganj Taj, Nagari, Phase 1, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1586723,
+                    "lng": 78.0557098
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16001212989272,
+                        "lng": 78.05700237989272
+                    },
+                    "southwest": {
+                        "lat": 27.15731247010728,
+                        "lng": 78.05430272010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "adca82d9e5178cf3f4e5c6c506619484f7f93582",
+            "name": "FabHotel Alpine - 100% Safe Place to Stay",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1333,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112479502550154787094\">Hotel Alpine</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA8qf1vq8vM7bXjN6W_oFDG-3PDnBb7zbFErnXD6CcJ7Fo3ns_ikhIVma6QpP9CrY5F6VyJYF6FIB8ofH5rg-NjO0MJ0tYGzXxLVSNsaq3yrux4DULOMFXNg-jYd_N7p7bEhBm8U_pDd6JymtsmUD5zkEgGhSlV9vsA3-zbrdy3fXG8ZoM8xysTg",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJUffaiihxdDkR5a0MvhQdk4w",
+            "plus_code": {
+                "compound_code": "5354+F7 Agra, Uttar Pradesh",
+                "global_code": "7JVW5354+F7"
+            },
+            "rating": 2.7,
+            "reference": "ChIJUffaiihxdDkR5a0MvhQdk4w",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 166
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Hauman mandir ke samne near arya samaj mandir cantt road namnair agra, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.16514,
+                    "lng": 78.004893
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16646467989272,
+                        "lng": 78.00621482989271
+                    },
+                    "southwest": {
+                        "lat": 27.16376502010728,
+                        "lng": 78.00351517010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "c4b6c41264cc4069bb64d3ca512142807832ca2d",
+            "name": "Saurabh Gaurav Paying Guest House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108857677335951210922\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJXQmrm5okIkUJVfRgiLjVBF15d2fGmv8JH5utHk3gFVCXB-d8oeM81oyRhmqEIDbm4D4IqMM6dZvP7iHl43Q07eUvRs8eIg0QE9HPxdG_zVsXH9t9TGZrtG3KzwF1_dhEhBRUKRQrjAu3s7n3100SveZGhQH3naw768ASnZ9668vlm3DxYIhsQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJr9x2rtt2dDkRJ-OwGVXVzJE",
+            "plus_code": {
+                "compound_code": "5283+3X Agra, Uttar Pradesh",
+                "global_code": "7JVW5283+3X"
+            },
+            "rating": 3,
+            "reference": "ChIJr9x2rtt2dDkRJ-OwGVXVzJE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 68
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "30/48A, Chhipitola Rd, Munda para, Rakabganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.172108,
+                    "lng": 78.011386
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17340687989272,
+                        "lng": 78.01278407989274
+                    },
+                    "southwest": {
+                        "lat": 27.17070722010727,
+                        "lng": 78.01008442010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "6bad92e8d4ee53a2f4dd3a8c8ba454c5f14d3e08",
+            "name": "Hotel D.C.Vilas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115485417106612945951\">Nilav Adhikari</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAv5JgoXHVObxQDsmY7S6ejchGwgyXLzifxZA0xajfHl_6bvOzL7ivgfXdEPY0-r1jvvPZlQmwoUuNaObkZbx_WvMnRA64VM8vlKdnCZFb0HH8zqiQ_2V9EWSkAGb7-sOxEhCK9Qx8ZviewGw1uQ_b6ChhGhTw3KUiz65XbNcqfN9GZj-EhGfqFA",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJhcVvSdZ2dDkRzvFzIvvAVoo",
+            "plus_code": {
+                "compound_code": "52C6+RH Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52C6+RH"
+            },
+            "rating": 3.5,
+            "reference": "ChIJhcVvSdZ2dDkRzvFzIvvAVoo",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 362
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sector 3, Central Park Rd, near Central Bank, Avas Vikas Colony, Lohamandi, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1948647,
+                    "lng": 77.9665655
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19618307989272,
+                        "lng": 77.96791347989273
+                    },
+                    "southwest": {
+                        "lat": 27.19348342010728,
+                        "lng": 77.96521382010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "802056c8276d7888b3b37f13a8516879de694102",
+            "name": "OYO 13125 Hotel Gwal Palace",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109562901314868009554\">gurmeet singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACo-a4ZJ5sCriRcPxDUF1Qa7Kx1ySFGw_974koWQLCxvzkjzE1MSA1BQ-nJ-p1w5jS1NMQoHFrY6FOxIqs4h0tSL2bT7eC962mN4kxoNRgv9hzoNQToXUGotcFkMn8fPEEhCjEc21lgo3hWcSNw3bpiGEGhTg8aq8dlVN0hc-Wc2eycpTTGR0og",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJq4NLMZh3dDkRs_n41GrOLQw",
+            "plus_code": {
+                "compound_code": "5XV8+WJ Lohamandi, Agra, Uttar Pradesh",
+                "global_code": "7JVV5XV8+WJ"
+            },
+            "rating": 3.4,
+            "reference": "ChIJq4NLMZh3dDkRs_n41GrOLQw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 604
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Nh-39 Near Railway station, Purani Idgah Colony, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1664026,
+                    "lng": 78.00000109999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16772792989272,
+                        "lng": 78.0013587298927
+                    },
+                    "southwest": {
+                        "lat": 27.16502827010728,
+                        "lng": 77.99865907010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "3db281cb26c8298d78e99eca202a5da23a99cabe",
+            "name": "OYO 19029 Riya Palace",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108044764062485710432\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAqT018Il2vdOrgNuEivEWlTcjPpsO8RsnmBhipNjvyckxWvWTiG0-29GZcd19-kDzMpexD_6xhlGznUCkpGVGmUjskSTpYZTIB9z_f0xg_VBchl-QP5yCJ_D7NP80GYrAEhBFiwb8GFobhvcweJywHyV4GhTUy1xBbUgtMN8a6Yu1upqhUwWTYQ",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJnRyf3N12dDkR9air_-i3UPw",
+            "plus_code": {
+                "compound_code": "5282+H2 Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVW5282+H2"
+            },
+            "rating": 3.3,
+            "reference": "ChIJnRyf3N12dDkR9air_-i3UPw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 366
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "MG Tower, 1st Floor, Fatehabad Rd, Bagichi, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1621945,
+                    "lng": 78.0371084
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16354042989272,
+                        "lng": 78.03845637989272
+                    },
+                    "southwest": {
+                        "lat": 27.16084077010727,
+                        "lng": 78.03575672010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "f24d21d4a7441168ab53e92528362069a94b9caa",
+            "name": "Hotel Deluxe Inn",
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107382507176881646574\">Hotel Delux Inn</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAc_2F9z453xQXkvTztHDrUB3QEP111qQaZGlErErJmD3lHpW1n9SacipSLFprUUWWdVAlB5OpMHPjNVyCypA6be9hRFYFVBI6FlBLltYufYevkrWII2PQVl454e_5s_PUEhCK54MF460B2jJ6DshqlC58GhSz84e4ZFaUNg-7m1hwhdOQyTtJEw",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJB-BF3GhxdDkRFpOwLMFhvco",
+            "plus_code": {
+                "compound_code": "526P+VR Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW526P+VR"
+            },
+            "rating": 3.5,
+            "reference": "ChIJB-BF3GhxdDkRFpOwLMFhvco",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 747
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "A 165 TAJ NAGRI PHASE II NEAR SAPA KARALAY, Fatehabad Rd, BEHIND LAWANIYA HOSPITAL, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.154289,
+                    "lng": 78.049384
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15562862989272,
+                        "lng": 78.05064877989271
+                    },
+                    "southwest": {
+                        "lat": 27.15292897010728,
+                        "lng": 78.04794912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "3f396ea1433c754ba86cffcab26d600cec51bf51",
+            "name": "Hotel Banshi Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2565,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118322487350463848468\">Hotel banshi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAsODtqXuTPvMItfFA9vvhIfTFdzA6eRfw4bE6YpuGSJzl--_wbJw-QSrRpPtaccaaPiqID9NWn_pCiMZv0ErzGKSKKFdlpI6wWotCCS7uLl_M4rXig1pvbm6DNL181lEkEhDgm9PCfPsyU4LFD4Deb0wYGhT3HKQDIfxQdq7ILLuhGWOZ0TuM3A",
+                    "width": 4299
+                }
+            ],
+            "place_id": "ChIJ95fVJqBxdDkRDnqmdBGCzQ4",
+            "plus_code": {
+                "compound_code": "523X+PQ Agra, Uttar Pradesh",
+                "global_code": "7JVW523X+PQ"
+            },
+            "rating": 3.2,
+            "reference": "ChIJ95fVJqBxdDkRDnqmdBGCzQ4",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 188
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Viren 7B, Sector1, Vibhav Nagar, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1583169,
+                    "lng": 78.03496299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15966392989272,
+                        "lng": 78.03625577989271
+                    },
+                    "southwest": {
+                        "lat": 27.15696427010728,
+                        "lng": 78.03355612010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "940d4333b37c145709d95ee988b45aef615782c3",
+            "name": "SPOT ON 66679 Hotel Viren Pacific",
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108654818243596957198\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-bXhou9lEhsNxKO6IjtpRCieuiHE0xtSBiGmo8Z7XRmOl7jlshz71KgwtDm7CTbuD3hlea3X2VgD_eCAzVp-MalVcvpwYAW6ON03SJi3enbSDEaplWsh2f6iMH1cD3iFEhAyyqTtJE8dIH5GA0JU0XtjGhRZ0d4WzE7pIdjBLba8LEv2tia5Bg",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJS_ZD3ztxdDkRS5_7rmPyJ78",
+            "plus_code": {
+                "compound_code": "525M+8X Agra, Uttar Pradesh",
+                "global_code": "7JVW525M+8X"
+            },
+            "rating": 2.7,
+            "reference": "ChIJS_ZD3ztxdDkRS5_7rmPyJ78",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 106
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Delhi Gate Near Raja ki Mandi Railway Station, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1953088,
+                    "lng": 77.9979508
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19667252989272,
+                        "lng": 77.99921297989272
+                    },
+                    "southwest": {
+                        "lat": 27.19397287010728,
+                        "lng": 77.99651332010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "c2950658530032810d12a98016ec07c24660fe12",
+            "name": "Rahi Tourist Bungalow",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105966317729832979168\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-Ji8oNLW688wARZDLFs-vwerw7rIr3W4l6cp_ArvzgAUclYA9Im0iMlkBF_xvBnwYU3uDpMbXqc8ZQggXMpxzZqo1cLEmfiQ9bD5XnpPWFpFoLVBXhilRPbU-IYYlZUEEhDF303Rmo8fMRHY9qlR9jLlGhSGETfTmxt62yl_Og8Tci-JLwyJEA",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ4eHgT8qmmzkRTgqUmAw8ofc",
+            "plus_code": {
+                "compound_code": "5XWX+45 Agra, Uttar Pradesh",
+                "global_code": "7JVV5XWX+45"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ4eHgT8qmmzkRTgqUmAw8ofc",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 148
+        }
+    ],
+    "status": "OK"
+}

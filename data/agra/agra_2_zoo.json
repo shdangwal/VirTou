@@ -1,0 +1,974 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CqQDlQEAAOgq_QiY0MwITqwYSwdZECeKNJWLKBlu4S1WrUnGYf6WuEwda24YxD-cbjqnXfUvLdWLNmyLI4qxcXD8R-cPk18bmktHjnn6hJ3nl6kyHg--rjnWehp2B1UQ1sZ-bkiIf5rmVMlLxda7WdmpBBJx2qLCINWTsVFQ5LUpuWBaZ-WZMl5d-cwffAtucJ0ScYEG46GbowqSxIXm9FyVvJm4dyYECTEINxF5b9s4-ib8g5zq2Q347KqFF0LpCt7Pb9tNhpVt97Hw6dt9gdqYRgL_14Oa9X5cc_03gXQJytVfzeQYolDOQp2KeXYAz998mGg05OBmkOlCWca2Juz3grMd4ol9yVvbAt-lJ5bDgjX1wahUmBawH1B7Yy-3ze0ogvHJ6lRPqaHcfQLpC2oLBPj5uvVwJ-mqrbe_8ACJ5BDu_802QhpTg0X0tYTeFfQeT57FKQ6QaSmW1DPCTFmKBQHDtn4SmdRd_ZbApK6HA6Nia9-CGcUNvVnkCyOILewEitq-HrGA1GykyS_fjb3VSQ-aBGZaZbCJzV0u9U0Kf3qRTzgrEhCl76YXWdyCL42pHfw4-b4IGhSbBc5fC-183FoAswqgKDMeeUnylg",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mathura Rd, Pragati Maidan, New Delhi, Delhi 110003, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6067403,
+                    "lng": 77.2454035
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.60820112989272,
+                        "lng": 77.24665242989272
+                    },
+                    "southwest": {
+                        "lat": 28.60550147010728,
+                        "lng": 77.24395277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1e909884bcb981698f427fa162fd0f357c7b35c8",
+            "name": "National Zoological Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3265,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113339805758512912616\">Hridayesh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2Rq3n5FzguMbAWbY7myPtxJO83djqgussIjC5V67sUiYo4TXkdR8ZiLNvLVWhp4vYWSn2yblgG5KDVDy4cps83fYqfKjkdDQAZQRcKglA0e2V6-NH_WRyGTQz4nn4yCBEhBhrYE9Csik5Dmz3ECUrb2PGhRQRQe5tAOlOXpfQqhdlW_dJiYNew",
+                    "width": 4898
+                }
+            ],
+            "place_id": "ChIJudsnoBjjDDkRSARYWWscKvE",
+            "plus_code": {
+                "compound_code": "J64W+M5 New Delhi, Delhi",
+                "global_code": "7JWVJ64W+M5"
+            },
+            "rating": 4.1,
+            "reference": "ChIJudsnoBjjDDkRSARYWWscKvE",
+            "types": [
+                "zoo",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30561
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "2/220, Cantt Rd, Namner, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.165238,
+                    "lng": 78.00466899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16659437989272,
+                        "lng": 78.00600102989272
+                    },
+                    "southwest": {
+                        "lat": 27.16389472010728,
+                        "lng": 78.00330137010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "54046d6d0afc9e98ab947ffcc2506619b2198a4b",
+            "name": "Lokesh Fish Aquarium",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116897762877230821329\">Prince Agarwal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAGCqBta6wrh8mCpZCpOfiCZAtcYdY3T9wAIrAcR-n19Gbxbl4k8tN230RehWVCtZGTCysaufOfh0zI2kfoinv9Vqz64OrZh-czUx8H_7tryFPkjA8xfTQ6kNh-ORuxEjgEhCqYBmKiWyslHQGNldMBfvkGhSClaDDVUlyi844n0bAKhKWqHDuSw",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJy1VRM9p2dDkRKAz0E7Nj7FY",
+            "plus_code": {
+                "compound_code": "5283+3V Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVW5283+3V"
+            },
+            "rating": 3.6,
+            "reference": "ChIJy1VRM9p2dDkRKAz0E7Nj7FY",
+            "types": [
+                "aquarium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 51
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Road, opp. to Civil Hospital, River Bank Colony, Narhi, Qaisar Bagh, Lucknow, Uttar Pradesh 226001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8453912,
+                    "lng": 80.9516991
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.84670172989272,
+                        "lng": 80.95304882989271
+                    },
+                    "southwest": {
+                        "lat": 26.84400207010728,
+                        "lng": 80.95034917010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "aa08d8fe7c4e19d5d786c8e06e7c7a4893f5ac29",
+            "name": "Nawab Wajid Ali Shah Zoological Garden",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103873194413762595126\">Ankit Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtY9VbIWJB2m2NiS3M4seWtKm7tN66lfp2jRizBGO-zvpxA37tqx-1z52kC0pKAzGqohhWL89IApbaxhv-R2GfdDNEU0JmrWKqpgh1_w5WMV5UPnHpCbCicah3XvzSNJREhCoKQYOexKy8b92Ie-_nLbFGhTUw0JUeRxI6lx54FVhrK91WfRZvw",
+                    "width": 4496
+                }
+            ],
+            "place_id": "ChIJ2_bFAAX9mzkRaYtPeP6GiYM",
+            "plus_code": {
+                "compound_code": "RXW2+5M Qaisar Bagh, Lucknow, Uttar Pradesh",
+                "global_code": "7MR2RXW2+5M"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ2_bFAAX9mzkRaYtPeP6GiYM",
+            "types": [
+                "zoo",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18108
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Hastings Ave, Azad Nagar, Nawabganj, Kanpur, Uttar Pradesh 208002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.5028694,
+                    "lng": 80.3031232
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.50419817989273,
+                        "lng": 80.30442652989272
+                    },
+                    "southwest": {
+                        "lat": 26.50149852010728,
+                        "lng": 80.30172687010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "21397fc196e32ee45079cb74af77e2a0a4829169",
+            "name": "Kanpur Zoological Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106511316649864596248\">Pranjal Varshney</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxqXMsu0TM4MJDdRIUpSDMwlQmnxo-yPgcEwzCIdcOOZFoP5l0YJrf8RWOHsmbykwVeRMQdueCU9QDmpPaNHd4EYnVxmA07UH_2TgAuGUxbv7U29wqDpM1DHTvGfFzMBdEhBb7qftLmdqTjOZUZca435GGhTpsXpJNouBo0JvS8LGjRxc69I3NA",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ4Wxt3Ug4nDkRuWrrfGKnkKw",
+            "plus_code": {
+                "compound_code": "G833+46 Nawabganj, Kanpur, Uttar Pradesh",
+                "global_code": "7MR2G833+46"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ4Wxt3Ug4nDkRuWrrfGKnkKw",
+            "types": [
+                "zoo",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12165
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Museum Rd, Ram Niwas Garden, Kailash Puri, Ramniwas Bagh, Jaipur, Rajasthan 302004, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9123097,
+                    "lng": 75.8211759
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91310972989272,
+                        "lng": 75.82241707989272
+                    },
+                    "southwest": {
+                        "lat": 26.91041007010728,
+                        "lng": 75.81971742010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c25b2273ef4c50430f78becf4da9bf2dbdeeb644",
+            "name": "Jaipur Zoo",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 864,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107531723067347424571\">subhendu chakrabarty</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhPHy6mi3cxiTyN9BVDlkhaHxSW5cuZTxeZxA1Ui0rQcVTxZ4M9QyV9t4HxyYbAkrCe8X6X9zLOUWklge5QYGBJYXffDAtID2d4-YSsXH7UsBKfefg2VFW0qSqeyvjN-QEhCA-cOOEk4nhA111fn3JUUVGhTJ65zUNtIhgaNxFo5KLJvdpkcnEQ",
+                    "width": 1152
+                }
+            ],
+            "place_id": "ChIJlUU0la22bTkRYjOPfx2lY9E",
+            "plus_code": {
+                "compound_code": "WR6C+WF Jaipur, Rajasthan",
+                "global_code": "7JRQWR6C+WF"
+            },
+            "rating": 3.4,
+            "reference": "ChIJlUU0la22bTkRYjOPfx2lY9E",
+            "types": [
+                "zoo",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5525
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "35/123, Namner, Crossing, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1677243,
+                    "lng": 78.00603129999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16905437989272,
+                        "lng": 78.00737392989272
+                    },
+                    "southwest": {
+                        "lat": 27.16635472010728,
+                        "lng": 78.00467427010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "16080ac3771969c8583be1ef7cffad6a779e6029",
+            "name": "Lokesh Fish Aquarium",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105262085130326615792\">sandeep singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASWNU5Wm-74XrNNhx5kzBjn_N_C7rf1s42rz5g6RMLY4AX8rZAUTLdQiW-lqHri9Ri_CmC0_Ai3iJphCg3ZCLWlZAWMyzp4Vjx0YNkUM1Q4yF7eqx2_1JBX9RMG5WflCwEhCoqPE1Z4OsAhvMzooZmxehGhTtzOp8-8lvvO4QWNn2Kem6lJP4-Q",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJLfpthtl2dDkRBxQRVNlSiEg",
+            "plus_code": {
+                "compound_code": "5294+3C Agra, Uttar Pradesh",
+                "global_code": "7JVW5294+3C"
+            },
+            "rating": 3.1,
+            "reference": "ChIJLfpthtl2dDkRBxQRVNlSiEg",
+            "types": [
+                "aquarium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 39
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Pushpa Vihar Colony, Khandari, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2019859,
+                    "lng": 77.99329689999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20365742989272,
+                        "lng": 77.99476632989273
+                    },
+                    "southwest": {
+                        "lat": 27.20095777010728,
+                        "lng": 77.99206667010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "57ea0a73e4ea1ff7f303ff15b9e2f4d5f761a329",
+            "name": "Laki Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108585236356868625252\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFmnm9oGLOUDFOF3Ra3-acxVbPbOtfugjgi7aVdXCiimegKrUt9gc4cFpuKYN-gAUxgKFVkWQA1_i1D90m95_MqdceB6NpL9kcT7hywL92AWqghV_AbfLPyBi2qp-idx9EhB0KD0oTqS6Z_O6D6XZ1M1kGhRZIOZrVRITQgS3-3y4l6erii4-Kg",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJofcmTk53dDkRHoZLLeLorPA",
+            "plus_code": {
+                "compound_code": "6X2V+Q8 Khandari, Agra, Uttar Pradesh",
+                "global_code": "7JVV6X2V+Q8"
+            },
+            "rating": 5,
+            "reference": "ChIJofcmTk53dDkRHoZLLeLorPA",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Etawah - Bhind Bypass Rd, Saraiya village, Etawah, Uttar Pradesh 206001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.7757565,
+                    "lng": 78.9951979
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.77719057989272,
+                        "lng": 78.99669017989272
+                    },
+                    "southwest": {
+                        "lat": 26.77449092010728,
+                        "lng": 78.99399052010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "ce3e03bbebe6e8cafe2c3cc114a923e53d526bfe",
+            "name": "Etawah Safari Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107527321592036395382\">Abhay Chittoriya</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_S7mCDvaRnrUh19fs3nL-DAQROFESXVYPV2eu3xINFLP-3OA17hoo6jiG0_6CK3IUJcB3rgT8VQThYXUewtQCymjY5O9hfpLJB4iFsoaM0C20zHrPPT6S1AfjOaiX0r4EhAhWK9O9B8pLWVw7tFhVP74GhTJB4I4w9QFAJBXjZrki_l8smn7Kw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJCax2EtjfdTkRi8snR7BJH6k",
+            "plus_code": {
+                "compound_code": "QXGW+83 Saraiya village, Etawah, Uttar Pradesh",
+                "global_code": "7JRWQXGW+83"
+            },
+            "rating": 4.1,
+            "reference": "ChIJCax2EtjfdTkRi8snR7BJH6k",
+            "types": [
+                "zoo",
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 576
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dayal Bagh Rd, opposite Old Thana, Chauhan Market, Indra Puri, New Agra Colony, Agra, Uttar Pradesh 282005, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2136703,
+                    "lng": 78.0057312
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21502997989272,
+                        "lng": 78.00704192989272
+                    },
+                    "southwest": {
+                        "lat": 27.21233032010728,
+                        "lng": 78.00434227010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "e44fe7392593c4fe32699543e7491a4b4a00ae79",
+            "name": "Sea Fish Aquariam Birds And Fountain",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112432419618212600049\">rajat kushwah</a>"
+                    ],
+                    "photo_reference": "CmRaAAAABnVO5fzT4FpT2xV1E-YsEjTI8jbjxM7mWXnKcuiDNA7g29dHp03DXUacpJI56I-YtgJCQWRhyY8ynZ-N0LgH-FkQ3FFTC3SPe_8YQeUJoGgMTfIwkdNPqWj6fyfDT2BpEhAqFd6fzFqHW3cmYEf_BqAgGhS5bQjaE1V6MlDWJo1bmlv32jSvWA",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJx6eieFl3dDkRgGMAjG6196M",
+            "plus_code": {
+                "compound_code": "6274+F7 Agra, Uttar Pradesh",
+                "global_code": "7JVW6274+F7"
+            },
+            "rating": 3.5,
+            "reference": "ChIJx6eieFl3dDkRgGMAjG6196M",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 26
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Chikanipura, Uttar Pradesh 283114, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.7701198,
+                    "lng": 78.6465603
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.77178772989273,
+                        "lng": 78.64787347989272
+                    },
+                    "southwest": {
+                        "lat": 26.76908807010728,
+                        "lng": 78.64517382010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "92ddf183360a5060fb1b846c9da6bd0edd2587f7",
+            "name": "Chambal National Sanctuary",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103305934996739967535\">Yash Vardhan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA3kVKbOrTzUO81AOEZ8vJWqelcpY-U5yflj0-48ChbXk7sH9z572ViC264MDCgOOrt5o1Q8eMhLLpeeXjcl8wYYBY2b_idgF20cC_V4VdYZ62TBobSLRAO6qMC0Zm6DI_EhCGHuBofMoMp7KlSfOfYpePGhQGAliYBBxFf1H93EcNrju7C7F3XQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJbT53aS8rdDkRaPqFdPs7tIM",
+            "plus_code": {
+                "compound_code": "QJCW+2J Chikanipura, Uttar Pradesh",
+                "global_code": "7JRWQJCW+2J"
+            },
+            "rating": 4.5,
+            "reference": "ChIJbT53aS8rdDkRaPqFdPs7tIM",
+            "types": [
+                "zoo",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 53
+        },
+        {
+            "formatted_address": "Agra, Uttar Pradesh, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1281484,
+                    "lng": 78.0195387
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.4108,
+                        "lng": 78.8541899
+                    },
+                    "southwest": {
+                        "lat": 26.74426,
+                        "lng": 77.43195
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "c8490cb44f7b90792d63d6ac5cd149eca7bcd19f",
+            "name": "Agra",
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111609964857742664622\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAArkr8IDMpVBlsKjHsA34U_5D0R64yMRW-SzWhAEjURfkxyUUOlQ7MLuVTEOxcTIBAP2Bd8RsivHgryomzA73a7YXU951EMzz4IAtiSfjs8t1mCkUG2hHEhV5jI518KqvjEhAP_tgOu-Euu00mRTdU0WqHGhTqB50YJnkVeUox9Pas8EqXj3p81w",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ7xNGlCh3dDkR8Cm159xP_fw",
+            "reference": "ChIJ7xNGlCh3dDkR8Cm159xP_fw",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "54, Nehru Nagar, Civil Lines, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2068374,
+                    "lng": 78.0050869
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20831207989272,
+                        "lng": 78.00638367989272
+                    },
+                    "southwest": {
+                        "lat": 27.20561242010727,
+                        "lng": 78.00368402010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "58ac656d0e8486ecc13bfbdab752534e44f1bfa2",
+            "name": "People For Animals Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102487538727430869324\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA7uG2lp6H0OyuhspLsd8olJmmL76HcHtUsaizp99W8WMsfiz6VTocuPyBrh5a9rkkbjWMmm3TL06WnQFsqb45KshJPZEsbYvwdeaoiA_J-CB8uuVYBAHCc3lhZMG10EvVEhDgpP00YHFP1LJ9c7cN-zNYGhQSVqmnp11XFLdh5Wj47yHGzJ5uVg",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJWcaR--p5dDkRk7IFsmyAJks",
+            "plus_code": {
+                "compound_code": "6244+P2 Civil Lines, Agra, Uttar Pradesh",
+                "global_code": "7JVW6244+P2"
+            },
+            "rating": 4.2,
+            "reference": "ChIJWcaR--p5dDkRk7IFsmyAJks",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 75
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Chikanipura, Uttar Pradesh 283114, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.769437,
+                    "lng": 78.6483875
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.77121527989272,
+                        "lng": 78.65000427989271
+                    },
+                    "southwest": {
+                        "lat": 26.76851562010728,
+                        "lng": 78.64730462010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "de74ee1dda4b75f6026a5aed021024474b069283",
+            "name": "National Chambal Sanctuary",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100430675572653040284\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAjczkZ5O1MqIiabrjMmPODXI3BRqQkkHSHER16IUHXsi1AGvtaRHIuTWJzY_ySCxD9M2pgBhmXt3f3Mce56pfJek8yYkcbRwkE5p20Py2zVAsCK0THSOqIXIATQQ_-SSnEhAIERhzoYFOy-VJjekACKigGhRr14XEU-KSzndjw_so6XAYxn9tqQ",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJwT0t6BR0djkRGjA5OLzGtPM",
+            "plus_code": {
+                "compound_code": "QJ9X+Q9 Chikanipura, Uttar Pradesh",
+                "global_code": "7JRWQJ9X+Q9"
+            },
+            "rating": 3.7,
+            "reference": "ChIJwT0t6BR0djkRGjA5OLzGtPM",
+            "types": [
+                "zoo",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bhongoan - Mainpuri - Shikohabad Rd, Shikohabad, Uttar Pradesh 283135, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1143702,
+                    "lng": 78.6045405
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.11552567989272,
+                        "lng": 78.60598472989271
+                    },
+                    "southwest": {
+                        "lat": 27.11282602010728,
+                        "lng": 78.60328507010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "77e41772bc69a94320d7d77b51b1fffa90f8c165",
+            "name": "Jai Maa Durge Mela Maveshian Shikohabad",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112527217115258620505\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA76UMbZSE5UvSMO6bJfXCbtoHypQjCElXSz_2NwWQs6gHbfskhHiPp7Nc2H8EFVs10SrMixLh-2ZrGFoUJ4fqGgdJNIl62u93EK0VmFTHf-kJnP9jRi72xVh9QAoCAJJrEhCpUdK91NnJqlEedNjoHvSxGhQu2MwLEIrHNGjOn18cccE7DIz5-w",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJga80RVlKdDkRHelp_jz3q38",
+            "plus_code": {
+                "compound_code": "4J73+PR Shikohabad, Uttar Pradesh",
+                "global_code": "7JVW4J73+PR"
+            },
+            "rating": 3.9,
+            "reference": "ChIJga80RVlKdDkRHelp_jz3q38",
+            "types": [
+                "zoo",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "NH2, near Sachdeva Institute of Technology Churmura Ghari, Mathura, Uttar Pradesh 281122, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2997315,
+                    "lng": 77.7939189
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.3010975,
+                        "lng": 77.7969825
+                    },
+                    "southwest": {
+                        "lat": 27.2956335,
+                        "lng": 77.7928977
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ccb6114deb6b15a00b72ace04ed6fea1711059a5",
+            "name": "Wildlife SOS - Elephant Conservation and Care Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107804524094421446746\">Ramesh Tenkil</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVAdSm_YMArbYcCDpwzuOCsh7QoUL2zzwIh1tjizCshrdrhABWXlxyUUdqnz9Ro3sAA3XarBx7xPt-wc3qCDzTUAXYqXXneCfgQNBjwpzD2wowmppRXImD4n2dk7diI0oEhBYQ0bmtjj4rFShwieUYnGRGhTUl3RuT0Pabi7h1_DbwADLMMq8wA",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJSZPlGiRxdDkRDH7PnCFIMsI",
+            "plus_code": {
+                "compound_code": "7QXV+VH Churmura, Uttar Pradesh",
+                "global_code": "7JVV7QXV+VH"
+            },
+            "rating": 4.7,
+            "reference": "ChIJSZPlGiRxdDkRDH7PnCFIMsI",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 297
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Chattbir Zoo Rd, Chhat, Punjab 140603, India",
+            "geometry": {
+                "location": {
+                    "lat": 30.603913,
+                    "lng": 76.792463
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.60526282989272,
+                        "lng": 76.79381282989272
+                    },
+                    "southwest": {
+                        "lat": 30.60256317010728,
+                        "lng": 76.79111317010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "53f8e3f3e9c925908d8a010455bbf29fd0d4f4cb",
+            "name": "M.C. Zoological Park, Chhat Bir Zoo, Zirakpur",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 516,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116528015182844970677\">Bhupender Thakur</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAEXoHXok4IaRxKZUltbaKLgRkYxNkeiiuyT84fEPeBVnyFqlUMyu-zuRwPiQLbHvxfKI3nU-HBiYxfYGLXtM0gqT3JMIH2IovzDfPN7pODTHzHQFxJ5tNXiGhw0yRR3LiEhDvNPg9_tm0S2tmCG60uxCvGhRaoFCpC44HcUSrtpEumXd3oTdgfQ",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJhVbLTuvqDzkRChs1yTkOFXU",
+            "plus_code": {
+                "compound_code": "JQ3R+HX Chhat, Punjab",
+                "global_code": "8J2RJQ3R+HX"
+            },
+            "rating": 4.4,
+            "reference": "ChIJhVbLTuvqDzkRChs1yTkOFXU",
+            "types": [
+                "zoo",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13549
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cricket Ground, SH 7, Opp. International, Chatra Vilas Garden, Nayapura, Kota, Rajasthan 324001, India",
+            "geometry": {
+                "location": {
+                    "lat": 25.1886903,
+                    "lng": 75.85520819999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.18998347989272,
+                        "lng": 75.85644747989271
+                    },
+                    "southwest": {
+                        "lat": 25.18728382010728,
+                        "lng": 75.85374782010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "bcdb5a2fd03ad42ce4fc97f706623c9c53dff197",
+            "name": "Kota Zoological Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101580063393478368362\">Yatin Saini</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAGcGnZst7_4u3vuTxU_3Rqcs-PkXeszVl9SO0U9HbiH9tZzXanDicLHggLxsrHgPqtwja-PninlIzj2_qw-HOVAybqmrHC93-nFdkueDbfDBk_no4de4tp1mUzgY_KZZFEhAgRh2KKzcbqCN5ArNL760XGhR1OV2RXobu_yAB8IDOBC3R9mTUEg",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJyUnKw9-abzkRViwkqQU2aUw",
+            "plus_code": {
+                "compound_code": "5VQ4+F3 Nayapura, Kota, Rajasthan",
+                "global_code": "7JQQ5VQ4+F3"
+            },
+            "rating": 3.6,
+            "reference": "ChIJyUnKw9-abzkRViwkqQU2aUw",
+            "types": [
+                "zoo",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1932
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "No.1 hotel ajay international, Daresi, Sita Ram Colony, Pipal Mandi, Mantola, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.183497,
+                    "lng": 78.01768299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18479212989272,
+                        "lng": 78.01908487989272
+                    },
+                    "southwest": {
+                        "lat": 27.18209247010727,
+                        "lng": 78.01638522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5a187f628e9a83b80916543160ea7e686d7c7c4a",
+            "name": "AGRA SIGHTSEEING",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102025407131325372298\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAf7jg6ZSRaJ_IReh0j5_8k2eA0_MXya0hjasCRsMAwwJqQLwm-_tBFMLLfuAdZX0jLLX1sTC-4W20FpiMi86o0x2yX4TKv28XkVJvnMBf9iOY2-_8dAd786a6PaHddEc3EhCh15JnuRLOwGvHKrNDe_wrGhSruQK3i_4kUDumlWjjdK3b98me-Q",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJR7DUIi13dDkRExiqEvXBQkk",
+            "plus_code": {
+                "compound_code": "52M9+93 Mantola, Agra, Uttar Pradesh",
+                "global_code": "7JVW52M9+93"
+            },
+            "rating": 2,
+            "reference": "ChIJR7DUIi13dDkRExiqEvXBQkk",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Keoloadev National Park, Keoloadev National Park, Road, Bharatpur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2032472,
+                    "lng": 77.5070224
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20469667989272,
+                        "lng": 77.50826032989272
+                    },
+                    "southwest": {
+                        "lat": 27.20199702010727,
+                        "lng": 77.50556067010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "ba3a96be61d0a20d2cc548868dbfe97677039c4a",
+            "name": "Bharatpur Bird Sanctuary",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3284,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108680386633694981919\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyukSzJDm5NbylyuDLujl3GdiyElQCnl5exMZuwORgoCmOuo4NlIVwJ3i9W-zxLEwLzBBGTj_BxcS-j0_IcvtO8f3qFMjxROYhNfcPKLHxLLdlDj_ZeJpsvPMQUBqzuyzEhBQpOjr-E8kBOw8FKMWhkw0GhQD93dztdj9Rx7wizdTsbCkOalvtw",
+                    "width": 5090
+                }
+            ],
+            "place_id": "ChIJ1ddFaBajczkREZeTbo78YTA",
+            "plus_code": {
+                "compound_code": "6G34+7R Bharatpur, Rajasthan",
+                "global_code": "7JVV6G34+7R"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ1ddFaBajczkREZeTbo78YTA",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4902
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1076/2, Fatehabad Rd, Opposite Hotel ITC Mughal, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1596124,
+                    "lng": 78.0430706
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16105077989272,
+                        "lng": 78.04448147989271
+                    },
+                    "southwest": {
+                        "lat": 27.15835112010728,
+                        "lng": 78.04178182010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "4247e1a198adf82903d0eaec41c6791da2ba5c49",
+            "name": "Hotel Samovar",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 424,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103436380705327331172\">Chit Swe</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkZz3azJdEo5UPOeruZ7Ym2sVa229PpbBIzuYKVkx0fenLCoxHtK1ul3iimjNunjzFkbLpuZW5uWknVooWOJcofDttwgTgK_Xw489y2nQEKvegdtF2smRMVqtUwsFtZKeEhBELLZYoKNA8Z9vyQRIZYenGhQti7vB729tn5Sx24ykED4lx5mxtg",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJdxJhDhZxdDkR23DK1rVHJ6s",
+            "plus_code": {
+                "compound_code": "525V+R6 Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW525V+R6"
+            },
+            "rating": 3.6,
+            "reference": "ChIJdxJhDhZxdDkR23DK1rVHJ6s",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 360
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,126 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nandan Apartment, C-72(B), Sarojini Marg, C-Scheme, Panch Batti, Ashok, Nagar, Ja, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.909757,
+                    "lng": 75.807537
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91118392989272,
+                        "lng": 75.80876537989272
+                    },
+                    "southwest": {
+                        "lat": 26.90848427010728,
+                        "lng": 75.80606572010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "1de1efbd4286f4f9835729163cd0be07a58286ee",
+            "name": "Indo- Cosm\u00e9tique et Trichologie",
+            "permanently_closed": true,
+            "place_id": "ChIJ8X0XGKi2bTkR_4KxFDXEgzM",
+            "plus_code": {
+                "compound_code": "WR55+W2 Jaipur, Rajasthan",
+                "global_code": "7JRQWR55+W2"
+            },
+            "rating": 5,
+            "reference": "ChIJ8X0XGKi2bTkR_4KxFDXEgzM",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shop No 3105, Bagrun Walo ka Rastha, Last Crossing, Chand Poll, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.917892,
+                    "lng": 75.801538
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91925832989272,
+                        "lng": 75.8028958298927
+                    },
+                    "southwest": {
+                        "lat": 26.91655867010728,
+                        "lng": 75.80019617010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "cd427251f33ac2fec33683ea91de0da7d5accdd7",
+            "name": "Bajranj Bali Asscoits",
+            "permanently_closed": true,
+            "place_id": "ChIJ7fboyQC0bTkRf6A85ZwApdo",
+            "rating": 0,
+            "reference": "ChIJ7fboyQC0bTkRf6A85ZwApdo",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2/526, Malviya Nagar Rd, Sector 2, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.84779,
+                    "lng": 75.82053119999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.84917047989273,
+                        "lng": 75.82191192989272
+                    },
+                    "southwest": {
+                        "lat": 26.84647082010728,
+                        "lng": 75.81921227010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d2c58fef6aef2c0dd296e560f891f168db92bfe7",
+            "name": "Satguru Sai Foundation",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113812755519254738101\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYN1JY-sRYO-AlqC_fhUxIXdgafPoL-glhSbn8og1yeGoSGNmo9YfchaE5xo3O93C25wpxF6JqipU-KZBWpwVYwkgCDaPMgX4kgW5sHRldk4aXEYSGS-ttHvpqgiC2z_sEhCXEcctVa1p-fqC-nk7rnGvGhSSqIzsM2r5tixim1NF6TvobdlzNA",
+                    "width": 4512
+                }
+            ],
+            "place_id": "ChIJ0-A5Wg22bTkRh6Hj7a9XYPw",
+            "plus_code": {
+                "compound_code": "RRXC+46 Jaipur, Rajasthan",
+                "global_code": "7JRQRRXC+46"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ0-A5Wg22bTkRh6Hj7a9XYPw",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        }
+    ],
+    "status": "OK"
+}

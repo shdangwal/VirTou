@@ -1,0 +1,917 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCCgEAAPOh3ZlVNBSQxcGoYJSqiStQjarpZqoGD2Z7eCl9IAIAuaxGEXU4HDSDPTbY1mlIumpspBr9ofsoLJzpZYLuOF9dTOcOVRJBTMHmqrrTL3adHbznV6OWglEGm82w60souKkBQGUZ7r_ERPGfaKtGeYaiYeKG1Eh2YMw7qOirh8nDVqimTPv9WY-LdEkm25qTV8YiTOHdS1rTggbhPuEEcsQvC47AMav3qWjtaz4TmH5BBWepDyeFIrbLhFo3La1RCjJ5QpBFRYvcyQVqELDB3jK9crTzAnKB9pQgaly4A0thXNTgvqEtSvcN_mSr6M8cSQEsZM_oiM5y16Uf9zWbsF5tuhjk57hR6kWdpwFIK6I5EhDTApHYQEixdUZL8iJkv3TWGhSi3jmSRukyVcn7dcbFFtrXW1iCEQ",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Begumpura, Aurangabad, Maharashtra 431004, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9014599,
+                    "lng": 75.3202216
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90264609999999,
+                        "lng": 75.32135657989271
+                    },
+                    "southwest": {
+                        "lat": 19.89790130000001,
+                        "lng": 75.31865692010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "673b9a096cd114eb7799b51f96048534990e09d7",
+            "name": "Bibi Ka Maqbara",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2848,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103285595762035972757\">Hemant Shesh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANf7ZulWtcAMCKtb9O09-MpLiPbrVITaeSqoVeYEOpf3MbxnSNiKz54psE7XjLcb0d-XvfwzII_644k5T0WKVebsMNztl_4yghgjRlTvYhIEJE4hIYj94gwArjrGWsGs3EhCD08c1Ih3gAV7SmP0LqK6DGhTHqHUZE7b1wnPn1NoG1DBsmjJATQ",
+                    "width": 4288
+                }
+            ],
+            "place_id": "ChIJeZwvBR-Y2zsR-bTNN48wRgg",
+            "plus_code": {
+                "compound_code": "W82C+H3 Aurangabad, Maharashtra",
+                "global_code": "7JFQW82C+H3"
+            },
+            "rating": 4.2,
+            "reference": "ChIJeZwvBR-Y2zsR-bTNN48wRgg",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22592
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Grishneswar temple Road, Aurangabad, Maharashtra 431101, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9172401,
+                    "lng": 75.3118973
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.91858992989273,
+                        "lng": 75.31324712989272
+                    },
+                    "southwest": {
+                        "lat": 19.91589027010728,
+                        "lng": 75.31054747010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "cff8b785d15c383496b1fdc53352dc128b7c295f",
+            "name": "Aurangabad Caves",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109261399327641105759\">Petr</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAaQy6gQx4PM4AiK9vkF0n6tIkzlXb-L7YTtHm49CEOYRFexlV5M4Midi7Eg6DQm70ui0ieRoqZ2VRPSjE9E0l4tM2S8eNHbBSlmtL1_HQNMWtrnePhfTAR_uXW4090RxqEhAzIftMaKg9U8GED74j1h1uGhTJcjElMlnqiIS3E_iVsrL48HoFDQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJWzUoEZKX2zsR2jqcrqrKKZg",
+            "plus_code": {
+                "compound_code": "W886+VQ Aurangabad, Maharashtra",
+                "global_code": "7JFQW886+VQ"
+            },
+            "rating": 4.4,
+            "reference": "ChIJWzUoEZKX2zsR2jqcrqrKKZg",
+            "types": [
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2261
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Central Bus Stand Road, Mhada, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8797045,
+                    "lng": 75.3151286
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88166612989272,
+                        "lng": 75.31658142989272
+                    },
+                    "southwest": {
+                        "lat": 19.87896647010728,
+                        "lng": 75.31388177010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "f1633947d6a8ddb5b4000972bb2acb67423b9fe1",
+            "name": "Siddharth Garden and Zoo",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104447566239514934943\">ritesh mishra</a>"
+                    ],
+                    "photo_reference": "CmRZAAAA4U1ZeppJMVcV34WZLM2iueOTQGq16qZmsz54grXNh8KhNv2A2LxF-biZ0XK_iJ3drCqyxJ4h-fdWylwFSTfhC5SGhJVgkp02EPcA_em52NWWW2Ob3ycU9Vp64LKtVibAEhC1pGF_K3EVdAq4Gw4rq15BGhRR9ghz8jETuDf86HEHq55VboHq3Q",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJS7NX-UCY2zsR90dknaNvEFQ",
+            "plus_code": {
+                "compound_code": "V8H8+V3 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8H8+V3"
+            },
+            "rating": 3.9,
+            "reference": "ChIJS7NX-UCY2zsR90dknaNvEFQ",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9152
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "API Rd, MIDC Industrial Area, Chilkalthana, Aurangabad, Maharashtra 431210, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.877019,
+                    "lng": 75.3712662
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.8794896,
+                        "lng": 75.37403064999998
+                    },
+                    "southwest": {
+                        "lat": 19.8743788,
+                        "lng": 75.37000045
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "99aa52acd13137396cdd5818656990296774c7fd",
+            "name": "Prozone Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114989193486628569316\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA3G8x1yfeHCcyxpw6SJ9K6hJ17m_sQb_mflSEdpQskwce3T3P1xV6G0aP5PGJucR2K436mFOatVAH3GqX_yh8jsydAU1i8ScfAnkPcDRgEKQtElRROkQKV8_ZDVZ0RW88EhApCTISDbbunAQRoFF7K-DrGhQV_OMTv0kH-3Zx0Hk5QPWpen6BkA",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJbfCcQ-6i2zsRN9zbh6ibUBo",
+            "plus_code": {
+                "compound_code": "V9GC+RG Chilkalthana, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9GC+RG"
+            },
+            "rating": 4.3,
+            "reference": "ChIJbfCcQ-6i2zsRN9zbh6ibUBo",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20469
+        },
+        {
+            "formatted_address": "Gulmandi, Shahgunj, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8847144,
+                    "lng": 75.32882819999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.888363,
+                        "lng": 75.3312751
+                    },
+                    "southwest": {
+                        "lat": 19.880484,
+                        "lng": 75.3256789
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "84090a4317b8f531b3aa63ef9771920b0b69223a",
+            "name": "Gulmandi",
+            "photos": [
+                {
+                    "height": 533,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105508893457678576475\">anil karwankar</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAb7CaWW0KZ0xF-zRAZiiFDHNOjoI8bALRfTfOBcfvq6gXPnfLo4llh1e37VYvQ8dZILjdx45VevPfdfPJfNamY7zwWDBhsxJr3feCs4ae27bLql2AWJsxy42yYfzIjODDEhCVjATHfYxiTJNUObfqH7ojGhThGGJWaDKs_td_rxxu8HGOzMzPRw",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJWRrfDBKY2zsR_AUyvroKfqQ",
+            "reference": "ChIJWRrfDBKY2zsR_AUyvroKfqQ",
+            "types": [
+                "sublocality_level_2",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot no- 77, 439, Al-Hilal Colony, Himayat Bagh, Aurangabad, Maharashtra 431004, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8989411,
+                    "lng": 75.3339299
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90015342989272,
+                        "lng": 75.33524487989271
+                    },
+                    "southwest": {
+                        "lat": 19.89745377010728,
+                        "lng": 75.33254522010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "ae03772dad2b0cbca60af96fed59c4937995799c",
+            "name": "Himayat Bagh",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110971814744024559663\">Sachin Ghule</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAy42GHSNDRefqaftjZIm-n8UDs_j3bYX1T1MB3Yt93w9yZoWmeur0PxPt2SLHXQhLg_zMNHOHfTJqmPkFQe7nKWRx7zX79tYzjOw75Ja1i7mJjZw357LZmGABX6Fj0qPdEhDA0G3B2c_FsU5raoEPZNGGGhSLLhNJq4T2XUSBr2xIJaUI3vPc7w",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJLyS2MAKY2zsRLXlHbLZ6gpQ",
+            "plus_code": {
+                "compound_code": "V8XM+HH Himayat Bagh, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8XM+HH"
+            },
+            "rating": 4.3,
+            "reference": "ChIJLyS2MAKY2zsRLXlHbLZ6gpQ",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2962
+        },
+        {
+            "formatted_address": "Aurangabad, Maharashtra, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8761653,
+                    "lng": 75.3433139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.9365799,
+                        "lng": 75.4171408
+                    },
+                    "southwest": {
+                        "lat": 19.8036126,
+                        "lng": 75.1932621
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "dd3034f2246e0d1e6c0d5c763e44516779ab2c0f",
+            "name": "Aurangabad",
+            "photos": [
+                {
+                    "height": 1932,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116398376325674268809\">Suresh Baravaliya</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHRNBFC2nghE1mz7Rs8cz1oEnZus6nmf7jQC9hT1K_4hgLsoX1czwOh5qzsegL5F1jlh6hu6rlxfcv2kMY8-R3XRcXidV7IrtSNQ6C6g7fGXAnsxqTVCXpjJPd6te3oLhEhC9r9Egiz0d5EC8vDAttspTGhRooriO4O4j2KzNogvWrvcS_5dkjw",
+                    "width": 2576
+                }
+            ],
+            "place_id": "ChIJY7xpoxWY2zsRPqeiKYtTLXE",
+            "reference": "ChIJY7xpoxWY2zsRPqeiKYtTLXE",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dr Babasaheb Ambedkar Marathwada University Campus, Aurangabad, Maharashtra 431004, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9064753,
+                    "lng": 75.30438269999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90782512989272,
+                        "lng": 75.30573252989272
+                    },
+                    "southwest": {
+                        "lat": 19.90512547010728,
+                        "lng": 75.30303287010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "91acb933a1a191797fb8ca1e92d2e393eb0b3371",
+            "name": "Goga Baba Hill",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111302398927170069491\">Shubham Gorade</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfVMdFmuoc2Bl2XJw5FFOF_-_rY1amqsgcz7qmYHXQHNWnX-MbstUA_2cstiCsMyhkJlkK8pPbmS9U4zWtsk_yNVVHKE5B6lVfzCQwAXJ_8lOacrlKHtkzJ8iJgHWQGC5EhBxm4_0J3efPI5d5OFgO01JGhSBY4FOFkL-WtmUE5xEmVHeGwbtHA",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJi4Y6qiCY2zsRkagXVJJmSS0",
+            "plus_code": {
+                "compound_code": "W843+HQ Dr Babasaheb Ambedkar Marathwada University Campus, Aurangabad, Maharashtra",
+                "global_code": "7JFQW843+HQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJi4Y6qiCY2zsRkagXVJJmSS0",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1662
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Near Govt. Arts and Science college, Himayat Bagh, Aurangabad, Maharashtra 431004, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8946229,
+                    "lng": 75.3358822
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89574967989272,
+                        "lng": 75.33724067989272
+                    },
+                    "southwest": {
+                        "lat": 19.89305002010728,
+                        "lng": 75.33454102010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "0a67e500b612e748e72170905c2d556bc94aad69",
+            "name": "Chhatrapati Shivaji Maharaj Museum",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103275209347585187922\">Ashitosh Nikhade</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUf1hmipYzTDJDwodjI0wu2jwLf8pv4L9_nYCtoxtbBK2sAJDokkK7O4KQIBm9Im59YYZybyzyx_8vWYvbTDy7AwQOFNS8_lAPXInLHS-zccnwHCOGGzsVEw9-TOrk3lJEhAx4jV0e4zCX6F8FQbv9_rgGhR5idlmbDR7QU1vInkwiRc7DJf0Rg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJX166qQiY2zsRTaNfETxOmrc",
+            "plus_code": {
+                "compound_code": "V8VP+R9 Himayat Bagh, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8VP+R9"
+            },
+            "rating": 4.2,
+            "reference": "ChIJX166qQiY2zsRTaNfETxOmrc",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 928
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Grishneswar temple Road, Aurangabad, Maharashtra 431101, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.920328,
+                    "lng": 75.318588
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.92135124999999,
+                        "lng": 75.31988662989272
+                    },
+                    "southwest": {
+                        "lat": 19.91725825,
+                        "lng": 75.31718697010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d7c8320883d35361adb520ffe621e29f064cf0b5",
+            "name": "Aurangabad Caves View Point",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1856,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103917691855128247714\">Swapnil Hundiwale</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAjU4Cr20ZVWTb3DsxJUOOmQR4l8rQgs8yR-n0N7RolcrDuNtwTkn-9xBOMHLerfuFpdfbAooT4vRnnsT8Qyp8M-1NQntOvBIM9QMyZrax8rKKHZE9SkNqIAkTVJcuhj9iEhBTDZ7HNx_gQbYKxFfzMLW_GhSHtEHQe0xu-ijiMEccV650O65XWQ",
+                    "width": 3744
+                }
+            ],
+            "place_id": "ChIJL5a-VU6X2zsRbu8FqysetrY",
+            "plus_code": {
+                "compound_code": "W8C9+4C Aurangabad, Maharashtra",
+                "global_code": "7JFQW8C9+4C"
+            },
+            "rating": 0,
+            "reference": "ChIJL5a-VU6X2zsRbu8FqysetrY",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dr Babasaheb Ambedkar Marathwada University Campus, Jaisingpura, Aurangabad, Maharashtra 431004, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9066734,
+                    "lng": 75.3095093
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90796277989273,
+                        "lng": 75.31115237989273
+                    },
+                    "southwest": {
+                        "lat": 19.90526312010728,
+                        "lng": 75.30845272010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "07f64bfaea7de5935a5dd85949cb6ca1d633ec8a",
+            "name": "Soneri Mahal",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3265,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103923653036319767766\">shardul</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQRUYWztd1SDLQKnbwaNYuo4JBx0IScK7BBYDg-SsGdwolz1BlQbC1RNjPo2P1GurHtn2q1WcLrwqnNxWP-dOyrLqpKFUpu1VNnN1TaQyK0FdVOH9m2HX9sC1MSsCr8GyEhAQJownp-2cE1p67D0AAZKiGhRUV1GAXXNz1ZObzJvbxa8XkrlQ6g",
+                    "width": 4898
+                }
+            ],
+            "place_id": "ChIJ0_xvrImX2zsROO_vx5HVFHo",
+            "plus_code": {
+                "compound_code": "W845+MR Aurangabad, Maharashtra",
+                "global_code": "7JFQW845+MR"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ0_xvrImX2zsROO_vx5HVFHo",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1409
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Panchakki Rd, Panchakki, Nagsenvan, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8891287,
+                    "lng": 75.315367
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89086062989272,
+                        "lng": 75.31680557989272
+                    },
+                    "southwest": {
+                        "lat": 19.88816097010728,
+                        "lng": 75.31410592010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "446f20a2ad6fd86472ceb1363905f0ba58d3b1c9",
+            "name": "Panchakki historical place",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115073583060349971606\">Prathamesh Tamne</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAR62fv0icbtdaONOWtxVBzPIrzwX_DHDzimASQuhBnLZ0mbLQR7sQJwgvLb84rj6J5xQfKscfb6s1uYSlLGgTH030gC6DxYRCcuC1AVnV0cIW_FhT6NeVKQmWDO5iRBCQEhD3DORJMkoVptBDVr5qvU_iGhRZu5qrnOoGN7guBL1b_22iY4oX-A",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJhQ8qks6Z2zsRBLjTQyw3JJc",
+            "plus_code": {
+                "compound_code": "V8Q8+M4 Nagsenvan, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8Q8+M4"
+            },
+            "rating": 4,
+            "reference": "ChIJhQ8qks6Z2zsRBLjTQyw3JJc",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 149
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Station Rd, Buddi lane, Naralibag, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8915478,
+                    "lng": 75.3260378
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89312587989272,
+                        "lng": 75.3273312798927
+                    },
+                    "southwest": {
+                        "lat": 19.89042622010728,
+                        "lng": 75.32463162010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "67903f34be5d86f3fda1099765a27ddbccd2a68a",
+            "name": "Jama Mosque",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101907822220241611437\">Saad Lodhi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA6Q21A-_n6wCEUCfhpQcgY6BIIceUSE9MwtX-wV_ZR1KRhRAQBmTMHrED4CF27IA70VXhas5TBCknJ81M0W_PN4Gv6cyAEJ5u-gQ9PyWdSqOGDteFqS-zqPquzGUHTAymEhD1y1ee29Paj57uHFuDSj17GhQ6LmbTj3IR0-FjJ3ePBeOBwmX8lg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJpUUt-xCY2zsRmugKDwZGQ8Q",
+            "plus_code": {
+                "compound_code": "V8RG+JC Naralibag, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8RG+JC"
+            },
+            "rating": 4.7,
+            "reference": "ChIJpUUt-xCY2zsRmugKDwZGQ8Q",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2395
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8-N-12, Dr Rafiq Zakaria Marg, Rauza Bagh, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.907598,
+                    "lng": 75.34646699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90900682989272,
+                        "lng": 75.34788732989271
+                    },
+                    "southwest": {
+                        "lat": 19.90630717010728,
+                        "lng": 75.34518767010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "83ca3812daa060d63041a0b1fb4e977223218c88",
+            "name": "Vivanta Aurangabad",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113186071944478973978\">Abhishek Misra</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxi2AfDxbnCoQE5pI_4GLMg5HQX0nejMv-EVcQDcc_baziMxJIGDUKPuwJ3YH1Va37-J7kpqEZm1DZGNUYNYQliJ3f57OrePcAwZimpZG7JAz8TajRWUTSYa7yRv_PBNHEhBlDrSPM0ccc-eT7byGisNRGhTaMp69muR73It9LJsOB3GajlhgAQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJgW5zzgyY2zsRzq4aTj_mNkw",
+            "plus_code": {
+                "compound_code": "W85W+2H Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQW85W+2H"
+            },
+            "rating": 4.4,
+            "reference": "ChIJgW5zzgyY2zsRzq4aTj_mNkw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2103
+        },
+        {
+            "formatted_address": "Salim Ali Lake, Chatrapathi Nagar, N 12, Aurangabad, Maharashtra 431003",
+            "geometry": {
+                "location": {
+                    "lat": 19.899239,
+                    "lng": 75.342286
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.9097304,
+                        "lng": 75.3582934
+                    },
+                    "southwest": {
+                        "lat": 19.8887469,
+                        "lng": 75.3262786
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "c8aeb9905ebfff446bf364dab1edcb3c903d3fb2",
+            "name": "Salim Ali Lake",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103593819848917094089\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAzWW306YcHJ-DAVwrnDAyCt-xT4-A_kutWkic1ABTfzLLSq4ayYeZPItM3gprojztgBQhH245pa7FNXMjZTCFAJqdPPJ6nHAvMGlZiDqHQQEfyKWMKn23FPeOtdfq10bfEhCM3kMwbTIUhGcAxCGZ2WcMGhS0z_GgWqyElQMDxh7j7a1qUdyQ4w",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJoZkExKmi2zsR7ayK54vQF58",
+            "rating": 4.1,
+            "reference": "ChIJoZkExKmi2zsR7ayK54vQF58",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 77
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shahnoorwadi, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8564941,
+                    "lng": 75.3336674
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85774412989272,
+                        "lng": 75.33501617989272
+                    },
+                    "southwest": {
+                        "lat": 19.85504447010728,
+                        "lng": 75.33231652010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e0b43e733f491f076df36b69b7f1709444a44845",
+            "name": "Dargha Hazrat Jalne Wale Bapu",
+            "permanently_closed": true,
+            "place_id": "ChIJ0YElVS6Z2zsRxU2tvSemVg4",
+            "plus_code": {
+                "compound_code": "V84M+HF Shahnoorwadi, Aurangabad, Maharashtra",
+                "global_code": "7JFQV84M+HF"
+            },
+            "rating": 0,
+            "reference": "ChIJ0YElVS6Z2zsRxU2tvSemVg4",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "R-3, Jalna Road, Chilkalthana, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8758946,
+                    "lng": 75.35884109999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87715352989272,
+                        "lng": 75.36026712989272
+                    },
+                    "southwest": {
+                        "lat": 19.87445387010728,
+                        "lng": 75.35756747010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "0dbe196e1ab40d118ab6f3893bdee046a731d3e4",
+            "name": "Welcomhotel Rama International, Aurangabad",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1217,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101844280253278178926\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA3C3V8P4WRiKFVkTsRYJqfSzNNt20QhX-BVdb2PQMuLnEgJM7NSdl0xK_pexOEa_MqMm49OlxlYC8IOIHl2AdHuLaYMUjFVmQnuqrtluwhHjxl546_-zipaSl6RUAcJ7zEhCVAr3wWVTnB5Mn9Mf-ilVVGhR-PiYLEFiGHgtf4y9zFcHPJmNwQw",
+                    "width": 1825
+                }
+            ],
+            "place_id": "ChIJdWkgnxWY2zsR-rrhHKxbQDg",
+            "plus_code": {
+                "compound_code": "V9G5+9G Chilkalthana, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G5+9G"
+            },
+            "rating": 4.4,
+            "reference": "ChIJdWkgnxWY2zsR-rrhHKxbQDg",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4981
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "MH SH 22, Daulatabad, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.94258,
+                    "lng": 75.2133887
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.94392982989272,
+                        "lng": 75.21473852989273
+                    },
+                    "southwest": {
+                        "lat": 19.94123017010728,
+                        "lng": 75.21203887010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2195f82a144c4eb5341d6fe3fdbdc4b7fd14c4e0",
+            "name": "Daulatabad fort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109139974553246898156\">sachin tayade</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwlROnEv8FbJ-jQAl_Zl2PA-Y4gv0gEQ2oh7EmvTnNa_KapY2p_AyjmzxgigPoewNxEKKsZYNICQBO2IzghA3Vei695Ws8S1Fgf12Z1eh6A64tntAmsKuoGN1Gcd59uWfEhA0DXkf-CS_ascR4xj7NfsTGhTekyzeXYrQMtmaUWV50joTzo8b8g",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJJ2xYqQKR2zsRczHHuoY_jKU",
+            "plus_code": {
+                "compound_code": "W6V7+29 Daulatabad, Maharashtra",
+                "global_code": "7JFQW6V7+29"
+            },
+            "rating": 4.4,
+            "reference": "ChIJJ2xYqQKR2zsRczHHuoY_jKU",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7830
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Royal Chambers, Bajrang Chowk Rd, Shri Nagar Colony, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8880208,
+                    "lng": 75.3599108
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88939482989272,
+                        "lng": 75.36125862989272
+                    },
+                    "southwest": {
+                        "lat": 19.88669517010728,
+                        "lng": 75.35855897010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "611dfb1f33652728140790f90f50ada455526d9b",
+            "name": "Maharana Pratap Singh Bust",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108117484672489943327\">Swanand Kulkarni</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAXxIcsoaC_lKSpxFPCgx_1cLwUkUk91WEfZfuZMaO5-O2BEYbSLGf81VUf8fKMr34Mucgb8s9JOP9wlY-VIjL-DrukrITDWrnJP7Y5LHtdqB059CicS-taiqvbk1tATXxEhBDlJLGah1JBUXVQK_hp7PLGhQHRTFW_dbPNMkrB7oQxktI-rMoQQ",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJX5h-xt-j2zsRFfhjO_k-JAg",
+            "plus_code": {
+                "compound_code": "V9Q5+6X Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9Q5+6X"
+            },
+            "rating": 1,
+            "reference": "ChIJX5h-xt-j2zsRFfhjO_k-JAg",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "formatted_address": "Himayat Bagh, Aurangabad, Maharashtra, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8973664,
+                    "lng": 75.33247229999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.909059,
+                        "lng": 75.34130069999999
+                    },
+                    "southwest": {
+                        "lat": 19.8920331,
+                        "lng": 75.325673
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "2ead32a1353ee7d250d21c9737558fc4558ab921",
+            "name": "Himayat Bagh",
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104077300822637843644\">Shailendera Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA3DvRjXjSspQJSECsI-C9vZrpmZ1ajxYiOHRngWzU-2jhAdfhWBTT8bVoQSp7WKpTY7dMVmdhSiqAXxsO5ICkWrvib8JWebOqinpNNZnnVN9dqaKmIFkHtDKphtrpi2d1EhAK-faVsNjSmAM68VqUhlCLGhQzmqWjrVNjnoVz5st-ydgnGgCEEQ",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ7f91AASY2zsRvpibxJPuZr0",
+            "reference": "ChIJ7f91AASY2zsRvpibxJPuZr0",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        }
+    ],
+    "status": "OK"
+}

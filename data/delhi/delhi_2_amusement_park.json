@@ -1,0 +1,883 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CrQDoQEAAExGm13kxDY8K-r7mMa5HKRhgL_YjN2RIVjpIgBWV8qIj1UDpzVMIcmzeRmMRCYUbD5TONpYwSimw5g2PaWTLLxuM02TKgorPa2ANb19Acv0B6KNnICABi7JLx0AwPPDO8khgmjBDBVHV6JqEi-L4lsmmM4FyFd5ST3EeTSHfUPCIJc9lA7QmspJhMaR09gWrWrjJ1gFxDfSa-gykX0H5kESHf0VcJGggpMoqVkDbebCDjMj4A7MF74cC2TgNPTP2zs06V_KzA6uTJ-26AScMIYLKzgrfvimJ_8RfgKrMQXemxgAKKTpa-lXwfFqRPSdSpEBVsZClOe3reYRLsCnCra_jGUQdRAuF7bhL2-H8z4RbHu5fB0OJLXMKSBaLkzc6uZkdhOAAEbhynMi-xfG-nR63tvI918YmDk0UP01MEagg4YKDhrFqBMch2L6eng7E9ceoEIYmdc7AkGZPBMc_OzUTU3jjWkzKojdH4gb-asqyMkWktrMQfzZWzNv_Fhlgqsjk4UW9cb5KiRGaa0hdKKlp77o1WV9tNYX6sCJbm14Qgs3CPwCu1vvGKUQk5UNNRIQ0XEm5EZsr2ocH50pZmqjBhoUKtzEtbzLUKaPscdb-P2voWKh-JY",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "A-259, Village, Bhagwan Parshuram Marg, Hastsal, Delhi, 110059, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.635204,
+                    "lng": 77.0542761
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63667117989272,
+                        "lng": 77.05563462989272
+                    },
+                    "southwest": {
+                        "lat": 28.63397152010728,
+                        "lng": 77.05293497010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0321350d75eb1f0d9e2b2ba710aebe92ff645ff4",
+            "name": "Water World Solution",
+            "permanently_closed": true,
+            "place_id": "ChIJg9h2Zh4FDTkR44L8Bdk52EY",
+            "plus_code": {
+                "compound_code": "J3P3+3P Hastsal, Delhi",
+                "global_code": "7JWVJ3P3+3P"
+            },
+            "rating": 2.7,
+            "reference": "ChIJg9h2Zh4FDTkR44L8Bdk52EY",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8 KM Mile Stone, Delhi-Meerut Highway, Duhai, Ghaziabad, Uttar Pradesh 201003, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7261111,
+                    "lng": 77.46972219999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72723932989271,
+                        "lng": 77.47135872989271
+                    },
+                    "southwest": {
+                        "lat": 28.72453967010727,
+                        "lng": 77.46865907010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d461b9946f02e42c21a21bc1133ff6bc7013cbff",
+            "name": "Drizzling Land Water and Amusement Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118347819298330737698\">Gaurav Gusain</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAP3G1N0Cr6vlv-_bLsOODCv1yZmLzW-LnvIjyzUmLc5eqhfwENXMjLQKLIu2ys5TkiUk6LMM5eHs09hg3WSTIH2R9iL7HrUC_rypQXqdMHlK9_BzDpo9lWE3k2HZZwqx5EhAWMUUa0zJbIV8ixv4h0Yd1GhTuhDtTB0AIB4Tm35NPEIpFPQpVyg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJwQcqDVjxDDkRE1P2nBQDC4I",
+            "plus_code": {
+                "compound_code": "PFG9+CV Ghaziabad, Uttar Pradesh",
+                "global_code": "7JWVPFG9+CV"
+            },
+            "rating": 3.9,
+            "reference": "ChIJwQcqDVjxDDkRE1P2nBQDC4I",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3425
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Old Delhi Gurgaon Rd, Kapas Hera, New Delhi, Delhi 110097, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5236515,
+                    "lng": 77.0836953
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52507007989272,
+                        "lng": 77.08490592989273
+                    },
+                    "southwest": {
+                        "lat": 28.52237042010728,
+                        "lng": 77.08220627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "80a0c6e5f0c99166cfbe7339c15e28d405cb7fe4",
+            "name": "Fun N Food Village",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 504,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106518555096332728520\">papu karan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZuyqoIXk548ysHZKQPWNx8OMCzjs_DXr_uBCdsUIarL2ucAO7opyqma39-TYtnKzKo4DDoxATT-w589O3wwfQDjFUmuAieWE1zRnhOEZyUTLKz9AsN6RXbjTsYHuhoZ9EhCIs6yyxV6uzxkD5kL0VQf2GhRIeuqRA2uEyQV8EKpdCXX4LCB_0g",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ0xq8mwgcDTkR7uUfRY00KJE",
+            "plus_code": {
+                "compound_code": "G3FM+FF Kapas Hera, Kapas Hera Extension, New Delhi, Delhi",
+                "global_code": "7JWVG3FM+FF"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ0xq8mwgcDTkR7uUfRY00KJE",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6792
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unitech Amusement Park, Rohini, Near Rithala Metro Station, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7237207,
+                    "lng": 77.1139216
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72507052989272,
+                        "lng": 77.11527142989272
+                    },
+                    "southwest": {
+                        "lat": 28.72237087010728,
+                        "lng": 77.11257177010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "792388ee9b6e1c6209a2b35a117ddd74a24a2137",
+            "name": "Caf\u00e9 Coffee Day - Unitech Amusement Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110472350140270513682\">Shivi Aggarwal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAq9ZYpy-NK0MQ3WN2rEbOFoQuc9VY4kNNgNkH7_ngMpse1awj_oCfeRM2_CqJ29Ac_kQWKfyQfaJW3GuxlO3t6R6ZTv03VTnw4h3qfg3KwntmvSvFJdOylSJBCsd-TwyMEhCnGHSp7Y9vAqJO3lSEho6cGhS23UfJX5MYfzQVcDXDrlrRuEKBcw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ_YN5kEcBDTkRkfCUF8lt03I",
+            "plus_code": {
+                "compound_code": "P4F7+FH Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4F7+FH"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJ_YN5kEcBDTkRkfCUF8lt03I",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 36
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Main GT Karnal Road, Near Palla Moad, Alipur, New Delhi, Delhi 110036, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.8026736,
+                    "lng": 77.1439455
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.80397202989272,
+                        "lng": 77.14563862989272
+                    },
+                    "southwest": {
+                        "lat": 28.80127237010727,
+                        "lng": 77.14293897010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5927585706733da1a04aa1bf750cfba6ba90871f",
+            "name": "Splash The Water Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1950,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101482190821064275202\">Splash The Water Park</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZdJH_-HSiVkBcxqGRBS__vQH1Hd8EsCcOaT5o_-v3vJ1wQT5h-d0PKi2erZAe2SfPQNcSxLM5XjVgSOJt9uOxm0Db5uUrDAQFFjpZw12EeM8rj9Dw8s6RI9S9QK_yUCnEhB1CBttbpWACORPPInDpuImGhQVaXv9zolbD5fQfFU0aHbR9bdawQ",
+                    "width": 3797
+                }
+            ],
+            "place_id": "ChIJ____b0MADTkRC9fLgd35rbg",
+            "plus_code": {
+                "compound_code": "R43V+3H Bankoli Village, Delhi",
+                "global_code": "7JWVR43V+3H"
+            },
+            "rating": 3.6,
+            "reference": "ChIJ____b0MADTkRC9fLgd35rbg",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4315
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "ADVENTURE ISLAND Metro walk, Sector 10, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7258486,
+                    "lng": 77.1150291
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72746247989273,
+                        "lng": 77.11660787989273
+                    },
+                    "southwest": {
+                        "lat": 28.72476282010728,
+                        "lng": 77.11390822010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "fb59e0c54b87c7b5c709fedfd856deb935f8667b",
+            "name": "Virtual Island - Adventure Island, Metro walk, Rohini",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118443651793376631840\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAATyVBEI9Q5s06i5h03WJyzRhnHulxjYSbjIO1fCojtC6lplFnJO_aiXh4tIvKIpZvlzOQxBI0VMvqcuChqHd4qGk_OSy4jM5u2hfQHJYxtGoYUlNIFArZfxMQe5ufd1ecEhDGoWIB4BrfLc-CMOjrw-9xGhSp-k6yH-CWdNrp2iAuEaIxa0lPwg",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJU7-Sa8MBDTkRNb9vWYeebZc",
+            "plus_code": {
+                "compound_code": "P4G8+82 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4G8+82"
+            },
+            "rating": 3.9,
+            "reference": "ChIJU7-Sa8MBDTkRNb9vWYeebZc",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 39
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "The Great India Place Mall, Sector-38 A, Entry from Gate No. 11 Adjacent, near, Maharaja Agrasen Marg, Noida, Uttar Pradesh 201301, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5630938,
+                    "lng": 77.32530779999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56472387989272,
+                        "lng": 77.32699939999998
+                    },
+                    "southwest": {
+                        "lat": 28.56202422010728,
+                        "lng": 77.320233
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cf3b90b8897190a1ac2210b5801796ff6aa043a6",
+            "name": "Worlds of Wonder",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 660,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106281454063488829635\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA17gyXaqFPK4yyhf6EJrYoAPqWXXgg9gXsqUwoorcdoZ7Dabziv2CVZuiSiSFFDs9kD57aJApcRksAj7lKnsnLz3n0Utv3GVS52rTiAksANnok2jaZmCASkJMqcyKJC-tEhBK6V1Q070PzwobPWUjE_aHGhSlvlefE3XxmqtV16s2NxQ8oKzkyQ",
+                    "width": 888
+                }
+            ],
+            "place_id": "ChIJn6MumTfkDDkRW8_qiR20a6I",
+            "plus_code": {
+                "compound_code": "H87G+64 Noida, Uttar Pradesh",
+                "global_code": "7JWVH87G+64"
+            },
+            "rating": 4.3,
+            "reference": "ChIJn6MumTfkDDkRW8_qiR20a6I",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25484
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "225, Dindarpur Colony Rd, Deenpur, Shanti Vihar, Dindarpur, Najafgarh, Delhi, 110043, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5921584,
+                    "lng": 76.993999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.59366582989272,
+                        "lng": 76.99542232989272
+                    },
+                    "southwest": {
+                        "lat": 28.59096617010728,
+                        "lng": 76.99272267010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7d6ef62b44c79f558e9aceadb6bbfa17d01f48cc",
+            "name": "Village dinpur jhod",
+            "permanently_closed": true,
+            "place_id": "ChIJ910Cjz8RDTkRzkXks-z88eg",
+            "plus_code": {
+                "compound_code": "HXRV+VH Najafgarh, New Delhi, Delhi",
+                "global_code": "7JWRHXRV+VH"
+            },
+            "rating": 0,
+            "reference": "ChIJ910Cjz8RDTkRzkXks-z88eg",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Main, GT Karnal Rd, near GTB Memorial, Singhu, New Delhi, Delhi 110040, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.8500767,
+                    "lng": 77.12790970000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.85137907989272,
+                        "lng": 77.12923097989274
+                    },
+                    "southwest": {
+                        "lat": 28.84867942010728,
+                        "lng": 77.12653132010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6d335259a1bb306b298f2e02370dd431166e19e7",
+            "name": "Just Chill Water Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1358,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101084029609569314032\">Sydney Garden Hotel &amp; Resort + Just Chill Water &amp; Fun Park</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFAiIuKwKvNlbKsHcpmEhQAt59D7KKKftTucS1N0rV4W6JzzhQPkQKGWACkvWdkLD8mFEl0ISsKhftaz8wJqdkmLCcJfV0fjLvnDAHW7MY1m4x0jzEum-9DMH2xjxpTnAEhAL9BeaUZsueaQlk1bAniFnGhQmoSAA5R4Sk_9u-NXsxsO7XUjutw",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ53D8D7arDTkRhpU1DeMbXKs",
+            "plus_code": {
+                "compound_code": "V42H+25 Singhu, Delhi",
+                "global_code": "7JWVV42H+25"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ53D8D7arDTkRhpU1DeMbXKs",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3075
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "NH 1, GT Karnal Road, Near Murthal, Sonipat, 131021, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7467388,
+                    "lng": 77.1517511
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.74807982989272,
+                        "lng": 77.15306642989272
+                    },
+                    "southwest": {
+                        "lat": 28.74538017010727,
+                        "lng": 77.15036677010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cd11810862de93bdf45dabcbfed7eb3519f23ef1",
+            "name": "Corporate Office Jurasik Park Inn",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJAQAAAEMBDTkRba7PI2LnJL4",
+            "rating": 3.4,
+            "reference": "ChIJAQAAAEMBDTkRba7PI2LnJL4",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ch Ramdev Marg, Rajeev Colony, Sector A5, Narela, Delhi, 110040, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.8573686,
+                    "lng": 77.0941832
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.85885572989272,
+                        "lng": 77.09558377989272
+                    },
+                    "southwest": {
+                        "lat": 28.85615607010728,
+                        "lng": 77.09288412010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2f788d5f19e46a45478d3edd0830126257307e42",
+            "name": "Chath Puja Lake - Narela",
+            "permanently_closed": true,
+            "place_id": "ChIJ_xXQZaKpDTkRRr5nDEyJP4A",
+            "plus_code": {
+                "compound_code": "V34V+WM Narela, New Delhi",
+                "global_code": "7JWVV34V+WM"
+            },
+            "rating": 0,
+            "reference": "ChIJ_xXQZaKpDTkRRr5nDEyJP4A",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Commonwealth Games Village, Patparganj, New Delhi, Delhi 110092, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.61745,
+                    "lng": 77.27624809999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61879982989272,
+                        "lng": 77.2775979298927
+                    },
+                    "southwest": {
+                        "lat": 28.61610017010728,
+                        "lng": 77.27489827010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cd536df45e3932a2b94a7171844770255f5fad9b",
+            "name": "CWG LAKE",
+            "permanently_closed": true,
+            "place_id": "ChIJA4nVmDTjDDkRNUiQw2shM3w",
+            "plus_code": {
+                "compound_code": "J78G+XF Patparganj, Delhi",
+                "global_code": "7JWVJ78G+XF"
+            },
+            "rating": 4,
+            "reference": "ChIJA4nVmDTjDDkRNUiQw2shM3w",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "GT Karnal Rd, Garthi Khurad, Bakoli, Delhi, 110036, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.8028378,
+                    "lng": 77.1428214
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.80419847989272,
+                        "lng": 77.14421782989271
+                    },
+                    "southwest": {
+                        "lat": 28.80149882010727,
+                        "lng": 77.14151817010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f979abafc5d87e103056796f73ff843d9c14453c",
+            "name": "Water world",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113818080733548960325\">Mohit wadhwa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA3dYhaJ7DIsjPSKBWoyDynnT916V1nmTDYY6Ea934HtcaF_xKukjnG_Aw9spUtSkU-9doWed-RTJ4K_VdTmxBUNEl71bTmIcso4JyHAjChopCaeMBxXBZTg3syzXiJburEhAXPozSfKIiJnxqPoSfS8_4GhTFUwn_uCd3irysTjJ4vCbBQqJBPw",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJg444qbKrDTkRBDUa_AaZvFs",
+            "plus_code": {
+                "compound_code": "R43V+44 Bakoli, Delhi",
+                "global_code": "7JWVR43V+44"
+            },
+            "rating": 0,
+            "reference": "ChIJg444qbKrDTkRBDUa_AaZvFs",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "South Extension, Block F, South Extension I, New Delhi, Delhi 110049, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5698009,
+                    "lng": 77.2195028
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.57118177989272,
+                        "lng": 77.22085482989272
+                    },
+                    "southwest": {
+                        "lat": 28.56848212010728,
+                        "lng": 77.21815517010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0d8052a90cb41a645b6fa6964f5e8c08cd7b8b63",
+            "name": "Tarun",
+            "place_id": "ChIJu6dVIejjDDkRRFwTTIakzEo",
+            "rating": 3,
+            "reference": "ChIJu6dVIejjDDkRRFwTTIakzEo",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "D-2/133, Block D, Sangam Vihar, New Delhi, Delhi 110080, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.507867,
+                    "lng": 77.247847
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.50915337989272,
+                        "lng": 77.24918592989272
+                    },
+                    "southwest": {
+                        "lat": 28.50645372010728,
+                        "lng": 77.24648627010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c20f24fd2736a660a213c21fbf1cce739354f164",
+            "name": "Underground Pool",
+            "photos": [
+                {
+                    "height": 4096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107849856153286883755\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKEVUFFgp6NZ2cVX6h1weWxRyGIL8c47TGcbpCKfuuBjLYvIGpAWwa2wy9ntUNk0m1s2lWTZyu_2gKcjbNlyeRcTFhZTVrYGDEiqXciqnKREPYtBZ5rANVvymk-bUkOUuEhCxf3CULS1bW8k-ENemhRg6GhQpOG0Elf4yXnzt3EyHtNUxFCN7vQ",
+                    "width": 2304
+                }
+            ],
+            "place_id": "ChIJKWQFURvhDDkR8d3Y3Qp16GU",
+            "plus_code": {
+                "compound_code": "G65X+44 Sangam Vihar, New Delhi, Delhi",
+                "global_code": "7JWVG65X+44"
+            },
+            "rating": 3.4,
+            "reference": "ChIJKWQFURvhDDkR8d3Y3Qp16GU",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "block h, 19, Rd Number 236, Block H, Arunodaya Apartments, Vikaspuri, New Delhi, Delhi 110018, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6440534,
+                    "lng": 77.0684283
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64526572989272,
+                        "lng": 77.0699345798927
+                    },
+                    "southwest": {
+                        "lat": 28.64256607010728,
+                        "lng": 77.06723492010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e2bb4139a03392ccfe3ad5e438907b1087f4d7ca",
+            "name": "Water Fountain Samaj Kalyan",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108079775288027626269\">vishal jha</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAy99TvIfm34Le_Gj67t_iR-plkENcyC8XhQKZGbjeN4FcasvRfAXQ2m8horTCmv9lH_oCJH3dQyN7L149JsIvHdsOs4eVIfljHcXqPACJ5uG3ivEws05d21mKWzoFYZ2CEhAaIBLame5oDfmr9UYxrJE3GhTnWtsMNSSxxklZ50T_UButU-psWQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJB5K5BfAEDTkRyrJh7aRFSEc",
+            "plus_code": {
+                "compound_code": "J3V9+J9 Vikaspuri, New Delhi, Delhi",
+                "global_code": "7JWVJ3V9+J9"
+            },
+            "rating": 3.8,
+            "reference": "ChIJB5K5BfAEDTkRyrJh7aRFSEc",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Delhi Technological University, Shahbad Daulatpur Village, Rohini, Delhi, 110042, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7499818,
+                    "lng": 77.1174554
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.75133162989272,
+                        "lng": 77.11880522989273
+                    },
+                    "southwest": {
+                        "lat": 28.74863197010727,
+                        "lng": 77.11610557010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "815217d8323d250b449e5078f1dcaf0bc6daec84",
+            "name": "DTU Fountain",
+            "permanently_closed": true,
+            "place_id": "ChIJH-DTgKMBDTkRK9Rj8QMrFqc",
+            "plus_code": {
+                "compound_code": "P4X8+XX Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4X8+XX"
+            },
+            "rating": 0,
+            "reference": "ChIJH-DTgKMBDTkRK9Rj8QMrFqc",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "near Hazrat Nizamuddin Metro Station, Block A, Ganga Vihar, Sarai Kale Khan, New Delhi, Delhi 110013, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5915223,
+                    "lng": 77.2571012
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.59293367989272,
+                        "lng": 77.25867422989272
+                    },
+                    "southwest": {
+                        "lat": 28.59023402010727,
+                        "lng": 77.25597457010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "dd86c236084678ea5b9983adfd086bc7bc08c9cf",
+            "name": "Waste to Wonder Theme Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4127,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112580732758687947468\">Anil M</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAM8cje6o7BrHuUxtxfWgVtB_x5r9dGloxFKB-t-viizgso_mPa7uU75-2o13yiPIc9VD7i_JESB84tCSIPQK6r51odkXGT9ygejrvhpW8y6b-gzjIZazb-coWYM0gF1HLEhC3JOYnyEinNGoN02se7E3PGhTXopUjewaaZNVT7KizzxPR5HXZwg",
+                    "width": 3302
+                }
+            ],
+            "place_id": "ChIJYRJgUoPjDDkRNAyCbaQzWBM",
+            "plus_code": {
+                "compound_code": "H7R4+JR Sarai Kale Khan, New Delhi, Delhi",
+                "global_code": "7JWVH7R4+JR"
+            },
+            "rating": 4.1,
+            "reference": "ChIJYRJgUoPjDDkRNAyCbaQzWBM",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16482
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "47, First Floor, Hauz Khas Village, New Delhi, Delhi 110016, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5533199,
+                    "lng": 77.19456459999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.55465982989272,
+                        "lng": 77.19589402989271
+                    },
+                    "southwest": {
+                        "lat": 28.55196017010728,
+                        "lng": 77.19319437010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "eceff38d5ef6e5d4c5ea8959335b25628584377a",
+            "name": "The Hidden Hour Delhi - Mystery Escape Rooms",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109513698162656991548\">Ctrl.Shift.Esc</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAlOVXvpKxm2UTe6dd_Wg1OmMc_dZaAgPWI1LjToR3Fnu9BWDFYEvB3jggxluNa6Z-uB6nuECNyAE5Gzzl2I8iGWDDdNpgflV_gdHVw5cZvFZPjmeUlc_7M4k-8B-AvBX8EhA8ClTf3VosXojl7tN9lkW7GhRd313oo5qCWHjyQvZ5pxR9LzXwzQ",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ____jw3iDDkRFABZQq0YiAo",
+            "plus_code": {
+                "compound_code": "H53V+8R New Delhi, Delhi",
+                "global_code": "7JWVH53V+8R"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ____jw3iDDkRFABZQq0YiAo",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 432
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Hari Nagar, New Delhi, Delhi 110064, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6296133,
+                    "lng": 77.1046465
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63095147989272,
+                        "lng": 77.1056884798927
+                    },
+                    "southwest": {
+                        "lat": 28.62825182010728,
+                        "lng": 77.10298882010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3e7289e8582926052c50b8ccf8c783f79aa4415f",
+            "name": "Mota Vahi Fun Pr Park",
+            "permanently_closed": true,
+            "place_id": "ChIJ54V9zVgDDTkR_vgWKZ5GZRY",
+            "plus_code": {
+                "compound_code": "J4H3+RV Hari Nagar, New Delhi, Delhi",
+                "global_code": "7JWVJ4H3+RV"
+            },
+            "rating": 0,
+            "reference": "ChIJ54V9zVgDDTkR_vgWKZ5GZRY",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        }
+    ],
+    "status": "OK"
+}

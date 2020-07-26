@@ -1,0 +1,812 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Neha Complex, 21, Gwalior Rd, Sewla Sarai, Sewla Jatt, Gopal Pura, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.120635,
+                    "lng": 78.0047432
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.12226947989272,
+                        "lng": 78.00548789999999
+                    },
+                    "southwest": {
+                        "lat": 27.11956982010727,
+                        "lng": 78.0025091
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "84d886bf648ab832bda83cbaf53a0b64563247c6",
+            "name": "Sevla trenching ground",
+            "permanently_closed": true,
+            "place_id": "ChIJPRoA-S91dDkRXoaiFlscg9s",
+            "plus_code": {
+                "compound_code": "42C3+7V Gopal Pura, Agra, Uttar Pradesh",
+                "global_code": "7JVW42C3+7V"
+            },
+            "rating": 0,
+            "reference": "ChIJPRoA-S91dDkRXoaiFlscg9s",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "15th Battallion PAC Quaters, Khairati Tola, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1623177,
+                    "lng": 78.0316417
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16379752989272,
+                        "lng": 78.03314532989272
+                    },
+                    "southwest": {
+                        "lat": 27.16109787010728,
+                        "lng": 78.03044567010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "78bf3ef6195f966772481b21b4a18f87a87e2249",
+            "name": "15th battalion PAC parade ground",
+            "permanently_closed": true,
+            "place_id": "ChIJ4-feRqxxdDkRCbRpSnuGPvg",
+            "plus_code": {
+                "compound_code": "526J+WM Khairati Tola, Agra, Uttar Pradesh",
+                "global_code": "7JVW526J+WM"
+            },
+            "rating": 0,
+            "reference": "ChIJ4-feRqxxdDkRCbRpSnuGPvg",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Fatehabad Road, near The Retreat, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.162086,
+                    "lng": 78.05421
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16341847989272,
+                        "lng": 78.05555517989272
+                    },
+                    "southwest": {
+                        "lat": 27.16071882010728,
+                        "lng": 78.05285552010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "db0f15d18ac197ed55598627902d801d8590c5b5",
+            "name": "Rajvnsh Holidays",
+            "permanently_closed": true,
+            "place_id": "ChIJ3bU0JA5xdDkRdYXdYPaVsFk",
+            "plus_code": {
+                "compound_code": "5363+RM Agra, Uttar Pradesh",
+                "global_code": "7JVW5363+RM"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ3bU0JA5xdDkRdYXdYPaVsFk",
+            "types": [
+                "campground",
+                "travel_agency",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1795328,
+                    "lng": 78.021112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18445439999999,
+                        "lng": 78.02360124999998
+                    },
+                    "southwest": {
+                        "lat": 27.1729168,
+                        "lng": 78.01570785000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "423d20a58e96579125042d5319e6f60e6bd93c40",
+            "name": "Agra Fort",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111599710978603117365\">Phil</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAuYYsPedXvQdiWe92PXNY_Q0ztHM9TGyPTutG_M7f_EZGRAdeSH3VvOuN5qU9XwrU42ZTxahYDaHbUWQDI0FLiUHdJA0eTPBCrj6IeF61pUEobHyE887QTqxxPKrREVCsEhCA8zPi4dwFwpdewX8TnOMiGhTidKiXVq82xGGOu32ITNzz0bVxPg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ6zs0kdRwdDkRdpUClMxcCmQ",
+            "plus_code": {
+                "compound_code": "52HC+RC Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52HC+RC"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ6zs0kdRwdDkRdpUClMxcCmQ",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 74798
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1751448,
+                    "lng": 78.0421422
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.1772325,
+                        "lng": 78.04546859999999
+                    },
+                    "southwest": {
+                        "lat": 27.1688817,
+                        "lng": 78.03880380000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "dcc9586b99ab0f0471fccecbe2dbb40fdc1fc2b5",
+            "name": "Taj Mahal",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108059568100427860058\">PAPU GAYAK</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxsMdM_C5vkjZfYQFg3yr2BpM1bRgf2POpOWt8qD_DDWvChUE9n-hd15f1ERx1L3udCcqyl4956ALqxAVeX42LG55uK4aR66h5Bd1DBPRZKGF1WDFvYmVQnDzgdrGe4fbEhATGRwVSuneNGQPBfH7Dj_YGhTyRpeEc4VVlybgAQVK7yg5Zs3NLg",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJbf8C1yFxdDkR3n12P4DkKt0",
+            "plus_code": {
+                "compound_code": "52GR+3V Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52GR+3V"
+            },
+            "rating": 4.6,
+            "reference": "ChIJbf8C1yFxdDkR3n12P4DkKt0",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 169013
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mahaaban, Mahaban Bangar, Uttar Pradesh 281305, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.4358017,
+                    "lng": 77.741654
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.43701297989272,
+                        "lng": 77.74277922989273
+                    },
+                    "southwest": {
+                        "lat": 27.43431332010728,
+                        "lng": 77.74007957010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "c7d7f8fec8f3f2acb3c06ec84180dbdf92b0d626",
+            "name": "Dr B R Ambedakar Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112333827434977232039\">Ajay kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1MOQYmHxKSoZglqeqYvZTVLDIfK3LbnUHXKYUmTSjECvwr-usH55GsieG9USTBLDUAZLONwIoVPPPv-DwYiC4pKd88YhAe0WMRBwK1kkdRyrGxO5RcJanuDTL3DRXSQwEhAmbFZJGm90o_rP_Xe1S7svGhSXO3h3pRXZGiL3stsBwbqylaMrrg",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJSdXwT3x3czkRDYu0mhCkwa4",
+            "plus_code": {
+                "compound_code": "CPPR+8M Mahaban Bangar, Uttar Pradesh",
+                "global_code": "7JVVCPPR+8M"
+            },
+            "rating": 3.7,
+            "reference": "ChIJSdXwT3x3czkRDYu0mhCkwa4",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Manger - Dhauj Rd, Mangar, Haryana 121004, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.362267,
+                    "lng": 77.1868066
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.36353237989272,
+                        "lng": 77.18809492989271
+                    },
+                    "southwest": {
+                        "lat": 28.36083272010728,
+                        "lng": 77.18539527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "dabcd2754f4885ca182830f501d334c851cdffd4",
+            "name": "Camp Wild Dhauj at Aravali Valley",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 570,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108031781519341321963\">Camp Wild</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9gUneVsY2v2j3UrryeP1jQshdkJEscszMK8SpUDEvhmxWllRpgvYVmqolmT3qgdD2yGgWJqYeeYsZd0M4R0veNYRmJ-7pJteCPj_Bwaca_ULY50cQe05kvOEyOvWLuNMEhAWILaVX-uTozs-s9LVzmGJGhQ6VLjA4oFhJ9TOsUuK79vZuet37g",
+                    "width": 760
+                }
+            ],
+            "place_id": "ChIJqZXP9KMgDTkRT7wgNIRfpc4",
+            "plus_code": {
+                "compound_code": "956P+WP Mangar, Haryana",
+                "global_code": "7JWV956P+WP"
+            },
+            "rating": 3.9,
+            "reference": "ChIJqZXP9KMgDTkRT7wgNIRfpc4",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 785
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "opposite hotel Oberoi Amarvilas, Road,, Taj East Gate Rd, Agra, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1690656,
+                    "lng": 78.0495787
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17039912989272,
+                        "lng": 78.05091462989272
+                    },
+                    "southwest": {
+                        "lat": 27.16769947010728,
+                        "lng": 78.04821497010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0abdda587fe01f192755e7c92bb1c6814506f0d1",
+            "name": "Agra Beat Walking Tours",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109024448471297948086\">Vijendra Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANKOsRQZG3nnAcfcy-JB1I5gEuYowFu4XZoo6pqU2artslPoupIyY74RVJrJoKXZwwSal4SB6ct_MbYZ7nsH8XVF8F-1tKFDggLPNQs_yEBQu_6DRXbEhIG_syDEl0g_oEhBlf0RyvCrnptxApivDir4fGhSzAWQnFOr5pXQ-Tc77PT9Lw6vOsA",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJkYDttxtxdDkRxpzwKLpzrCA",
+            "plus_code": {
+                "compound_code": "529X+JR Agra, Uttar Pradesh",
+                "global_code": "7JVW529X+JR"
+            },
+            "rating": 4.3,
+            "reference": "ChIJkYDttxtxdDkRxpzwKLpzrCA",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "MIG 1 & 2, Shilpgram Road Taj Nagri, Phase 1, Taj East Gate, MIG Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1638665,
+                    "lng": 78.0537545
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16521612989272,
+                        "lng": 78.05510417989272
+                    },
+                    "southwest": {
+                        "lat": 27.16251647010728,
+                        "lng": 78.05240452010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "8c1906a5fa8834d01c5c5b11788bc04a3e29e2f4",
+            "name": "Moustache Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107253463693974818324\">Manish Pal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAz2mBDWOdv3sZAEEVYQecNbdqsIoIvtr29tSfXHuYtrLgREZSQ85hMOe0McMUHLv1uZCakH0swA28iJQogPSe9VEdijSD5PE14GxiC0CcSvLqVtU7qH48JS4kEYwBPE3mEhDWJYCRIkFEUi3PPi5rBd4JGhQFKAa1-c36hDlvSFbv4OV0RRIKzw",
+                    "width": 2268
+                }
+            ],
+            "place_id": "ChIJRbIu3g9xdDkRAsxxN9O2CXE",
+            "plus_code": {
+                "compound_code": "5373+GG Agra, Uttar Pradesh",
+                "global_code": "7JVW5373+GG"
+            },
+            "rating": 4,
+            "reference": "ChIJRbIu3g9xdDkRAsxxN9O2CXE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 416
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Taj East Gate Rd, near Taj Mahal, Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1712412,
+                    "lng": 78.0462572
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17235137989272,
+                        "lng": 78.04749992989272
+                    },
+                    "southwest": {
+                        "lat": 27.16965172010728,
+                        "lng": 78.04480027010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "7e0eb3df0936f0032b7daac40f7e3fabaa9ff79d",
+            "name": "Hotel Taj Khema",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3744,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109850124028376157336\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAlIufTQrXC6rtsWphOHrkvJxGpCocv8QlZ2oFltXwSFei61LDK1Urwxbw-zWi37mJC4dmZ3xu2joWTZoYty8CDCiJNt7erLyZLS1Qd2J3c8UNIVFRFcT3tW-rK1tFwqkxEhCidhmDwC2pim-t6F9NUJXWGhSX-AUsPNjkNJJvNeDiv__hQDR8aQ",
+                    "width": 5616
+                }
+            ],
+            "place_id": "ChIJAQDNSx9xdDkR_GrhDaoSo_U",
+            "plus_code": {
+                "compound_code": "52CW+FG Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52CW+FG"
+            },
+            "rating": 3.8,
+            "reference": "ChIJAQDNSx9xdDkR_GrhDaoSo_U",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 157
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Anantpura, Rajasthan 303704, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1318642,
+                    "lng": 75.75381879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.13320982989272,
+                        "lng": 75.75516757989271
+                    },
+                    "southwest": {
+                        "lat": 27.13051017010728,
+                        "lng": 75.75246792010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "e54d79deddcbe085fc75b59eb8fe1639e4f21152",
+            "name": "Rocksport Camp, Jaipur",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1824,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114409139942326157299\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAjFFmTbF_D-Fjh1gbvKbhOuJ8fz3TO_3CSlqqJpH50SDcR4gHiCTonKwK7WocPoVP4wsy0StQI2GNdcdTz3v2vsMSoe8OZQzraai1VGN1i26VULrPl1_J4eRXCN06Uln8EhA4q2a-gQSROOQLwe7V9tAMGhSQFPpOwM-_bcJXoCk6RltpELZPWQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJlYCejJirbTkRdk0y-Ab6ca0",
+            "plus_code": {
+                "compound_code": "4QJ3+PG Anantpura, Rajasthan",
+                "global_code": "7JVQ4QJ3+PG"
+            },
+            "rating": 4.4,
+            "reference": "ChIJlYCejJirbTkRdk0y-Ab6ca0",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Village Sevli, Jakholi, road, Rai, Haryana 131023, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.93509469999999,
+                    "lng": 77.13383069999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.93629442989272,
+                        "lng": 77.13525432989272
+                    },
+                    "southwest": {
+                        "lat": 28.93359477010727,
+                        "lng": 77.13255467010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "eb87ac0bce494de6e72089932d5c67a3bbeca3fc",
+            "name": "Rocksport Camp, Kundli",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 683,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111596066009838372312\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAiC34R8eWWaIJmvlibdlroCuVQ0eK4L6IsfJ8G2mfwVPS4uhFjblvPHfaZYxweDhvxC9skF-Rf67Ovq5sBnTfk4E_R1--cR0XqjCEhCEne-C717OZOdMox4CIE9QaQo-9EhDHYOMC3vXI0Rl4-rPGn47bGhRwWZCGJS9bLt5UM47l7aKNlXg2lA",
+                    "width": 1022
+                }
+            ],
+            "place_id": "ChIJTyaQ-7ytDTkRKykzXjev2cw",
+            "plus_code": {
+                "compound_code": "W4PM+2G Rai, Haryana",
+                "global_code": "7JWVW4PM+2G"
+            },
+            "rating": 4.3,
+            "reference": "ChIJTyaQ-7ytDTkRKykzXjev2cw",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kasiyalek, Chaukhuta Mukteshwar Mukteshwar, Dist:, Nainital, Uttarakhand 263137, India",
+            "geometry": {
+                "location": {
+                    "lat": 29.4195936,
+                    "lng": 79.6468392
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.42096232989272,
+                        "lng": 79.64820792989272
+                    },
+                    "southwest": {
+                        "lat": 29.41826267010728,
+                        "lng": 79.64550827010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "0db38de3d31ce5dc567f41287dc24a252a6d3930",
+            "name": "Neelkanth Camping",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1500,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110334146890154813288\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAStIdi3BzBxlPKp6jRMFIrQHug7WVBf4ZN_pTGThgolmLDFzqw54ucs1qx4o_n_dGjJG0xjKWmisQjnAI2kFpDyY3OH_SZ364i1e37sQ0JZpiN-NL4nTHbO6_VwCXmwEpEhAaId6uibldU6AQ5NO8nq98GhQHPV-0vgS8yIbK04FvglApPp9Htw",
+                    "width": 1126
+                }
+            ],
+            "place_id": "ChIJjcuuyQa9oDkRzLEs_YcDIrc",
+            "plus_code": {
+                "compound_code": "CJ9W+RP South Gola Range, Uttarakhand",
+                "global_code": "7JXXCJ9W+RP"
+            },
+            "rating": 4.9,
+            "reference": "ChIJjcuuyQa9oDkRzLEs_YcDIrc",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 48
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Chhoti Haldwani, Uttarakhand 263140, India",
+            "geometry": {
+                "location": {
+                    "lat": 29.2946294,
+                    "lng": 79.3417151
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.29651597989272,
+                        "lng": 79.34242435
+                    },
+                    "southwest": {
+                        "lat": 29.29381632010728,
+                        "lng": 79.33958735
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "aff5101157b6b45da846848857a1d4fe6a6f8c48",
+            "name": "YHAI Base Camp",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2368,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110662510366130294898\">Sanjeev Joshi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4_Qko1e-xyWinGgCoiL66-k2_yG4b79NzeIPOlnLnsiLYK5YJz_4d2x3-iJfDPE_uyQdSjH-hPjpxzWOKiv6kui2dIIEQKP4ir292HRRp2QVT-9jkfFY0_qFd6-l1He3EhCGQNyNIWBpSSYxEH1B9kk4GhTIkshbPCpbp0dbMtnG9SLkAx2R9g",
+                    "width": 4208
+                }
+            ],
+            "place_id": "ChIJYf1BY7Z1CjkRHc8ug8XH0I8",
+            "plus_code": {
+                "compound_code": "78VR+VM Chhoti Haldwani, Uttarakhand",
+                "global_code": "7JXX78VR+VM"
+            },
+            "rating": 4.1,
+            "reference": "ChIJYf1BY7Z1CjkRHc8ug8XH0I8",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Near, Badshahpur, Garat Pur Bas, Haryana 122102, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.340102,
+                    "lng": 77.010205
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.34128562989272,
+                        "lng": 77.01164037989271
+                    },
+                    "southwest": {
+                        "lat": 28.33858597010728,
+                        "lng": 77.00894072010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a6d60f338eaad6a6492d67f5a4a5127cb446eca4",
+            "name": "Camp Mustang",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115327743507728717730\">Camp Mustang</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAS7sXBSuWfOHHVjAQg2Q3xRKlidG8iFBewm6Cz0Dlom0X0pW4YH_C0dERmRByRC9HhveznWVimNjNItdOg8Q3v4JyACvKa8kQtYRBCRAeg5eKIbW8THQIoZUq2yV7tDOXEhBZW-kUoc_F58E_cXH6drejGhRS3AvinRqAy_h7L9y0aQwro_iL8g",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJnw07rrI8DTkRv9FfOOH-pt0",
+            "plus_code": {
+                "compound_code": "82R6+23 Garat Pur Bas, Haryana",
+                "global_code": "7JWV82R6+23"
+            },
+            "rating": 3.9,
+            "reference": "ChIJnw07rrI8DTkRv9FfOOH-pt0",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 423
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Village Tapovan Ghughtani Talli NH -58 Badrinath, Haridwar Rd, Rishikesh, Uttarakhand 249201, India",
+            "geometry": {
+                "location": {
+                    "lat": 30.132971,
+                    "lng": 78.32559599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.13431677989272,
+                        "lng": 78.32692972989271
+                    },
+                    "southwest": {
+                        "lat": 30.13161712010728,
+                        "lng": 78.32423007010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "333e4bc1fbe8b99bbda3991a0c69e35dfcedec01",
+            "name": "Camping in Rishikesh",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100871474325263546880\">Shailendra Rana</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAnimj6vzDW8VxQR8X4nd2BcTzj3P6G_Nw8xqmc7yVSzmiaTY-Zi9ihc4PqtcyLsc8HlkKbalLOWBmBwxa5sB_Kx9em9waJkrr1H9OCHdRW6EcSUC2nhkVVmTWd8E1EO3AEhA8SiZa4uFgg_DOOWc4Kc59GhTHTkcv1ngShJoYNzOBnPEILAkH4Q",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJM49O4DMRCTkRIChGnj9ObJs",
+            "plus_code": {
+                "compound_code": "48MG+56 Rishikesh, Uttarakhand",
+                "global_code": "8J2W48MG+56"
+            },
+            "rating": 4.5,
+            "reference": "ChIJM49O4DMRCTkRIChGnj9ObJs",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 84
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "H 86 Nagla Kali Kehrai Mod, Agra Shamshabad Raja Kherah Marg, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1275228,
+                    "lng": 78.0303026
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.12887122989272,
+                        "lng": 78.03165937989272
+                    },
+                    "southwest": {
+                        "lat": 27.12617157010728,
+                        "lng": 78.02895972010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3c196353bc25a6960a3675b76e37acb1a61591de",
+            "name": "TAJ INDIA TRIP",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104341896950008766953\">Taj India Trip</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-U7uJ5Vi4lgpSPrljSXZ4iXC0PgQs13q50N1jHzNeyYu2k7zsfjleM2hT3XXsr1T7ywUHX3DY6zK41KObdZHWEC7nqJDetJCwsPmYT9QpcRk-54dfLoljwvjndrZR6ZnEhDQyKUWlZD-sLTvqaaNmfjPGhQNxoD98PPE5D0XZm-Bl4jVj8wL8A",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJVVVVVWl3dDkRRstLbvs2l4Y",
+            "plus_code": {
+                "compound_code": "42HJ+24 Agra, Uttar Pradesh",
+                "global_code": "7JVW42HJ+24"
+            },
+            "rating": 5,
+            "reference": "ChIJVVVVVWl3dDkRRstLbvs2l4Y",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        }
+    ],
+    "status": "OK"
+}

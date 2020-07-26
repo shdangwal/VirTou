@@ -1,0 +1,939 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_gAAAFsrPip8VAaEKu3Q8QVpcfTcyeX6p0jAVKA5dhCr1MbK84OcT5vMIxXSz2N2OAqmY0yoptLZvJE-IWD80k2AhJFT62KArbxzxKAyCZrY71J3_f12OIP2IBJQPV8We0-yuFxMWyKULnH0BqWmNF8KG_fHeu3aFpeXttxe-vB7mmE8_EMmZ9Z6hZccwALSr6z-D5h5nfkJEFp7O47BAFwbMUf36_Uyi6Eq4VELBVt4n69FznwBGQe38Rqgt1qUvl2ED7N1VIL_RjhGzMvt2pZfmqcuJ_mrQgX1BiZXhOAnG-csZEnxKH0-oOqFAFwFnXox1pAQKxTXU6RSTulJnfBMaYESEN4OITaP07LelSLB4VE0mmwaFJMOiOOmCXYr9TBWA4uSQNhh5vmy",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sambhaji Colony, Mathura Nagar, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8852069,
+                    "lng": 75.355975
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88653167989272,
+                        "lng": 75.35722692989273
+                    },
+                    "southwest": {
+                        "lat": 19.88383202010728,
+                        "lng": 75.3545272701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "508b26ad7159a6a41d4b2b5111deec2afb360eea",
+            "name": "Aman Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 648,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100996098452435209519\">hamad al jilani</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA5hPJVB_VGeMcU5-2qD_263kOT3xfPNKa3n4BpYn6OlaDooPWQQQ5Zokz8EEreXRmKe68uuGAMzKvHiUOMLmA81RAltuuUpH76hnX9dkZgzbm3nnWMe6ih2VcghlEszGsEhAoemYbiYgbSWFh8jhleIuaGhRdaeOG1WLnZ4-CuWEbTlty_Yot6Q",
+                    "width": 486
+                }
+            ],
+            "place_id": "ChIJSc3Sg72i2zsR93_oJAonfR0",
+            "plus_code": {
+                "compound_code": "V9P4+39 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9P4+39"
+            },
+            "rating": 3.9,
+            "reference": "ChIJSc3Sg72i2zsR93_oJAonfR0",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Station Rd, Buddi lane, Naralibag, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8915478,
+                    "lng": 75.3260378
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89312587989272,
+                        "lng": 75.3273312798927
+                    },
+                    "southwest": {
+                        "lat": 19.89042622010728,
+                        "lng": 75.32463162010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "67903f34be5d86f3fda1099765a27ddbccd2a68a",
+            "name": "Jama Mosque",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117193076282869627737\">Husain Aliyani</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfw8lMyt9Ip1w11kDEG-crua0hCaQ5aYjYRg7ThpFONviM91pGZCXLnIyz3pRZyIAZA6urb8IacJgbJJaUQohpWrC_kyJUu0uWaI7rsPD2f_DlAx9EbQjN05Y-hvh_qW-EhDJQpjItL2KaIUh47lK-e0BGhQiU1bcgxey-TD9rq3_g45Cz3TAqg",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJpUUt-xCY2zsRmugKDwZGQ8Q",
+            "plus_code": {
+                "compound_code": "V8RG+JC Naralibag, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8RG+JC"
+            },
+            "rating": 4.7,
+            "reference": "ChIJpUUt-xCY2zsRmugKDwZGQ8Q",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2390
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Gulmohar Colony, Sahyadri Nagar, N 5, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8806251,
+                    "lng": 75.3612636
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88208662989272,
+                        "lng": 75.36261202989273
+                    },
+                    "southwest": {
+                        "lat": 19.87938697010728,
+                        "lng": 75.35991237010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "62c6966818acb91671d192804dabf3c98bfa0889",
+            "name": "Masjid",
+            "permanently_closed": true,
+            "place_id": "ChIJP3Jt0yij2zsRtjHeftyG4Pg",
+            "plus_code": {
+                "compound_code": "V9J6+7G Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J6+7G"
+            },
+            "rating": 5,
+            "reference": "ChIJP3Jt0yij2zsRtjHeftyG4Pg",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Cidco, Main Rd, behind chistiya masjid, N-6, Cidco, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8810979,
+                    "lng": 75.360235
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88244192989272,
+                        "lng": 75.36159122989274
+                    },
+                    "southwest": {
+                        "lat": 19.87974227010728,
+                        "lng": 75.35889157010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "c5ce2cc0527e11db90cd6bc94f5433fadb5e184d",
+            "name": "MODERN TOUCH",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 808,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114412998784304803647\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQgIcuKZgqwApnwnY9OabrqHoxAYsWnxQ608EwWg_5vskxcv-YrxMxC4pjxFNri5fLuwOJAQ1BuVAXLk_h_7nbtiilwmmtMPzE86qbasETJgeG3tzb5Y6gsUXAwzkyinuEhB6-2Vdayr85ay6ucR6iK9bGhT_1xSnv381Lb-DrhaxbbOpakRbeQ",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJ6Y1fFZSi2zsRHEU-8lohHqM",
+            "plus_code": {
+                "compound_code": "V9J6+C3 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J6+C3"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ6Y1fFZSi2zsRHEU-8lohHqM",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 159
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "I & II Floor, Masjid Islam Batais,, Central Naka Rd, Indira Nagar, Jaswantpura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8837477,
+                    "lng": 75.35315
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88513072989272,
+                        "lng": 75.35452527989271
+                    },
+                    "southwest": {
+                        "lat": 19.88243107010728,
+                        "lng": 75.35182562010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "6cac919d5150e3e2ba967ba57b539f5460b75647",
+            "name": "Masjid Islam Batais & Madrasa Usman Ghani",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102735824899065604826\">ahmed naazer</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAvuToTN8BLSsNzi0jwbC44TorEvV35Y4Uk17Q1iWpuMDARIQdMRy-Vrs8E609c1ec6-PmLn-eO82y68Ixcxmfeq2fHuJUYl-_e4CMBiPg-B8zcf8ghkZxJAeKqZYmXT99EhCX1YyemORG1xf7boMzljKwGhRBaFm9D6q237lJexT1UvqfFQ1vlg",
+                    "width": 2304
+                }
+            ],
+            "place_id": "ChIJ8eE_95ei2zsRaTaNptNW_m0",
+            "plus_code": {
+                "compound_code": "V9M3+F7 Jaswantpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9M3+F7"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ8eE_95ei2zsRaTaNptNW_m0",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 82
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Govt.College, Qila Arq, Aurangabad, Maharashtra 431004, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8948487,
+                    "lng": 75.33295319999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89619052989272,
+                        "lng": 75.33437432989273
+                    },
+                    "southwest": {
+                        "lat": 19.89349087010728,
+                        "lng": 75.33167467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "3e62eb0ec49e5fd4276687d103c9d1f613f70ce4",
+            "name": "Shahi Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 695,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108528832411226943444\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAPqztnPUWadXzh7g3exWcpIKIm8rZ7DJNpBUdqElL73Mvfa8EbVHBqc4aAGPQTA5id9RYHCJ44WUDh3LVErO7g18sGpdy5e1V5p_h857TtuuuS4BAG2DZFs_Jpx4etC0cEhCIQcT5-cgYu8PclvkAV4lqGhRmrjIAujtoQLOVDRaK-m8yuW2q8w",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJgR2-gwWY2zsRQm9iTRi65bQ",
+            "plus_code": {
+                "compound_code": "V8VM+W5 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8VM+W5"
+            },
+            "rating": 4.9,
+            "reference": "ChIJgR2-gwWY2zsRQm9iTRi65bQ",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 75
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bari Colony, Kiradpura, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8858929,
+                    "lng": 75.3488946
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88724792989272,
+                        "lng": 75.35017502989271
+                    },
+                    "southwest": {
+                        "lat": 19.88454827010728,
+                        "lng": 75.34747537010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "364bf6cea6ebe28ff38746bee87c709a8c8ac4d3",
+            "name": "ABUBAKAR MASJID",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117778159657966295772\">a.nazeer shakeel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAdflddPmTVn99TARirl5UwZBgUXzebCQ6koKdUneM9FjR0JUmhBN-HBjdrnZynrVhD7Lck2ul1M40dXd7nQ0_-zh_mDHgOzrkptAzkZXkxBlf_heFrmtDUTMZdHUEDrQoEhCppMVg9l2cdBk2qf8JqBIdGhTwejpf3uEak-wSqn8gUwEOfLUUEA",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJL6nQQ6Ki2zsRNyVMDavpiik",
+            "plus_code": {
+                "compound_code": "V8PX+9H Kiradpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8PX+9H"
+            },
+            "rating": 4.8,
+            "reference": "ChIJL6nQQ6Ki2zsRNyVMDavpiik",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 81
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Motiwala Nagar, Indira Nagar, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8797555,
+                    "lng": 75.35175679999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88100857989272,
+                        "lng": 75.35310002989272
+                    },
+                    "southwest": {
+                        "lat": 19.87830892010728,
+                        "lng": 75.35040037010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "60978cb07bf0f0a36155d9460b915a3644935f9c",
+            "name": "Amanullah Motiwala Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111178563049610637319\">ismail shaikh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAK9FRCXeIw8g21Qxe9j2Xjx5rZghSGNtljVjq8aiU0B5UtfGDhiQQqGcrBeKWEO2Gzv48kEDDrgpz47Sa5fH5Xp1UXFXaDhYKN_CHGCSGr1tNfLz6_uaAjW1sCHLONfFIEhBRWqs7RnfTe-CrmtNCLC6hGhTJWQRavg8er94QoczDMSS3KytEbQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJjcU66Zmi2zsR9gXpf-0CQkQ",
+            "plus_code": {
+                "compound_code": "V9H2+WP M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H2+WP"
+            },
+            "rating": 4.6,
+            "reference": "ChIJjcU66Zmi2zsR9gXpf-0CQkQ",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 161
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ajabnagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.877597,
+                    "lng": 75.328963
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87894737989273,
+                        "lng": 75.33011392989273
+                    },
+                    "southwest": {
+                        "lat": 19.87624772010728,
+                        "lng": 75.32741427010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "7e4eae457981d54961c5c68efcf9432894e6f98c",
+            "name": "Chhota Takiya Nahri Masjid T.T.S",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114394075478203912121\">Mohd Shoeb</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAo-JWgSKq8F02qFcYpSEXcDKzt4kQrQPKFOMRTQXcfoeFFJPsBj6pOaNO2bKSCaePqMSkFdhGzvD72cRAYgpoOEgpW2VEPhRra95EKyXk8wgXgJXoT7lOu6srMK3cDZDGEhBBIXkis0qc3aZEcjG9u53DGhTljonv_DeKHpD2bIlv2k0uYXkkTw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJPQWq722Y2zsRjJefYEKNvBg",
+            "plus_code": {
+                "compound_code": "V8HH+2H Ajabnagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HH+2H"
+            },
+            "rating": 4.5,
+            "reference": "ChIJPQWq722Y2zsRjJefYEKNvBg",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 50
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "255, 8-19-255, Cidco Rd, Bari Colony, Kiradpura, Aurangabad, Maharashtra 432001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8870954,
+                    "lng": 75.3486911
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88844657989272,
+                        "lng": 75.34999967989272
+                    },
+                    "southwest": {
+                        "lat": 19.88574692010727,
+                        "lng": 75.34730002010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "3ffe12a8147051ba7d63b05c7daf67a43d21c27f",
+            "name": "Masjid Bari",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117778159657966295772\">a.nazeer shakeel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAAWbqd-_hnfDlt50CuM8kCzHGR0Mjkk1chHEUgWOSUjJi-Bsp3054LK1fhRfSgDZk61sqePBhq0wapantX7yZRrETM0ZXHzbAjOforNYaad0mi0lB9rB-sG_GgfnlpvigEhD53DveaUk4sYFgi6zk7EnKGhRTBqP6HVhCkx1_ylBFX5MerUJtSA",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJ3ZAqS6Ki2zsRfilYsXCIlXY",
+            "plus_code": {
+                "compound_code": "V8PX+RF Kiradpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8PX+RF"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ3ZAqS6Ki2zsRfilYsXCIlXY",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Near Clock Tower, Shahgunj, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8870503,
+                    "lng": 75.3353528
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88839232989272,
+                        "lng": 75.33680137989272
+                    },
+                    "southwest": {
+                        "lat": 19.88569267010728,
+                        "lng": 75.33410172010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "99dbc26690c7015794368955073f87f4a07e5f74",
+            "name": "Shahganj Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 315,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100227381082489817315\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9H7JTucevPbQcz5kpiSsGQe2gfqe-zq9gLyh-T1mlko4-pntzVY10Qa3zIi1ia1z0_QymbIDF2L7yY6zinwYqxDJh-XG0NOW2K5eimQjy6nid4BXUxgoZjuhcYgTSnPlEhDjA0d_uDT0n6V8GyiNjsV6GhS-iVR06fInYz7sfx4-bITPw58evw",
+                    "width": 467
+                }
+            ],
+            "place_id": "ChIJD80FdgyY2zsRsYqKuT2D7_A",
+            "plus_code": {
+                "compound_code": "V8PP+R4 Shahgunj, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8PP+R4"
+            },
+            "rating": 4.4,
+            "reference": "ChIJD80FdgyY2zsRsYqKuT2D7_A",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 907
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Central Naka Rd, Indira Nagar, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8825632,
+                    "lng": 75.35335479999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88390257989272,
+                        "lng": 75.35482382989272
+                    },
+                    "southwest": {
+                        "lat": 19.88120292010728,
+                        "lng": 75.35212417010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "d78f4ca25a2fb2ee883bd27c1ae079829bb82ade",
+            "name": "Qamar Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117778159657966295772\">a.nazeer shakeel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACjx4nDn_JXi4puZA1WtCZ5Q9KwKmOzydJpvjITGaT6GU1geG6_ivSgyh62Vhrd0BqWowizfdeyYoiYaGLt1d_Pvvdf1BQGGsdulhO1ahhQPxzk-6g-7xZ1Hkwh5KQchNEhDldHJawRX48mVsApDvvSO6GhRrGzwRXmP51zCPwF10T6og1Zj4Eg",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJU1kZj5ei2zsRsTYtQfTFh50",
+            "plus_code": {
+                "compound_code": "V9M3+28 M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9M3+28"
+            },
+            "rating": 4.6,
+            "reference": "ChIJU1kZj5ei2zsRsTYtQfTFh50",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Near, Lane Number 8, New Baijipura, Indira Nagar, M G M, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8834551,
+                    "lng": 75.350049
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88482487989272,
+                        "lng": 75.35133877989271
+                    },
+                    "southwest": {
+                        "lat": 19.88212522010728,
+                        "lng": 75.34863912010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "c204178162b764123db8b7630aad2f262154c7bc",
+            "name": "Noor Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117778159657966295772\">a.nazeer shakeel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAuLbh4ErzwJJBpvbu2Pge3Znk_n6GMll_W-PMZNxY2METyNgqKKs35Wk7NWD1zyAngZyNtwvapUUjmGfut2pDtZmRCT9J3SEsHty1C245veg3OWQYuofAxsQFfoMD9bvLEhB00yQAVrcR__PpYaaLjECBGhRjmGBtIE02UMlDqILqjtiLjfeydA",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJqcGSYpii2zsReujbo0NSidY",
+            "plus_code": {
+                "compound_code": "V9M2+92 M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9M2+92"
+            },
+            "rating": 4.8,
+            "reference": "ChIJqcGSYpii2zsReujbo0NSidY",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 92
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Aurangabad, Rahemania Colony, Jaswantpura, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.889658,
+                    "lng": 75.3538865
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89095887989272,
+                        "lng": 75.35523782989272
+                    },
+                    "southwest": {
+                        "lat": 19.88825922010728,
+                        "lng": 75.35253817010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "7867eeaf0f28b1c2b3b35f5d750db5623fe51791",
+            "name": "Masjid-e-Ilyas",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117778159657966295772\">a.nazeer shakeel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfpX-1JMHh4SpF_SHaPqmvru0U52IsY3ZvZqhB2SdyU6faEvs86IFpmLdXltZa5ZiwkVMbZt2wRR8n7YrfMn99R6zJagLjoUDOem8_BKKFh0LXmWYRxzrSPNRJLBKAVxJEhBZ4sw2S94Woo8TiV9vsAFZGhSbQiUd8dW00L5XF3MUCBkWOxRgZg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJcQxHu7yi2zsR3Us2TSgIVcg",
+            "plus_code": {
+                "compound_code": "V9Q3+VH Jaswantpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9Q3+VH"
+            },
+            "rating": 4.5,
+            "reference": "ChIJcQxHu7yi2zsR3Us2TSgIVcg",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 39
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "255, 8-19-255, Cidco Rd, Bari Colony, Kiradpura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8877096,
+                    "lng": 75.3480993
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88916517989272,
+                        "lng": 75.34945367989272
+                    },
+                    "southwest": {
+                        "lat": 19.88646552010728,
+                        "lng": 75.34675402010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "0612a9d5aafa5b04722b3e754637af179dabc8e9",
+            "name": "Anas Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117778159657966295772\">a.nazeer shakeel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfQ0rTA4VKRCMULjYNBJg3wG8U9Uzu9a5s6T546hSikb_xapRQMy8ELS7znPlpelbc6GJZsP2Hl_o03iXv2ATMXq2ooXtcGk0Y_IYgNCFSMiF_jJ4Re_sCXPq0PiIIYqWEhAEXNeHHL88tSSLtb7_OoS0GhRflruz5zHl3MX1Y-LM3slMM7kTjA",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJG7FIz6Oi2zsR4NgnXrX9c5Q",
+            "plus_code": {
+                "compound_code": "V8QX+36 Kiradpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8QX+36"
+            },
+            "rating": 4.6,
+            "reference": "ChIJG7FIz6Oi2zsR4NgnXrX9c5Q",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Roshan Gate, Wahed Colony, Sharif Colony, Jaswantpura, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8870291,
+                    "lng": 75.3467106
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88837302989272,
+                        "lng": 75.34806042989271
+                    },
+                    "southwest": {
+                        "lat": 19.88567337010727,
+                        "lng": 75.34536077010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "ef895a2d0d5f5f5a83d97cabd26d26aa8a67ecf2",
+            "name": "Mubarak Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117778159657966295772\">a.nazeer shakeel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA09lsBvg_uleiybVV-b04oXD_Ebj2GQHXI6sLcGX9cpeWcbv25Xs0IaVenG0zdZwfeHnw8afZmhyBkk_PuRswm3vBKcPkIHE4CO8MXnwruWAI-vZ5Pnn4NDy3jk1HwIU5EhD8tZxv5nHNBSDm_HYY7r7JGhSlaYQY6pg29Rv7oO6LFr-ZasTizw",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJIRw2f6Gi2zsRq3BBhkk6hf4",
+            "plus_code": {
+                "compound_code": "V8PW+RM Jaswantpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8PW+RM"
+            },
+            "rating": 4.7,
+            "reference": "ChIJIRw2f6Gi2zsRq3BBhkk6hf4",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "3-11-1487, Indira Nagar, Mondha, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8826452,
+                    "lng": 75.348327
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88402557989273,
+                        "lng": 75.34968537989272
+                    },
+                    "southwest": {
+                        "lat": 19.88132592010728,
+                        "lng": 75.34698572010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "7dfb9ed9ef63e0f2590792820ec23124d06bd73e",
+            "name": "Masjid Bin Raashid",
+            "permanently_closed": true,
+            "place_id": "ChIJ2_ZhwJii2zsRgfSd1zpoXFU",
+            "plus_code": {
+                "compound_code": "V8MX+38 Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MX+38"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ2_ZhwJii2zsRgfSd1zpoXFU",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "431003, Rahemania Colony, Jaswantpura, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8908624,
+                    "lng": 75.3475548
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89218767989272,
+                        "lng": 75.34896652989273
+                    },
+                    "southwest": {
+                        "lat": 19.88948802010728,
+                        "lng": 75.34626687010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "3871a31f4d5e4022b6cd1ffd9a87ee751e285402",
+            "name": "Arfat Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117778159657966295772\">a.nazeer shakeel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_awQ5lUCUbECubdeeKbrb6j9bWr_aASeeJhpVfJ3z2ZXauD4sHzEKZeQXQ3GQmBg9mk28zSgMD4vkvGMOBkot9lWfBDYErjZYm-gJDUKEk4uYhYRMXRqvHSWHNy3nIIOEhC65nRMRFriN_a1YK7FgVxxGhR4aTQ-QRCghYEW_82HEWCRPAE-Iw",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJD8KvG6Si2zsRDVIPpbPX4F8",
+            "plus_code": {
+                "compound_code": "V8RX+82 Jaswantpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8RX+82"
+            },
+            "rating": 4.5,
+            "reference": "ChIJD8KvG6Si2zsRDVIPpbPX4F8",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Rahemania Colony, Jaswantpura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.891281,
+                    "lng": 75.351349
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89264097989272,
+                        "lng": 75.35270187989272
+                    },
+                    "southwest": {
+                        "lat": 19.88994132010728,
+                        "lng": 75.35000222010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "8c307ca3852fe016fbbb1e6eca17fa47e6e13e2a",
+            "name": "Pasha Masjid",
+            "permanently_closed": true,
+            "place_id": "ChIJJ8MNlqSi2zsRbTDmCjnolo0",
+            "plus_code": {
+                "compound_code": "V9R2+GG Jaswantpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9R2+GG"
+            },
+            "rating": 4.8,
+            "reference": "ChIJJ8MNlqSi2zsRbTDmCjnolo0",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jinsi Police Station Rd, Baijipura, Kaiser Colony, Mondha, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8843121,
+                    "lng": 75.345627
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88561267989272,
+                        "lng": 75.34698037989271
+                    },
+                    "southwest": {
+                        "lat": 19.88291302010728,
+                        "lng": 75.34428072010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "d0e787bbf76383ce046f84edfe560dcd935cf6eb",
+            "name": "Ganj E Shahida Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105158778128261689114\">khanjunaidali</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyu20C_aeZOiN53gl6ymV-jcQ4N_h8Y8AxKfwuCCmo0NBoKnvHKkc-l2uvN49EpR9f4yTt0G5go0cGpnliI7C100S8l46lkLEsl0JI7MxJr1v0X9MKEa2y0TLE_utrgvqEhBsl2B6AGW3BSnWpV7pvjv6GhRbq_f05QU_jX0tqefw3We0akRtpg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJy2NU3KGi2zsRivRtooVinyw",
+            "plus_code": {
+                "compound_code": "V8MW+P7 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MW+P7"
+            },
+            "rating": 4.6,
+            "reference": "ChIJy2NU3KGi2zsRivRtooVinyw",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 169
+        }
+    ],
+    "status": "OK"
+}

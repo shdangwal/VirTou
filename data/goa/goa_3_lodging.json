@@ -1,0 +1,958 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Esmeralda Greens, Ella, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4925728,
+                    "lng": 73.9101748
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49391082989272,
+                        "lng": 73.9115089798927
+                    },
+                    "southwest": {
+                        "lat": 15.49121117010728,
+                        "lng": 73.90880932010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "e3e52f8f5036b36df84e76f572f155738bf73cec",
+            "name": "Kinara Classic,Deluxe AC and Non Ac rooms",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2022,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105669824969576510107\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAvvbKFJyI0dCb5qvLYVyEhKn1iLYVPvPvg0ZZCyJCFb5c2CUaksnSRcAC7USjSZswaCrYurJaRNQXC8CXe3wPjuQcaG97J4NTSxsDHDLRi9o5MWyNwEXK_XNO2zwvKH1HEhD1qrjZyQPxDjGSlVk3Q50-GhQynu4uHKWdArGcYB0Zbdcu3c_2gw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJQaSScuu-vzsRyCu573lvUbE",
+            "plus_code": {
+                "compound_code": "FWV6+23 Ella, Goa",
+                "global_code": "7J7MFWV6+23"
+            },
+            "rating": 4.1,
+            "reference": "ChIJQaSScuu-vzsRyCu573lvUbE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "95-96/ Land mark Developer Bainguinim, velha, Goa 403402, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4917799,
+                    "lng": 73.90937980000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49309522989272,
+                        "lng": 73.91076292989273
+                    },
+                    "southwest": {
+                        "lat": 15.49039557010728,
+                        "lng": 73.90806327010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "31b122a6c8aa74e13baf23cb2a7680b25b0d1bc4",
+            "name": "Gomes Pousada Guest House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1360,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113978627194931795288\">Gomes Pousada Guest House</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAML_G7eWNxWnutvjejb4ArE1t2-DUgMDmqPnRYKYGGMiqDNUY1oIWZK8JJcQMb5yyOFb6hT2hjIvVXHrVcY74JZH7PlTO1BO_SS1kOEjyZhJiIWDJ2Np9a3Z14pYJ6mUnEhBsDmrKStvcM0zGHy_GR_imGhRjtu_IRv53Pqb0tXKq_mIXcobJyw",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJUQEypuu-vzsRC3FAQVIJNF0",
+            "plus_code": {
+                "compound_code": "FWR5+PQ Bainguinim, Goa",
+                "global_code": "7J7MFWR5+PQ"
+            },
+            "rating": 3.7,
+            "reference": "ChIJUQEypuu-vzsRC3FAQVIJNF0",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 107
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1 Chimbel, near swami samarth temple, Ribandar, Goa 403006, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.487516,
+                    "lng": 73.86252499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.48894702989272,
+                        "lng": 73.86389172989273
+                    },
+                    "southwest": {
+                        "lat": 15.48624737010728,
+                        "lng": 73.86119207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "8aaecb206e22b417b254a147d16173859464b9c1",
+            "name": "OYO 45477 Vailankanni Nature's Inn",
+            "photos": [
+                {
+                    "height": 2352,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116436429444312621002\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARkf08_wfZ2t4DLDlrQi3wiJ9qV9TSFo-bin4CaNE9wcar1GV6m5n_LIpphyuij-_NoYIpWlHNrWT1szdug_QdBDZcDMUxbwTSnztrGuIiWZGdvdH6LpYwEC8snbBlXMgEhB9rNSyCwr-IrS0jfNpwjFoGhQvIzjZ4yIVJ67VSPK5tx5yGphpwA",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJE9UNeXS_vzsRt-dmF2VjwMk",
+            "plus_code": {
+                "compound_code": "FVQ7+22 Ribandar, Goa",
+                "global_code": "7J7MFVQ7+22"
+            },
+            "rating": 4.3,
+            "reference": "ChIJE9UNeXS_vzsRt-dmF2VjwMk",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 61
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Opposite Grand Hyatt, Bambolim, Goa 403206, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4521989,
+                    "lng": 73.85302399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.45341712989272,
+                        "lng": 73.85412827989273
+                    },
+                    "southwest": {
+                        "lat": 15.45071747010728,
+                        "lng": 73.85142862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "f595b845d3fbda2b0ffb37b593427220f72b2a91",
+            "name": "Casa De Bambolim",
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107618384124597234007\">Casa De Bambolim</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9LqflTyk0FSu2tULCJFHo-lpfohLDLBJ4c1N206SbSud_xcnOWuU84y38P74hMiYVvET7Qzxx84b98sqp8ygK5gPFF7jIKCJgLveiBLz0GJtXaOu5w4wYKDN0lMwc9-LEhBjQs6YRuh-NgQGy7BsLCBMGhRQppPa5YN-Om_yqyYpny6qmkGlyQ",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJiabh0a-4vzsRz-7Ps6SZ7uo",
+            "plus_code": {
+                "compound_code": "FV23+V6 Bambolim, Goa",
+                "global_code": "7J7MFV23+V6"
+            },
+            "rating": 4.1,
+            "reference": "ChIJiabh0a-4vzsRz-7Ps6SZ7uo",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kamat 3BHK, NH748, Bainguinim, Goa 403001, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.488039,
+                    "lng": 73.905846
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.48954932989272,
+                        "lng": 73.90699847989272
+                    },
+                    "southwest": {
+                        "lat": 15.48684967010728,
+                        "lng": 73.90429882010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "65c2d4b3f3567fdb520d359fa92b583eb41c503b",
+            "name": "OYO 62455 Blissful Stay",
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102995982797808256777\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAjBdLQ8SOvDBCjDbarwL8VWiLK8Sbmzj6lkrKgCx-9DFd62NLmzUFXLBnBeQJgunssj9b6xAExmOnS3eDc5F9Y9AJjA_F835MIpK7b1LDr1j9ZPeUrnFRuMtbISQgLfapEhBquCcENDRhx6Xi8Ia42cUyGhRpUr9YS_SEgy8IBekDRe7teIN30Q",
+                    "width": 759
+                }
+            ],
+            "place_id": "ChIJY__rODK_vzsRagShaqU9GVA",
+            "plus_code": {
+                "compound_code": "FWQ4+68 Bainguinim, Goa",
+                "global_code": "7J7MFWQ4+68"
+            },
+            "rating": 5,
+            "reference": "ChIJY__rODK_vzsRagShaqU9GVA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "House No. 225/3 Musqabat Ella, Goa Velha, Goa 403402, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4940389,
+                    "lng": 73.9197688
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49537337989272,
+                        "lng": 73.92114947989272
+                    },
+                    "southwest": {
+                        "lat": 15.49267372010728,
+                        "lng": 73.91844982010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "3da27ee19ba13110156bd9b8005a22c06df6aaff",
+            "name": "Shoolin Homestay",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3854,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110292492313053310433\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAqq0Agm-ZM1_B2vMRrTJoMQDcULaxy4utcc1gvJn5r3fh_MJSavisk_iaPc9ey5e51b7z4Lh6yK6Fu9A6kwyt-pXKNL57OETHdXc-TlRwEPg3JhqscYKlGxMHBRJvwR4XEhCu6-AIE8uEN6yDeVdsf_elGhT9ekxfMbZiW90OliVZy3JBsjIFKw",
+                    "width": 4209
+                }
+            ],
+            "place_id": "ChIJkWX6Eve_vzsRBpOukbu28q8",
+            "plus_code": {
+                "compound_code": "FWV9+JW Goa Velha, Goa",
+                "global_code": "7J7MFWV9+JW"
+            },
+            "rating": 4.4,
+            "reference": "ChIJkWX6Eve_vzsRBpOukbu28q8",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "House No. K/276/1, Shed No Villa A-2 Old Goa, Panjim, Goa, 403402, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4952787,
+                    "lng": 73.8834894
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49662897989272,
+                        "lng": 73.88485727989273
+                    },
+                    "southwest": {
+                        "lat": 15.49392932010728,
+                        "lng": 73.88215762010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "796bcae2019fdcd8dfc283b1293c924a3cb63548",
+            "name": "OYO 10402 Relaxing Stay Near Mandovi River",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104478800600893315446\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOpI9ONV-_G5dtT0athQxSatv6xlcD6HA6TIfw3eMVcWZ3MzepohBrZlEZTE5ukqRQ9zmUtF5dtH8Z0RZEAUpzOk_faIQV5B168Nw9q8zYDPSEWx_XwlSwwgK1JX67IWAEhCWdG9lLKC4z3Xh99ujuDxTGhR4A8Cb9BvVPfAn4y5f9cLnYZkyhw",
+                    "width": 759
+                }
+            ],
+            "place_id": "ChIJVcFbnhy_vzsRNjatKkINBvA",
+            "plus_code": {
+                "compound_code": "FVWM+49 Ribandar, Goa",
+                "global_code": "7J7MFVWM+49"
+            },
+            "rating": 4.4,
+            "reference": "ChIJVcFbnhy_vzsRNjatKkINBvA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "217, Near, Charmanos Badem, Donwaddo, Salvador do Mundo, Goa 403101, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5405196,
+                    "lng": 73.8452145
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.54189282989272,
+                        "lng": 73.84664012989272
+                    },
+                    "southwest": {
+                        "lat": 15.53919317010728,
+                        "lng": 73.84394047010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "9299e1d2870f23c0e74ed4ad667dadc78b68b884",
+            "name": "CASA BOUTIQUE HOTELS",
+            "place_id": "ChIJq6qq1vm_vzsRUntgHWcT3_Q",
+            "plus_code": {
+                "compound_code": "GRRW+63 Donwaddo, Salvador do Mundo, Goa",
+                "global_code": "7J7MGRRW+63"
+            },
+            "rating": 4.3,
+            "reference": "ChIJq6qq1vm_vzsRUntgHWcT3_Q",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "near Railway Station, Carambolim, goa, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4944686,
+                    "lng": 73.91834639999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49571667989272,
+                        "lng": 73.91938232989271
+                    },
+                    "southwest": {
+                        "lat": 15.49301702010728,
+                        "lng": 73.91668267010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "1372ef6881823b5f9a941a26dacc0cb58a95e042",
+            "name": "SPOT ON 36499 Shubhankar Heritage",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112442979588988594628\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAEJiCAA70pj8BWsz6e7DbScEY7PMJvj8H0_-VRewJa1je2mWCXjdW4Nimr_e28hLnMLtnxt9odPR1MzU4P_XE54IKSLExEyR7NuNYyoxdevHwxmufNBSDaYG7Fiee08ffEhB6CA1AMGxFJ3Nrxlx9zoOvGhT83wryz7Nbz1QVIIPfA1AeLpyOaQ",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJl10JL_G_vzsROtOehDBL2tQ",
+            "plus_code": {
+                "compound_code": "FWV9+Q8 Carambolim, Corlim, Goa",
+                "global_code": "7J7MFWV9+Q8"
+            },
+            "rating": 4,
+            "reference": "ChIJl10JL_G_vzsROtOehDBL2tQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Divar Island, Goa 403403, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5276933,
+                    "lng": 73.9065883
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.52903797989272,
+                        "lng": 73.90822772989272
+                    },
+                    "southwest": {
+                        "lat": 15.52633832010728,
+                        "lng": 73.90552807010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "b86de13022c0471a4da983898f772a9493aaade7",
+            "name": "Mercure Goa Devaaya Retreat",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 465,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109383708437798283506\">Devaaya Ayurveda Spa Resort</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwSjHAZdP5XFMD3CCxGxCoR1_a7bISbJ5fY7cNJ4iMlxbU_q1_XYeprwzl-gxWV0vcsuSTg3jsDI8bZFL0emVvCq0J_mKXbOpM1ljs1CHpHI_-pzND7HDVKlzjnfnDAzAEhCvvC5XJ3hnCqOe92tICsUTGhTxMqtUSiEnNVFkQLRdgsugjU-jlg",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJ5TRcZI7AvzsRHWGS9Ms0bRQ",
+            "plus_code": {
+                "compound_code": "GWH4+3J Piedade, Goa",
+                "global_code": "7J7MGWH4+3J"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ5TRcZI7AvzsRHWGS9Ms0bRQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "St. Lawrence church, Casa Bhatt, Agacaim, Near Coco Loco Village, Tiswadi, Tiswadi, Goa 403204, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.429885,
+                    "lng": 73.903359
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.43137022989272,
+                        "lng": 73.90507442989272
+                    },
+                    "southwest": {
+                        "lat": 15.42867057010728,
+                        "lng": 73.90237477010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "ba7c3641334747d23ef98f68d81b0d142540403c",
+            "name": "Brit's Palace Goa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3394,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117740669135455978143\">Brit&#39;s Palace Goa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAsFwzE_nLezws32RFSXbzYK1g0KEZ3rqtLsXk3OG_iVeL90t_6DZu1xeeTKA1kNg3IGCf7353fBoPl9mvnZl0DUR_QoQbW0HWW_saw4mZEVzD1pntZtuNvJdMBr9uxzdlEhCjqttlKjBJA9LpZNwUpYJkGhQewEWHZy5FLP-4Wej2ytJYCEUi4w",
+                    "width": 5261
+                }
+            ],
+            "place_id": "ChIJDYYVzA-5vzsRWEEVi4qGl5c",
+            "plus_code": {
+                "compound_code": "CWH3+X8 Tiswadi, Goa",
+                "global_code": "7J7MCWH3+X8"
+            },
+            "rating": 4.3,
+            "reference": "ChIJDYYVzA-5vzsRWEEVi4qGl5c",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "145, Caribhat, Carambolim, Corlim, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.489468,
+                    "lng": 73.930486
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49084982989272,
+                        "lng": 73.93183897989273
+                    },
+                    "southwest": {
+                        "lat": 15.48815017010728,
+                        "lng": 73.92913932010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "b733f89ae04448d2500697e649a7cdc5851aafc2",
+            "name": "OYO 18687 Lake View 3BHK Villa Carambolim",
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115510948648804151426\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1vvjxYfx1WAex4nS5zi0wLjKD5u55j2R2OKSrbs_KgOg5G8_JIoo6V6NBicwQkcCzk3fRZ1jREcW2W9Jg8sky63DxG6EzCoae6hed36RFJ69uDDuTNUHq6lLoxaDv8nuEhAzyYHpcsyfty3O2LOpcFTFGhQXX5K4h-8HZtT_w7BuutLbGlnd3Q",
+                    "width": 759
+                }
+            ],
+            "place_id": "ChIJ73AESke_vzsR6prQa4cjXT8",
+            "plus_code": {
+                "compound_code": "FWQJ+Q5 Carambolim, Corlim, Goa",
+                "global_code": "7J7MFWQJ+Q5"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ73AESke_vzsR6prQa4cjXT8",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "National Hwy 4A Bypass Rd, opposite Divar Ferry, Ribandar, Goa 403006, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5003559,
+                    "lng": 73.8772795
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50175007989272,
+                        "lng": 73.87865167989271
+                    },
+                    "southwest": {
+                        "lat": 15.49905042010728,
+                        "lng": 73.87595202010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "7c4f12aee41ecba565dda7cc5658522de779fcd3",
+            "name": "OYO 49000 River Isle Guest House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114855291986509614902\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAABHz1PhOdMODjakXIK6ZK1r5oOXEeT0chgcuqUVSAJB9fgjGL4USAf3j-rnqrYsWJg_FBuetl4W1JCOghEpThZg7HwN2Pn-hI_A0MPxXDhwpeeb9LzGMnV4iCqC-16E4aEhAOtQEt-maPoekekAWBBwhSGhSeW6xfCR7WnRIJOu-G8Lb8MDiVlQ",
+                    "width": 759
+                }
+            ],
+            "place_id": "ChIJl024hQW_vzsRpPbJvrN58bM",
+            "plus_code": {
+                "compound_code": "GV2G+4W Ribandar, Goa",
+                "global_code": "7J7MGV2G+4W"
+            },
+            "rating": 4.1,
+            "reference": "ChIJl024hQW_vzsRpPbJvrN58bM",
+            "types": [
+                "lodging",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 372
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "UG2,F2 Flat UG2(First Floor) and F2(Second Floor), Lawande Panthea, Curca, Goa 403202, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4530429,
+                    "lng": 73.8684869
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.45441827989272,
+                        "lng": 73.86985747989273
+                    },
+                    "southwest": {
+                        "lat": 15.45171862010728,
+                        "lng": 73.86715782010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d160698a7330ceafc5c40c34932ba1f66fa617af",
+            "name": "OYO 26700 Greek Style 3BHK",
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105027431131657911985\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAS2SZTKAG3KIB0RCUETaTol0BVsUF1wHr0fLhCLsjm27mW3_0qz-TUR2EsiCsa3ausE7KMRH1Ojmk1qSF2_MTnALi3l8IDJTD2jY2kTPZ6Injf1uJ2xNc2SB_G02wX_yKEhC06ghhbrbX9HRay6fyVE7nGhSZXP9IIVuhfS_MefC3i-F8xdR9Gg",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJK6YGaCm5vzsRgUFk8_qghrc",
+            "plus_code": {
+                "compound_code": "FV39+69 Curca, Goa",
+                "global_code": "7J7MFV39+69"
+            },
+            "rating": 4.9,
+            "reference": "ChIJK6YGaCm5vzsRgUFk8_qghrc",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Chinch Wada, Chimbel,Tui Wadi, Panjim, Goa, 403001, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4968262,
+                    "lng": 73.8676715
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49818672989272,
+                        "lng": 73.86898837989271
+                    },
+                    "southwest": {
+                        "lat": 15.49548707010728,
+                        "lng": 73.86628872010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d5ad52daaf8596a7c5a8d79a446380948159a2af",
+            "name": "Village Inn",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 428,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114641401285067354491\">OYO StayOut 742 Near Old Goa Bypass Road</a>"
+                    ],
+                    "photo_reference": "CmRaAAAApe8uTRjVebB7Jncn2FEt0yC_0tySv_sZCJagVM0KrCIa1ttZsgu6fX8dONTQkVJ__CH5nV8sLx8D2eNhP4NR2bvE4RJl7BCvOjHvItikHCMw0u5AuSLdN5SYq7lRlPhDEhCV8JZ7ZXCu1I_Clf_P0RQfGhRHkb27gV2Wv5PHUVJUY3Rd9OHgbg",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJwyhIew2_vzsR31xHqo-6ybs",
+            "plus_code": {
+                "compound_code": "FVW9+P3 Ribandar, Goa",
+                "global_code": "7J7MFVW9+P3"
+            },
+            "rating": 3.9,
+            "reference": "ChIJwyhIew2_vzsR31xHqo-6ybs",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 162
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Villa No -9,Magia ARR, Salvedor Do Mundo, Bardez, North Goa, Goa, Goa, 403101, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5362937,
+                    "lng": 73.85391609999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.53766162989272,
+                        "lng": 73.85526642989272
+                    },
+                    "southwest": {
+                        "lat": 15.53496197010728,
+                        "lng": 73.85256677010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "22b2165d53339286b2607783ca61202ea4fe9b87",
+            "name": "SuryaVillaGoa",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 576,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101598858096233612640\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWHOB5RT-mkzYmBkbroBMw9ACRDOuuAexRPk0T67fRzLJgj4_h9Oid4mLtiAcrpOVp1td9-DgbFZiq8TluWlt1ccXy_zEKl7rIku5s00D9rpx4yFwdNxRUxLmHB_53vkSEhCVHEHqg5Z4YjIrPSoxGu09GhRHx-EStDPz96c1JOHF9EbZLlhVDA",
+                    "width": 1152
+                }
+            ],
+            "place_id": "ChIJc6DP4fG_vzsRvMOgeLuVrtc",
+            "plus_code": {
+                "compound_code": "GVP3+GH Donwaddo, Salvador Do Mundo, Bardez, Goa",
+                "global_code": "7J7MGVP3+GH"
+            },
+            "rating": 4.3,
+            "reference": "ChIJc6DP4fG_vzsRvMOgeLuVrtc",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Near Karmali Railway Station, Carambolim Lake road Junction, Lake Road, Carambolim, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4856898,
+                    "lng": 73.92324479999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.48703352989272,
+                        "lng": 73.92451047989272
+                    },
+                    "southwest": {
+                        "lat": 15.48433387010728,
+                        "lng": 73.92181082010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "e3ef67398655df627bd1cabf64110b38cf58cca5",
+            "name": "Hotel Wilsha",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108385745454585955982\">Hotel Wilsha</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA8RMrAe_axRaO9ecc7kYf5pSJBUHDDbAKGPzJ5IyBmDul4IqpLR6WNhYJuHNer4dW0PQvIIBATVOXl7U19Z-5yjZGgGxCrlLNwFprllq3L7pTftxdiXHdMvUy51dnNt3KEhAqXOhBLRqOZGx17c4Ouvz2GhSgkckNVZbKuPWG_Tp_SeQsW2GJxg",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJZ3g827y-vzsRaW0ltLvl81k",
+            "plus_code": {
+                "compound_code": "FWPF+77 Carambolim, Corlim, Goa",
+                "global_code": "7J7MFWPF+77"
+            },
+            "rating": 3.4,
+            "reference": "ChIJZ3g827y-vzsRaW0ltLvl81k",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 335
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Flat No. F-306 Near Sunshine School, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.485366,
+                    "lng": 73.90808
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.48653772989272,
+                        "lng": 73.90941992989272
+                    },
+                    "southwest": {
+                        "lat": 15.48383807010728,
+                        "lng": 73.90672027010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "510e5644ac73a0899f85af04a991bfedc1811b32",
+            "name": "OYO 11430 Home Green View 2BHK Old Goa",
+            "photos": [
+                {
+                    "height": 428,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114423367477104204323\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAN3Ye_Gv331hkkGpmFJ98vk_2v-ohYZqqRTvYFglYlaY_fRPm1s7hb6zVLCiFwTQVYbMYlcF7vcwXM2cA1lRJ_yiu1KT-wt9MVoLGi0Qb1sFPQB73lRbUf_1VPN4K8ZRiEhC9Fr6ueWtahFJl4Lc3UDRBGhTd3nKfDg_V77dTnwIom79eajSJjQ",
+                    "width": 761
+                }
+            ],
+            "place_id": "ChIJp6m8i1i_vzsR8BRqW7_a0W4",
+            "plus_code": {
+                "compound_code": "FWP5+46 Bainguinim, Goa",
+                "global_code": "7J7MFWP5+46"
+            },
+            "rating": 4,
+            "reference": "ChIJp6m8i1i_vzsR8BRqW7_a0W4",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Carambolim, Corlim, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4900786,
+                    "lng": 73.9321401
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49139292989272,
+                        "lng": 73.93359882989273
+                    },
+                    "southwest": {
+                        "lat": 15.48869327010728,
+                        "lng": 73.93089917010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "010be49117d230ddd0ef961c16ad37f583072525",
+            "name": "Sai Chand Guest House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107317924923533831801\">sageer shaikh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAp5DZ3juQjW5ADz9JXqUWeQ16EXo93kGkDkjH_skmo4FRnzwq0FLuIoANJJL35KuiMd5-_YYwqX7jk_DKGctZiGMnxPyYd55b-LbIy-z3BwVwgO9NmIw_E-rEn7g9qQpmEhCF6L04vBJGpCSJGie5Qkm3GhT58h0TzYc2ipaU66QbRjVvUH_60w",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJxXp-Y5--vzsR9K_jj1079Wk",
+            "plus_code": {
+                "compound_code": "FWRJ+2V Carambolim, Corlim, Goa",
+                "global_code": "7J7MFWRJ+2V"
+            },
+            "price_level": 2,
+            "rating": 3.1,
+            "reference": "ChIJxXp-Y5--vzsR9K_jj1079Wk",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 77
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Zuari Bridge, St. Lawrence Agassaim, Casa Bhatt Near, Aga\u00e7aim, Goa 403204, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4253379,
+                    "lng": 73.8997578
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.42666632989272,
+                        "lng": 73.90107217989274
+                    },
+                    "southwest": {
+                        "lat": 15.42396667010728,
+                        "lng": 73.89837252010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "b0f86abd033e1ca54346cb2656dcf19a6f740d59",
+            "name": "Brit's Palace, Goa.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 532,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114246933028304677048\">Brit&#39;s Palace Goa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAIyM4bJelu6JPB9GjygE2h8Q-Ry09oZKtT38r_5fCL2gZZZCi4GjoTXLSHwMp3pcmQp_oAAdGH066lnZOwLll-a5v7S4HZeQpSoQ94Nxg60V_UPGpME2kvYS_YZsZT6MkEhDvUXHoZNlu9-CP-2CXpesmGhTZJCtgP2WRxHiY2Gh6M2u7O0m7Wg",
+                    "width": 1152
+                }
+            ],
+            "place_id": "ChIJmR1a7wW5vzsRRl_pebUxtZU",
+            "plus_code": {
+                "compound_code": "CVGX+4W Aga\u00e7aim, Goa",
+                "global_code": "7J7MCVGX+4W"
+            },
+            "rating": 4.1,
+            "reference": "ChIJmR1a7wW5vzsRRl_pebUxtZU",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 195
+        }
+    ],
+    "status": "OK"
+}

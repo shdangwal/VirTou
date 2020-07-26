@@ -1,0 +1,386 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jama Masjid Rd, Jama Masjid, Chandni Chowk, New Delhi, Delhi 110006, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6506792,
+                    "lng": 77.23344209999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65255469999999,
+                        "lng": 77.23563715
+                    },
+                    "southwest": {
+                        "lat": 28.64881270000001,
+                        "lng": 77.23126895000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "2a98649594e737494fd435d38976efae9690e439",
+            "name": "Jama Masjid",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105348819924043974731\">MOHD SADIQ AHMAD</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAw8omHUTFnL6r8MUJ3fu9TENdCFQk7Dw4nwUS0IXhHWgUJ4gG6cxkNlqabgcHW66-VdEv34N7MQbvuAGQNfW1cG4tf256VuV6LJLz_P5p3-ql0lmT3rzajB_lcxtuBmPCEhCtkzPtgWgpRVS52FDonlZAGhRtJAure2MbY9j3E-_hf8P-PDJAOQ",
+                    "width": 2340
+                }
+            ],
+            "place_id": "ChIJFbKJ3xj9DDkRlp2_KZ42V90",
+            "plus_code": {
+                "compound_code": "M62M+79 New Delhi, Delhi",
+                "global_code": "7JWVM62M+79"
+            },
+            "rating": 4.6,
+            "reference": "ChIJFbKJ3xj9DDkRlp2_KZ42V90",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23761
+        },
+        {
+            "formatted_address": "Jamali Kamali, ladha sarai, Mehrauli Archeological Park Trail, Christian Colony, Mehrauli, New Delhi, Delhi 110016, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5195712,
+                    "lng": 77.1871446
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52089267989272,
+                        "lng": 77.18864447989272
+                    },
+                    "southwest": {
+                        "lat": 28.51819302010728,
+                        "lng": 77.18594482010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "a54a478d7443ea1a65fd0d5ced7b4205be95f60d",
+            "name": "Jamali Kamali",
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101876958891126988274\">Akash Das</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAeqATROcXzjhkes2pTw739PiI-lUT3unGGpQIolEnaD_-3-LNiwQC21hE1YfgiailgB9DGJLDb1uVe2MnZTI5Xv5scI-qlVwphAjdBjxayt4QtBiVeCAUm2uOgeUXzQN6EhBsov5YMpnIYizqmf5KQkz8GhQLKY3134OE2fFZ5VatxphRjSCJ0Q",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJA6cG8wQeDTkRT9TZpZYfT24",
+            "reference": "ChIJA6cG8wQeDTkRT9TZpZYfT24",
+            "types": [
+                "premise",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Lal Qila, Old Delhi, New Delhi, Delhi 110006, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6568443,
+                    "lng": 77.2431421
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65819412989272,
+                        "lng": 77.24449192989272
+                    },
+                    "southwest": {
+                        "lat": 28.65549447010728,
+                        "lng": 77.24179227010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "b183dbe02a39bde9b5966661ad9e7b382c87f63f",
+            "name": "Moti Masjid",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110166554224251950256\">M P</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA3yPfCzD9TfdfRe_INSysTUV1Nyd_oQ2DlhgSOuI14S_jH02oenkteT6g8xT6aLSekDO3jRmwn6RK0uMn6HVWd72FtlRjIfsEvxyQb02oPUQVgQrIBLfmBWDPrCgu0Y56EhCkNMf4Z6_EHlDLalEAAJ0dGhR61c4XxRnlZt0cX2HKpi2Oeq5krw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJzW1EUuL8DDkR8cummg0Wg90",
+            "plus_code": {
+                "compound_code": "M64V+P7 Old Delhi, New Delhi, Delhi",
+                "global_code": "7JWVM64V+P7"
+            },
+            "rating": 4.3,
+            "reference": "ChIJzW1EUuL8DDkR8cummg0Wg90",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 372
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "92, Masjid Moth Rd, South Extension, Masjid Moth Village, South Extension II, New Delhi, Delhi 110049, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.562558,
+                    "lng": 77.21850599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56386442989272,
+                        "lng": 77.21984487989272
+                    },
+                    "southwest": {
+                        "lat": 28.56116477010728,
+                        "lng": 77.21714522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "a9a1b4842c620873e559b2524581fcb6eda6d99f",
+            "name": "Masjid Moth",
+            "photos": [
+                {
+                    "height": 1312,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114693970025357819720\">Asif Ali</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhrgD1oBiJvAgP8zm2JIg39tV69f_L5B2KPggx951emT0Xy9BpWS4sLHYjAApC4wOKGGWMUhWQxgmUDZpCQOK-fhnS-NC7mVXQKzZOBqutI3lMWj2psWOa1o6XSkgCg5fEhB2TBbcjcCuoGCn06rCfhmCGhTqB_L0ZL0VgaxbqeqON1MW2pJFrA",
+                    "width": 1792
+                }
+            ],
+            "place_id": "ChIJ6VCZeULiDDkR-ECxGFS68LI",
+            "plus_code": {
+                "compound_code": "H679+2C New Delhi, Delhi",
+                "global_code": "7JWVH679+2C"
+            },
+            "rating": 4,
+            "reference": "ChIJ6VCZeULiDDkR-ECxGFS68LI",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 610
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Hazrat Nizamuddin Road, Nizamuddin, Nizamuddin West, New Delhi, Delhi 110013, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5917967,
+                    "lng": 77.24337249999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.59306932989272,
+                        "lng": 77.24480162989272
+                    },
+                    "southwest": {
+                        "lat": 28.59036967010728,
+                        "lng": 77.24210197010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "2519b46f428c919cb53b86617e5c6577f7c1be8e",
+            "name": "Alami Markaz Banglewali Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116479250745911256242\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMM2TU9W9V_3YzuQtFFCUJBAtj1DKp3EAt7QWhh_uoGUOn3qh8FI4dLC5cXMo90xUhUuT5KA22AZD3M6obHy1E8_XUub9PggP_jQr8LU496Aot4CPKR3mqgFRF7bDTWJjEhCy-UK5nEQDN4EqV83I68kkGhQW0jd3BFzoiDJ7hXtxkHGNvbzbyQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJl1mM1RzjDDkR8ic5CYatUmM",
+            "plus_code": {
+                "compound_code": "H6RV+P8 Nizamuddin West, New Delhi, Delhi",
+                "global_code": "7JWVH6RV+P8"
+            },
+            "rating": 4.8,
+            "reference": "ChIJl1mM1RzjDDkR8ic5CYatUmM",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3791
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "1841, Main, Chandni Chowk Rd, Chandni Chowk, New Delhi, Delhi 110006, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.656014,
+                    "lng": 77.2318583
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65744752989272,
+                        "lng": 77.23321267989273
+                    },
+                    "southwest": {
+                        "lat": 28.65474787010728,
+                        "lng": 77.23051302010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "3acf084317cda72e3bade980ed06ceffdcf05c52",
+            "name": "Shahi Sunehri Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110277121225297520867\">Kirti Krishan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxBfY19tYPNriVK_3zvYOM58WhqaKT6H5m3OVdGAnX4yXB40rO4m0LhfNSdu4-xO0GS1OLBUMEpDZ15E8m_N4zoaIK42LYUuNbct3LDlPuQoHpctZ4u-Twm35ryyXqPezEhDYqrIhOfLFyHjnntwTtioZGhS-u3GEDrPkyNKhYjZeBxMkFnQkeA",
+                    "width": 4208
+                }
+            ],
+            "place_id": "ChIJTcQRqRv9DDkR3mCDNurkhC8",
+            "plus_code": {
+                "compound_code": "M64J+CP New Delhi, Delhi",
+                "global_code": "7JWVM64J+CP"
+            },
+            "rating": 4.3,
+            "reference": "ChIJTcQRqRv9DDkR3mCDNurkhC8",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 161
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Paani Tanki Road, Zero Street, Sana'a, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.517454,
+                    "lng": 77.17818989999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51880402989272,
+                        "lng": 77.17956372989272
+                    },
+                    "southwest": {
+                        "lat": 28.51610437010728,
+                        "lng": 77.17686407010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "276cea01d71950ee2a1be7fe2e873da1fd7b99e6",
+            "name": "Hijron ka Khanqah",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108211257599298619951\">Ishtyaque Ahmad</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2D9AlNj0gC2cn8B5BDf_k14I2eU8v-asqFON8p1zFq5IWGWMXBobTh3HPNygudmZAVbvbt141flXFX2MJTPF37KXQI07IXVnUjKRtAI1_unZycFi9WHsG6xABU7v1JdnEhAJM6zuEMd8XZltEWRDJb1dGhTHNqtaJgeXu4XPHkyKueOuaglVTA",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJh02itQ4eDTkRZ_3ZAiGxTsE",
+            "plus_code": {
+                "compound_code": "G58H+X7 Mehrauli, New Delhi, Delhi",
+                "global_code": "7JWVG58H+X7"
+            },
+            "rating": 3.9,
+            "reference": "ChIJh02itQ4eDTkRZ_3ZAiGxTsE",
+            "types": [
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 170
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nishad Raj Marg, Lal Qila, Old Delhi, New Delhi, Delhi 110006, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.650456,
+                    "lng": 77.2395193
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65166487989272,
+                        "lng": 77.24095197989271
+                    },
+                    "southwest": {
+                        "lat": 28.64896522010728,
+                        "lng": 77.23825232010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "b73ec1e8ac8f0dab7ca19f1f0b7cfbe73f4ad13a",
+            "name": "Sunehri Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101828180510644162225\">\u90b1\u5782\u9032</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAn_AAObhkj1P5zMRFLRxq_pUoa1NtTDlTav4dH2UW4Mz2ZLz9ld6O8hAilqVTEvyyIcU9W7EtlXWF4cboIGlqSWjOiQbocDMV_xvkSDXUx5SttmVUIfDEbRd4i7h6_k1WEhDrpRdoik2uWAMbLDG6M7ddGhQJ28SIPkRgkBr08DQQ8FWmQfdszA",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJDezRLh79DDkR52U_yMXmQbM",
+            "plus_code": {
+                "compound_code": "M62Q+5R Old Delhi, New Delhi, Delhi",
+                "global_code": "7JWVM62Q+5R"
+            },
+            "rating": 4.4,
+            "reference": "ChIJDezRLh79DDkR52U_yMXmQbM",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 417
+        }
+    ],
+    "status": "OK"
+}

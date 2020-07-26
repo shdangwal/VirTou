@@ -1,0 +1,554 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Village Sanjharia, Before Toll Gate, Via Vatika City Thikaria, 22 Milestone,, Ajmer-Jaipur Expressway, Jaipur, Rajasthan 302026, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8645821,
+                    "lng": 75.58988459999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.86585572989272,
+                        "lng": 75.59108917989272
+                    },
+                    "southwest": {
+                        "lat": 26.86315607010728,
+                        "lng": 75.58838952010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "6bbd33662efa8350bfe46b9756f1dbdaa9870907",
+            "name": "SwapanLok Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 317,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109834745663428533667\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1WV_U9w3L-nQJ5wp9_PDljtSzDlsGUctxF5gk4_qEEF3OQ8Sxl0thI3zqLAv1OaFKrS5vJ88wH42viw761WtTYD8VK7L9FrD15ZI2lxJIdQdfJrdtuuJFW9V581vqmMyEhC90SClAfuFnlEaDaRDp6LrGhSxunVH5lYujjaJRT3Aw2yWbguFmw",
+                    "width": 501
+                }
+            ],
+            "place_id": "ChIJEQ9GvxFJbDkRYOQzp22y85A",
+            "plus_code": {
+                "compound_code": "VH7Q+RX Jaipur, Rajasthan",
+                "global_code": "7JRQVH7Q+RX"
+            },
+            "rating": 3.9,
+            "reference": "ChIJEQ9GvxFJbDkRYOQzp22y85A",
+            "types": [
+                "amusement_park",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1217
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "village - sohanpur , alwar - sikendra -jaipur highway, RJ SH 25, Alwar, Rajasthan 301001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.4447346,
+                    "lng": 76.6131825
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.44613507989272,
+                        "lng": 76.61464737989272
+                    },
+                    "southwest": {
+                        "lat": 27.44343542010728,
+                        "lng": 76.61194772010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cda5a2dc0d757c77e5bd921d906f469da8cf6018",
+            "name": "SARISKA FUN CITY",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 880,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112337642769955951804\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAALf5PiIW8Bi1MvLZsiNtsMmMmLDw7sIBmCJmGRqQtsSg_wOjNo4sM1FhlYK_Ni6Xs6h8KAXchZzkspz9OgKR4nfdDKTq9eSiMPHUY7jdxKdLg0gqtPC-xUEYAD-IXXHpJEhDk8PuHWtdiNWNaqBLa_WCgGhTLT4P8UKLcU4szCReN26ApKZQV_Q",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJH3MHz3iFcjkRXmBeWRQMJ6w",
+            "plus_code": {
+                "compound_code": "CJV7+V7 Alwar, Rajasthan",
+                "global_code": "7JVRCJV7+V7"
+            },
+            "rating": 4.1,
+            "reference": "ChIJH3MHz3iFcjkRXmBeWRQMJ6w",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Laxmipura, Jaipur, Rajasthan 303305, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8915835,
+                    "lng": 76.23290109999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.89636834999999,
+                        "lng": 76.23450095
+                    },
+                    "southwest": {
+                        "lat": 26.88998855,
+                        "lng": 76.22810155
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c72da8c99219652639604d07e881e828c20e8f24",
+            "name": "Aalyali Ki Talayi",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118259400134291297997\">NIHAL SINGH RAJPUT</a>"
+                    ],
+                    "photo_reference": "CmRaAAAALvIDMkM52JXHb4-MTtO57x-yh28PUERXfUDL6Aqpi1IwI-nNabjWZu6nkGdbuzkI9VzaiN-M0fXX3quiJUjeNjeQMi8bAA61af27HOMH4sFnZqB-SdbRgQA3BlHeVntwEhBOUN7iko_z314cv7zGp8jPGhSvAsMXOUyxGd_DCSpUr0y1M9sB1Q",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJmxdXpN2SbTkReda_txStBaU",
+            "plus_code": {
+                "compound_code": "V6RM+J5 Dayal Pura, Rajasthan",
+                "global_code": "7JRRV6RM+J5"
+            },
+            "rating": 4,
+            "reference": "ChIJmxdXpN2SbTkReda_txStBaU",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "NH 11C, Delhi - Jaipur Expy, Achrol, Rajasthan 303002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1358492,
+                    "lng": 75.9792026
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.13654805,
+                        "lng": 75.98083994999999
+                    },
+                    "southwest": {
+                        "lat": 27.13375265,
+                        "lng": 75.97429055
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e705bc3dcacf88beb7b1961c8ed8adf95399c5a7",
+            "name": "Moto Sport Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3121,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108596760723260769440\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfqNK1WEWf4WMJ314AXxpyYln4XCt0QJN_I4YRxS4DhC-A5LkLtxEThrYQKR2mAMfct0fgMDmsxObac5mkCK8tAtWRtzIO_Qp04sqIrupBdPYYMn4TzJzlDuBpJQ3HDFVEhD3CeHfutolBFfU6-QCGYS7GhSNgpCCdYO-YsVL_QKqw2kSuSb98A",
+                    "width": 5456
+                }
+            ],
+            "place_id": "ChIJuxW-8bqmbTkRrBtyGGeB1Hc",
+            "plus_code": {
+                "compound_code": "4XPH+8M Achrol, Rajasthan",
+                "global_code": "7JVQ4XPH+8M"
+            },
+            "rating": 4.6,
+            "reference": "ChIJuxW-8bqmbTkRrBtyGGeB1Hc",
+            "types": [
+                "campground",
+                "parking",
+                "tourist_attraction",
+                "amusement_park",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 184
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kasra no 105/1 Village charanwas, tala road, Delhi - Jaipur Expy, Jaipur, Rajasthan 303002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1729611,
+                    "lng": 76.0000841
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17440227989272,
+                        "lng": 76.00158032989272
+                    },
+                    "southwest": {
+                        "lat": 27.17170262010728,
+                        "lng": 75.99888067010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "59c1aaab52c9200da52851f2e70990583b3fb987",
+            "name": "Riverarch Wetlands Water & Play Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 809,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112193106171603545130\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANx0nbFczap71HNv64MLVOvBwi1xWZE8MPwfkSrac1bJrHtul5eWsdKEhY9WVOZ6HapNoRXpmnaz66x3u672IYe7TddmGmRfNQlEVjMOeZeC7XkTdnniwSkNO6QfdosooEhD5BhGIxPqXidII3iZgdKeGGhTEXeK6oHk3gHDrE-X4yHlFQUhAUw",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJJ1h8NqChbTkR-4S8A5x_clw",
+            "plus_code": {
+                "compound_code": "52F2+52 Chak Charanwas, Rajasthan",
+                "global_code": "7JVR52F2+52"
+            },
+            "rating": 5,
+            "reference": "ChIJJ1h8NqChbTkR-4S8A5x_clw",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jaipur, Rajasthan 303603, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.0700885,
+                    "lng": 75.381777
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.07143417989272,
+                        "lng": 75.38343032989272
+                    },
+                    "southwest": {
+                        "lat": 27.06873452010728,
+                        "lng": 75.38073067010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3d7cc6a2cfd4f8f795c867c67949d38971e3bedf",
+            "name": "\u092a\u0902\u092a \u0939\u093e\u0909\u0938 \u092a\u091a\u0915\u094b\u0921\u093f\u092f\u093e",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114740513567521250441\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAPkC5-yYAMdhE2WzQM95Wfy0ezLG974U-7K5t_TiOfdKgsPwJCbrizC2qtcxVpZqVfzye0zRqr78GKmU52TqFMQdyzQr30sPZya5u8OdsJ4wwuaasPi2yu2Q095-JAIApEhBEPcsRjQPXttjyfjwzTIXTGhSG2iba3uE7y0B6l5ABw1xA0Wc83Q",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJHwx38dZfbDkRaCMfF2XqjH8",
+            "plus_code": {
+                "compound_code": "39CJ+2P Pachkodiya, Rajasthan",
+                "global_code": "7JVQ39CJ+2P"
+            },
+            "rating": 0,
+            "reference": "ChIJHwx38dZfbDkRaCMfF2XqjH8",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ringus Road,Khatushyamji, Sikar, Near N.H-52,Jaipur-Sikar road,Bikaner, Highway, Khatoo, Rajasthan 332602, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.3723125,
+                    "lng": 75.42820549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.37378817989272,
+                        "lng": 75.42952072989272
+                    },
+                    "southwest": {
+                        "lat": 27.37108852010728,
+                        "lng": 75.42682107010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c4518d1a0ee30371e832312dee4a25fa848ba3dc",
+            "name": "Golden Waterpark Khatu Shyam Ji",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2267,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102376710364706209958\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAvaE4g1kf45y2GVx6M68ty9W3NXL62qAWTwHfljz7VziAkMfQFQMEMSuxwCnkc3YEY37bo0dwmwktVfG0aKuJ5l__-TZgm5RCJAKxn4CQBuW_5REqoMh812r2C4I6-H1YEhBBYQ2ds241WXRAifNi3_fsGhSlMU141HSNTbe03HztcSsLNe7Ynw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJIdqtLNrtbDkRZSkUk2zmeCk",
+            "plus_code": {
+                "compound_code": "9CCH+W7 Khatoo, Rajasthan",
+                "global_code": "7JVQ9CCH+W7"
+            },
+            "rating": 4.4,
+            "reference": "ChIJIdqtLNrtbDkRZSkUk2zmeCk",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1745
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Rajasthan 303119, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.486612,
+                    "lng": 76.0506362
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.48813377989272,
+                        "lng": 76.05215477989273
+                    },
+                    "southwest": {
+                        "lat": 27.48543412010728,
+                        "lng": 76.04945512010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "98d4a66d2ba25d12010170da05d2661eac2ec5e7",
+            "name": "Highway Water Park &Resort",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2112,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104946579092354292803\">Banti jat</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAN5UcLoR9x3jlEaKx7MbMglymAYjQVTvgfeKEZt_4EIDMl-aAOPViKcd2PZDfAeeeL8g7_Tx23Umj90JSHzGnYjVyKYEaoSonJTUk-HowF4_wOUtCIzV0Q2QDrnFxumi2EhAb24y9HTaBBlfjTa0eWbv4GhTOi4CtP6fxERvfZDOlEUjffbEbSA",
+                    "width": 3044
+                }
+            ],
+            "place_id": "ChIJk91POEkTbTkRSBpYJnxq_Bw",
+            "plus_code": {
+                "compound_code": "F3P2+J7 Neelka, Rajasthan",
+                "global_code": "7JVRF3P2+J7"
+            },
+            "rating": 4.4,
+            "reference": "ChIJk91POEkTbTkRSBpYJnxq_Bw",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jaipur, Rajasthan 303604, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8879074,
+                    "lng": 75.0358085
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.88910387989272,
+                        "lng": 75.03689337989272
+                    },
+                    "southwest": {
+                        "lat": 26.88640422010728,
+                        "lng": 75.03419372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1cf961024832d11b6c2735bfae6b17e191233178",
+            "name": "The water park in korsina",
+            "permanently_closed": true,
+            "place_id": "ChIJtSs9x5p3bDkRUWerr-HfyDs",
+            "plus_code": {
+                "compound_code": "V2QP+58 Korsina, Rajasthan",
+                "global_code": "7JRQV2QP+58"
+            },
+            "rating": 5,
+            "reference": "ChIJtSs9x5p3bDkRUWerr-HfyDs",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "State Highway 57, Tejya Ka Bas, Rajasthan, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8926307,
+                    "lng": 75.2076404
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.89402127989272,
+                        "lng": 75.20945467989273
+                    },
+                    "southwest": {
+                        "lat": 26.89132162010728,
+                        "lng": 75.20675502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0af19f263ab638bfa60cec11d47e1983ef530ae8",
+            "name": "Water Park Irolav",
+            "permanently_closed": true,
+            "place_id": "ChIJ30ckBfpubDkR26RUqg1RibQ",
+            "plus_code": {
+                "compound_code": "V6V5+33 Tejya Ka Bas, Rajasthan",
+                "global_code": "7JRQV6V5+33"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ30ckBfpubDkR26RUqg1RibQ",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Golden Bagh Hotel Kati Ghati, Bhakera, Alwar - Jaipur Rd, Alwar, Rajasthan 301001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.5184002,
+                    "lng": 76.5900815
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.51983692989272,
+                        "lng": 76.59148232989271
+                    },
+                    "southwest": {
+                        "lat": 27.51713727010728,
+                        "lng": 76.58878267010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f26c9ee264090a434da0ecd933b962eef599ab0d",
+            "name": "Golden Mizzle",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 853,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106327508688269350370\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAARtec_hnnqUyrgINgTGoaa8UEHZnchs8Xo4fjWiSLcfhGXmvQBwwVsA2HZ-_275RLxrdJdcgSLeWTOOYmynyuc10Lk4GMP-R_SezNddEEejJfMjy8bfYFJwwCj_jozVjEhBcJ-MuQIV1w1btOQLfMygMGhQHTmJLnCrAMk9vDcjMLriZDbmNRw",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJATzvZK6bcjkRlA5Y1VPjRI8",
+            "plus_code": {
+                "compound_code": "GH9R+92 Alwar, Rajasthan",
+                "global_code": "7JVRGH9R+92"
+            },
+            "rating": 3.9,
+            "reference": "ChIJATzvZK6bcjkRlA5Y1VPjRI8",
+            "types": [
+                "amusement_park",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 140
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "43rd Milestone, Main Delhi-Jaipur Expressway, NH-8, Gurugram, 122001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.3624847,
+                    "lng": 76.9410195
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.36384457989272,
+                        "lng": 76.94233537989273
+                    },
+                    "southwest": {
+                        "lat": 28.36114492010728,
+                        "lng": 76.93963572010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "c8d75f691e0b642b17a82d0ff33108c73d17e80e",
+            "name": "Aapno Ghar Resort & Amusement Park",
+            "place_id": "ChIJ_7Pj9jU8DTkRK0UCrUnTjmY",
+            "plus_code": {
+                "compound_code": "9W6R+XC Gurugram, Haryana",
+                "global_code": "7JWR9W6R+XC"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ_7Pj9jU8DTkRK0UCrUnTjmY",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        }
+    ],
+    "status": "OK"
+}

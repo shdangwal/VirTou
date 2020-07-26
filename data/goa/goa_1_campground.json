@@ -1,0 +1,894 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mandrem, Goa 403527, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.673939,
+                    "lng": 73.7393416
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.67531477989272,
+                        "lng": 73.74067287989273
+                    },
+                    "southwest": {
+                        "lat": 15.67261512010728,
+                        "lng": 73.73797322010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "9471ca565d7718192e0b4a6ee2bd441d5f786bbb",
+            "name": "Mandrem Goa Campsite",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111574250683923014813\">Santosh Naik</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhAdLMVBnqc60BNkNSmAT_ZI12X9VUfOXBMaKugC7BWAjI2de0USnqcXQldWttIxxKwPeDJYeuKxJ3WTUgRbnfTWZiYk401zGJ7zOcXkkhn0hdt_LFY60L8A6GtbeMlXrEhA2TNmxOpsWiQXWuGJg21SAGhSEsfI7YKibKwQqWIGubgT2xQOatA",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJjVdUKYTuvzsRUT4Y0bGlEZY",
+            "plus_code": {
+                "compound_code": "MPFQ+HP Mandrem, Goa",
+                "global_code": "7J7MMPFQ+HP"
+            },
+            "rating": 4.1,
+            "reference": "ChIJjVdUKYTuvzsRUT4Y0bGlEZY",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Waterfalls Rd, Kulem, Goa 403410, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.3375293,
+                    "lng": 74.244951
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.33883167989272,
+                        "lng": 74.24642892989273
+                    },
+                    "southwest": {
+                        "lat": 15.33613202010728,
+                        "lng": 74.24372927010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "e522edaf01af0d6db588bcd1b366490adea76a06",
+            "name": "Jungle Book / Jungle Cafe",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111223784667509958566\">Navin Matonkar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2Via15jnpGC6Zdl8GrHCuE86gQP_t-3BZIqJjkPm7DIr-IsVJxCFE6kZ8Sff3HHH6VndQHB_TEG3y79YMcMvI7T5DEQItMLs7FZuyEtokVDmRU5Mj6aOI5PZhK__QxzPEhCJ7zsvqf32ilu-KsjxkZniGhSeSvZYnps67X6jQREsfNGqJTvKZQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ_Z0nmhMHvzsRN_MpOVMq4t4",
+            "plus_code": {
+                "compound_code": "86QV+2X Kulem, Goa",
+                "global_code": "7J7P86QV+2X"
+            },
+            "rating": 4,
+            "reference": "ChIJ_Z0nmhMHvzsRN_MpOVMq4t4",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2043
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Parra,, Goa 403509, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5794189,
+                    "lng": 73.7784552
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.58077337989272,
+                        "lng": 73.77982247989273
+                    },
+                    "southwest": {
+                        "lat": 15.57807372010727,
+                        "lng": 73.77712282010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "2212b38f53895159a96a00c2bfdb32d1ea17427e",
+            "name": "Parra Ground",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112312642166825392456\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhEa9Zf0ALJg96gM0cCIOkGXLZMBwVxdBXRpSt79C7hoSz_r7bWWNvtzRuaHoTYPk2cSaBq1y4fXkCyvxrZsoZy092M0C84p-CVPjvkJ_M8BXpSxE4oIaad4IRs7sQUKVEhBFP8T6zk80skDLXROHqj5QGhREOdXkuWvJ2qAiYlT3tim_gXAHig",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJFX-l60XqvzsRqvRF97TcKS4",
+            "plus_code": {
+                "compound_code": "HQHH+Q9 Parra, Goa",
+                "global_code": "7J7MHQHH+Q9"
+            },
+            "rating": 4,
+            "reference": "ChIJFX-l60XqvzsRqvRF97TcKS4",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Colva Beach Rd, Mungul, Margao, Goa 403601, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.2820145,
+                    "lng": 73.9522903
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.28339522989272,
+                        "lng": 73.95363962989272
+                    },
+                    "southwest": {
+                        "lat": 15.28069557010728,
+                        "lng": 73.95093997010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "20d74bf380863758ef2659553b39e5c3051a3ef2",
+            "name": "Roque Santana Cotta Farm Grove",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 900,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106790617452507596881\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA5ixrAwrj_D_XhchIeUa2AV15gn0_fxD-MoMfBW2rN-P2NifJiu3hh1h9c9izAldNsest1c6X-ECYEiAtgXpL6lmjI7krPSkuQf1GLO1-92J72-xr30DIIb9yDj15wMyMEhBtpiV_1o4KuwPQW81yRfkuGhRjxfpALB5XBCNUtcR7-_O5p8wFdg",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJs8rA7eOzvzsRSCqTBcYRTA4",
+            "plus_code": {
+                "compound_code": "7XJ2+RW Margao, Goa",
+                "global_code": "7J7M7XJ2+RW"
+            },
+            "rating": 4,
+            "reference": "ChIJs8rA7eOzvzsRSCqTBcYRTA4",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Govt. School Road Satchebhatle, Mandrem, Mandrem, Goa 403512, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.6631077,
+                    "lng": 73.7419017
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.66455352989272,
+                        "lng": 73.74327282989272
+                    },
+                    "southwest": {
+                        "lat": 15.66185387010728,
+                        "lng": 73.74057317010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "787fd1b62da387ff707717883c7bb8a708dc9d73",
+            "name": "The Moustache Mermaid Camping",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116263119386516578187\">hemant dixit</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYyhuZyZ28jF8VOYh86eZtVm3eII7FHzJG2WxKbaBY-EZoo-ydeFm6RkRGGQ93KXOMjSbuI-piQE6qenhALnqYE0znkDJMBfZr0TcCXOBX81CzhYjJJhktMR4ZvZD0TACEhCWbKZFVOGn-UAmha_NjvuKGhSkQAFsZ0u6F_gki6pC8DuS3a2dvQ",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJbaJK-GTvvzsRmeuDTQ9zubY",
+            "plus_code": {
+                "compound_code": "MP7R+6Q Mandrem, Goa",
+                "global_code": "7J7MMP7R+6Q"
+            },
+            "rating": 5,
+            "reference": "ChIJbaJK-GTvvzsRmeuDTQ9zubY",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "SY 408 - Hankon village, Karwar Taluka,, Karwar, Karnataka 581317, India",
+            "geometry": {
+                "location": {
+                    "lat": 14.890661,
+                    "lng": 74.203214
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 14.89200452989272,
+                        "lng": 74.20453567989271
+                    },
+                    "southwest": {
+                        "lat": 14.88930487010728,
+                        "lng": 74.20183602010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "6f9e5d9e9cf193693612edde5c1a8692e6ddbd14",
+            "name": "Camp Riveredge Paradise",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 410,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113861171852362422917\">Riveredge Paradise Resort</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAubKTiTvVl2CdGyQOw7VDOKyCYu0GIzNGkKyOaOq4TQB5P_tfyb_RVRux3qA6ZgcS5DdMciX-1A3NSYCstMGVJPSNeAxRFHCPw3aLIaDdiSP2E703B2fq1-Kg-VL35vvvEhB8B14rYdXh8Z3PFoy2O_gSGhTCnxw0dsSltRBAofRtjUb0hMnC9w",
+                    "width": 728
+                }
+            ],
+            "place_id": "ChIJ10ABGs5gvjsRZcsHwXF7GGE",
+            "plus_code": {
+                "compound_code": "V6R3+77 Karwar, Karnataka",
+                "global_code": "7J6PV6R3+77"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ10ABGs5gvjsRZcsHwXF7GGE",
+            "types": [
+                "campground",
+                "rv_park",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "109/3 Guruwal, Agonda, Goa 403702, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.0365232,
+                    "lng": 74.0008825
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.03749167989272,
+                        "lng": 74.00222697989271
+                    },
+                    "southwest": {
+                        "lat": 15.03479202010728,
+                        "lng": 73.99952732010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "48ed78c7e71640efce36eb62b6c185c4cd5d63ad",
+            "name": "Credo Jungle Resort - Agonda",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 594,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102652345793598029977\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmh5R4B3TYeMD5IQP3H4uUQqu0MKCYPynYdnyOK_TZUhxOyGCp7odYQEjeVawOOhdUXBY8eh_oka427D9vNueq1_KMPyAqURSy1bBdXiMWHW5iwOQ-6SWBOpceSUZR-rKEhBGrodTzcxRzRZnsX5BP0yhGhTLUDwWV3Adg_j964-Ew4eP8Fxwxw",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJAxsNA5RPvjsRipzHgoQz0zI",
+            "plus_code": {
+                "compound_code": "22P2+J9 Agonda, Goa",
+                "global_code": "7J7P22P2+J9"
+            },
+            "rating": 4.4,
+            "reference": "ChIJAxsNA5RPvjsRipzHgoQz0zI",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 83
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "H.No. 1513, Polem Beach, Loliem, Canacona, Goa 403728, India",
+            "geometry": {
+                "location": {
+                    "lat": 14.9100386,
+                    "lng": 74.0807066
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 14.91187112989272,
+                        "lng": 74.08251557989271
+                    },
+                    "southwest": {
+                        "lat": 14.90917147010728,
+                        "lng": 74.07981592010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "c4a568c85f0f11c0dead50326c16fedbb388411e",
+            "name": "Kamaxi Beach Resort",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101960164528639265297\">akash pathade</a>"
+                    ],
+                    "photo_reference": "CmRaAAAABKjSk_Yhh0pHSbypV2cqcCxJgGsiHMNKGW56BI-NifG1hNdM4ppvlwHWULppPdyAQRcpT-cYXB-oFgNNg0H6hHbTPOpXdTCW-M1QX4zNcRuplZekYf8IC0V35UzKGDOWEhCcYX2coLZE8I4qgdd74-2sGhS1nKNbedhEfJ0W9CouT7Uq0ncMMg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ4bKFE15cvjsRw4VKytp5XeY",
+            "plus_code": {
+                "compound_code": "W36J+27 Canacona, Goa",
+                "global_code": "7J6PW36J+27"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ4bKFE15cvjsRw4VKytp5XeY",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 377
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "H.No-774/3,flea market road Near Joe Bananas, close to Curlies St Micheal vaddo, Anjuna, Goa 403509, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.570341,
+                    "lng": 73.7447928
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.57168772989272,
+                        "lng": 73.74628557989273
+                    },
+                    "southwest": {
+                        "lat": 15.56898807010728,
+                        "lng": 73.74358592010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "bb255ad13108f3e90746cada8580dddca1bd642c",
+            "name": "Roma John Guest House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 667,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108352823197357488306\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHhjl2j3N4VDSV_1TxYHGZyvSuYzEORSd0Suh3dztzCFqxrKgGrCw4W1ZnrKaFV89ZKU-iMpMBlmjQckfr0nuzFNAtq9IXeTliM3xmRZpiT28TOego97N4I9XigT9FjNSEhDB_36zg7rid1ShI1gcZ8P2GhT-kqGMs7cqIQjx4j5XxPwWQIyAKQ",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJt_n1rIvpvzsRBVPcONnIjyQ",
+            "plus_code": {
+                "compound_code": "HPCV+4W Anjuna, Goa",
+                "global_code": "7J7MHPCV+4W"
+            },
+            "rating": 4.5,
+            "reference": "ChIJt_n1rIvpvzsRBVPcONnIjyQ",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Fatrade Rd, Fatrade, Varca, Goa 403721, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.2261221,
+                    "lng": 73.93427989999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.22754937989272,
+                        "lng": 73.93556817989273
+                    },
+                    "southwest": {
+                        "lat": 15.22484972010728,
+                        "lng": 73.93286852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d517b20ca9e918add8c4f3bef92ff28fff13de37",
+            "name": "Asian Holiday Homes",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106759520494325765688\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA7pkLiHz2Dr_abPeMhDTSOoPWQ_oBgU8MmXJj6QvoP2jfQk_MQ9fzQromxMESo44m7d3NhXlH2pQtuarcTu2dk6G4b2G25Uo1kuhpOzB9mokbcWclE9BYDPoaYPkRhZg-EhBGp5kzrhxs3JwGkkcuYHegGhTDMWn2ak8bMOwbCjbrEaBECP0JEg",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJSyqdgcq1vzsRM6cH42BX6UQ",
+            "plus_code": {
+                "compound_code": "6WGM+CP Varca, Goa",
+                "global_code": "7J7M6WGM+CP"
+            },
+            "rating": 5,
+            "reference": "ChIJSyqdgcq1vzsRM6cH42BX6UQ",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Near Goan Cafe, Vithaldas Vaddo, Morjim Beach Road, Morjim, Goa 403512, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.6261124,
+                    "lng": 73.73062089999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.62748902989272,
+                        "lng": 73.73195237989272
+                    },
+                    "southwest": {
+                        "lat": 15.62478937010728,
+                        "lng": 73.72925272010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "0aa0d5cd89a760c5255221f80eaba13b9f3d5824",
+            "name": "Lobos Paradise || Beach Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ63__9k3pvzsRcL9boKxr0fQ",
+            "plus_code": {
+                "compound_code": "JPGJ+C6 Morjim, Goa",
+                "global_code": "7J7MJPGJ+C6"
+            },
+            "rating": 5,
+            "reference": "ChIJ63__9k3pvzsRcL9boKxr0fQ",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "lakhere, Borden, Bicholim, Goa 403504, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5968166,
+                    "lng": 73.96142069999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.59793302989272,
+                        "lng": 73.96243777989272
+                    },
+                    "southwest": {
+                        "lat": 15.59523337010728,
+                        "lng": 73.95973812010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "5a3ca2f55d14153b71a1b57fbb68d4744591057e",
+            "name": "jiya Farm With Swimming Pool",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106924878859180321706\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA26qMg8XAmwCXvS-6sQgeoSV_imtZKtWZmHf48h3efQx_eRH9jhV6QaJBU1L_hXWWp9OteDLEurVgWjh7iWRZJcOvtNqXj62hD2UVYQrrmSXXSIPrahUs89wW-OsKVdknEhCIjteSOsj4P18G4Te9D-3uGhSgCGaVOBU0mkUksX0PMMgYZBb0aQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJt6LhBWWXvzsRMgOT4ZvjCpw",
+            "plus_code": {
+                "compound_code": "HXW6+PH Borden, Bicholim, Goa",
+                "global_code": "7J7MHXW6+PH"
+            },
+            "rating": 4,
+            "reference": "ChIJt6LhBWWXvzsRMgOT4ZvjCpw",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Junas Waddo, next to Dunes Holiday Village, Mandrem, Goa 403527, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.664785,
+                    "lng": 73.71391299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.66613702989272,
+                        "lng": 73.71530717989272
+                    },
+                    "southwest": {
+                        "lat": 15.66343737010728,
+                        "lng": 73.71260752010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "6ee8288d856130d680bf26cfef8f32f5481ba046",
+            "name": "Olive House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 667,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105361288921527436970\">Mighty Magpie</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOnvvXKRmPGd5Q1Vg5qhyUjZg9RAvdzRjX7rEjkZbu6dZjeabUFuiev8ZVPl-2k-EFAqAcIhGNUg8s2Y-pH02CtZi4J0fE9-tsd-e5vDrR7Sj4MbeY3KRRRZv2YMB6P46EhDs1XtHiFTmT-Ue6jCGkt__GhQzHVIQyTFL7NWIlu2hnjpXKhzQDA",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJ26v_we_uvzsR_a1Smak3d0Y",
+            "plus_code": {
+                "compound_code": "MP77+WH Mandrem, Goa",
+                "global_code": "7J7MMP77+WH"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ26v_we_uvzsR_a1Smak3d0Y",
+            "types": [
+                "car_rental",
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dr Alfonso Rd, Opp. Nobel House, Tivai Vaddo, Bardez, Calangute, Goa, 403516, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.538843,
+                    "lng": 73.7619
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.54024042989272,
+                        "lng": 73.76324412989271
+                    },
+                    "southwest": {
+                        "lat": 15.53754077010728,
+                        "lng": 73.76054447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "ba6c685b93d54a6fbcbc5e6ca7445540984a1e44",
+            "name": "Amigos Guest House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 667,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114670893475958654328\">Amigos</a>"
+                    ],
+                    "photo_reference": "CmRaAAAABZSONv5qlMNZ7xxZdSXz3R8GvSKEl_BcaocxfslGORzQStXS0_wCQ6lKjAHRm7-ccQ_Z1rZTJoTuAwxuCHYf0z-Nt5kej_B4MZ8kTPutmJEk4_2Zc4Kx_Z3BGmRWNALxEhDTpafkc8kJPrCsqb2cTZPMGhTWq_Wv4LTi4M8srhNj-YpJ0W0xBQ",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJGceFj-TBvzsRm_O2IHTwnCQ",
+            "plus_code": {
+                "compound_code": "GQQ6+GQ Calangute, Goa",
+                "global_code": "7J7MGQQ6+GQ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJGceFj-TBvzsRm_O2IHTwnCQ",
+            "types": [
+                "campground",
+                "real_estate_agency",
+                "travel_agency",
+                "lodging",
+                "park",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 51
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "North Goa Surla, Sancordem, Goa 403406, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4108501,
+                    "lng": 74.20031569999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.41217557989272,
+                        "lng": 74.20200367989271
+                    },
+                    "southwest": {
+                        "lat": 15.40947592010728,
+                        "lng": 74.19930402010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "56bf5671bd8255770571ed40b01cb5854408409f",
+            "name": "Natures Nest Goa",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 555,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102306654814310504805\">Nature&#39;s Nest Hotel</a>"
+                    ],
+                    "photo_reference": "CmRZAAAApVF7rELGWNMRPpvJoPWPu-c2G2msu1OxrGWL3QR8CGUkqBK88Ksev2jbFYi8vTCZBbf_XNcwIeFUFnXOcpA9XgMrlgXjMUMeEjok5Z5wqDUlPHyUYxgBz_R26CFO-lD5EhAzSsP6Tr87goIjqYr8aRw1GhQ7zGFZ1tW7XGjQ-cGdiDkfovzynQ",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJIb7U4nKxvzsRLDNZYl4vVY4",
+            "plus_code": {
+                "compound_code": "C662+84 Sancordem, Goa",
+                "global_code": "7J7PC662+84"
+            },
+            "rating": 4.4,
+            "reference": "ChIJIb7U4nKxvzsRLDNZYl4vVY4",
+            "types": [
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 232
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "FF-2, Antoneta Apartments, No. 5, St Joaquim Road, Borda, Margao, Goa 403602, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.2839283,
+                    "lng": 73.9709218
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.28501167989272,
+                        "lng": 73.97235582989272
+                    },
+                    "southwest": {
+                        "lat": 15.28231202010728,
+                        "lng": 73.96965617010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "6ddad940e14dd45938b8465587818bd098416849",
+            "name": "Verdant Trails",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3731,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111042137068778769234\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAq2u0lDTj2CvlKAI3-3cxfntF2syOU8u204YAY61oC-edKFXbRnI-bNTYq8VJqbst2xq93K4YC__U2p9capD1SbF16HemjMvx-8Qe6r6OhipKQK-HslJYnzNlVW1kOGDBEhD1i_mUKeLrl6uYk1i_TCmEGhT1XfSQc1RYznLzhfzjYpHfvQxg6Q",
+                    "width": 5586
+                }
+            ],
+            "place_id": "ChIJd7MaQYCxvzsRqy_8f0B_tM8",
+            "plus_code": {
+                "compound_code": "7XMC+H9 Borda, Margao, Goa",
+                "global_code": "7J7M7XMC+H9"
+            },
+            "rating": 0,
+            "reference": "ChIJd7MaQYCxvzsRqy_8f0B_tM8",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kali River Garden, Karwar, Karnataka 581303, India",
+            "geometry": {
+                "location": {
+                    "lat": 14.8373748,
+                    "lng": 74.1336566
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 14.83872657989272,
+                        "lng": 74.13497307989272
+                    },
+                    "southwest": {
+                        "lat": 14.83602692010728,
+                        "lng": 74.13227342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "f9153d19750809b7b5bfc34cf58624f07d144ef2",
+            "name": "Kali River Garden Camping",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1158,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100023484939193724430\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANpFLioCfAOJyuxBCiY4u364mcutCqeSCd98x5kOEcUz6m1U64KC006KsxUHcKFBwvNNt19zTgGdlaGwjbLGHmymOirieBKsRQaYkEsYtNvIU8gd15pe1DybKRtrFGDc-EhCBYA_6-2Qsr5qFO-FaLv5IGhQAyoTaUyhmlqTP3fNjLDN3nT1Fag",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJP2iNDnlhvjsRPprxnDiQtC0",
+            "plus_code": {
+                "compound_code": "R4PM+WF Karwar, Karnataka",
+                "global_code": "7J6PR4PM+WF"
+            },
+            "rating": 4.3,
+            "reference": "ChIJP2iNDnlhvjsRPprxnDiQtC0",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Surla, Goa 403406, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4391836,
+                    "lng": 74.233736
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.4440904,
+                        "lng": 74.23526602989271
+                    },
+                    "southwest": {
+                        "lat": 15.437548,
+                        "lng": 74.23256637010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "926a46134da810f694fe9c19a0011fbd498d8ead",
+            "name": "Backwoods Camp",
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111348762757313450235\">Goa Birding</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAw0_WxOSqRQfL7mn61R_0JFpEJSKVYJOAC4wLWryx166usYiGLv1YzxAw5PxD_81TsMtSKeS1zcIhqCgaa9EzyxhuKd_vk_P9ptZFRWg687jX7QA_jQThKs1ntdzOSlHTEhB94PKf_TmuFSus2k2YBw21GhS5j-JC1C3mZ9OSdIAvZbUZF34bdw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJcatf40EJvzsRKjN_fMlG6o0",
+            "plus_code": {
+                "compound_code": "C6QM+MF Surla, Goa",
+                "global_code": "7J7PC6QM+MF"
+            },
+            "rating": 5,
+            "reference": "ChIJcatf40EJvzsRKjN_fMlG6o0",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        }
+    ],
+    "status": "OK"
+}

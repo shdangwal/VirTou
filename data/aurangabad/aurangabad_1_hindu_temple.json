@@ -1,0 +1,883 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCBAEAANC6bcWLToDPax8mkqnS6Tg7rjB4FCwhB7kkPbxFpSc0Lq9NNRMUlM7sShf6zLd1ZOSp-gty2SaZVXPYkTKsPks2z9WXivHVy1tWv1tdjYGRlxvEBTqtdr8PkBi-66fJYYNFfO3HXEH11FJQxDjs0rU9W67wO8iGkowTs0EA5f3AOhm4KJTxXIxBXR4SV16ixAYoZSaH-9Ab8mNcTakf1bQuj6PQ4FDLVMHygqHBItT9w6hgOivCULBLxSLxYCorx57v9I1QGnroWruyd3oD6n1VLQij5BYws638Kp5RXew5SN6GPeUmhyB6aWlDBFweyXzkNKAml0fcLEZRXk6iieINMq7cGuRWf7g1Vg8FIcBWEhDzVIBREGid-YBwGpDsaZo7GhQpEOKC-ZwnG6oeeOHwRNaf5EcRLQ",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sambhaji Colony, Mathura Nagar, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.883758,
+                    "lng": 75.355997
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88507247989272,
+                        "lng": 75.35735237989272
+                    },
+                    "southwest": {
+                        "lat": 19.88237282010728,
+                        "lng": 75.35465272010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "e5eaa63706fb5737fde4ebf624fa7c01cb183588",
+            "name": "Kulswamini Tulja Bhavani Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJV2CDM5ai2zsRQwNdU1k3zC8",
+            "plus_code": {
+                "compound_code": "V9M4+G9 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9M4+G9"
+            },
+            "rating": 3.3,
+            "reference": "ChIJV2CDM5ai2zsRQwNdU1k3zC8",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sambhaji Colony, Mathura Nagar, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8847743,
+                    "lng": 75.3553615
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88613687989272,
+                        "lng": 75.35675527989272
+                    },
+                    "southwest": {
+                        "lat": 19.88343722010728,
+                        "lng": 75.35405562010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "ecec710158b2c0388a96a29dd07ca5aa1873d453",
+            "name": "Maruti Temple",
+            "permanently_closed": true,
+            "place_id": "ChIJjQUe9imj2zsRPk4Wxz4qpUs",
+            "plus_code": {
+                "compound_code": "V9M4+W4 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9M4+W4"
+            },
+            "rating": 0,
+            "reference": "ChIJjQUe9imj2zsRPk4Wxz4qpUs",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Aurangabad,, N 7, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8919469,
+                    "lng": 75.3599248
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89328167989272,
+                        "lng": 75.36122542989273
+                    },
+                    "southwest": {
+                        "lat": 19.89058202010728,
+                        "lng": 75.35852577010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "e3a4bc9da9b7694d4c3fee0f2bd138ed88d6a715",
+            "name": "\u0926\u0941\u0930\u094d\u0917\u093e \u092e\u093e\u0924\u093e \u092e\u0902\u0926\u093f\u0930",
+            "permanently_closed": true,
+            "place_id": "ChIJ4X7CRrmi2zsRdg9NbM-qtYw",
+            "plus_code": {
+                "compound_code": "V9R5+QX Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9R5+QX"
+            },
+            "rating": 5,
+            "reference": "ChIJ4X7CRrmi2zsRdg9NbM-qtYw",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "N 7, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8885363,
+                    "lng": 75.3606829
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88988327989272,
+                        "lng": 75.36198442989271
+                    },
+                    "southwest": {
+                        "lat": 19.88718362010728,
+                        "lng": 75.35928477010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "c82d2b3a603cb6b1d3c3abe9ca314169ae5ddb18",
+            "name": "Mahadev Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117763939750535297046\">MANGESH MAHAMUNI</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA5MTYfY70q7_LgUP11N2pOSZPcyOML4-dugcGC0c76FpZNeBLIRfvMOhH1CeaYKqJwEoLn8Wvwi73RY-P-j4DYTbnA5nhEUtWWG-aBKM1YfXJXYRn7LXemLr79Z1l91XlEhDyDqGUpCDj03FDT5YxjBuzGhRjxCdL8c6s271twrzpe7UdtP1zrw",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJS3Uk8b6i2zsRgLdWWufCa38",
+            "plus_code": {
+                "compound_code": "V9Q6+C7 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9Q6+C7"
+            },
+            "rating": 4.6,
+            "reference": "ChIJS3Uk8b6i2zsRgLdWWufCa38",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sambhaji Colony, E- Sector, N-6, Sambhaji Nagar, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.885081,
+                    "lng": 75.355274
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88644172989272,
+                        "lng": 75.35666407989272
+                    },
+                    "southwest": {
+                        "lat": 19.88374207010727,
+                        "lng": 75.35396442010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "a45c858f996a901152193093d8fbbded90722e1d",
+            "name": "Satya Shiv Mahadev Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJYZZ7fL2i2zsRKNeingYvTv8",
+            "plus_code": {
+                "compound_code": "V9P4+24 Sambhaji Nagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9P4+24"
+            },
+            "rating": 4.5,
+            "reference": "ChIJYZZ7fL2i2zsRKNeingYvTv8",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Renuka Nagar, N 7, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8917865,
+                    "lng": 75.36001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89313167989272,
+                        "lng": 75.36141957989273
+                    },
+                    "southwest": {
+                        "lat": 19.89043202010728,
+                        "lng": 75.35871992010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "1ff86ca0477356b035630464a73db72d50e49d37",
+            "name": "Shree Datt Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 288,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107191393422454796196\">amit bhalerao</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAi2p-ByHJwCGBiQkmY2InVlqaS4zLEdOVwOQ_0H5SsRZMZVbDqOH0OX-O6B_9V6joL7uS-3b1Uq2F9dyHhgA7s5dp2ucgLetg_P9PAQTadzI0nxWkJTaPC3kLQTvTTaOLEhC2LvvvC0lVC-cLUGS8cIbfGhROsmQitTCj6kgMImi3gjk2yTK_dA",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJB4O0R7mi2zsRDpFK0VTI2O4",
+            "plus_code": {
+                "compound_code": "V9R6+P2 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9R6+P2"
+            },
+            "rating": 5,
+            "reference": "ChIJB4O0R7mi2zsRDpFK0VTI2O4",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Gulmohar Colony, Sahyadri Nagar, N 5, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8818052,
+                    "lng": 75.3612492
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88312037989272,
+                        "lng": 75.36259922989272
+                    },
+                    "southwest": {
+                        "lat": 19.88042072010728,
+                        "lng": 75.35989957010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "f691097a52c9a1455888db5efabcec386e89b1eb",
+            "name": "Ashtavinayak Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJOWZmyvuj2zsRHCIXxXSqHNE",
+            "plus_code": {
+                "compound_code": "V9J6+PF Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J6+PF"
+            },
+            "rating": 0,
+            "reference": "ChIJOWZmyvuj2zsRHCIXxXSqHNE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jayalaxmi Colony, Savarkar Nagar, N 5, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8816504,
+                    "lng": 75.36409499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88294307989272,
+                        "lng": 75.36544662989272
+                    },
+                    "southwest": {
+                        "lat": 19.88024342010728,
+                        "lng": 75.36274697010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "dcbec066f7c7496f2ef06056ba4bc2b54e2f1319",
+            "name": "Hanuman Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2576,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111375551796977827502\">Deven jawkar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAchLaQfyR2HLpe_gVXzEhZYV8AtssY9vTJatWlYyQFOjnPKyQ_euoS04SouIOIuQB3z3QeKTpcYQ9cCabTbNBqoIpeK_pxBVVxpFMIe7QYeLpVapRIbKoSBZDDWM-qg-SEhAZbDpPM6LPmG7jwhRynC1cGhQSN9GD-hn1SqUk2z8_IKQjTpgENw",
+                    "width": 1932
+                }
+            ],
+            "place_id": "ChIJK4SLzpSi2zsRwn_v2Cvw01k",
+            "plus_code": {
+                "compound_code": "V9J7+MJ Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J7+MJ"
+            },
+            "rating": 4.8,
+            "reference": "ChIJK4SLzpSi2zsRwn_v2Cvw01k",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Plot no. 35/B, Shivdutta Society, N-8, CIDCO, Shivdatta Housing Society, N 8, Yashashri Colony N 8, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8896224,
+                    "lng": 75.3569644
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89094662989272,
+                        "lng": 75.35828982989271
+                    },
+                    "southwest": {
+                        "lat": 19.88824697010728,
+                        "lng": 75.35559017010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "e8000ec261036291a9f0302d409f156483f342ee",
+            "name": "Datta Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108117484672489943327\">Swanand Kulkarni</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOG1wzY-I0RZH6AyUY1Q-P1KIHWGvhtA2u9bg7DPsFVaY0YckZWiyp_Unzcp0G56ZnV3p_e2jJzCaew2e62TzAlx5JMKNDpVL1EHWWTrZVc3qjMcWA7qUsJxwezH0pRPSEhBdaJQ2uJcxz_zWIp5AJfxjGhQv4dt_uVHIaBI_nr-T4_-laDkOhg",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJW4BVL-Sj2zsRu4nk4CP9xAE",
+            "plus_code": {
+                "compound_code": "V9Q4+RQ Yashashri Colony N 8, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9Q4+RQ"
+            },
+            "rating": 0,
+            "reference": "ChIJW4BVL-Sj2zsRu4nk4CP9xAE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sambhaji Colony, Mathura Nagar, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.882358,
+                    "lng": 75.355665
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88372332989272,
+                        "lng": 75.35702472989273
+                    },
+                    "southwest": {
+                        "lat": 19.88102367010728,
+                        "lng": 75.35432507010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "e36be27baba7b22b0d4b2637f70b417e77c9c53f",
+            "name": "Dakshin Mukhi Hanuman Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117070841423945371982\">ambilwade Vijay</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1yQljofFKdaNbRMLDpJoXT8PfGQbMdTIZaf8A9hMGbjgBJGhtj5WI3m3Xib9NZxIeyvsuBFANj__1fv2NsMh1KNBW6HE3Y72JbjjyNIkiUYcDHnefisKJAFQeg4JPckSEhDy_Ku1907gQtZ9VVzfhGNwGhQ6f7spU6JhowCnUdKyKjJqggF7Uw",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJFV3urJei2zsRskr8soAALXA",
+            "plus_code": {
+                "compound_code": "V9J4+W7 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J4+W7"
+            },
+            "rating": 4.1,
+            "reference": "ChIJFV3urJei2zsRskr8soAALXA",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Plot no 514, Avishkar Colony, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8817009,
+                    "lng": 75.3597518
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88305082989272,
+                        "lng": 75.36113092989272
+                    },
+                    "southwest": {
+                        "lat": 19.88035117010728,
+                        "lng": 75.35843127010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "380fbfed03230a867457332a8c2e6aecbdb1adce",
+            "name": "ISKCON BACE",
+            "permanently_closed": true,
+            "place_id": "ChIJAQAA05Wi2zsRXSGUeWZ5WPQ",
+            "plus_code": {
+                "compound_code": "V9J5+MW Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J5+MW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJAQAA05Wi2zsRXSGUeWZ5WPQ",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Avishkar Colony, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8828429,
+                    "lng": 75.359939
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88413247989272,
+                        "lng": 75.36127767989272
+                    },
+                    "southwest": {
+                        "lat": 19.88143282010728,
+                        "lng": 75.35857802010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "10df87ec43312bd6d50ad97e4e314c0884d0511b",
+            "name": "Shree Guruchi Bavdi Devsthan",
+            "permanently_closed": true,
+            "place_id": "ChIJE_vxyJWi2zsR48RNduIofps",
+            "plus_code": {
+                "compound_code": "V9M5+4X Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9M5+4X"
+            },
+            "rating": 4.3,
+            "reference": "ChIJE_vxyJWi2zsR48RNduIofps",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Aurangabad, N 7, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.891759,
+                    "lng": 75.3621149
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89310902989272,
+                        "lng": 75.36353937989273
+                    },
+                    "southwest": {
+                        "lat": 19.89040937010727,
+                        "lng": 75.36083972010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "c3451be02e149e877a99c8d79be2dcfc3c6b28b0",
+            "name": "Tridevata Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100076222713333235151\">Ganapati Bhat</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAcnBz4NFsDv2oN3Ee3SMbAgmWNRsj7IErNnVpebAD7Co76JwzhfLbzVO94FW38iTY6SREtE58vJ2Q5M5cKF-JjECuEWFUEK93-QIGB0sQr_-e2Abc2dscPSOEmEWHmdvqEhA1NN_bRi5aWgwCUDXWU7YeGhSaYqpIM8wYV8-v8q80XFmU5uzifw",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJTxft0Lii2zsR_Im7y0FIlQk",
+            "plus_code": {
+                "compound_code": "V9R6+PR Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9R6+PR"
+            },
+            "rating": 4.5,
+            "reference": "ChIJTxft0Lii2zsR_Im7y0FIlQk",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Near, Central Naka Rd, Sambhaji Colony, Mathura Nagar, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.885517,
+                    "lng": 75.355847
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88690067989272,
+                        "lng": 75.35718352989272
+                    },
+                    "southwest": {
+                        "lat": 19.88420102010728,
+                        "lng": 75.35448387010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "fe96c6c691772be3add2f68fbb86c9eb2e20982b",
+            "name": "Shri Mahadev Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104244520049687962245\">Gajanan Mukade</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHB0UPcMsqKH0zeFpRenk4Q28Ij3K_aTWajfPKgi0P4QbxZKzJcEwPFmvcTWKYwNiUjZWXzYUbKGG9OzMpAf5ijkJyEuUDthqPpDgDWnF6Z9Li4Lw2Pq8dfp70ZgqNFeXEhDTZ8O-NF0DQlz4paKjpRwEGhS7CRR6vWfFJci5qpoqWH8m_8EK_g",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJO92ygr2i2zsRjveFf27dVd4",
+            "plus_code": {
+                "compound_code": "V9P4+68 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9P4+68"
+            },
+            "rating": 5,
+            "reference": "ChIJO92ygr2i2zsRjveFf27dVd4",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bambu Galli, Nawabpura, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8847456,
+                    "lng": 75.335751
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88606392989272,
+                        "lng": 75.33710117989271
+                    },
+                    "southwest": {
+                        "lat": 19.88336427010728,
+                        "lng": 75.33440152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "90036b8eecccffcdd69c2093767f6f27bbe5d871",
+            "name": "Mahalaxmi Mata Mandir Kuwarfalli Aurangabad",
+            "permanently_closed": true,
+            "place_id": "ChIJTUzVYAuY2zsRMzhvPCNMuqk",
+            "plus_code": {
+                "compound_code": "V8MP+V8 Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MP+V8"
+            },
+            "rating": 4.1,
+            "reference": "ChIJTUzVYAuY2zsRMzhvPCNMuqk",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "N8-A/26A, Shivdatta Housing Society, N 8, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.889508,
+                    "lng": 75.35897469999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89087647989272,
+                        "lng": 75.36032177989271
+                    },
+                    "southwest": {
+                        "lat": 19.88817682010728,
+                        "lng": 75.35762212010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "bd587c190f8a5935738b4b8c38a5496368106fb8",
+            "name": "Sankatmochan Shri Hanuman Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108117484672489943327\">Swanand Kulkarni</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAPneJssNQp52aWayhWA5RGH5A1BKpmsa7dZ-3zr3_bMaAzCpdhQnfHqRbzAUviTfBtaE3TzdrpwR96j0oKfX4abNg3yzGt7U1qX0BHK7tbd4QJSUJ6XctejSQhjCdMGmyEhAs5F07Ze0JNJsxYMVg3lMTGhQKIAbWIOyk7m3DtonQM7cABrbhOw",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJrUe1HVqj2zsREFRiYrQ47Cs",
+            "plus_code": {
+                "compound_code": "V9Q5+RH Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9Q5+RH"
+            },
+            "rating": 0,
+            "reference": "ChIJrUe1HVqj2zsREFRiYrQ47Cs",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Mahada Colony, Deolai, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.847667,
+                    "lng": 75.3437672
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.84901142989272,
+                        "lng": 75.34507502989273
+                    },
+                    "southwest": {
+                        "lat": 19.84631177010727,
+                        "lng": 75.34237537010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "13024441a763e6ba10ed9d82ecca76eb3dcbabcc",
+            "name": "Tridevta Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107223550146804321156\">shubham gaherwar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA02MJdHHKOh99-5NDABZN951mbfnT34Pr7C3YYn2DaTDeeh3sfKKVPXl9n2RNyG50rYoc8uNwoSsGkwOvWAiaXMVi-HmI7i8RFHYUrsPLzX5pD9MJP5y1NeGFI2X34l5LEhDaFbU_zSAx4W2Cj4EXANFKGhSu9U6ZKF61r0JvjcFEjuDLG6cW7w",
+                    "width": 2340
+                }
+            ],
+            "place_id": "ChIJAW_QkiCj2zsRLmk5fuymnFQ",
+            "plus_code": {
+                "compound_code": "R8XV+3G Deolai, Aurangabad, Maharashtra",
+                "global_code": "7JFQR8XV+3G"
+            },
+            "rating": 0,
+            "reference": "ChIJAW_QkiCj2zsRLmk5fuymnFQ",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "N-6, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8813803,
+                    "lng": 75.35639619999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88277542989272,
+                        "lng": 75.35767622989272
+                    },
+                    "southwest": {
+                        "lat": 19.88007577010728,
+                        "lng": 75.35497657010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "8d57a075ad5ae220ddcc685bf13c614b4968458c",
+            "name": "Devi Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107399523406349003216\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAaEqzMW7STsNdXNBI4plCIT4U0Q1cAPyObtkjeCgKmd0Klu0aThajV_rMwqrIUU60dcG4ejPbMx5r9xe32ET9Gq2aRNc_kgFitet2jwmI2DLZ1N3-RfZl0gKF66GqKhOkEhDvl71nGf3dCD-Uo6lqqk_CGhSrmRoZ4Im3earBuRcUCrB6BSlL7g",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJD2eN-pai2zsRFvdfrhKTVxo",
+            "plus_code": {
+                "compound_code": "V9J4+HH M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J4+HH"
+            },
+            "rating": 4.4,
+            "reference": "ChIJD2eN-pai2zsRFvdfrhKTVxo",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Near Ghatnandra, Tq. Sillod, Maharashtra, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8761653,
+                    "lng": 75.3433139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87749477989272,
+                        "lng": 75.34466647989272
+                    },
+                    "southwest": {
+                        "lat": 19.87479512010728,
+                        "lng": 75.34196682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "9548de75fae24eb37457c644c21c3fe8cf3d0bff",
+            "name": "Jogeshwari temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107670708647149452890\">aashay chitte</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAR4lyBPu4fxLekLQB0udWUYcOe_xBHk96jeZzWHgw0Pjm8ItdK1BBycNR5NkpdoI-MH3ZCzdC1ooUkmpMu1BKhDaxE-XMLLyHsLPCj9OQgV7CLht7EZNdQ8g13OXQWziHEhDYajEJM8v4ifpXBe0HbkvNGhRzJ1NpJZlMAxYs1lQXa7AXDWyOrg",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJtwAbpMyj2zsRDbFuns1yS-o",
+            "rating": 5,
+            "reference": "ChIJtwAbpMyj2zsRDbFuns1yS-o",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kailash Nagar Rd, Kailash Nagar, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8784344,
+                    "lng": 75.3395498
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87986942989272,
+                        "lng": 75.34086157989272
+                    },
+                    "southwest": {
+                        "lat": 19.87716977010728,
+                        "lng": 75.33816192010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "450b5c9570685d570b51209effae048ac129759d",
+            "name": "Jwala Dass Math Kailash Nagar Aurangabad Maharashtra",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104605941042892545598\">Rameshwar Chaudhar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAR0pqVItT6CFA6lGCpmJmILm0-GIzmuwPQylvPm6deT5lWdGNwej9Fr51D3NB7eoJZUw2xQ82VSRsmnoh6dCtbMplOEZg_5Mx8vi97DsBbfUhB709284HURksQAhqU3-CEhBrOtHMjG5MXjnlqHjaZEq6GhSzCrLbgcMgj0NBJfFinJeQSlRmcQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJNxUiw3WY2zsR6ndJFk0aUoE",
+            "plus_code": {
+                "compound_code": "V8HQ+9R Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HQ+9R"
+            },
+            "rating": 4.2,
+            "reference": "ChIJNxUiw3WY2zsR6ndJFk0aUoE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        }
+    ],
+    "status": "OK"
+}

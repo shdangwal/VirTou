@@ -1,0 +1,939 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-AAAAHPNmz0f7h9dyhpGbhxkztxOz4LAR54KOiE6oQm2pPaLC1DnbwuF2Z7OSNAnEnKO5w8Ox5NdoAUixTc_Em6zt8zmtZ4DCeIOrOiB33HJlNc3PYngA6trK0heB08f2N0EiDoF5NWybgmo4gOqpDzTNrtAQlZGDztlXQuDRFJK5d4EtuAyvEus0D0wDQMZhoTW-rdDlwpbGmoE296O7Z9ghF2i9UAsoEswgiGnt2Pux4i266KiXLuJQ1w-0NRJBL928UsNoYHNrdCVpUWi1Q3Ip5P1VtYLVwQToimfvD8KLMY8yOPwrBv2Mu2RwekWg_DnJEa5-ly92cZOhvZl7dBaveISEChjWfcekadkWxQ-q0LUswQaFEZoRI-nvmYUSPyI3GADw2R7q6Bx",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jama masjid, Subash Bazar, Kinari Bazar, Hing ki Mandi, Mantola, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1820725,
+                    "lng": 78.0164309
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18346782989272,
+                        "lng": 78.01796452989272
+                    },
+                    "southwest": {
+                        "lat": 27.18076817010728,
+                        "lng": 78.01526487010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "5045e712769ebfe7d6a9fdfd881c7f0f70be409d",
+            "name": "Subhan Allah hotel",
+            "photos": [
+                {
+                    "height": 697,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101534168300932956820\">Rakesh Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAggvi_GdD_PHfzly8GxUcJFXHVOFIpaboyduIg5XDrSO5S3l52g0zWwN1rgBdAkC45-VadsZ33SAWQeeGSsW3BBbwXq8VwL8hhm7jya-msK84tFRUx85F3uWnYfWqjkjoEhDaeRskGJWrWRDhaEGrUDJ-GhTOkMcz11uCW1vncHt1ylySLmA79A",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ6fgJWix3dDkR41AwpoTlMkE",
+            "plus_code": {
+                "compound_code": "52J8+RH Agra, Uttar Pradesh",
+                "global_code": "7JVW52J8+RH"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ6fgJWix3dDkR41AwpoTlMkE",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 781
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "State Highway 62 Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1803945,
+                    "lng": 78.0216119
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18174432989272,
+                        "lng": 78.02296172989271
+                    },
+                    "southwest": {
+                        "lat": 27.17904467010728,
+                        "lng": 78.02026207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "eb99016152906f713f393e565c7fea2ef6da98a8",
+            "name": "Moti Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101211161192887713080\">FLY RIDER</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmoWWV-nhhdIHlV6-WfYYJJYN9dvpWDI9yTe0lN3oiiX09LNLnXxC_JJWBKfolojyg_s3A0buTSEfWEF0O-VVwnDma0ahkq1Nl1FTPUoke6QfhF1XNuNQO2qCP4NS_GDoEhD54OPFZppb3lqe5c2Ui0HZGhSjGU1U0kLx_F05HFMWAYC5l2Co6A",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJZ0a-gtRwdDkRyMyfmH871q4",
+            "plus_code": {
+                "compound_code": "52JC+5J Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52JC+5J"
+            },
+            "rating": 4.4,
+            "reference": "ChIJZ0a-gtRwdDkRyMyfmH871q4",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 328
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1788129,
+                    "lng": 78.02294599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18016272989272,
+                        "lng": 78.02429582989271
+                    },
+                    "southwest": {
+                        "lat": 27.17746307010728,
+                        "lng": 78.02159617010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "a29ac1e29a4e404abfd08ed2c61c5223fc0dea52",
+            "name": "Mina Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101463821484012572241\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAuiRPRIVhwr133pj80O5SaTLNrBIhUm4Xu_l9VHipzqTPmiSEAhQJkj6q_roVcw-oqJzCFMJiwllos3ttBBviYRYQK8At4BeDqNVPKcdf9jGJQ5XmkmtOoC1UBA2kA8M3EhBywRR8qKmE2T9HZptAkyJoGhQ_9Zis72vfPOSs9DQM-S_azOzoeg",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ86BPQdRwdDkRAV9aI_Hz8dQ",
+            "plus_code": {
+                "compound_code": "52HF+G5 Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52HF+G5"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ86BPQdRwdDkRAV9aI_Hz8dQ",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1749686,
+                    "lng": 78.04067309999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17631842989272,
+                        "lng": 78.04202292989271
+                    },
+                    "southwest": {
+                        "lat": 27.17361877010728,
+                        "lng": 78.03932327010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "16743b3b9c07fb47f4e7f5bb93c654d1d5f78ea1",
+            "name": "Kau Ban Mosque",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3864,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115980414259979366775\">Malte Scholz</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgSrMDrmiLwi2qoMwia3DeOiUUv0D5EVS-NqaXVPiKjVHtP67WonLfJMi0qOkhnCthV6GIhzQHPRIzXVzjle6E5Mvq1gvknwHPvPXfXHKI-kt64xHdE9EZwMNiVLQN51kEhDny7GNkXn-6K1D73i8KREiGhSKZx3ZlMklr3MRqRZuJsAvy4tgRg",
+                    "width": 5152
+                }
+            ],
+            "place_id": "ChIJ94ayayBxdDkRuMnKPyNtsa4",
+            "plus_code": {
+                "compound_code": "52FR+X7 Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52FR+X7"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ94ayayBxdDkRuMnKPyNtsa4",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 671
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1793784,
+                    "lng": 78.0225313
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18072822989272,
+                        "lng": 78.02388112989271
+                    },
+                    "southwest": {
+                        "lat": 27.17802857010728,
+                        "lng": 78.02118147010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "c3ae354d773a6009bf67218f567e290c0ba1ebe0",
+            "name": "Nagina Masjid",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105020230300386918066\">anzar atif</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAs5vNOxeMO49ZiTxkhQDuRUx5ZUlu0AhcQSkBSnHp7mVKK6pDmfIozxX-tbJbtNHW0N5r5pnk9i-lCmvp7K4nKWw8NT8RgwvMYdyCJVQIdC0Qeo2PivOMdOm2WZggnr1gEhDRq-_uLzGkX9P8SNDWeCY5GhRpBAy1Qxtq04dxZfYNXtUGPIclIw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJxdUQ5f_yVzkR8gCpl94a0JM",
+            "plus_code": {
+                "compound_code": "52HF+Q2 Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52HF+Q2"
+            },
+            "rating": 4.5,
+            "reference": "ChIJxdUQ5f_yVzkR8gCpl94a0JM",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 110
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shaheed Nagar, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1548633,
+                    "lng": 78.039571
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15620677989272,
+                        "lng": 78.04098417989272
+                    },
+                    "southwest": {
+                        "lat": 27.15350712010728,
+                        "lng": 78.03828452010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "1be52adad97c8da5c5e2f0b311762b7415be5bb5",
+            "name": "Big Mosque",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110362375373471115269\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtD3ToCPdcOyhKiBIdp8HHhINrFkM2twl_bWIzBMPqTy4kBRfPBL5sNsFYGD9XAHlFVVyj7CHJzLI-wChjH0TvhMngUcQefzRu0Z-J9o8wii9V8fTUU6sX8pUALY7XNjyEhDhhTC23FFL7rjdZesqkDaKGhTHURlyzJAFHSxaKPVevBmxODGGAQ",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJVdnkCT9xdDkRqpNkywIxD6s",
+            "plus_code": {
+                "compound_code": "523Q+WR Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW523Q+WR"
+            },
+            "rating": 4.2,
+            "reference": "ChIJVdnkCT9xdDkRqpNkywIxD6s",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sewala Jat, Panchkuian, Rakabganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1766701,
+                    "lng": 78.00807449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17803257989272,
+                        "lng": 78.00942617989271
+                    },
+                    "southwest": {
+                        "lat": 27.17533292010728,
+                        "lng": 78.00672652010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "07cadddd521e910b45a9e3f8d09afc00f9840720",
+            "name": "Shia Masjid In Agra",
+            "permanently_closed": true,
+            "place_id": "ChIJEbASKiZ3dDkRmydE3bySC5M",
+            "rating": 2.5,
+            "reference": "ChIJEbASKiZ3dDkRmydE3bySC5M",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Indra Puri, New Agra Colony, Agra, Uttar Pradesh 282005, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2116711,
+                    "lng": 78.01018169999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21301017989272,
+                        "lng": 78.01159877989271
+                    },
+                    "southwest": {
+                        "lat": 27.21031052010727,
+                        "lng": 78.00889912010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "f3e283a2257cadf3dda4b334282253d4b365b90e",
+            "name": "Choti masjid, Dargah agra",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110119839798922224105\">Zoheb Ali Khan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZkjZWtwSricf1D9-_DvrIo8JOebBgV0sfepV5HR0nEOocSegRYo5Yl2F_r3P8n38AqtMS8gIwTpM15WXEQTsYCbjgfwGkSNBxii4Xe_JRjVhD9KoaNC3gNyJi3RYrUMPEhCQC7BIWyrQNKpb9TDW-HxsGhStpRMktLT_CgFGiru49Ey59aVR1Q",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJNUZK91B3dDkRJfhH92ycHr8",
+            "plus_code": {
+                "compound_code": "6266+M3 New Agra Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVW6266+M3"
+            },
+            "rating": 4.6,
+            "reference": "ChIJNUZK91B3dDkRJfhH92ycHr8",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "New Khwas Pura, Saraikhwaja, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1576513,
+                    "lng": 77.9873102
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15899437989272,
+                        "lng": 77.9886730798927
+                    },
+                    "southwest": {
+                        "lat": 27.15629472010728,
+                        "lng": 77.98597342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "b8c7404aea0d9b42ddbcce4a204e979514c7076c",
+            "name": "Nayi Masjid (Near by Agra Cantt)",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110513564555395511771\">Nazim Khan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACb54RqpsjDevzS1M3h_xV56N5dy0Fsqy0dqP5G4bvIZsgc5_d40xyZjT4XHx2tYcZnrRVcxcVqVbNiY3qKNHm9ftZeJcFqGa-0W4_vGeood407O6cKg4vSc8uXgiRRrhEhBvzncPzRiWIo2Sbx7sXNCGGhSCgeIamvrtW6z1-5glB-5J8CUVLw",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJNfmDse92dDkRqM3ld3tpaw4",
+            "plus_code": {
+                "compound_code": "5X5P+3W Agra, Uttar Pradesh",
+                "global_code": "7JVV5X5P+3W"
+            },
+            "rating": 3.4,
+            "reference": "ChIJNfmDse92dDkRqM3ld3tpaw4",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bodla, Lohamandi, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1920052,
+                    "lng": 77.95780119999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19338377989272,
+                        "lng": 77.9591884298927
+                    },
+                    "southwest": {
+                        "lat": 27.19068412010727,
+                        "lng": 77.95648877010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "159e7f39edb5c33062675dc69683af0532f0d682",
+            "name": "Lal Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100552883556642508738\">Umesh Yadav</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYQwBmGv4uqNwZV5lJKrv1LmUptA7Oix2UZa6HLAaoeA51ZRnh3NwB_urO4soFQLvBR7rBriDYMp56GcpiFFVJNxpP42f2NFEz2bTCsG2QuP_OPPkZ8_4x6R8i6lHUuD3EhC1Nih78o4jMTikZNsM_jk2GhT0hlUxqOU8u1SHBmV91E8k8ITrww",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJCfkD9L13dDkRFJXfCoL0Nw8",
+            "plus_code": {
+                "compound_code": "5XR5+R4 Lohamandi, Agra, Uttar Pradesh",
+                "global_code": "7JVV5XR5+R4"
+            },
+            "rating": 4,
+            "reference": "ChIJCfkD9L13dDkRFJXfCoL0Nw8",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bain Bazar, Sikandra, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2202628,
+                    "lng": 77.9548853
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.22163442989272,
+                        "lng": 77.95626907989272
+                    },
+                    "southwest": {
+                        "lat": 27.21893477010728,
+                        "lng": 77.95356942010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "b4674ea9e8aba10b38b9f9a1af2ed36e71ad439c",
+            "name": "Akbari Masjid Sikandra Agra",
+            "permanently_closed": true,
+            "place_id": "ChIJU0o3pxx5dDkRG6Cwf7vKhK0",
+            "plus_code": {
+                "compound_code": "6XC3+4X Sikandra, Agra, Uttar Pradesh",
+                "global_code": "7JVV6XC3+4X"
+            },
+            "rating": 4.1,
+            "reference": "ChIJU0o3pxx5dDkRG6Cwf7vKhK0",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Rajwara, Kamla Nagar, Agra, Uttar Pradesh 282004, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2072039,
+                    "lng": 78.0303958
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20856432989272,
+                        "lng": 78.03169377989273
+                    },
+                    "southwest": {
+                        "lat": 27.20586467010728,
+                        "lng": 78.02899412010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "55873e4a75b7adfaa78f92a413488066143b7b96",
+            "name": "Lal Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114685945881770087532\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZzfQJK5s0ODIT1JFAMaKbm7gaUiuMr2BBllAuH2ZaONGsBkWRx0upLWuXGW41qg0GA4DGBm7g02VP0BsjUYG8k_8JXn_Q-feVubGjO7IUAX5bVMDb1qQsPsnWkO8aUcCEhDV7bhY43ZVJyPX9HToya4yGhSEbqOFqEMrwS35PPD-g6Nc4dJJdQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ-dOYh7BwdDkRLZW163Ycf_w",
+            "plus_code": {
+                "compound_code": "624J+V5 Kamla Nagar, Agra, Uttar Pradesh",
+                "global_code": "7JVW624J+V5"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ-dOYh7BwdDkRLZW163Ycf_w",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sector 11, Avas Vikas Colony, Lohamandi, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2032544,
+                    "lng": 77.9626389
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20460622989272,
+                        "lng": 77.96397487989272
+                    },
+                    "southwest": {
+                        "lat": 27.20190657010728,
+                        "lng": 77.96127522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "09826179ab0362d27310b82d208d9a4cf98e66a8",
+            "name": "Madina Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104127435970593469745\">AMAN UDDIN</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVQAaegYowoU7DGG_42175RG2MaOeqnDjT2-2HMBATjpqdd1N17TTcmXHAzEgf_L-kLrhQRdgBH_PFeo4IT-Bdv3i--nZCkcWdMk1lJPyzG29WUYgjILGEbmoZeonZlvlEhAiNRv8vOnJMIpLHXaOQ5zxGhTCKGEsLo3XYmqDlK21ZiIloXszVw",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJ-6HWppp3dDkRXA8Qefp9jiY",
+            "plus_code": {
+                "compound_code": "6X37+83 Lohamandi, Agra, Uttar Pradesh",
+                "global_code": "7JVV6X37+83"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ-6HWppp3dDkRXA8Qefp9jiY",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Chipitol Road, Chakki Paat, Munda para, Rakabganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1754375,
+                    "lng": 78.0135172
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17673992989272,
+                        "lng": 78.01484572989271
+                    },
+                    "southwest": {
+                        "lat": 27.17404027010728,
+                        "lng": 78.01214607010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "21be17c03e0755a278afeb99f85dbb59f781d2e2",
+            "name": "Shahi Humam Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108486719350357160277\">mohammad asif</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4xz4IxP-qLyb6yz1D1sAXrlvVuhPkc5KimJAqxKq-pg7qHQIEJ8Kx3LQ_IEgX9RlmeKrLW2gTEbqqGY7U6KJng5jhp_CNVN7If4HdJkDP9HYbs352Q3Mkc6CdwqISTU-EhD37jqsuTX_A1aII2qvpe0GGhQ9m6XGm16eaYdNxHkrsWaCAy7vJA",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ-V0UiSl3dDkRGbTzVRwLnTM",
+            "plus_code": {
+                "compound_code": "52G7+5C Agra, Uttar Pradesh",
+                "global_code": "7JVW52G7+5C"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ-V0UiSl3dDkRGbTzVRwLnTM",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shop No. 32/8, Taj Rd, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1583165,
+                    "lng": 78.0220032
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15969867989272,
+                        "lng": 78.02335522989272
+                    },
+                    "southwest": {
+                        "lat": 27.15699902010728,
+                        "lng": 78.02065557010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "81c8e40fb60029adff8e60036ff0c141ebcdcd5f",
+            "name": "Lodhi Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105136566225143425306\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAjU62DknaDezlZ3oPnRzxLA9C85Ig_IG220ZGn_kg9UNCHDxnuv9on_3hVeH4h-h1XW_kS-i6i-Rn_Y-F2r8ERYnQmXnCKS-vSrAU4K1RXE9jHjv11B81TqVix7B2VJcrEhBnNOr-e38sLlCr-6J_JsooGhSq8PZUupo-peq9lJSBwyhdu-1SfQ",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ3fAycDNxdDkR8lCbCU_E_Zk",
+            "plus_code": {
+                "compound_code": "525C+8R Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVW525C+8R"
+            },
+            "rating": 3.6,
+            "reference": "ChIJ3fAycDNxdDkR8lCbCU_E_Zk",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bodla, Rahul Nagar, Foundry Nagar, Agra, Uttar Pradesh, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1889534,
+                    "lng": 77.95439379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19037562989272,
+                        "lng": 77.95577672989272
+                    },
+                    "southwest": {
+                        "lat": 27.18767597010728,
+                        "lng": 77.95307707010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "628fdde249a2a6d2c28abe8aceec2c3c1f1c4053",
+            "name": "Husheni Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112580863965600659137\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA21BcnesV54ZL79XA2Ju0qwEXbBKXG_F_SkEqT0vlDKVhSIkf3NIHXhwyq0DbLXHDTvHcPsNJK7endxHizvLssJLmomKwLFrXkwJ8hMo-ypIAf3crkIg9A5-gONEDwktLEhD6owue3a_Y-n1ibPyJWCD-GhRTUSzFJVxyVZOXd1Kn73x6EQ54Sg",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJM2T--L53dDkRnsZKoZXJcYY",
+            "plus_code": {
+                "compound_code": "5XQ3+HQ Agra, Uttar Pradesh",
+                "global_code": "7JVV5XQ3+HQ"
+            },
+            "rating": 4.2,
+            "reference": "ChIJM2T--L53dDkRnsZKoZXJcYY",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dashehara Ghat Rd, Taj East Gate, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1720437,
+                    "lng": 78.0439751
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17338837989272,
+                        "lng": 78.0451883798927
+                    },
+                    "southwest": {
+                        "lat": 27.17068872010728,
+                        "lng": 78.04248872010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "7c8d879d505ed64951dd9729dd51455dbbb3d6e0",
+            "name": "Kali Masjid - Sandli Masjid",
+            "permanently_closed": true,
+            "place_id": "ChIJ97p9QB9xdDkR2jFeFBVw278",
+            "plus_code": {
+                "compound_code": "52CV+RH Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52CV+RH"
+            },
+            "rating": 5,
+            "reference": "ChIJ97p9QB9xdDkR2jFeFBVw278",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mall Rd, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1583816,
+                    "lng": 77.99094459999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15970087989273,
+                        "lng": 77.99253497989272
+                    },
+                    "southwest": {
+                        "lat": 27.15700122010728,
+                        "lng": 77.98983532010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "57c969b1f81c6d9e924feeb06bf82d3ce7febcd5",
+            "name": "Noori Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103187212196463231676\">Nazim Khan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_gJIkEAkSBvGaVr5AQnv3-vB5mHFTdbeXkXDeMX3M6jgHYtxS3ATqe8VmBY8qqBAl3P-SRL9NwFA48coO0kxaCjbPv-mTktNW6FrmsfAgTJVREdMRQg-ufiFmpquf4k7EhCpxqwjDm2LAk-wBfSchYD7GhSCITSvvoJGyWyllzwimT3OA7S1cw",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJUcxTyeh2dDkRQURe3StUQuc",
+            "plus_code": {
+                "compound_code": "5X5R+99 Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVV5X5R+99"
+            },
+            "rating": 4.3,
+            "reference": "ChIJUcxTyeh2dDkRQURe3StUQuc",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kinari Bazar, Kaserat Bazar, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1685935,
+                    "lng": 78.0424266
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16994342989272,
+                        "lng": 78.04377617989273
+                    },
+                    "southwest": {
+                        "lat": 27.16724377010728,
+                        "lng": 78.04107652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "38c8970413db26699a75620ba9f2a4e7aea7942b",
+            "name": "Akbar Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104189904699767438393\">Soul of Ibn Battuta</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2HjtcPPAZ_3IN8ghBmBk4mtJ7bzhIAHahbqNqYAJcX9nNtR4M3gUCgb3FR3EVFEA0yBl8LQbLdgt93__nqnBw7yJku4A_BuBRv1GNbLiEuQsjwiUhJQF-qwCGYUJuT2TEhBAFbpyISZS66M9GklXC8laGhRbqKTQaUxZJGwG6SLnVuihC9dT3w",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJNarXReJxdDkRgm8Dq-duD-c",
+            "plus_code": {
+                "compound_code": "529R+CX Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW529R+CX"
+            },
+            "rating": 3.7,
+            "reference": "ChIJNarXReJxdDkRgm8Dq-duD-c",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sarai Khawaja Rasoolpur Agra Cantt, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1615766,
+                    "lng": 77.9880254
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16293692989272,
+                        "lng": 77.98934187989272
+                    },
+                    "southwest": {
+                        "lat": 27.16023727010728,
+                        "lng": 77.98664222010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "9a050d0bd6ebc4c0d197f87f7dc8ac78588ada53",
+            "name": "Kale Kha Ki Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1520,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111548342871509604318\">M.M Razvi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhDnb9NDR_f9zyBll4Fvom_lwiGI9QYv0-IKCMGkAz4WEI-DTAU5f9387_ZrNqfxD5FpM4V3dhnTWEqQVNvGWU0DzO6GQ8KBlRl8VuO33JJ1IurekhD2ei8jMusc2vGKxEhAooe6jMFKNyB03LuRRBasyGhRepMtvGTvWGquaq31UiyDgNVxuhQ",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJyTI6deV2dDkRnJlZL14MnkQ",
+            "plus_code": {
+                "compound_code": "5X6Q+J6 Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVV5X6Q+J6"
+            },
+            "rating": 4.3,
+            "reference": "ChIJyTI6deV2dDkRnJlZL14MnkQ",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        }
+    ],
+    "status": "OK"
+}

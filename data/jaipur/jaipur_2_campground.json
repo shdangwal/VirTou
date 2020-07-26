@@ -1,0 +1,652 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "54, Lane Number 2, Ajmer Road, Gopalbari, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9159108,
+                    "lng": 75.792374
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91725987989272,
+                        "lng": 75.79364687989272
+                    },
+                    "southwest": {
+                        "lat": 26.91456022010728,
+                        "lng": 75.79094722010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "236fe8b6d30ab48de4538a6a293bde62c299ac67",
+            "name": "Pearl Palace Heritage",
+            "photos": [
+                {
+                    "height": 997,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105628310117928319370\">Pearl Palace Heritage</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAh5EShAMOBkZacHBBZLEGENJYPNwXObzVnX-aUjebn0iFQguQ9WUOlFPDwP5F95qcxCYwTmOPTlTBvS0QLiG-nslqs7DOqUSYuUNrLgBNwPAo3HLQpmjFuSufaYQvP18KEhA5pg6nPzH_K6FIh58vfVU-GhRRKl86yTSnibXArgXdpJTZ9PuNmg",
+                    "width": 1497
+                }
+            ],
+            "place_id": "ChIJ7RlVqwm0bTkRZISybPIzj7s",
+            "plus_code": {
+                "compound_code": "WQ8R+9W Gopalbari, Jaipur, Rajasthan",
+                "global_code": "7JRQWQ8R+9W"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ7RlVqwm0bTkRZISybPIzj7s",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 251
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Rajasthan, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.0173274,
+                    "lng": 76.5025742
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.0331284,
+                        "lng": 76.52314754999999
+                    },
+                    "southwest": {
+                        "lat": 26.0120604,
+                        "lng": 76.44085414999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "fc602a477cb6b659c9545c1814cdf42f22a8d548",
+            "name": "Ranthambore National Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 408,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108860960373351831963\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgwrr7BKTK14OXerRmnXhOw-aR8zLabxk9AGFlsfWVm2Yq71T41LfR0I04xOA7aYfxWcThqlTA_pS6_-PDVKRPJFXC1vbuap4u1BxW885Kno8tK8h9c5wZ_iVNLxHzVFmEhB_EaZ8M_AouTwr-UMRJlFHGhQWI5EA9sO0jd5Mfx6SiAQ3NaDG4A",
+                    "width": 612
+                }
+            ],
+            "place_id": "ChIJF1XWaPbYcTkRJcm6YIv3uW4",
+            "plus_code": {
+                "compound_code": "2G83+W2 Prempura, Rajasthan",
+                "global_code": "7JRR2G83+W2"
+            },
+            "rating": 4.4,
+            "reference": "ChIJF1XWaPbYcTkRJcm6YIv3uW4",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3042
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Gurugram, Haryana 122105, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.321642,
+                    "lng": 76.9129121
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.32257797989272,
+                        "lng": 76.91459962989272
+                    },
+                    "southwest": {
+                        "lat": 28.31987832010728,
+                        "lng": 76.91189997010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "1d1033430cda5e5b2bcceab82c998184c7bfb15e",
+            "name": "Amity MTC",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113667759204718095421\">Wajid Mirza</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAm35nCPv2GkNNo5HG1imH8U-YwD-RajpUFQGlOUsSVRbXXqGenOJk-K7oLM1M7tMYujlYqp9niteAGlcXWnEPQIqOzwUlRRInuARbPeAl3Ge-QjMF_qC66FtMB9oTlLmoEhBK1M-k8vOH6epC8XfRsYN0GhTtPv9SSjGT2BIb1mD1sg3-29gWOQ",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJ6XEkwlQ5DTkRXjA9aoZnepI",
+            "plus_code": {
+                "compound_code": "8WC7+M5 Gurugram, Haryana",
+                "global_code": "7JWR8WC7+M5"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ6XEkwlQ5DTkRXjA9aoZnepI",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 455
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "A 19 Beniwal Kata Opp Hospital Ramgarh Mode, Jal Mahal, Amer, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9460857,
+                    "lng": 75.8489244
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.94745952989272,
+                        "lng": 75.85027347989272
+                    },
+                    "southwest": {
+                        "lat": 26.94475987010728,
+                        "lng": 75.84757382010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "3541ccb59a342b2f501558ada7fd976ec3577a83",
+            "name": "Jannat",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106575313516691368602\">Shabir Bhat</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZZjemw0CDYYrmVyamT2DGxHx9WGFeSv7fiky2dyUxwTgNQ7gtVPWPlWQXrzzQgeNzm5NyFYMXdvC98C3fXTiNjSbhfNkBEBZHh_2iQpRa-FKtVF8_1SLCc7Nrht3t308EhAyISijzp0Z2vdWauvlEEbpGhREq0fL6BjJYCIKfs86-RKbl3-QYA",
+                    "width": 2340
+                }
+            ],
+            "place_id": "ChIJXyzQ4_uwbTkR5zdZdCOCvOY",
+            "plus_code": {
+                "compound_code": "WRWX+CH Amer, Jaipur, Rajasthan",
+                "global_code": "7JRQWRWX+CH"
+            },
+            "rating": 4.1,
+            "reference": "ChIJXyzQ4_uwbTkR5zdZdCOCvOY",
+            "types": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "1358, Raval Ji Ka Bazar, Gangapol, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9357847,
+                    "lng": 75.8336128
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93712572989273,
+                        "lng": 75.83498157989271
+                    },
+                    "southwest": {
+                        "lat": 26.93442607010728,
+                        "lng": 75.83228192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "683abc24e8a693120dc34cba6757ed14fa2b92c7",
+            "name": "Rajputana Tour Cab",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 420,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113710671915692180365\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAl4sh7k6lzBKZltTyY4gJU-HWacjyyinlWWlvsAij7bNZAPim9bB3FQfDLlifZTx2X8qYHHMq1Uj05jbCW9AKsjY-XR_w8N-ziScRXD8hDc1RY7KY833YCT6hQNqgyhw7EhCytP3ZyITrihBUMo9IraKPGhSAHeYRzcgJcJNKUOAk8Rc3h_vCZQ",
+                    "width": 750
+                }
+            ],
+            "place_id": "ChIJS9Hz-_axbTkR2Dtp_2X4lZM",
+            "rating": 5,
+            "reference": "ChIJS9Hz-_axbTkR2Dtp_2X4lZM",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 113
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "R-14, Yudhister Marg, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9061,
+                    "lng": 75.7969864
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.90751267989272,
+                        "lng": 75.79837187989271
+                    },
+                    "southwest": {
+                        "lat": 26.90481302010728,
+                        "lng": 75.79567222010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "b7c3a5696d1b09436cf9b89968a6b6b96824f2e3",
+            "name": "Hotel Shikha, Jaipur",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110041272857116857582\">Shikha Hotel Jaipur</a>"
+                    ],
+                    "photo_reference": "CmRaAAAATlKz3Nho0blblKbNxNNL-xkzrdMoNCP28jdsWBQne3IzzOYAJuoxc9TK2N2crV61bEdavkAAgEcn5L4rFZVYQQZRVTLl2OawznuSD04zFDQXbzsXlQ36m-PkwUnEESErEhCEn7zhQAUQ9zhUuNqoXBacGhRkOFokTYpb8HAQWWa4HePz_ggk5Q",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ_VzhwRq0bTkRGbEjlkfBc9M",
+            "plus_code": {
+                "compound_code": "WQ4W+CQ Ashok Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWQ4W+CQ"
+            },
+            "rating": 4,
+            "reference": "ChIJ_VzhwRq0bTkRGbEjlkfBc9M",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1628
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "WW69+J9, Dhibba Para, Amar Sagar Pol, Jaisalmer, Rajasthan 345001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9115625,
+                    "lng": 70.9184375
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91291162989272,
+                        "lng": 70.91978827989273
+                    },
+                    "southwest": {
+                        "lat": 26.91021197010728,
+                        "lng": 70.91708862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "97d3389c67ed7b5f5eef97200cf69bdc1216fa8a",
+            "name": "Jaisalmer Desert Camps",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 390,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117755672971499750683\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAAROG8vw9qOyMX4dsvmv7mqrp7zNyI0SJN9nq8_ZKBxQ2YxyHu5Opc4ABao6w4HyZwcyCdMkZ5Vr39bWwc-USxONJEmuBmXwHFNtOBKWVqXPW2xuoGAyaRC7nspCpGPVyEhCkWSyMO2rZXGkNOggcRemvGhTGVbEGCJfmSEyV_o7YmH3IB-sNEQ",
+                    "width": 585
+                }
+            ],
+            "place_id": "ChIJhRdnRyW8RzkR17XYdqrLr2c",
+            "rating": 4.4,
+            "reference": "ChIJhRdnRyW8RzkR17XYdqrLr2c",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 75
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "21, 2nd Floor, Shivaji Marg, Facing, Rama Rd, Kirti Nagar Industrial Area, Najafgarh Road Industrial Area, New Delhi, Delhi 110015, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6642166,
+                    "lng": 77.15942760000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66550617989272,
+                        "lng": 77.16080912989274
+                    },
+                    "southwest": {
+                        "lat": 28.66280652010728,
+                        "lng": 77.15810947010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c0a9e1c53da4b5efb852d965c0389e0a8771b024",
+            "name": "Great Rocksport Private Limited",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 884,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106586770848426734081\">Great Rocksport Private Limited</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHL_0RGJeY6MVrCql5uRx2aBIj7nCEuMzRxmh3GnOHGCw3VeZQNFS2OJNhLsPUEqJjnSNB--B8jfXejTJuF91aZOj9ZamD75jki2NLOy4p-zzTfpnmAlhm2NAbW0Kb69GEhDT9U_uxBy4BC1V9LyUkpbKGhSZOcE0MgrwHgpF5lPUbnPVJ-CTKw",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJqSCzxb8CDTkRP0BWg_uAJ2g",
+            "plus_code": {
+                "compound_code": "M575+MQ Najafgarh Road Industrial Area, New Delhi, Delhi",
+                "global_code": "7JWVM575+MQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJqSCzxb8CDTkRP0BWg_uAJ2g",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 276
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "C-56, Mahavir Marg, C-Scheme, Sangram Colony, Ashok Nagar, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9081537,
+                    "lng": 75.8093829
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.90950972989272,
+                        "lng": 75.81071707989271
+                    },
+                    "southwest": {
+                        "lat": 26.90681007010728,
+                        "lng": 75.80801742010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0f2d3cbbb4a900401b743c12d44221c420582ac5",
+            "name": "Garden House",
+            "permanently_closed": true,
+            "place_id": "ChIJqSZraQO3bTkRc_YAlcAv1VY",
+            "plus_code": {
+                "compound_code": "WR55+7Q Ashok Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWR55+7Q"
+            },
+            "rating": 0,
+            "reference": "ChIJqSZraQO3bTkRc_YAlcAv1VY",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ranthambhor Rd, Vivekanandapuram Colony, Sawai Madhopur, Rajasthan 322001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.0197274,
+                    "lng": 76.3790659
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.02105157989272,
+                        "lng": 76.38043607989272
+                    },
+                    "southwest": {
+                        "lat": 26.01835192010727,
+                        "lng": 76.37773642010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c275229d491f6314ba27c6435cd76858d7a57dc6",
+            "name": "Ranthambore Jungle Safari",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111221715398119664057\">Awneesh Chauhan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmSYHVT8-yfVMQOrsNrpQ7bUTMkysnjbiZlcr2sl2YyCUifRY5ml0oN0tHkf8acaDuBM3dTH9slXN41DOnYh3K07DCcyDHRHwZCsnKPStrLq2-J8QEG-71Hzuxk_2gQFTEhB5temfS8F6XAykc2qusH-TGhQluB9gGayLhbcFtXFAc4biFD9Qqg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJJ2gicnWzbTkRgVWlQySeJMI",
+            "plus_code": {
+                "compound_code": "299H+VJ Sawai Madhopur, Rajasthan",
+                "global_code": "7JRR299H+VJ"
+            },
+            "rating": 4.4,
+            "reference": "ChIJJ2gicnWzbTkRgVWlQySeJMI",
+            "types": [
+                "travel_agency",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 553
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Robin Private Tour Plot no 3, parash, Sita Ram Puri, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9357847,
+                    "lng": 75.8336128
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93712572989273,
+                        "lng": 75.83498157989271
+                    },
+                    "southwest": {
+                        "lat": 26.93442607010728,
+                        "lng": 75.83228192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "74ddb75089320551e02c277a103c41d2647f7449",
+            "name": "Banana Express Tours Jaipur",
+            "permanently_closed": true,
+            "place_id": "ChIJbXCrtzmxbTkRPgmMDDCi8qw",
+            "rating": 0,
+            "reference": "ChIJbXCrtzmxbTkRPgmMDDCi8qw",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Uttar Pradesh 203201, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.3116318,
+                    "lng": 77.5581866
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.31341727989271,
+                        "lng": 77.56008687989271
+                    },
+                    "southwest": {
+                        "lat": 28.31071762010727,
+                        "lng": 77.55738722010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "c73da8fbe3067257acc8806add30e1bc681599ba",
+            "name": "Muddy Boots",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118184699240142796161\">Shivanand Tiwari</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASQjuT6eH1LfvGxjr-4XnbOqNGHMQifkjjU10Tp29SiNYsP2yS8FatRfmwWUqECZ6MfFkKOXNzEU2BMv1G3uoKgArWcRQIak119m6V4vF9oiVCOPZjyp7bxDa5GduxXAoEhA_fKU3VnLkiIPw9rn-QhCVGhQLewIryKqxYc3j4GyGMDCCXLh7gA",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJT0L4OovHDDkR9D1m-En1iI4",
+            "plus_code": {
+                "compound_code": "8H65+M7 Yeida, Uttar Pradesh",
+                "global_code": "7JWV8H65+M7"
+            },
+            "rating": 4.5,
+            "reference": "ChIJT0L4OovHDDkR9D1m-En1iI4",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 99
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jantar Mantar Road, Janpath, Connaught Place, New Delhi, Delhi 110001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.625831,
+                    "lng": 77.21582699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62718097989272,
+                        "lng": 77.21716772989272
+                    },
+                    "southwest": {
+                        "lat": 28.62448132010728,
+                        "lng": 77.21446807010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "d96f98237fde20bbd150521426072c0959d0cc27",
+            "name": "MTFD Jantar Mantar",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104984464724778400736\">Minsang Guite</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAIjQipxEtyjHP3v0ItjfwgHX7xHqVGRj1SGE9qTvHGjrDNkcJSrj6fyKVSIsax68uaL2DsRPeAXXPOXmLnprT56xgAxEaSTeoACDa-h8MQxtRgelenRcqGJZGwEcUW5l1EhBIWUEjQivJbklt0ktAdYKXGhS29UYYuJ_fFmrYyh9uKztvqSQvsA",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ7R1B9Er9DDkRDHIcQNWvrSw",
+            "plus_code": {
+                "compound_code": "J6G8+88 Connaught Place, New Delhi, Delhi",
+                "global_code": "7JWVJ6G8+88"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ7R1B9Er9DDkRDHIcQNWvrSw",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sam, Rajasthan 345001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8304527,
+                    "lng": 70.5071565
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.83175382989272,
+                        "lng": 70.50849002989271
+                    },
+                    "southwest": {
+                        "lat": 26.82905417010727,
+                        "lng": 70.50579037010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "f0f031ba4f38f4dd26977188cb18e6ff8a430c46",
+            "name": "Jaisalmer desert tour packages",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 492,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114008894110266855745\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAygQrjogTBOYgF_snU1a_IoQu8S8VKA-JxR68YbbqL53fWzKK797uU306N9aB5pD_G8lRPr4UKaThWUDOGwvnZ8rsXzVvTZOs9Ypd9jF3Jy4Q6itDh2vrTk4HuGzu5Fz9EhAMhxokNk32D31teLaeon8wGhTzJHbiMGs2g7IpVvU0HW7j4nE1pg",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJvzMf8UTfRzkRk6nCoG8PlX0",
+            "plus_code": {
+                "compound_code": "RGJ4+5V Sam, Rajasthan",
+                "global_code": "7JRGRGJ4+5V"
+            },
+            "rating": 5,
+            "reference": "ChIJvzMf8UTfRzkRk6nCoG8PlX0",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        }
+    ],
+    "status": "OK"
+}

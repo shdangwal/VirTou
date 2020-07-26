@@ -1,0 +1,949 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CqQDmAEAAHIAIfqbOfMgLIz5Qf9642e9-WfchxjvQX9r74AXp6KG_WZ1DdukNNZWcQIk1CvktdNw7E1Eal4XZyRGppm3sK2HyBKEYfenwz_-AnsRV1_FFuYqr_nhrNyLsw9yPdv4wToO7uCAg5KBoK4qFerYmSH0fGqJEj1mr1PtZf-gNqdI3Ou6AuEmOkBqQVG77JuntwRqWoHuw_sY__4rElZH0svlR3-Cx_ZLcgip0xwIC9i94CHAweCmcQ_UV6j5cXTDC7iq6hWv1bRh9DveqCXDfTWdzA4Yyy6jxL7LCr3HprAp4ZMjjZa4kIIEoovmCVQLUL_lGtzdYsKgxmEekE5ex5RhGFMj7dMG3MCerZ9_vUlw0hZUznqY52f_MDgqhNbmrkc20304LaJniBVMaTVQF1DJxwrvHe43hb6q4HjXI_wBROdjZawOwsVfdthKw81rQraiuH2dIaZXzhdhGlhuiwvDSPZmxvQrI08idlHk1NBLLg9fvEwFg_yOYLITUfPFAzofE3NXqb0BBJyfclwYXH22dE36eFLHR7JObfunC5wLEhBvCZgOF6mnJ5OwrwlzSQQSGhSgHxJm6rX30_YgGiMhSZzx61G87Q",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Near Grand Hyatt, Bambolim, Siridao, Bambolim, Goa 403108, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4432655,
+                    "lng": 73.8608829
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.44458502989272,
+                        "lng": 73.86212632989273
+                    },
+                    "southwest": {
+                        "lat": 15.44188537010728,
+                        "lng": 73.85942667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "985963216d64a77d5b0edf0e9fd315b0e0338a81",
+            "name": "Villa OneGoa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1336,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112500181154970243225\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAXsV4qI3m8P7rJ9JEKY4UAEgYXz5eTCH3I1mMEVN2-JBwZJtUYMb9vYmWaW7GRidmOT0Wa9FPhfAkwyNGgJiDvAUMxeHk6fsiye1hRQLrxDK7o5kdKg9G5QQqR1rOWiloEhAjHa9_gkFhRa_hScpN6EJKGhTdJZI-nwhQEPJaGuD31jbx9N-sXQ",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJl7fhDbC5vzsRJE02xu-BxBE",
+            "plus_code": {
+                "compound_code": "CVV6+89 Bambolim, Goa",
+                "global_code": "7J7MCVV6+89"
+            },
+            "rating": 4.7,
+            "reference": "ChIJl7fhDbC5vzsRJE02xu-BxBE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Unnamed Road, Pomburpa, Goa 403523, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5688673,
+                    "lng": 73.8557732
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.57017937989272,
+                        "lng": 73.85712922989272
+                    },
+                    "southwest": {
+                        "lat": 15.56747972010728,
+                        "lng": 73.85442957010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "fddc3400d4563fa538ac292f4cf3675b163a656f",
+            "name": "Siesta Goa",
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106434101253992933469\">Kiran Clement dsouza</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJjGnWpmTbkaYm_ed0GVPa7qbzT-lZYfdrbdJx2GuesOAUE_uh1Snjvua8HQqEjrLodfk8PZzR8LHsbzw6vQOrwZm8BaUpVLmjXpfm27p5ZCHtr9x3tw5tE_w-u3ye9UbEhBwZy1zTdzX68hS3GWiXLm-GhRmHrqnpL09mw3hYdUVOvUXhwC_RA",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJfbpd2kWVvzsRk2Y_QeUEub4",
+            "plus_code": {
+                "compound_code": "HV94+G8 Pomburpa, Goa",
+                "global_code": "7J7MHV94+G8"
+            },
+            "rating": 4.6,
+            "reference": "ChIJfbpd2kWVvzsRk2Y_QeUEub4",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2 villa no. 2, tropical woods, Britona, Goa 403501, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5239774,
+                    "lng": 73.8470906
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.52501237989272,
+                        "lng": 73.84854337989273
+                    },
+                    "southwest": {
+                        "lat": 15.52231272010728,
+                        "lng": 73.84584372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "4e0e8742dcc64ca6bac088551cff19fc2d9dbf7b",
+            "name": "OYO Home Luxe 17402 Pool View Villa 4BHK",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106484155339746906629\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA5UkZkxhFpN4abpRNDQnfvV5oB4Z4Ck7IPvdCWUmCpn7qko5P3WucaclomYZ3ayBw_2dpfq-wSkLpxvy_QSipO6pzj3jLFZ9rYFb9v-oxGqJpKQc7XiMk-njlH0nZkbwnEhCb-HtOuaK9RfhX1gqEzGbUGhSicnC04Fy1vX4JVrqCsxgIla68lQ",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJ08pOCeq_vzsRfw4792MDRBU",
+            "plus_code": {
+                "compound_code": "GRFW+HR Alto Porvorim, Penha de Fran\u00e7a, Goa",
+                "global_code": "7J7MGRFW+HR"
+            },
+            "rating": 3.5,
+            "reference": "ChIJ08pOCeq_vzsRfw4792MDRBU",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "National Hwy 4A Bypass Rd, Ilhas, Ribandar, Goa 403006, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5051688,
+                    "lng": 73.8670546
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50646227989272,
+                        "lng": 73.86837302989272
+                    },
+                    "southwest": {
+                        "lat": 15.50376262010728,
+                        "lng": 73.86567337010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "a4ac6cad42804eba443200289e996eec2b28ef21",
+            "name": "Casinha Raibandar",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106281552223516973820\">Vivek Abhinandan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACt53GEJGejryuRwXuYj1dQx-IMBLXDhnfUAfphSldkKGJjRQQ4aNrCEYmqMhDdWB2cbEOvs30MsDFaq2UpgzzgSQhWvt5mrMqxb9AFZ2tEv0MDxmTetQtWfiZ-WKNlprEhDRkzBDKoR3k8LnQDVnoHvCGhR-BD_w6l-gFfF-3YO_6CxpZ2i1qg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJLXPa4Aq_vzsRQ89Xtp0yFnI",
+            "plus_code": {
+                "compound_code": "GV48+3R Ribandar, Goa",
+                "global_code": "7J7MGV48+3R"
+            },
+            "rating": 4.6,
+            "reference": "ChIJLXPa4Aq_vzsRQ89Xtp0yFnI",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 83
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Lawande Panthea, Curca, Bambolim, Goa 403202, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.453,
+                    "lng": 73.868528
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.45437907989272,
+                        "lng": 73.86990157989273
+                    },
+                    "southwest": {
+                        "lat": 15.45167942010728,
+                        "lng": 73.86720192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "360ba89919ba47d1ea4e37f532c42ba398aedcfd",
+            "name": "OYO 11900 Exotic 3BHK",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103136301585502273896\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAcn6hrCCqezBkQf6gNBkvFiKME2o8BDQsWZbjE4kyjxH07Jqe-Jiqqgw0038kSReYBgIU71tziy9SbZxRe3D59xpi7Qc1IMh0g4hke-UHbdEXa09MWxilEonL2Q5VfOfnEhDwDlHgruPQqpCi2DfYjL3iGhSSMzUIYga280qFHSg8CJGgu-hSCQ",
+                    "width": 759
+                }
+            ],
+            "place_id": "ChIJFRDcQYq5vzsRlDpXRoCabIA",
+            "plus_code": {
+                "compound_code": "FV39+6C Bambolim, Goa",
+                "global_code": "7J7MFV39+6C"
+            },
+            "rating": 4.4,
+            "reference": "ChIJFRDcQYq5vzsRlDpXRoCabIA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Curca Canturlim, near the Curca Panchayat, Bambolim, Goa 403108, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4605155,
+                    "lng": 73.8770887
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.46213272989272,
+                        "lng": 73.87848667989273
+                    },
+                    "southwest": {
+                        "lat": 15.45943307010727,
+                        "lng": 73.87578702010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "6ebbcfe00e2928ee11d5f47ee9275cbf473591bd",
+            "name": "Uberlife Rooms Lake View",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1533,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117365786689342588480\">Uberlife Rooms Bambolim</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAprB5E5x2ZJKHqRbBEpgn0szMK9UKwnR4KTgvRp8TGfdU4JoXNIC2xq2phc20RgioiANpSsziHKiBzB6mSa8xvXXwQjEnJyqowMhgMnZdzq6Dl2vmcZadr1R34cxRN87rEhD2ixh6JTuf209er9_atPPqGhSwQDVrsSaekJ5-knxGbJJfL4fe6g",
+                    "width": 2300
+                }
+            ],
+            "place_id": "ChIJS_tegdK4vzsRKBNxWkIkt7M",
+            "plus_code": {
+                "compound_code": "FV6G+6R Bambolim, Goa",
+                "global_code": "7J7MFV6G+6R"
+            },
+            "rating": 4.5,
+            "reference": "ChIJS_tegdK4vzsRKBNxWkIkt7M",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sundays Forever, Village Calvim, Aldona, Bardez,, North Goa, Goa, 403508, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.56643,
+                    "lng": 73.88833199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.56780562989272,
+                        "lng": 73.88963932989272
+                    },
+                    "southwest": {
+                        "lat": 15.56510597010728,
+                        "lng": 73.88693967010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b173a37aec726b989ac0c3c77089175ede14542a",
+            "name": "Sundays Forever- India's Finest Vacation Homes",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115117082899162836259\">&quot;Sundays Forever&quot; A Homestay</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUKcsMJh39n62dAo0YkqgTjny8YXXrH1goAQHDXtZg_qT0Nzpd1bSixE0cWxJKDVaQpo2dXq2WZi3uEJx6dLium83DbmF8xgN8YwtVG9g_mpoat9aEkfeMGQKjA7wFdhQEhBqijTCLVrGaE-EBmyMc-IiGhRF1ySPccqhclX2dMVsZxJZ1CQ9ug",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJj_yR-XeVvzsRb9qtdpk_7xc",
+            "plus_code": {
+                "compound_code": "HV8Q+H8 Maem, Goa",
+                "global_code": "7J7MHV8Q+H8"
+            },
+            "rating": 4.6,
+            "reference": "ChIJj_yR-XeVvzsRb9qtdpk_7xc",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "karabhat-belbhat , near at, St Bartholomew Church Rd, Chorao, Goa 403102, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5482324,
+                    "lng": 73.87840000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.54947777989272,
+                        "lng": 73.87980257989273
+                    },
+                    "southwest": {
+                        "lat": 15.54677812010728,
+                        "lng": 73.87710292010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "0ac4b4cea6bcc4ec01dfe25dde815b6edc909556",
+            "name": "Island Pool Villa",
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115000089998022543890\">Anoop Shekhawat</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2pBgidWeRGMpo_mwPnU9jx6aMILY5UAJYZ5K9t5AOAVpiAAjjycDjbHAYjmnkg3dP9uebJQevL_1nSNcwzJ-BxnOurJLbFmjp9m63_P20zq-DohT4j7hR0EDT-MD81MVEhBNcFedRWD2Dpyu1HYl1ko-GhRUl1n3KqT91X3-PMQ2i3uSzqZ6Rg",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ42nqtNC_vzsRJmMn4XADYOs",
+            "plus_code": {
+                "compound_code": "GVXH+79 Chorao, Goa",
+                "global_code": "7J7MGVXH+79"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ42nqtNC_vzsRJmMn4XADYOs",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 93
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Near Tonca Ferry Terminal Candola, Marcela, Ponda, Goa 403107, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5340974,
+                    "lng": 73.95774569999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.53588967989272,
+                        "lng": 73.95931082989271
+                    },
+                    "southwest": {
+                        "lat": 15.53319002010728,
+                        "lng": 73.95661117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "703b8957aef933723cae5b723452df44f747fb1d",
+            "name": "Riverside Nest",
+            "photos": [
+                {
+                    "height": 3488,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103662082430214091209\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAShSgO3Qnru4DagFR3iWnMY2Q8YPAEwnvOjdn99tYmV6PDOBfyMmDoWb2YHnbyYkFRA6Q7qewzQmurBKFkaqLXEtZFSfQ6sQ9Z91wlPpPjkgAhy1x7VGju3D7NmamM0QXEhARxsjVGfXF3ysZU1bE2z9wGhR0NMFZ5iFfQHPzQ-DhgKr0QGsrVA",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJKdffZcu9vzsRlr4hIZclVfo",
+            "plus_code": {
+                "compound_code": "GXM5+J3 Betqui, Goa",
+                "global_code": "7J7MGXM5+J3"
+            },
+            "rating": 5,
+            "reference": "ChIJKdffZcu9vzsRlr4hIZclVfo",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "PANDAO VADDO, SURVEY NO. 438/16 VILLAGE CHORAO, IIHAS GOA, Chorao, Goa 403523, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.555441,
+                    "lng": 73.8861969
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.55684622989272,
+                        "lng": 73.88766432989271
+                    },
+                    "southwest": {
+                        "lat": 15.55414657010728,
+                        "lng": 73.88496467010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "992b8e99f996cab80b49a48f29ee9e0c0f6e7490",
+            "name": "Terra Rosa",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106631198044342845502\">aparna ananth</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUWtLeXfqpV734FMGoEGKO2VWRTgmdLTfkYpdI0Cg818aaVcptb7xc4gA3dckK78dO-Bq04TjRJ8TqFYq4DLQmY0QSnmx7WHUgmZ5Krkz2urZxthUlRYKNDVYC9VIfPj5EhBaBiz6vQLUmXQECgfXAa1AGhRu6AxV_SM7Yq9LXO8ZdSa4WSufEw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJJYYMzX-VvzsRLMXAs94Q4zQ",
+            "plus_code": {
+                "compound_code": "HV4P+5F Chorao, Goa",
+                "global_code": "7J7MHV4P+5F"
+            },
+            "rating": 4.5,
+            "reference": "ChIJJYYMzX-VvzsRLMXAs94Q4zQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "FLAT No. FF-1 (First Floor),HOUSE NO. 128/23/65-05 Lawande Panthea Goa, Goa 403202, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.453,
+                    "lng": 73.868528
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.45437907989272,
+                        "lng": 73.86990157989273
+                    },
+                    "southwest": {
+                        "lat": 15.45167942010728,
+                        "lng": 73.86720192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "977189d777eefaf5f04cffed719b42cb12e6d1e5",
+            "name": "OYO 11897 Greek Style 2BHK",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111942118883585035415\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAGPlfbXtVuwJTBWW-oLKQJveVyAw2o6dtBLwWgaJxktzAUsE327HLTw2LcU2hgs0wq0XKXebdrqv8gm-go-NaUptVA-dyJWXCPr0xOOwgXz_R_tdSAPe7-GlY4FM9z6aPEhA-1FEETtmnKfk2N_aU4lj4GhQ19SYOoiOYsIiiaT0GoMLcfbCQTA",
+                    "width": 759
+                }
+            ],
+            "place_id": "ChIJyfql98i4vzsR00R-cb15Tbs",
+            "plus_code": {
+                "compound_code": "FV39+6C Curca, Goa",
+                "global_code": "7J7MFV39+6C"
+            },
+            "rating": 4.1,
+            "reference": "ChIJyfql98i4vzsR00R-cb15Tbs",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 164
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Amrapali, 1105 Morgado Vaddo, Maina, Goa 403108, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4414777,
+                    "lng": 73.86921
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.44282607989272,
+                        "lng": 73.87055992989272
+                    },
+                    "southwest": {
+                        "lat": 15.44012642010728,
+                        "lng": 73.86786027010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "81c718a010032268646dcf412c4d2e00a51f61de",
+            "name": "Caf\u00e9 Amrapali",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111092196466773820048\">govind venugopal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhNvuqDsmVFR07Czs7BgM6dk8d8fwBiFZy59GMxl7IUtwfZNgDOPDeZn2gRC0wfKhdkbij4NYctALDSJQPR5aabK6CCrDujhwfavBCIM9wiwplsm8Cqp8DHme69xzgjbpEhAd_CoDT9IvvCjFFjiKH1BqGhSJFAwmq27IWdCfx2AsG2HeerVk0w",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJj8uHucG4vzsRUSxVLeZljYg",
+            "plus_code": {
+                "compound_code": "CVR9+HM Maina, Goa",
+                "global_code": "7J7MCVR9+HM"
+            },
+            "rating": 4.3,
+            "reference": "ChIJj8uHucG4vzsRUSxVLeZljYg",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 195
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1105 Morgado Vaddo, Goa Velha, Goa 403108, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4416142,
+                    "lng": 73.86984009999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.44302862989272,
+                        "lng": 73.87111012989271
+                    },
+                    "southwest": {
+                        "lat": 15.44032897010728,
+                        "lng": 73.86841047010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "289d8b5fb45adf4c44100d070696ca2e2a69d34e",
+            "name": "Amrapali \u2022 House of Grace",
+            "photos": [
+                {
+                    "height": 447,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105978044660532901700\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_ak3G53qRy8wyYI4DyTPNZpi-iuxxvihrJDEbe9IPzEiH9YYCEsZWaH128998JVoTFGsZlLydupTYT0175UZuTME8eOoP9YW4H-MmSAQE8j3qkYKRBzQ1z6dUcM-ek_JEhACPIDmRE2chcISyEZpKk80GhQZy7yxBaKIf9sGxNAbnKoPtwZl-Q",
+                    "width": 1136
+                }
+            ],
+            "place_id": "ChIJr-dXl9W5vzsRPAi0FxPA2Cs",
+            "plus_code": {
+                "compound_code": "CVR9+JW Goa Velha, Goa",
+                "global_code": "7J7MCVR9+JW"
+            },
+            "rating": 4.4,
+            "reference": "ChIJr-dXl9W5vzsRPAi0FxPA2Cs",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 80
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bambolim beach property, No.2311, Firguem Bhatt, siridao, Tiswadi, North, Goa 403108, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4407215,
+                    "lng": 73.8639594
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.44264342989272,
+                        "lng": 73.86519097989272
+                    },
+                    "southwest": {
+                        "lat": 15.43994377010728,
+                        "lng": 73.86249132010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "6eb60a84c99cc08e5717c4717c0dfde02fcca458",
+            "name": "Hotel Marosa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107222835685000859793\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKOlweXdBO6iWDJA8nnZjPK5CNeGWEFT2GIbfFdvScLHOh81kwRr_t8mjM4Fc2UwHSU4JBnDDhRwAwQl0slvbWZK1DuTTO6lsVF48umdXYPHjtjih1hPc5PeJX7jcAn5wEhDyNJM7UgkVRycsJSOt6gCOGhRc_l_n1lYyYgmvfqp1yugM4KPH8g",
+                    "width": 853
+                }
+            ],
+            "place_id": "ChIJr3s06Tq5vzsRZ8i3MVu3fN4",
+            "plus_code": {
+                "compound_code": "CVR7+7H Siridao, Goa",
+                "global_code": "7J7MCVR7+7H"
+            },
+            "rating": 4.9,
+            "reference": "ChIJr3s06Tq5vzsRZ8i3MVu3fN4",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "House No. M-268/C, Madkaikar villas, Village Panchayat Se, Ella, village, Goa Velha, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4959769,
+                    "lng": 73.9263825
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49734047989272,
+                        "lng": 73.92764257989272
+                    },
+                    "southwest": {
+                        "lat": 15.49464082010728,
+                        "lng": 73.92494292010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "b2e382eb4c137eb324f7b539773814d62969f31b",
+            "name": "Lakeview Greens Villa: A 5BHK Fully-Furnished Luxury Rental Vacation Home for Family/Group Stay!",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 433,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105063863876998364987\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAR-sYXc-YSgu4kJ4c-iP4DsBvBJt_7RKpduTwzGuvD_8fl49yDBdQRbdhp1ZqVArWgy2Bq8BWNH0t1cZmiskJGqHasUohhcPpH84K-zKWCQgvwlSBoCVroRH--GYYQePFEhAmuXNgwxKCudcMCGlmy4nNGhQuIUL2y288glFmFWfFgpsllMV3mQ",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJqabyzqi_vzsR6UZTSShAHRk",
+            "plus_code": {
+                "compound_code": "FWWG+9H Goa Velha, Goa",
+                "global_code": "7J7MFWWG+9H"
+            },
+            "rating": 4.5,
+            "reference": "ChIJqabyzqi_vzsR6UZTSShAHRk",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Carambolim, Kundai, Goa 403115, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4661504,
+                    "lng": 73.9620812
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.46743427989272,
+                        "lng": 73.96343952989271
+                    },
+                    "southwest": {
+                        "lat": 15.46473462010728,
+                        "lng": 73.96073987010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "38458172030b9f4758eb677ff7bec6cd0db519a8",
+            "name": "SPOT ON 44584 Hotel Vaishali Residency",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101988304792329606579\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA3XGEWQ7cC1sATtonL9boi43s1K_y45XffORqmMwj24ROoGmKvLcpkh6OX3CboA7Uj5Ra-73CaHbZJh6EOcbQQ-Y9lU6IQOaKA2iMnfCgdZgd5DfOcQdKujcKi_rOQ5pLEhCpvFFFYK3LC8nNltAKeUrsGhTZTzl7MhjgtICvHZxqMnmllPQfQQ",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJX6NZAYu7vzsR0GEjJWmXdSU",
+            "plus_code": {
+                "compound_code": "FX86+FR Carambolim, Corlim, Goa",
+                "global_code": "7J7MFX86+FR"
+            },
+            "rating": 3.2,
+            "reference": "ChIJX6NZAYu7vzsR0GEjJWmXdSU",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 129
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Lane 2, Hillside Enclave Cabesa, Santa Cruz, Panaji, Goa 403005, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4636426,
+                    "lng": 73.8502566
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.46497877989272,
+                        "lng": 73.85156752989272
+                    },
+                    "southwest": {
+                        "lat": 15.46227912010728,
+                        "lng": 73.84886787010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d549877c9f5abf6322d9f250f753ef205771a29e",
+            "name": "The Villa",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102874432631805764880\">Shantanu Papal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAW10qtZpxG_3WWeuq78Zb485kjF3KVwLnoCPHdgTjkgPYXaHXOroNtk31kEvSiB--whbNI1ct3CQ3KV6K9g_ZKcB6bYsSYLPZj9DuaMZTcrQvtKFSW1yEY7P7EBv296SyEhDXhKygJqPsyIHjNdKVYyAYGhTEkoD0nurGoqme6C3BroScIuVTig",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJVVVFylO_vzsRP5L2uEtIfxw",
+            "plus_code": {
+                "compound_code": "FV72+F4 Panaji, Goa",
+                "global_code": "7J7MFV72+F4"
+            },
+            "rating": 4.9,
+            "reference": "ChIJVVVFylO_vzsRP5L2uEtIfxw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Santa Cruz, Panaji, Goa 403202, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4762442,
+                    "lng": 73.84809539999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.47755742989272,
+                        "lng": 73.84935057989271
+                    },
+                    "southwest": {
+                        "lat": 15.47485777010728,
+                        "lng": 73.84665092010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "e22225fd4e04f97d9eb90f70677af1810462bd37",
+            "name": "OYO 48771 Independent Villa",
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101092217959645960108\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9jQ_RZ4tnmwFesL08jcwMsJqaRJCDXwzq7RYA6D6BIZI6cXbpEkva4J_LmYo-iCbEupiDMvki7YkxxJvXLp4tPDV-YimRZ04kLGlyWbOPQrDZ8PuabpPx3aeq8fKrqhREhC6tV8oFUMn7BP19QmYGYjOGhSsidzrtk5-j7s8kDgU9zGFWYLN3g",
+                    "width": 759
+                }
+            ],
+            "place_id": "ChIJYV9qif6_vzsRS9gl1f4-jz0",
+            "plus_code": {
+                "compound_code": "FRGX+F6 Panaji, Goa",
+                "global_code": "7J7MFRGX+F6"
+            },
+            "rating": 3.9,
+            "reference": "ChIJYV9qif6_vzsRS9gl1f4-jz0",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1, Queen of Angel Chapel Rd, Maina, Goa 403108, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.439699,
+                    "lng": 73.868269
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.44105562989272,
+                        "lng": 73.86958597989272
+                    },
+                    "southwest": {
+                        "lat": 15.43835597010728,
+                        "lng": 73.86688632010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "e78c0cf2bd3481c69f89ac22295b717e092bbd8c",
+            "name": "OYO 23683 Luxurious 2BHK Goa Velha",
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105590236913122012812\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_gg_7-zgctrdt7b6fSLml9h3iflb4_JO7ZUn0nyKz9qa_3FfD7Sk6Olf9UZ2sTGCXbSXb2gLjHOcjxKvLVqZgVs1cIdJmmS6j-xwVT6dsx8VgTqe6ySpW657DiKPqgbuEhC6B3FtS7_9PeRUJwH2HoDUGhQ5adK2GxUFsz9Yh1N3T3c5-Tcr2Q",
+                    "width": 759
+                }
+            ],
+            "place_id": "ChIJSeLXzAy5vzsROVglhYYgWdM",
+            "plus_code": {
+                "compound_code": "CVQ9+V8 Maina, Goa",
+                "global_code": "7J7MCVQ9+V8"
+            },
+            "rating": 3.4,
+            "reference": "ChIJSeLXzAy5vzsROVglhYYgWdM",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "House No:228, Bairro Alto, Fondvem, Ribandar,, Panjim Old Goa Road, Panjim - Belagavi Rd, Ilhas, Ribandar, Goa 403006, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5017458,
+                    "lng": 73.86769029999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50311567989272,
+                        "lng": 73.86904667989272
+                    },
+                    "southwest": {
+                        "lat": 15.50041602010728,
+                        "lng": 73.86634702010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d20214b0b7790ebe71826cb88876ca1bf59ba35c",
+            "name": "Casa Amaya",
+            "place_id": "ChIJ7Q4Wgwy_vzsRVHTBDR7PJns",
+            "plus_code": {
+                "compound_code": "GV29+M3 Ribandar, Goa",
+                "global_code": "7J7MGV29+M3"
+            },
+            "rating": 3.6,
+            "reference": "ChIJ7Q4Wgwy_vzsRVHTBDR7PJns",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        }
+    ],
+    "status": "OK"
+}

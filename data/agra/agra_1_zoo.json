@@ -1,0 +1,965 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9QAAACmesTYGJSI2FUNIrvhk7-pBNOTn0vMYDnc8tQY7zLO6qscarblOe5X9n_vaOOFVYhNzfTzBDBo1ZdqeORt5YJcL2oLNi4ru_I4qmzC3wwQfXEyg2aXo3BWQxH_n5evomJTLgRhxxmi06HiqkTpPE_EhknrSsilrLyyN90pydFk2-W4769gHLsXChrxtPADDpeHl5H_gc74sJclnCWcNQXP8KRcpqpT6J2JkNctsrP3UnitPLq2DD7f9G5ol8xpU2QoJtSlw7rKICkAi3a95IqoUq6F0zgQoNSaAOHe0SXND1Atpk10rBoeN0Y1lp7PX0ie7tvaT0lSkhw-SjCyry8ESEJjbNwy9Sz2__-WjCIZq-K4aFPf3MxUNgO3nCyf7jhKrndJo8lDn",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1784108,
+                    "lng": 78.0230271
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17976062989272,
+                        "lng": 78.02437692989271
+                    },
+                    "southwest": {
+                        "lat": 27.17706097010728,
+                        "lng": 78.02167727010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3b84536d4a3e994a3e8d68e791290e400dc102ba",
+            "name": "Anguri Bagh",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2951,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111425456752450604138\">Nayan Telrandhe</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAy77riLMP_fVj3szx9-bwvX6VW992XI9RPPZGv2oXjqmBONgyFtWXmuX4QKg6YmN1w43NHZH-XmY1fLpNeUEtNdqeRfZzQOdi5vQ4GqZzn9YHBM4qS9diD1cXRdzQgWuNEhAefs1CN-c54ybT4GaK5_VZGhS_IWx7OUy92BZaIcVyCKvHXtvMxg",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJyVafWtRwdDkR9Apwulu_0u0",
+            "plus_code": {
+                "compound_code": "52HF+96 Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52HF+96"
+            },
+            "rating": 4.4,
+            "reference": "ChIJyVafWtRwdDkR9Apwulu_0u0",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 433
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Pandit Motilal Nehru Rd, Civil Lines, Agra, Uttar Pradesh 282004, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2003932,
+                    "lng": 78.0142134
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20135747989272,
+                        "lng": 78.01533967989272
+                    },
+                    "southwest": {
+                        "lat": 27.19865782010728,
+                        "lng": 78.01264002010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "73911f9ddc9385e30a6d15b478e45ae39f242512",
+            "name": "Paliwal Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106985019735592732666\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAArQQ35lEliLLmlJ2uy_IokC8uhJGhLgi1tjOZVuNnocOsR8PcGvlu7nWsPMc0ao_aE8m8DFmxXtBss0anjFnH3K5UzEubyJtJJYed8F9RnS5YtM5T5X82sDHUxBo982HJEhDQssdyEg-EaWpDnIywwgTJGhSmO6k-jihVElM9IKn3-6d96UOdyQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJv_59-0p3dDkRRr8kzH7Qdbk",
+            "plus_code": {
+                "compound_code": "6227+5M Civil Lines, Agra, Uttar Pradesh",
+                "global_code": "7JVW6227+5M"
+            },
+            "rating": 4,
+            "reference": "ChIJv_59-0p3dDkRRr8kzH7Qdbk",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2763
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "near Taj Mahal, Dharmapuri, Forest Colony, Nagla Devjit, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1800448,
+                    "lng": 78.04208779999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18139462989272,
+                        "lng": 78.04343762989272
+                    },
+                    "southwest": {
+                        "lat": 27.17869497010728,
+                        "lng": 78.04073797010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "d89bd48fc38ff741f1aac78d5b578f5dce515950",
+            "name": "Mehtab Bagh",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101863914093183791092\">Himanshu Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAnKHAS72K1ZDLAn1DJSp7bJIAVeCHG831sa-v3vCDP6nL9_6fh-fMP9t4BGBloGe0cYNikjM4qTxEyXKLOROJibiOU7Rlmvh3c3PyPG1srHfx0MzWXiULfQDMQ_u3Ral6EhAM-m7_n8rSiQ1RvejywXipGhQq55kgHblO0rfImgXVD1qhEUGNYQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJLVpWKd5wdDkRfKYlTOV-x5w",
+            "plus_code": {
+                "compound_code": "52JR+2R Nagla Devjit, Agra, Uttar Pradesh",
+                "global_code": "7JVW52JR+2R"
+            },
+            "rating": 4.2,
+            "reference": "ChIJLVpWKd5wdDkRfKYlTOV-x5w",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4453
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Moti Bagh, Agra, Uttar Pradesh 282006, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1928873,
+                    "lng": 78.0309808
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19402447989272,
+                        "lng": 78.03374575000001
+                    },
+                    "southwest": {
+                        "lat": 27.19132482010728,
+                        "lng": 78.03005915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "70f2d73239beca75c3f431ff54b458aa3c5d4e7c",
+            "name": "Itmad-ud-Daula",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101899501565977870159\">manorama Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAm1gpVHbjjRa7xt09tibR3qSBEFMNy-7npkMYNvi6zd_pjgPjo4Bz4gSZW_yg2uK5FmGx7TupnjTete3O75XWPFTPZcefaa-O7ZOZUCDCXlBP_pwtnq5eZH_iutgC1Nr4EhCH4MP0EgNEKXsjGeKPO_2lGhRW6KowSpoqmEwQMrok3Gn611E3_w",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJk6aZ_cVwdDkRWMRKn2s89hM",
+            "plus_code": {
+                "compound_code": "52VJ+59 Agra, Uttar Pradesh",
+                "global_code": "7JVW52VJ+59"
+            },
+            "rating": 4.3,
+            "reference": "ChIJk6aZ_cVwdDkRWMRKn2s89hM",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5371
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Taj East Gate Rd, East Gate Of Taj, Paktola, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1701792,
+                    "lng": 78.0483878
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17139372989272,
+                        "lng": 78.04965562989273
+                    },
+                    "southwest": {
+                        "lat": 27.16869407010728,
+                        "lng": 78.04695597010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "3f7748c12ff395103d387a547b5416e9903272a0",
+            "name": "Taj Nature Walk",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113508197082396221964\">Shivam Sharma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfI7-6nKdqXYI9Q_XivxYY7F1qXB2jKGyG4ks0gOKbufQl_K16GFpkfGkltWX-ePufWQq1Qzk2M8GDHhyWYiG8hEXWB5URz1IjOWhycCWgLoTHDTd12H7FXN0Gbi2-nf1EhAa9t-Dp6ReTJiA68dEjPl0GhTecVNFqFb8o8daIivsqU6cQi7csw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJX3T24xtxdDkRpJ5MbdiOqHA",
+            "plus_code": {
+                "compound_code": "52CX+39 Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52CX+39"
+            },
+            "rating": 4.3,
+            "reference": "ChIJX3T24xtxdDkRpJ5MbdiOqHA",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1100
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mathura Delhi Highway, Near Runakata, Near Walter World-Dolfine, Arsena, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.236005,
+                    "lng": 77.8526267
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.23735662989272,
+                        "lng": 77.85395292989273
+                    },
+                    "southwest": {
+                        "lat": 27.23465697010728,
+                        "lng": 77.85125327010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "7cfe0c14df84a64c9762417640b9bef461b894a4",
+            "name": "Soor Sarovar Bird Sanctuary",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 513,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112957273912300405618\">Sagar Chaudhary</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVHw0WaBBPmzFxox0DFU-dZkzdxl-6IQopLwYEbbUhnGO28XORGKvozJJmUTNFmrMtughfoDFNapZiqZN8Z4iZPdUuNTeB2bmHRmf6TceCZeBjpXothPl-oinCW4ZKY4WEhDfEzaM43zOLoCC4ClUrs-9GhSgdAkPcdiwtv-5y6g75vI3xXtUtg",
+                    "width": 910
+                }
+            ],
+            "place_id": "ChIJD3QnBnyGczkRhjii2_g2SJg",
+            "plus_code": {
+                "compound_code": "6VP3+C3 Agra, Uttar Pradesh",
+                "global_code": "7JVV6VP3+C3"
+            },
+            "rating": 4,
+            "reference": "ChIJD3QnBnyGczkRhjii2_g2SJg",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 382
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1795328,
+                    "lng": 78.021112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18445439999999,
+                        "lng": 78.02360124999998
+                    },
+                    "southwest": {
+                        "lat": 27.1729168,
+                        "lng": 78.01570785000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "423d20a58e96579125042d5319e6f60e6bd93c40",
+            "name": "Agra Fort",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111599710978603117365\">Phil</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA98d_XwNHT9xOA7S7TO4AlXPz6PR3eWg1jggLNmyeoz8nnJprNJ_aEVtOzk0S3CXxN_ZmiIiwVXXtcLbOIBpRmDzJSKaNk2NyQiPHL8Z1yZcsP_f2nqhknEiy4DLqnr_tEhBhfUidUj7Mw6wO3zjai-FHGhS-5mWClA4wq1bihHKrlNmgdJEHIg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ6zs0kdRwdDkRdpUClMxcCmQ",
+            "plus_code": {
+                "compound_code": "52HC+RC Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52HC+RC"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ6zs0kdRwdDkRdpUClMxcCmQ",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 74844
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1751448,
+                    "lng": 78.0421422
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.1772325,
+                        "lng": 78.04546859999999
+                    },
+                    "southwest": {
+                        "lat": 27.1688817,
+                        "lng": 78.03880380000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "dcc9586b99ab0f0471fccecbe2dbb40fdc1fc2b5",
+            "name": "Taj Mahal",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108059568100427860058\">PAPU GAYAK</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxnghLCef5cO3byjUBvfSl7b0nZiaPqlw1aPWBm7vU1cZQX0UXxJhygN3Zy6ZdxJWDlJ1QYz6YCU-cTubJcUppqTeEX0eRPYvjfbmHBttqG0zWBt1acnQrIM97nL7k4tWEhALjhiPBUGi6vBGF1LFCGAkGhTRRawbXZgFX-lJMc8uFCDrrKUu7g",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJbf8C1yFxdDkR3n12P4DkKt0",
+            "plus_code": {
+                "compound_code": "52GR+3V Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52GR+3V"
+            },
+            "rating": 4.6,
+            "reference": "ChIJbf8C1yFxdDkR3n12P4DkKt0",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 169091
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Tomb of Akbar The Great Area, Sikandra, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2205556,
+                    "lng": 77.95050859999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.22297535,
+                        "lng": 77.95175312989272
+                    },
+                    "southwest": {
+                        "lat": 27.21329635,
+                        "lng": 77.94905347010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8a100391f6ab438f32608f06826a39718bd7d640",
+            "name": "Tomb of Akbar the Great",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3265,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103918100922340364733\">Prashant Kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARlF0pwvsGk2Azd2Cb8Oi6aQpLu2NBUHajLlT9-qF9Tm5_hhSeHrDV8OoFrDhNneKfrZnSBr8clqWOEnRoKnR0XTgKIucKlabuyLkO4mmrEWc4Rvagfi_6QW5OnTB9AjpEhAXi86QtjpT9VZh4Ahz16zFGhRysgLhOhCEbz7NL5RnDqVb7WYJdg",
+                    "width": 4898
+                }
+            ],
+            "place_id": "ChIJJdQjUx94dDkRFTbTtKTpyy4",
+            "plus_code": {
+                "compound_code": "6XC2+66 Sikandra, Agra, Uttar Pradesh",
+                "global_code": "7JVV6XC2+66"
+            },
+            "rating": 4.4,
+            "reference": "ChIJJdQjUx94dDkRFTbTtKTpyy4",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4269
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Italian Garden Road, Phool Bagh Rd, Lashkar, Gwalior, Madhya Pradesh 474007, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.209987,
+                    "lng": 78.16934669999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.21147952989272,
+                        "lng": 78.17073307989271
+                    },
+                    "southwest": {
+                        "lat": 26.20877987010727,
+                        "lng": 78.16803342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "83b3ea545fd596a42f14fe7d227eaba0cd4a5d6f",
+            "name": "Gwalior Zoo",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112546819057501156832\">Study Classes</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZXekP4IYSTlj62zWtZ6nkkdNRM-0KSW8B7Oy0-Ifwy6qZ47oKiN0Fjn9QXRRAod8vtRLM1Au2GOiyhvMmmEJx5Yi5uYE6pVKivwR7UtI_nP0D1daLEczICXcvTcEJW2kEhCdhQZWiZv2FDk2YnL22FFTGhTDPhKgU3JTMnteceijVmMOF9gSMg",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJqejUwSfEdjkRSqfBwqi0lFA",
+            "plus_code": {
+                "compound_code": "6559+XP Lashkar, Gwalior, Madhya Pradesh",
+                "global_code": "7JRW6559+XP"
+            },
+            "rating": 4.1,
+            "reference": "ChIJqejUwSfEdjkRSqfBwqi0lFA",
+            "types": [
+                "zoo",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3593
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Near Anand Engineering, College, Kuntha, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.250855,
+                    "lng": 77.8464335
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.256681,
+                        "lng": 77.84958379999998
+                    },
+                    "southwest": {
+                        "lat": 27.248913,
+                        "lng": 77.8453834
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "8cf27eb720be161ab44993f53d2b799476ddc699",
+            "name": "Keetham Lake",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111177424127288456614\">Tushar Sirohi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVb8olRBBNaJzeq8k5p75P-Hy0KJ_79BhVs9WeZxIPbzVhOWSFqtaWEtrwKxFOyVBjp74la9mv1dQRUTbR4O_Kn68RfsTCgDnLKfeXa-5vXmLgJwtk1xIczMgVfaip8yREhDaNRccHhUUG5YPa9RQexnLGhR7_-ZdOItkeJj7aa-d-OyK3Ijy2Q",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJu5uQa32GczkRJ5-8nFCHt3s",
+            "plus_code": {
+                "compound_code": "7R2W+8H Agra, Uttar Pradesh",
+                "global_code": "7JVV7R2W+8H"
+            },
+            "rating": 4.2,
+            "reference": "ChIJu5uQa32GczkRJ5-8nFCHt3s",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 141
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bagirati Rd, Near Axis Bank, Sanjay Palace, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.198443,
+                    "lng": 78.0048324
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19969357989272,
+                        "lng": 78.00647117989271
+                    },
+                    "southwest": {
+                        "lat": 27.19699392010728,
+                        "lng": 78.00377152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "bf2dfd79455ace64f1a32b51d6af9fcf08db1161",
+            "name": "Shaheed Smarak Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113983741789623905136\">Avi Chaturvedi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAB2RmdMrE9MRCQVGmOcILae3ux8QXFzAA0-8-tnhCM2FhPfdltg6LJw4GQcxqMRRveXLvzvavcueET9E32sxdmYremX6M_mqI4fH8g9zTcB2i22Yr4H7qTtRfSi0E9lILEhCrGd-UJeSEWzjMTfbTZlLaGhQvhEtsfbKGYLget20FkfowRe59MQ",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJo1QkD0d3dDkRqfgkTboft1A",
+            "plus_code": {
+                "compound_code": "52X3+9W Civil Lines, Agra, Uttar Pradesh",
+                "global_code": "7JVW52X3+9W"
+            },
+            "rating": 3.9,
+            "reference": "ChIJo1QkD0d3dDkRqfgkTboft1A",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2305
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1787273,
+                    "lng": 78.0232427
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18007712989272,
+                        "lng": 78.02459252989271
+                    },
+                    "southwest": {
+                        "lat": 27.17737747010728,
+                        "lng": 78.02189287010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c842f2ce39aa5723bdc5b9f06558bf45f2140633",
+            "name": "The Shish Mahal (The Glass Palace)",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 428,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109172266299201760169\">Ajay Sharma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAIFmTZeVELCYa_vZVYCaIKjM3rB0YEkBWP0qTwUjC-xeUoAfqGSYHSIfS8if5j0hogYaO7w2MG37gFlKOo21BnWSNmY_1WoUigsbNmduJeUYWOnX-sonsrjb25s6gkzqCEhCu9xq1EfKe5HuWOW3O4GBTGhS2qhSTWIOJ0tQGkFRyuDn5Y6M5Gg",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJEYCJRNRwdDkRA-6iY8Et8fs",
+            "plus_code": {
+                "compound_code": "52HF+F7 Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52HF+F7"
+            },
+            "rating": 4.2,
+            "reference": "ChIJEYCJRNRwdDkRA-6iY8Et8fs",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 98
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mathura Rd, near Pathwari Mandir, Kailash Mode, Sikandra, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2153344,
+                    "lng": 77.9427211
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21668422989272,
+                        "lng": 77.94407092989273
+                    },
+                    "southwest": {
+                        "lat": 27.21398457010728,
+                        "lng": 77.94137127010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "6af7c9815b24c99fa7692dd9db56aba130520003",
+            "name": "Tomb of Mariam-UZ-Zamani",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3016,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116157041047833277169\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAa1VHsf9VxrcWaZFc6V9y3RLl8XZvUreALqLUL4QwBiwmrlv3s3WLoiaRbYWgjcWNCNOjS1GMz0FThTIkCbX4kYpvl9C99lSkO8o2x_wu-acPc2kbks4h2145kl1eXI79EhCgbV2arW2Pgzjj0hJDr45VGhSSw9hv6PcNaX15pW5oc-7EgjMFSQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJfY3unh14dDkRWNRcQl7cGFs",
+            "plus_code": {
+                "compound_code": "6W8V+43 Sikandra, Agra, Uttar Pradesh",
+                "global_code": "7JVV6W8V+43"
+            },
+            "rating": 4,
+            "reference": "ChIJfY3unh14dDkRWNRcQl7cGFs",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 495
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dashehara Ghat Rd, Dharmapuri, Paktola, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.171023,
+                    "lng": 78.043711
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17237427989272,
+                        "lng": 78.0450500298927
+                    },
+                    "southwest": {
+                        "lat": 27.16967462010728,
+                        "lng": 78.04235037010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "fb4270f9b75339afdcfbb1a9ae698b6bad4d8697",
+            "name": "Taj Mahal Eastern Gate",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104010361646212636521\">Narath CHHEAV</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAo_DgBrVVUp1w01L15t7ApLewVsUkyNZcx2D6abyhIpbGX2zISrFtbEBOMUUpRi99_neSpYxIPd3mGpYfr7eoojQ4EioOuNddsOoFKj3wvcRVkIeDPt2_9qBklfjBN1l3EhD2dYf5SjTdqZWfIsG3AR23GhRAs4VFdrv3oLEOsKWznJJW8NDK3w",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJb-tpSh9xdDkRUqGHNxd0saI",
+            "plus_code": {
+                "compound_code": "52CV+CF Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52CV+CF"
+            },
+            "rating": 4.5,
+            "reference": "ChIJb-tpSh9xdDkRUqGHNxd0saI",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 230
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Pankaj Ghawri, Gandhi prayan udhyan, Chidiya Ghar, Lashkar, Shinde Ki Chhawani, Gwalior, Madhya Pradesh 474007, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.2100198,
+                    "lng": 78.16934839999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.21144122989272,
+                        "lng": 78.17078807989272
+                    },
+                    "southwest": {
+                        "lat": 26.20874157010728,
+                        "lng": 78.16808842010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "66dd3c3e18943d98e2cf9b8e72e641f2ec9a4576",
+            "name": "Chidiya Ghar (Zoo), Gwalior",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115210130721202148394\">Devendra Patel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASB2ciQMAOirZL5cWjhC4oHFPI8-6zaX8MuWyRPBTwOcgSox2tpKTbTPBOHRzoXCR0Lv8oxVSg0QJElZKacVRjsRyw4jOpgdxKMYgsmiSlGKIO0s-5103NpjSKYwedWPOEhDAk_fM-zBcjqaxPwAJtf6wGhRPbY9y4i6VLNDKGqosdluxfU_yyg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJjVqbcyjEdjkRI7KMx02NPQY",
+            "plus_code": {
+                "compound_code": "6569+2P Shinde Ki Chhawani, Gwalior, Madhya Pradesh",
+                "global_code": "7JRW6569+2P"
+            },
+            "rating": 4,
+            "reference": "ChIJjVqbcyjEdjkRI7KMx02NPQY",
+            "types": [
+                "zoo",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 608
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "158, khandelwal Colony, Pratap Pura, Rakabganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.165602,
+                    "lng": 78.00883569999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16693722989272,
+                        "lng": 78.01018847989272
+                    },
+                    "southwest": {
+                        "lat": 27.16423757010728,
+                        "lng": 78.00748882010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ffc6d38f82b6e91f272248b51827f992ff833e9e",
+            "name": "Designer Aquariums",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106430274738735324139\">Rabi Shaw</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgJhLwJXNpHZ7Pgr2byvCdJcRBtfJoIDKp7XRiaHKvYWsE2nKvjDrtk8QHLWFkrOc42GpEVBCfi4jv8vC9kkZWkxnJKfh8WgbMlh-Z7_ZZdiSaMaD-grdKpFdn1UiRQq-EhCMhcbM8JmlAnBWdRg41BytGhRe0-8VzhHGkmlR84kIOOLzTv-ltg",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJq6qqmtB2dDkR7ZSinxk5y_Y",
+            "rating": 3.5,
+            "reference": "ChIJq6qqmtB2dDkR7ZSinxk5y_Y",
+            "types": [
+                "aquarium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "\u092c\u092e\u093e\u0928 Khandoli, Etmadpur, Uttar Pradesh 283126, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.315515,
+                    "lng": 78.0313413
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.31688442989272,
+                        "lng": 78.03266337989271
+                    },
+                    "southwest": {
+                        "lat": 27.31418477010728,
+                        "lng": 78.02996372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "140789a3791e2926a33a1635e9a39e1f5de417eb",
+            "name": "\u0930\u093e\u0927\u0947 \u0905\u0928\u092e\u094b\u0932 \u0917\u094c\u0936\u093e\u0932\u093e Baman",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 269,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105154023176466839484\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANYmeZ8icKvonp0EPY1JgKnVI8qqbzwrgWJtIf50c-qQ_m9a7_TrRzxgWe40wBcMz6i6pBstuftl0_P8QuL8PsM54vZqi0hDd7l8WgtaWqqOZfDlZ2614BBO6Qco2wca6EhAqw7mLjK4TjzOd0aeXmr_MGhS1rWVlKAFZ0cmjgxpjfaricmknVA",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJO6kdzhR9dDkR8XDxkfbyir4",
+            "plus_code": {
+                "compound_code": "828J+6G Ramnagar Khandauli, Uttar Pradesh",
+                "global_code": "7JVW828J+6G"
+            },
+            "rating": 5,
+            "reference": "ChIJO6kdzhR9dDkR8XDxkfbyir4",
+            "types": [
+                "zoo",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mela Kothi Road, Village and P.O. Jarar, Bah, Agra, Uttar Pradesh 283104, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8731575,
+                    "lng": 78.56351389999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.87447227989272,
+                        "lng": 78.56483602989272
+                    },
+                    "southwest": {
+                        "lat": 26.87177262010728,
+                        "lng": 78.56213637010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "077f63cf92d16db9c282b1cd345416921b9f3c36",
+            "name": "Chambal Safari Lodge - Mela Kothi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1003,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116693330523413972896\">Chambal Safari Lodge</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhdAR3lRhKSd99_pptOSPn5yngnYF7kNnvjjLf4yDutoZQMnWlRLBfij7Zp2MwW2-Bc1P3t1fbOriKUCZgjF4gkdFfBkNww8A8CnwcynwXMomi0s58IOKfJM08KS0xHbVEhAhSPkaRZcqQPKnPm4yvnT1GhRaNeDxAgEUjvBMn7K2dmdQ7tXwvw",
+                    "width": 2400
+                }
+            ],
+            "place_id": "ChIJH6tARHUudDkRrQyK0OvEHww",
+            "plus_code": {
+                "compound_code": "VHF7+7C Jarar, Uttar Pradesh",
+                "global_code": "7JRWVHF7+7C"
+            },
+            "rating": 4.2,
+            "reference": "ChIJH6tARHUudDkRrQyK0OvEHww",
+            "types": [
+                "zoo",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 279
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "AB Rd, Doordarshan Kendra, Navlakha, Indore, Madhya Pradesh 452001, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.704116,
+                    "lng": 75.8779345
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.70570737989272,
+                        "lng": 75.87923647989273
+                    },
+                    "southwest": {
+                        "lat": 22.70300772010728,
+                        "lng": 75.87653682010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c90946323aaea72433dfd9127ecc8f762088b42c",
+            "name": "Kamla Nehru Prani Sangrahalaya, Indore",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105998251686235230892\">Mahesh Manjari</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAR5I3BSsCHr-FmsK1KPGGOhQNY-PcBFwobfXP7Qxt-IBUzqgcMl1dkizD-9oPQeP3KC3snrgOulegVUCToX10RUQ7pAHFi1MZKGI9OK_AoQix_XsFpMjdh4pTm03Ri8EQEhDX-lqjsKRuWeWochKGReDQGhTuMPDcIjDMZYP_a9qe1les-FdkKQ",
+                    "width": 1536
+                }
+            ],
+            "place_id": "ChIJ0-fQgSD9YjkRmHHQwdot73I",
+            "plus_code": {
+                "compound_code": "PV3H+J5 Navlakha, Indore, Madhya Pradesh",
+                "global_code": "7JJQPV3H+J5"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ0-fQgSD9YjkRmHHQwdot73I",
+            "types": [
+                "zoo",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14679
+        }
+    ],
+    "status": "OK"
+}

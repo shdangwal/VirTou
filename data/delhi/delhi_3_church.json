@@ -1,0 +1,904 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Plot, Gali Number 5, Uttam Nagar, Maharani Enclave, Hastsal, Delhi, 110059, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6336717,
+                    "lng": 77.05352590000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63502152989272,
+                        "lng": 77.05481572989272
+                    },
+                    "southwest": {
+                        "lat": 28.63232187010728,
+                        "lng": 77.05211607010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "39289b7449322bc1b6f3696ceeb4f68299a25af6",
+            "name": "Lord Jesus Mission Zomi Church Delhi",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116443833178110881285\">Tuangboih Zomi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAldVVlA8AkOkXTwgU2DS2kckKnyPtebWv6PHpghoX7ELc3mJ7fmh12-GwvUeC91YqLCadwjYBGKbu91DssjVHgAXC7kvdOEx3CuMLNPUvmbSE_HlL3Q-j-EARM8F2V8xuEhA42FUB7X8rBLhOxIvdqY2EGhT9lHLdKDtyl9nZyhEIRsT9PVniQA",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJreRl_x4FDTkRpC_zYlzdHCw",
+            "plus_code": {
+                "compound_code": "J3M3+FC Hastsal, Delhi",
+                "global_code": "7JWVJ3M3+FC"
+            },
+            "rating": 3.7,
+            "reference": "ChIJreRl_x4FDTkRpC_zYlzdHCw",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Gautam Colony, Narela, Delhi, 110040, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.8546122,
+                    "lng": 77.0857228
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.85599812989272,
+                        "lng": 77.08707102989273
+                    },
+                    "southwest": {
+                        "lat": 28.85329847010728,
+                        "lng": 77.08437137010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "c9ff5747708e77fd5f07faec7f8b48a07ab73a62",
+            "name": "Narela Church (New India Church of God)",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101739806517218958582\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4LW4Jydn0ddN13yY-YRa-w1pV_NNFSvqvbfsfCALyy0lvDi2X7iFTFqmwkLrfEI9q6gG4Tb_2U-YCEHtdK1ZKMTL29CDrJnfJ1HRtI0gm9fWuwwc-ceohZgOAkdWukdmEhCVo57uZBdM7Yx6CNB7X8v9GhSBITP1IlfLxOxAxtVqpUNJ1uJvTA",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJadTBhG6pDTkR3J70siFu3sw",
+            "plus_code": {
+                "compound_code": "V33P+R7 Narela, New Delhi",
+                "global_code": "7JWVV33P+R7"
+            },
+            "rating": 4.6,
+            "reference": "ChIJadTBhG6pDTkR3J70siFu3sw",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "66,Opposite Gautam Nagar, New Delhi, Delhi, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.560921,
+                    "lng": 77.212706
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56230912989272,
+                        "lng": 77.21412547989272
+                    },
+                    "southwest": {
+                        "lat": 28.55960947010728,
+                        "lng": 77.21142582010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "51a6dd4d3b8dd118d8cb2b1109fe4b4f97746263",
+            "name": "Church of God",
+            "permanently_closed": true,
+            "place_id": "ChIJJwuDRmniDDkRgkqUMY-QVdw",
+            "plus_code": {
+                "compound_code": "H667+93 New Delhi, Delhi",
+                "global_code": "7JWVH667+93"
+            },
+            "rating": 3.7,
+            "reference": "ChIJJwuDRmniDDkRgkqUMY-QVdw",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mayur Vihar Phase III, Kondli, Delhi, 110096, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.608089,
+                    "lng": 77.3349708
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.60936597989272,
+                        "lng": 77.33625457989272
+                    },
+                    "southwest": {
+                        "lat": 28.60666632010728,
+                        "lng": 77.33355492010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "48a74ed06a2ea9c75fd9c67d4c1e2e92d8dcf74e",
+            "name": "St. James Orthodox Church",
+            "photos": [
+                {
+                    "height": 1502,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115352225097306538446\">Roby Thankachan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2u3XRw7H5C8cyzCucnbLq_fjMap2dQLqsA6vPkFf88osTYOwRBun3lO0AEkZuH65vdzqyGvtluweTcMIHfTjFG54KlMu7RJ-bRc8HxDQCKR6TNn77LGO-4F0DFSa8e1iEhA02XBomrcbhFZAAL6Dy0VJGhTIfdOlqZUsQnacPZHRzQRCUd9O_g",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJlQLbUB7lDDkRqgwvq72g07s",
+            "plus_code": {
+                "compound_code": "J85M+6X Kondli, New Delhi",
+                "global_code": "7JWVJ85M+6X"
+            },
+            "rating": 4.8,
+            "reference": "ChIJlQLbUB7lDDkRqgwvq72g07s",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "D-42, Janakpuri Institutional Area, Janakpuri, New Delhi, Delhi 110058, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.609788,
+                    "lng": 77.1021592
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61118287989272,
+                        "lng": 77.10339847989273
+                    },
+                    "southwest": {
+                        "lat": 28.60848322010727,
+                        "lng": 77.10069882010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "4cdb676bec182231c9062e41c0702fa7d4e10456",
+            "name": "Mahima Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114852902088504243937\">Shafeek Chammanur</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAzeQViiyxaHlo1Yp7UeKf3uaAwNvS1hJ6K5a4V9jnH_CDc41lwfkHz2g103aKgdCWG3HqkYzPBKm6HKc-OIz2kfbeEUlL6yfJWIxEMOH1uiZHKCC3CTR5Qfz5dwQCYh-IEhAstx807pxcs1wi7b96rlVbGhR6ZKlcNfe4SvtHqgywGQjZLo43sw",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJjZSuflUbDTkRgHLgXMYlYLI",
+            "plus_code": {
+                "compound_code": "J452+WV Janakpuri, New Delhi, Delhi",
+                "global_code": "7JWVJ452+WV"
+            },
+            "rating": 4.5,
+            "reference": "ChIJjZSuflUbDTkRgHLgXMYlYLI",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "252, Satya Niketan Rd, Moti Bagh II, Satya Niketan, South Moti Bagh, New Delhi, Delhi 110021, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.58793,
+                    "lng": 77.1692103
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.58925862989272,
+                        "lng": 77.17057457989273
+                    },
+                    "southwest": {
+                        "lat": 28.58655897010728,
+                        "lng": 77.16787492010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "75b19212f2a94a96e2bb67e32797eaa6edc6267a",
+            "name": "CAG Tamil Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112421065510355042357\">Sharon Moses</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAo_XL1t7-aXetT8GzT3z3n14pXjvMfuynV9xb69mxecah08Lg0aaDXVPMqvtyefddcBcNdcT9iLd2aD0-9YY-kOKYVd0xFJ7hdcBSBEAStkk1qdI3QUzaX6e60taYW2rvEhDnK9WteQrSNPKS-UUNL7KaGhQCp68sOyVZUVbDdMXeCa-B98wHaQ",
+                    "width": 1137
+                }
+            ],
+            "place_id": "ChIJy9B9BRMdDTkR-TG0BRn5FlM",
+            "plus_code": {
+                "compound_code": "H5Q9+5M South Moti Bagh, New Delhi, Delhi",
+                "global_code": "7JWVH5Q9+5M"
+            },
+            "rating": 4.1,
+            "reference": "ChIJy9B9BRMdDTkR-TG0BRn5FlM",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "216, Pocket 7, Sector 2, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7005144,
+                    "lng": 77.10091249999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70189217989272,
+                        "lng": 77.10228652989272
+                    },
+                    "southwest": {
+                        "lat": 28.69919252010728,
+                        "lng": 77.09958687010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "bc0ce84ca32fb275d588f8f41f10339325151256",
+            "name": "CHURCH of God in India",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117259007840761167566\">Ligish P Thomas</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyYB9Bd8AgFciYOlo65gn8rprdN5JTUiimGOD6cO2xUzN1wjrHuhMQ0vrkrOlefxUbnc5LE0X8NPYb217PbGq_YRXML0U-IojJBDFDuAp_koUNpgcW4EjgDSoRuPEnYrmEhA1oK3KL9kh5kTOCWFcAJlgGhTGOToI_unw2DCG0Qstb2tMsf_4sg",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJCdwC8wAEDTkR8tsDd3ZKN_Y",
+            "plus_code": {
+                "compound_code": "P422+69 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP422+69"
+            },
+            "rating": 4.2,
+            "reference": "ChIJCdwC8wAEDTkR8tsDd3ZKN_Y",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sujan Sing Park North, New Delhi, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6025369,
+                    "lng": 77.2258844
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.60381112989272,
+                        "lng": 77.22715907989271
+                    },
+                    "southwest": {
+                        "lat": 28.60111147010727,
+                        "lng": 77.22445942010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "f5ee10fb1adc19e79384e0e3069097f5e16d02b7",
+            "name": "Our lady of health vailankanni shrine",
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111505660981030677818\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmCEHFcc6LzKcrI-8Ojoerx56COziPM2JyIl7-kiWf7K9pzwtaOgMvvAzPDWaLPWAGdRLyjnkdpyWUaI4gvujkqbOM8llG5HMtBqmis7ELDmIXgpDb5bLWa7EgJaVN_iVEhB_ZA77QXrQ1FjuBJQgvViGGhR3IMPAGBz6seEgP4tuA8opscC1cQ",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJn7smZ8LiDDkRxU2KDOvIAWE",
+            "plus_code": {
+                "compound_code": "J63G+29 New Delhi, Delhi",
+                "global_code": "7JWVJ63G+29"
+            },
+            "rating": 4.8,
+            "reference": "ChIJn7smZ8LiDDkRxU2KDOvIAWE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 479
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "C128, Sainik Nagar, Mansa Ram Park, Uttam Nagar, New Delhi, Delhi 110059, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6166075,
+                    "lng": 77.041095
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61795752989272,
+                        "lng": 77.04243007989271
+                    },
+                    "southwest": {
+                        "lat": 28.61525787010727,
+                        "lng": 77.03973042010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "e4ec794868ecc4992720a459850de9dea7c00a2a",
+            "name": "FMPB, Delhi.",
+            "permanently_closed": true,
+            "place_id": "ChIJaVgOkzAFDTkRKHfjWTgTOKk",
+            "plus_code": {
+                "compound_code": "J28R+JC Uttam Nagar, Delhi",
+                "global_code": "7JWVJ28R+JC"
+            },
+            "rating": 5,
+            "reference": "ChIJaVgOkzAFDTkRKHfjWTgTOKk",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "D-264, Street No. 11, Laxmi Nagar, Delhi, 110092, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.631595,
+                    "lng": 77.275941
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63293127989272,
+                        "lng": 77.27724997989273
+                    },
+                    "southwest": {
+                        "lat": 28.63023162010728,
+                        "lng": 77.27455032010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "cfc6bd7ffba3f71b5feaaa47c232a885990f80d3",
+            "name": "Sharon Church of Christ",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110260435267796813488\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyp7zwLrZr24Oo3hgmDoSTlzaf1oRaZPstpIkM1IGAQ4q_rUT4FGDaJpWurjRbDUVt0qbR18H8StAjREspuJEvV66ZWEtoewgkdVpUknqZmV7bhMsdDPNW_bbYB_Ik873EhDjDdzxs69uOkiigY-IF_OUGhRjF-5__fzeuW89NGNCjKCG5HhjRQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJG4fwdq38DDkRwNqA2d0AOmk",
+            "plus_code": {
+                "compound_code": "J7JG+J9 Delhi",
+                "global_code": "7JWVJ7JG+J9"
+            },
+            "rating": 4.2,
+            "reference": "ChIJG4fwdq38DDkRwNqA2d0AOmk",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "8632, Arakashan Rd, Arya Nagar, Paharganj, New Delhi, Delhi 110055, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6452858,
+                    "lng": 77.21628749999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64662722989272,
+                        "lng": 77.21772347989271
+                    },
+                    "southwest": {
+                        "lat": 28.64392757010728,
+                        "lng": 77.21502382010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "8b356975857d061ac632bb7c1055b844683bf5f5",
+            "name": "St. Anthony's Catholic Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108292000346022080904\">everywhere at the world</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOb9fqIDZzYetoHY-L3NhKUOtTk0O_VlUFVLsKmgbH-JplgApeOmuaFqgtDasSRx4ZQexJdt6vX1ZaMU7ZwQvuZHfI2-Ase4XjF266iqQOI86sNzppqRUBU84Tjh4Cd6gEhBO5nTdGEjv9PikWLT6ln5DGhT1G4_ahmL1xYNEERSy0AWFxJaMHA",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJTZlTFkD9DDkRCm76O9PUs7w",
+            "plus_code": {
+                "compound_code": "J6W8+4G Paharganj, New Delhi, Delhi",
+                "global_code": "7JWVJ6W8+4G"
+            },
+            "rating": 4.6,
+            "reference": "ChIJTZlTFkD9DDkRCm76O9PUs7w",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 45
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "L-16, First Floor, Mahatma Gandhi Marg, South Extension, South Delhi, Block L, South Extension II, New Delhi, Delhi 110049, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5668462,
+                    "lng": 77.22329739999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56815992989272,
+                        "lng": 77.22472492989272
+                    },
+                    "southwest": {
+                        "lat": 28.56546027010728,
+                        "lng": 77.22202527010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "3a55758ee0396b68b9f53d2265c11a30ee42cdb7",
+            "name": "Faith Assembly of God Church",
+            "permanently_closed": true,
+            "place_id": "ChIJA0YpX1viDDkRLhXyV4nlMFo",
+            "plus_code": {
+                "compound_code": "H68F+P8 South Extension II, South Extension, New Delhi, Delhi",
+                "global_code": "7JWVH68F+P8"
+            },
+            "rating": 4.6,
+            "reference": "ChIJA0YpX1viDDkRLhXyV4nlMFo",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kings Way Camp, Tagore Park Extension, Mukherjee Nagar, Delhi, 110009, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7022203,
+                    "lng": 77.1974948
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70358412989272,
+                        "lng": 77.19880492989273
+                    },
+                    "southwest": {
+                        "lat": 28.70088447010728,
+                        "lng": 77.19610527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "455fc88070ed844bc5db2e80dc42c2c90b33b8c4",
+            "name": "Church Of Trinity",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112806134502021633109\">Balram Saini</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAb8Y8WAld1U91Wrgl1rMhsNgjwKh91-fjWnymgoEddpiFTQArQPP2ed549qAblcLdVhMz1Wj_zLHMAMERj1bkMcmH3exViKDGLUPBn37QFF9-QaHn3R0xwgcXRb_APOnMEhDKA9aWdYX1o1Zy0gFTI5ttGhRRdhXGcMHaDPyIoM9LCRLtnKb7MA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJWfz9zfn9DDkRt4AxnpYbve4",
+            "plus_code": {
+                "compound_code": "P52W+VX Mukherjee Nagar, Delhi",
+                "global_code": "7JWVP52W+VX"
+            },
+            "rating": 4.3,
+            "reference": "ChIJWfz9zfn9DDkRt4AxnpYbve4",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bazar Chitli Qabar, Katra Chobey Lal, Chandni Chowk, New Delhi, Delhi 110006, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6426934,
+                    "lng": 77.233555
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64424037989272,
+                        "lng": 77.23499382989272
+                    },
+                    "southwest": {
+                        "lat": 28.64154072010728,
+                        "lng": 77.23229417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "9ccc712689ebf8d0fb6feac708d1feac4d2f8111",
+            "name": "Holy Trinity Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102168057559250068452\">John K. Philip</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAh2opWbnXkTohop3DeKGDUk1zk8MJszBKmyctB6xEsr_0M_d7aTKLmmg7uS68zHdxfgpusga9ivwQkcFvIYW-e46dBz1j66jLwQW1CbuZdEwar7-ErT2WY_UfKIsrJcCxEhDz9GxmyKROllTg81hyxDQxGhTP0TK6NC-GfQoCb-LajdFxcxUX7g",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJjd1d8iP9DDkRZyENBJTCm4g",
+            "plus_code": {
+                "compound_code": "J6VM+3C New Delhi, Delhi",
+                "global_code": "7JWVJ6VM+3C"
+            },
+            "rating": 4.7,
+            "reference": "ChIJjd1d8iP9DDkRZyENBJTCm4g",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Patel Chest, Chhatra Marg, Christian Colony, North Campus, Delhi, 110007, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.692589,
+                    "lng": 77.211427
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69391797989272,
+                        "lng": 77.21283637989272
+                    },
+                    "southwest": {
+                        "lat": 28.69121832010728,
+                        "lng": 77.21013672010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "36e23521804f457186d53622a704486e48f03a90",
+            "name": "Holy Christian Church",
+            "permanently_closed": true,
+            "place_id": "ChIJFbGhpuz9DDkRbYTvGJFCj7s",
+            "plus_code": {
+                "compound_code": "M6V6+2H Delhi",
+                "global_code": "7JWVM6V6+2H"
+            },
+            "rating": 3.7,
+            "reference": "ChIJFbGhpuz9DDkRbYTvGJFCj7s",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "F-228, Lado Sarai Extension, Lado Sarai, New Delhi, Delhi 110030, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5277456,
+                    "lng": 77.1925121
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52908752989272,
+                        "lng": 77.19386032989271
+                    },
+                    "southwest": {
+                        "lat": 28.52638787010728,
+                        "lng": 77.19116067010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "212acc8b4a8c2f8b12e134c8cabf28b86e144a0a",
+            "name": "Goshen Church New Delhi",
+            "permanently_closed": true,
+            "place_id": "ChIJCw2FQgAeDTkRC76oqtX5Re8",
+            "plus_code": {
+                "compound_code": "G5HV+32 Lado Sarai, New Delhi, Delhi",
+                "global_code": "7JWVG5HV+32"
+            },
+            "rating": 3.6,
+            "reference": "ChIJCw2FQgAeDTkRC76oqtX5Re8",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "C-27, 40 Feet Rd, Deep Vihar, Vikas Nagar, Hastsal, New Delhi, Delhi 110059, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6336264,
+                    "lng": 77.0534984
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63506492989272,
+                        "lng": 77.0548019298927
+                    },
+                    "southwest": {
+                        "lat": 28.63236527010728,
+                        "lng": 77.05210227010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "5811572a66404307917bd3609d7e9fc7faea5610",
+            "name": "Zomi Church Delhi",
+            "permanently_closed": true,
+            "place_id": "ChIJVfhz_x4FDTkRLR6tVCHl9tw",
+            "plus_code": {
+                "compound_code": "J3M3+F9 Hastsal, Delhi",
+                "global_code": "7JWVJ3M3+F9"
+            },
+            "rating": 4,
+            "reference": "ChIJVfhz_x4FDTkRLR6tVCHl9tw",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "John L Dorsey Rd, Prasad Nagar, Mata Rameshwari Nehru Nagar, Karol Bagh, New Delhi, Delhi 110005, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6501977,
+                    "lng": 77.1795475
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65176687989272,
+                        "lng": 77.18091787989273
+                    },
+                    "southwest": {
+                        "lat": 28.64906722010728,
+                        "lng": 77.17821822010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "edaa86aea031b05d8a319b70760538b4a3c24d07",
+            "name": "Delhi Tamil Church (English & Tamil Service)",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118145040927753302827\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4mnQH6oXdXEY7VJgw6OpDhuna4F-GyPOiL5fPpfm_uTGpuYysOwnn11vQ5pOrsFSKHZ4YACB9vuAiEy38wVL5sM6aOjMADdA2S-UWYM2DVXhWY_VY_fC_ft8S-W5TDm8EhCtXoRyRDV2MnepOjesv_-9GhRNMM4WU7zTb-0XGo0OYUryq48-5Q",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJB7Lk3TwDDTkRz0IOazPhsqU",
+            "plus_code": {
+                "compound_code": "M52H+3R New Delhi, Delhi",
+                "global_code": "7JWVM52H+3R"
+            },
+            "rating": 4.3,
+            "reference": "ChIJB7Lk3TwDDTkRz0IOazPhsqU",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "A block, Plot Number, 37, Gali Number 1, Harit Vihar, Burari, New Delhi, Delhi 110084, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7392536,
+                    "lng": 77.1930027
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.74056162989272,
+                        "lng": 77.19428482989272
+                    },
+                    "southwest": {
+                        "lat": 28.73786197010728,
+                        "lng": 77.19158517010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "a280b5a34dbc463189d81dbce782b24f07aaa49d",
+            "name": "St. Thomas Jacobite Syrian Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101493660241043034045\">kpissac paily</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWa4xKZkPMVG9xYBfnS9189mYQrJMXN_v9eNx5xBR_KTioMA_ZHUFKXR0dl_m6urw1qnYRd5lFQRvSDeTs5x27OYaxlkAC4mPOLjwUE8tBu-2Cmk2RN0kr4MLNPsSPe0sEhAMDigBL_doqlpuFdSFyJgfGhTNYFaookuubP7vih-aCj7AZRX7Dw",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJK-mCDd8BDTkRz4JKJwSF4RA",
+            "plus_code": {
+                "compound_code": "P5QV+P6 Burari, Delhi",
+                "global_code": "7JWVP5QV+P6"
+            },
+            "rating": 3.9,
+            "reference": "ChIJK-mCDd8BDTkRz4JKJwSF4RA",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sadbhawana Marg, Chilla Sarda Bangar, Chilla Sarda Bangar Village, Mayur Vihar, New Delhi, Delhi 110091, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5955984,
+                    "lng": 77.2994587
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.59693047989272,
+                        "lng": 77.30070002989274
+                    },
+                    "southwest": {
+                        "lat": 28.59423082010728,
+                        "lng": 77.29800037010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "b9c7186fd5035e0f1210b173c39c90bfd94d0d76",
+            "name": "Immanuel Church CNI Malayalam Parish",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109073362354067331613\">Bibin S BABU</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAcK9GI9mPZBMp8yUkV9xc-V2MOKo3B1OFWU0ulboBlLSupCgVIKCJOsEaVizzciOPFomLTdmcb4LVQoZR_6Uv1WeninC4Kv7DR_jF97mQEgNyWwtvQKo7D4wAyC-0I4DwEhBYGnCi6E1YQbeqylZwekblGhSbox3mvhWY57G-URwL-vMxYbhudw",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJX9bnwY_kDDkRN0qQOlvb-xg",
+            "plus_code": {
+                "compound_code": "H7WX+6Q Mayur Vihar, New Delhi, Delhi",
+                "global_code": "7JWVH7WX+6Q"
+            },
+            "rating": 4.3,
+            "reference": "ChIJX9bnwY_kDDkRN0qQOlvb-xg",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        }
+    ],
+    "status": "OK"
+}

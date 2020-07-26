@@ -1,0 +1,103 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Central Bus Stand Road, Mhada, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8797045,
+                    "lng": 75.3151286
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88166612989272,
+                        "lng": 75.31658142989272
+                    },
+                    "southwest": {
+                        "lat": 19.87896647010728,
+                        "lng": 75.31388177010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "f1633947d6a8ddb5b4000972bb2acb67423b9fe1",
+            "name": "Siddharth Garden and Zoo",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104447566239514934943\">ritesh mishra</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAePljyGf9Xs-p6WVkPoS_hqKCUkXlgbYPgTCoTIiWhNcsImGI6ZgqKXDQDDLhVeIMGeuXH1Ou1-TCsO93qDYVhZ-SmdfgyIBV7Y8dJn4jyV9ICEneA42JXNsO0RUntCEtEhCcmaULgv5YGMuNQ5OpY1YjGhTOqjqWPyLKrWmtveGdwHOdYnv3hA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJS7NX-UCY2zsR90dknaNvEFQ",
+            "plus_code": {
+                "compound_code": "V8H8+V3 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8H8+V3"
+            },
+            "rating": 3.9,
+            "reference": "ChIJS7NX-UCY2zsR90dknaNvEFQ",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9152
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mhada, Aurangabad, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8790224,
+                    "lng": 75.3168637
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88044947989272,
+                        "lng": 75.31843677989272
+                    },
+                    "southwest": {
+                        "lat": 19.87774982010728,
+                        "lng": 75.31573712010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "706c62098303310ec7398ef7d8eade31cc3d6068",
+            "name": "Siddharth Garden Parking",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103661744298029012773\">Prabhanjan Harde</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAa1Y8S7opNgxsC8RAsL_uQQxK75WWG0qgcdwUvg-x5bYJonb7xbrqMhgaoOIYsKMHoVBCAf6g74BS_6kDbIGJLyVJWGJfPZKfHxS0EEcX_bLtvZ5vbz9tTGbhMtewAnQ-EhACClcJbTuWB99EaeJQpOmPGhTNd36bMymKp4rOUjqt2L3CrBsMAg",
+                    "width": 3280
+                }
+            ],
+            "place_id": "ChIJ3bxbMUCY2zsRVQG8da653KQ",
+            "plus_code": {
+                "compound_code": "V8H8+JP Mhada, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8H8+JP"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ3bxbMUCY2zsRVQG8da653KQ",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 220
+        }
+    ],
+    "status": "OK"
+}

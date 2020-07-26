@@ -1,0 +1,141 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Amba - Apsara Cinema Rd, opp. Zilha Parishad, Aurangpura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8848645,
+                    "lng": 75.325339
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88610137989272,
+                        "lng": 75.3267675298927
+                    },
+                    "southwest": {
+                        "lat": 19.88340172010728,
+                        "lng": 75.32406787010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "2f8cb72c5950e6806ccf949729d06eae55428f97",
+            "name": "Khinvasara Cineplex (Amba Apsara)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 802,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101591158592019216194\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAS6UpDBKWFJZFrGsoQ_mUPjzztYECXj5ixHM3npW0NBf3tjcgU3rYu9fryp7X4GcReZQUZX_woJHIes1pN9TvJe06K4T-_NgAy_cUseigqu_rKOmNSV6FfYzZUrVSKYlcEhCPshX6F5n5sf-IHjug28dHGhQ3umC4YM6IZ8KzchI--QrjvHmgKA",
+                    "width": 1001
+                }
+            ],
+            "place_id": "ChIJUxhDCSSZ2zsR0DwM6PPPQCQ",
+            "plus_code": {
+                "compound_code": "V8MG+W4 Aurangpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MG+W4"
+            },
+            "rating": 3.6,
+            "reference": "ChIJUxhDCSSZ2zsR0DwM6PPPQCQ",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1295
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Waluj, Aurangabad, Maharashtra 431133, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8338682,
+                    "lng": 75.2488482
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.83521687989272,
+                        "lng": 75.25021047989271
+                    },
+                    "southwest": {
+                        "lat": 19.83251722010728,
+                        "lng": 75.24751082010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "7a19b261ef6f3a75f36fc6da2ebc5a024674e7a4",
+            "name": "Sai Ram Engineers C-189 M.I.D.C Waluj Aurangabad",
+            "permanently_closed": true,
+            "place_id": "ChIJ_x8vmhuZ2zsRi0eJx3WQAS0",
+            "plus_code": {
+                "compound_code": "R6MX+GG Waluj, Aurangabad, Maharashtra",
+                "global_code": "7JFQR6MX+GG"
+            },
+            "rating": 5,
+            "reference": "ChIJ_x8vmhuZ2zsRi0eJx3WQAS0",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot.no.E9,MIDC Industrial Area, Chilkalthana, Aurangabad, Maharashtra 431006, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.87953,
+                    "lng": 75.382848
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88083682989272,
+                        "lng": 75.38419292989272
+                    },
+                    "southwest": {
+                        "lat": 19.87813717010728,
+                        "lng": 75.38149327010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "814e39b70f013e5e295604075dfe54d4d4b01300",
+            "name": "Harman Finochem Ltd",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116348029450418857361\">saleem shaikh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfM30X27QiiKvnwzfJBP5EuhkxU1UqaGa2VaW08Vxqismcz6odxi_MrKjBM9hpMFO56p-pz7q_ZolweacHSjWxt4DTsq9WsJG0H1bhnJ9szuhGexe5jcTwTGuBF-OIaUKEhCwc9tS0OcgKjz3kWaydXvvGhTRgAu7sRVgwK80RP1Z5YdAyBjY0Q",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJsaH7k-Oi2zsRVl6ObecGSfU",
+            "plus_code": {
+                "compound_code": "V9HM+R4 Aurangabad, Maharashtra",
+                "global_code": "7JFQV9HM+R4"
+            },
+            "rating": 4.1,
+            "reference": "ChIJsaH7k-Oi2zsRVl6ObecGSfU",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,891 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCAwEAAKgy5DpNod_zWOj2r8VET5bhKu2-yafZsLwm1Hw3k3wxUdp3iAg3-1pSgDOh4G9P7k1WUpMkhFknNgs9FxGhe_jPjUVdclc9R1jfp_-xKDu3YRQjkeLBGpWAoOLZx_Grc95c7PHtY1eW1lDpqUylTJRm6RSG-LhUeYyjcYDTceL3BcqWDz_-CNOkOGlmVMvW2VMMrrzSYfTGpwF8nxpgf0Ixmi6wS4ITI-hCKwcnu4FuDzpWLewWlnZqSmKFK2PNI984_86raHJugqTzKQP6IrDLjUdDO0D-BLTLitQQj-zX4nnpBTWfsXt1WadYDnrEdiZUHabmkNWQF-aEtNIBvN0woq7HosysqqORdT9Ssm07EhBTggk0WWtJ9174T06vayIIGhSiybg8M75IgX4FCIzmPgivnn8PHw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jalna Road, Town Center, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8751603,
+                    "lng": 75.3567947
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87644357989272,
+                        "lng": 75.35814617989273
+                    },
+                    "southwest": {
+                        "lat": 19.87374392010728,
+                        "lng": 75.35544652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "53c77ca5c332ebff14f4db44c4c94387f290ed3e",
+            "name": "Raj Automobile Indian Oil Petrol Pump",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103729955470531339948\">baliram kale</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAuo5T91qU0z-uZ7uUGOizLWW6Ccrpf3gljLcq-VRogiQKCAlDUVKLdxXm9V4rozbv8QmavCeMh5X6UXoj3uXJU3kfJFmyvnbtIaS1tQyFLBEO8aTKgEEwiCo9mJ35phf6EhAaZ5-Z66fatUsLd1GNWvY6GhTpFQ3O57mmo8AbRKj3wNc1fT3ygw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJm0lGupGi2zsRK5s00DbDxpA",
+            "plus_code": {
+                "compound_code": "V9G4+3P Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G4+3P"
+            },
+            "rating": 3.8,
+            "reference": "ChIJm0lGupGi2zsRK5s00DbDxpA",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 516
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jafar Gate, Jalna Road, Jalna Road, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8764059,
+                    "lng": 75.3453019
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87776097989272,
+                        "lng": 75.34665122989271
+                    },
+                    "southwest": {
+                        "lat": 19.87506132010727,
+                        "lng": 75.34395157010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "62094d76dc70a75f45c69bb28eb662cf504df02e",
+            "name": "Atuls Lubricant Oil",
+            "place_id": "ChIJSUPtyGiY2zsRuXs5_GC9T_M",
+            "plus_code": {
+                "compound_code": "V8GW+H4 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GW+H4"
+            },
+            "rating": 0,
+            "reference": "ChIJSUPtyGiY2zsRuXs5_GC9T_M",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Venkatesh Near, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.87636,
+                    "lng": 75.35284
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87775752989272,
+                        "lng": 75.35419222989272
+                    },
+                    "southwest": {
+                        "lat": 19.87505787010728,
+                        "lng": 75.35149257010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "4009fccde7ee02f6c7c370ab80c618c826729e02",
+            "name": "HP PETROL PUMP - AMBARWADIKAR ENTERPRISES",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103729955470531339948\">baliram kale</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA87t_T1e-dPh8U3XumNSn4bwl4Dbir99x97Egwnl33WBjUJwpJvd8zuYXHA2-DJDEEbuaxvNMFNJK4n5kXGwY4EM-wKs8NIa_XD_JodUsOf-w6NCkh3WNAqhTBU4by3__EhBW3THPECQuvC1ihhf5R0veGhQDSXBRzvk7ji55dvqJqKW4vsOcew",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJz6w7gpCi2zsRbXRDTTOd_c0",
+            "plus_code": {
+                "compound_code": "V9G3+G4 M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G3+G4"
+            },
+            "rating": 3.8,
+            "reference": "ChIJz6w7gpCi2zsRbXRDTTOd_c0",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 92
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Pundlik Nagar Rd, Near Advanced ENT Hospital, Gajanan Temple, Vishalnagar, Nyay Nagar, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8677779,
+                    "lng": 75.35265009999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86908837989272,
+                        "lng": 75.35398167989271
+                    },
+                    "southwest": {
+                        "lat": 19.86638872010728,
+                        "lng": 75.35128202010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "21504a982c35531470a87c6ca1823155a840de3c",
+            "name": "ESSAR",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108124537590510925988\">govind ladge</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2P-DmJQTSr3QPOXaDRh4AQdqW0RbRhBUYMZMB-Pr7uI2te9hIzO-ciSZc88o7QHpNhvn2-XV2umvVyPKN_CQ7tb3OBM3eS_J_v3e8szj9oz6S2cOZ2h3gMotlWVemth2EhAla4rZ5RTLeabcSKAhbWLeGhSKmglvPvZD9x6SDn_hJY-TjD8W5g",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJxRbc-YWi2zsRS6yFtSO844k",
+            "plus_code": {
+                "compound_code": "V993+43 Nyay Nagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV993+43"
+            },
+            "rating": 3.3,
+            "reference": "ChIJxRbc-YWi2zsRS6yFtSO844k",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 452
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kranti Chowk, Jalna Road, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8738579,
+                    "lng": 75.32929
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87513877989272,
+                        "lng": 75.33066737989272
+                    },
+                    "southwest": {
+                        "lat": 19.87243912010728,
+                        "lng": 75.32796772010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "d6a83d197e44be34e1f1011807d9547095ec1334",
+            "name": "HP PETROL PUMP HIND SUPER SERVICES",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113373244408142089092\">Parikshit Verma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAimKbXdHJNwujC3O5GUkTP3sxNA-49gaIayO5Hpb31srK8BBGIYar1AFK6NEDGwW_YFQX4TI9DDdTLu2Vz-wnt9VHHmchpYrrSXwVky8H6q7x_xPHXUI2GFpUNfnfKY9MEhBAfex97th1bMswKdP01E9zGhTIDZmhLYYaJ8FfVmQRSOneJjTSdA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJM8rK1G-Y2zsR8MTDULXW5Zg",
+            "plus_code": {
+                "compound_code": "V8FH+GP Aurangabad, Maharashtra",
+                "global_code": "7JFQV8FH+GP"
+            },
+            "rating": 4.1,
+            "reference": "ChIJM8rK1G-Y2zsR8MTDULXW5Zg",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 445
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jalgaon Rd, Mhasoba Nagar, Harsul, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9090003,
+                    "lng": 75.35446019999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.91021967989272,
+                        "lng": 75.35562742989272
+                    },
+                    "southwest": {
+                        "lat": 19.90752002010728,
+                        "lng": 75.35292777010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "d9d00d9af30346c791de7ab062877b7991828b74",
+            "name": "Indian oil gas station",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103729955470531339948\">Baliram Kale</a>"
+                    ],
+                    "photo_reference": "CmRaAAAADyfJxdtzr7IFD9NU_4x6o9n-EyoOZ02crU48EoUKR-iJf2F0rwNvhQKAJ771nOFHN-YnNXQ_PszzFeLBINWTgOB6KQcq4ZOUCj4ZMTNPLKO-g6YgTDUrRURcsmfB_cA1EhCsSoCTt0kyOODI9dyPssEOGhS0Okp2dDJ_NEqETUsbDb3LBROYrA",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJw1TMOE292zsRHLwIbOopdF0",
+            "plus_code": {
+                "compound_code": "W953+JQ Harsul, Aurangabad, Maharashtra",
+                "global_code": "7JFQW953+JQ"
+            },
+            "rating": 3.4,
+            "reference": "ChIJw1TMOE292zsRHLwIbOopdF0",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "B-4 Yogeshwari Silver Park, To, Stadium Rd, Shivaji Nagar, Ulkanagari, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8603299,
+                    "lng": 75.3426559
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86165362989272,
+                        "lng": 75.34400657989272
+                    },
+                    "southwest": {
+                        "lat": 19.85895397010728,
+                        "lng": 75.34130692010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "d6187dfb8903ff42ece733643198271c5b47563a",
+            "name": "Aurangabad Gas Parts & Services",
+            "place_id": "ChIJOcV24H-i2zsRhSOmwvHPIe4",
+            "plus_code": {
+                "compound_code": "V86V+43 Ulkanagari, Aurangabad, Maharashtra",
+                "global_code": "7JFQV86V+43"
+            },
+            "rating": 3.6,
+            "reference": "ChIJOcV24H-i2zsRhSOmwvHPIe4",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Adalat Rd, Snehnagar, Konkanwadi, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8719445,
+                    "lng": 75.32546820000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87339907989272,
+                        "lng": 75.32680502989272
+                    },
+                    "southwest": {
+                        "lat": 19.87069942010728,
+                        "lng": 75.32410537010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "f38f11c7ff78704de776d3112a49db020f7a69a5",
+            "name": "Chunnilal Petrol Pump",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117778159657966295772\">a.nazeer shakeel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARhc2s7mjTu5iBpyWuPrvWEFJnAqxKZUyOos2_83chX29uoYE8RiVbXAJgo0B9rCSciGKhOdzUq6l9AoV4ui6p0EEQFf6DY1u9vbyw1z7VkySq8Qx9Lh_ZDdowUJXj9ZyEhDsq-hb43Izc4HmeuPvYpFVGhSFDndL1AQsTx8YDdLMCnBqZNl1wQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ9SEHyW-Y2zsR_hfRhqEoPB0",
+            "plus_code": {
+                "compound_code": "V8CG+Q5 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8CG+Q5"
+            },
+            "rating": 3.6,
+            "reference": "ChIJ9SEHyW-Y2zsR_hfRhqEoPB0",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 562
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Siddhi Vinyak Road, Tilak Nagar, Garkheda Area, Ulkanagari, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8631014,
+                    "lng": 75.3408561
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86450422989272,
+                        "lng": 75.34216812989271
+                    },
+                    "southwest": {
+                        "lat": 19.86180457010727,
+                        "lng": 75.33946847010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "5ae81e09cdaa5dcd0ff12caddeab52247019b8a1",
+            "name": "Shri Sai Sharan Petrol Pump",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 552,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105396170296160707309\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYdum0jfQmyyIcjh-MRCOPWeusBCWCXTPRcXiLzwfMfw1CSD6Wn10FIE6oS5mcOVAHUt6Z5DfjBelnDlAF68UhmSXu1vEXqQctldwRGgqTyLc3BLrnahRVu-PyBBkhdEREhB31n57diylj585oBNKrVuPGhQ4UosK8DEkWy8kGGc_LxpJ4qgbtQ",
+                    "width": 982
+                }
+            ],
+            "place_id": "ChIJ54kdgn-Y2zsR0sjuptcqvuI",
+            "plus_code": {
+                "compound_code": "V87R+68 Ulkanagari, Aurangabad, Maharashtra",
+                "global_code": "7JFQV87R+68"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ54kdgn-Y2zsR0sjuptcqvuI",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 307
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Adalat Road, Mahavir Chowk, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8740854,
+                    "lng": 75.31578809999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87548482989272,
+                        "lng": 75.31709542989272
+                    },
+                    "southwest": {
+                        "lat": 19.87278517010727,
+                        "lng": 75.31439577010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "215b2fb50e1bf7ab11caf95f297f1943cac3277a",
+            "name": "Bharat Petroleum Mahavir Stambh Baba Petrol Pump",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115003361361726440277\">Om Mehare</a>"
+                    ],
+                    "photo_reference": "CmRaAAAADr1GUEq5LKuvUcb0UoXF1Qv4_qvcfa2R9aoWYyGnB37gtOssVpY8IsHQ12ckvzEuBBOVBhdmZ9K-cejB-BkJoSY_UqSHa7D78zP-hLqpZF2gdQwP9KGB-rNQsZr9kKKdEhA9uR59UTw6vBx9bgywydyjGhQvhrxys-3wZsml7LiBadAjhEA-2g",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ1UQ1b0KY2zsRFxe_8MKnyP0",
+            "plus_code": {
+                "compound_code": "V8F8+J8 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8F8+J8"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ1UQ1b0KY2zsRFxe_8MKnyP0",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3820
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shahgunj Road Aurangabad, Aurangabad, 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.887202,
+                    "lng": 75.3348227
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88855477989272,
+                        "lng": 75.33611852989272
+                    },
+                    "southwest": {
+                        "lat": 19.88585512010728,
+                        "lng": 75.33341887010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "8e6de5036d1ec8f8c50321f8d3663799aca9ca36",
+            "name": "HP PETROL PUMP - AURANGABAD A P PATEL CO",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114068422135413441950\">Raees Quadri</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAC6ElT7a3kfLVFfE7_tiTee0hRiLj_iSRvAyZigrudbc6ww2gs4yRan-Gp7rmgjQzD77oi3fC-zlRTl74iNZFEuIKfwi6vC7djsricPpvBaChpmLPbdk-bYB8nIg6aJ56EhAYcoUZdfmy2gNoalDN6pC6GhSNuD0EA6sIhZshpz6eccfWjUml_Q",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJwwmtcgyY2zsRIrVdLdhNgVY",
+            "plus_code": {
+                "compound_code": "V8PM+VW Aurangabad, Maharashtra",
+                "global_code": "7JFQV8PM+VW"
+            },
+            "rating": 3.7,
+            "reference": "ChIJwwmtcgyY2zsRIrVdLdhNgVY",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 128
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "oop petrol pump, Shahgunj, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8876052,
+                    "lng": 75.3349307
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88897697989272,
+                        "lng": 75.33628962989273
+                    },
+                    "southwest": {
+                        "lat": 19.88627732010728,
+                        "lng": 75.33358997010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "70f25ba1b8c08217c001e098c8063f5312ade937",
+            "name": "Radimaid shop",
+            "place_id": "ChIJfxx-L5KZ2zsR-3-wQBRI7OU",
+            "plus_code": {
+                "compound_code": "V8QM+2X Shahgunj, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8QM+2X"
+            },
+            "rating": 0,
+            "reference": "ChIJfxx-L5KZ2zsR-3-wQBRI7OU",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "behind essar petrol pump, Sandesh Nagar, Vishalnagar, Garkheda, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8684826,
+                    "lng": 75.352648
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86982927989272,
+                        "lng": 75.35406242989272
+                    },
+                    "southwest": {
+                        "lat": 19.86712962010728,
+                        "lng": 75.35136277010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "a0cd3c9d4f66b874b567f460c803639928f2d069",
+            "name": "Anusaya Residency",
+            "place_id": "ChIJxbvKjaWj2zsR_gV3FL9nCZw",
+            "plus_code": {
+                "compound_code": "V993+93 Garkheda, Aurangabad, Maharashtra",
+                "global_code": "7JFQV993+93"
+            },
+            "rating": 0,
+            "reference": "ChIJxbvKjaWj2zsR_gV3FL9nCZw",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Vidya Nagar, Nyay Nagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8737679,
+                    "lng": 75.35245929999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87506072989272,
+                        "lng": 75.35379757989271
+                    },
+                    "southwest": {
+                        "lat": 19.87236107010728,
+                        "lng": 75.35109792010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "6172703ee7b554faf073822ce5b1677841091b3c",
+            "name": "Bharat Petroleum Petrol Pump",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112153140074314703089\">Nitin Salunke</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_hNpnprR1XMlnc4Y_wbLzRadppv-XnSShD1MmcN78aWtuDyFTNNJ-pJ4ngyO8VG1JEQ_2LIgsp3XJoA7vi5smemYDYwHrx25TV110h6O00ocRsEoV6dIvSrbOh1XyB-7EhDzB4oxizP9Bq_ln5rQmQX8GhSOVHXLLkrKHy6MDFgVyGlvmF-H_A",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJGVDOpZqi2zsRvusnFjkrRY8",
+            "plus_code": {
+                "compound_code": "V9F2+GX Nyay Nagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9F2+GX"
+            },
+            "rating": 3.8,
+            "reference": "ChIJGVDOpZqi2zsRvusnFjkrRY8",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 346
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "02, N-7, N-7 Area, C I D C O, Opposite Garware Polyster, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8761653,
+                    "lng": 75.3433139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87749477989272,
+                        "lng": 75.34466647989272
+                    },
+                    "southwest": {
+                        "lat": 19.87479512010728,
+                        "lng": 75.34196682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "27b8b054f278acbd2cba6720556178037b2a1f68",
+            "name": "Rajyog Services",
+            "place_id": "ChIJY7xpoxWY2zsRTQpVv20lvz8",
+            "rating": 4,
+            "reference": "ChIJY7xpoxWY2zsRTQpVv20lvz8",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kailash Nagar, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8761653,
+                    "lng": 75.3433139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87749477989272,
+                        "lng": 75.34466647989272
+                    },
+                    "southwest": {
+                        "lat": 19.87479512010728,
+                        "lng": 75.34196682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "f67d150961c44c4d96de106cbb9c82bd4096838f",
+            "name": "GIRIJA PETROLEUM",
+            "place_id": "ChIJXazyuZ2i2zsRkER8P8W3L1I",
+            "rating": 0,
+            "reference": "ChIJXazyuZ2i2zsRkER8P8W3L1I",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No. 13/14 Seven Hills, Hospital Road, Opposite Raj Heights, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8762909,
+                    "lng": 75.353014
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87771902989272,
+                        "lng": 75.35436777989273
+                    },
+                    "southwest": {
+                        "lat": 19.87501937010728,
+                        "lng": 75.35166812010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "15c5717ca9b6120fd375bf0e703bbef6e010bbed",
+            "name": "M. Ambarwadikar Enterprises",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJRSA4gpCi2zsRNVhHuYY4cyE",
+            "plus_code": {
+                "compound_code": "V9G3+G6 M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G3+G6"
+            },
+            "rating": 3.4,
+            "reference": "ChIJRSA4gpCi2zsRNVhHuYY4cyE",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Station Rd, Raghuveer Nagar, Venkatesh Nagar, New Usmanpura, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8762349,
+                    "lng": 75.3487662
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87748397989273,
+                        "lng": 75.35009732989272
+                    },
+                    "southwest": {
+                        "lat": 19.87478432010728,
+                        "lng": 75.34739767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "a9f09395469e1221b5493b8f4430ff708b17c9b9",
+            "name": "Bharat Petroleum, Petrol Pump -Unique Auto",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116572897486315166753\">Aditya jadhav</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACK8VaeoS7gwzb4fTAGaOS81cSpUoho5UWwcJ6CJyocG5hUU-3TU2Crmj9rWhYmygqgjrCOPZV8myV3h9asWofnDNzkZ-qf6Mg1CAMh-ryXsOg0VDdgN8-XKn9uI5k_83EhAiDIzEimJYNQbBDlhreIUWGhQZnmHixMk-akVTAz7e_feiK-Wpig",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJY8F4z0Oj2zsRVyg8flY09eQ",
+            "plus_code": {
+                "compound_code": "V8GX+FG New Usmanpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GX+FG"
+            },
+            "rating": 3,
+            "reference": "ChIJY8F4z0Oj2zsRVyg8flY09eQ",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Delhi Gate Rd, Aalamgir Colony, Collector Office Campus, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8971409,
+                    "lng": 75.3381352
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89855072989273,
+                        "lng": 75.33936837989272
+                    },
+                    "southwest": {
+                        "lat": 19.89585107010728,
+                        "lng": 75.33666872010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "7784f997361351d95ebd03fa24b036d04182659b",
+            "name": "Bharat Petroleum, Petrol Pump -N.A. Printer",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102663387915972410079\">Habib Shaikh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAuSKqCjj0ppGTWxj4F1DgkMXEjbGoy5eVz5OV6znd6daf_xJ-CePuELypULQ-fYVboY2lKZBV5NmanLmILYZG0sxw4gIsWHiU8HnSXKwJX3MZcVzej3SCFtZK2i-DE3wsEhDTUSo8wwLi_L_r-q0_P-SEGhTYYCIpsSKpsQYReeifwlbEyCB1XA",
+                    "width": 2304
+                }
+            ],
+            "place_id": "ChIJl0LZSAaY2zsRUG3sx9EjivQ",
+            "plus_code": {
+                "compound_code": "V8WQ+V7 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8WQ+V7"
+            },
+            "rating": 3.4,
+            "reference": "ChIJl0LZSAaY2zsRUG3sx9EjivQ",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "GUT NO. 22, Aurangabad, NH 211, Shahnoorwadi, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.84973,
+                    "lng": 75.33599
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85131977989272,
+                        "lng": 75.33736497989273
+                    },
+                    "southwest": {
+                        "lat": 19.84862012010728,
+                        "lng": 75.33466532010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "b9e676bc71454addcc1897000d9df16a82e27c05",
+            "name": "NARMADA AUTO SERVICES",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105346558070232666288\">Azhar Pathan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAABGvWrqTe_xi0YCl_KUaS02ySarikzIrmuAv9J27lfX6SwAhm-4UdE1pnH20THzfagQrYEGuaaq0X6XGqr4kBQwl1HE8y1pVucGOVYhcEQZHiSOxmCXfa_WOZsg9qVNC6EhD6VEiKRfzttWSqbvHoJZX4GhQY82FAiqviap4GPpMZqQh98nNZiw",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJGXD4Z4OY2zsRFfT48ZS8XcI",
+            "plus_code": {
+                "compound_code": "R8XP+V9 Shahnoorwadi, Aurangabad, Maharashtra",
+                "global_code": "7JFQR8XP+V9"
+            },
+            "rating": 3.4,
+            "reference": "ChIJGXD4Z4OY2zsRFfT48ZS8XcI",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 50
+        }
+    ],
+    "status": "OK"
+}

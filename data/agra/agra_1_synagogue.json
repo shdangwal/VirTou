@@ -1,0 +1,964 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-wAAAFBOn5eP2AP2GVJxHCH4D6p_H0SuDcpsVZrYwQ0sNVc5mwgRl0bkCJhATZP83W_17rRbmp-lMkXlFTy8bUBGF2n1H4ADDVd0ojpCkL0oFt_5Kn54NQ_mcabdaFJ3vS5aI88Jgk4hOt6SwwpJjUHpLQKE9BTJOc-L5alLzTWJHgo7QrQco-JFsrGFl1_YMsJ2wIE2SInhoP9EDtalI4X3YiqzmMoHRk6s6sED_7FhHlDQNDmCcT0aVHwm2YSNAAy8PLqyK-WojE2UjaS9YL31F1n3cW45wZt9DuFT_Tf21PeIR3C03QIajOnC80-cg1jta11Vwg9J9qxLOce95f1JcCoSELTt_OoUnuS_PVchOm0-fHsaFCNfjcQqAsvTV8ROrxsOCTJkFpMJ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jama masjid, Subash Bazar, Kinari Bazar, Hing ki Mandi, Mantola, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1820725,
+                    "lng": 78.0164309
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18346782989272,
+                        "lng": 78.01796452989272
+                    },
+                    "southwest": {
+                        "lat": 27.18076817010728,
+                        "lng": 78.01526487010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "5045e712769ebfe7d6a9fdfd881c7f0f70be409d",
+            "name": "Subhan Allah hotel",
+            "photos": [
+                {
+                    "height": 697,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101534168300932956820\">Rakesh Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAGwgosM-jOpNCcpBDkZ0K8efDWviVXpg_6tUD9Q8Irf1AtiWj4pOSrbpXHumAnrrcQKsuVSRS0iBmo_BkLlmi3n3j6H9ali0lFe9atSqfPTi1yK0PH2XBZS900ZaJk4fiEhBTJhneB39R-3N0xZfChcCJGhQoEevaewUqp4c4SQvn1DvX7IdGQw",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ6fgJWix3dDkR41AwpoTlMkE",
+            "plus_code": {
+                "compound_code": "52J8+RH Agra, Uttar Pradesh",
+                "global_code": "7JVW52J8+RH"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ6fgJWix3dDkR41AwpoTlMkE",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 781
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "51, 10-D, Kheria Rd, Tiraha Kheria, Dashrath Kunj - B, Jodha Bai ka Rauza, Arjun Nagar, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1697787,
+                    "lng": 77.9831298
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17115332989273,
+                        "lng": 77.9844427298927
+                    },
+                    "southwest": {
+                        "lat": 27.16845367010728,
+                        "lng": 77.98174307010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "13dbb74b1d8a9450ea28dd0961b0ebd5946025ad",
+            "name": "Sant Nirankari Satsang Bhawan",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100635928527016523354\">prashant singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANf-X2-wQcxo6E4MW0HnBSd3ApnWzd-bKWnPJASubsMGqeil4BxZgOEp0TCbU1tzeGxB2aNqkKjYxjJnA5OrxxHVgAqVr9paDnUsjTdFuQTt-R24OfumDwPhf3gepcMzLEhC321uHjMBF7L5u-G_yz-ecGhSlsiUsePUi-ZTuLv5MOftdW81EYA",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ8VxdDf12dDkRp23k-MMIi8Y",
+            "plus_code": {
+                "compound_code": "5X9M+W7 Arjun Nagar, Agra, Uttar Pradesh",
+                "global_code": "7JVV5X9M+W7"
+            },
+            "rating": 4,
+            "reference": "ChIJ8VxdDf12dDkRp23k-MMIi8Y",
+            "types": [
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 188
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2, Humayun Rd, opp. Junior Model School, Sujan Sing Park North, Sujan Singh Park, New Delhi, Delhi 110003, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6035878,
+                    "lng": 77.2258626
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.60505377989272,
+                        "lng": 77.22728277989273
+                    },
+                    "southwest": {
+                        "lat": 28.60235412010728,
+                        "lng": 77.22458312010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "3b6384a5dcbf2dac2e3f10308e93988da52a5676",
+            "name": "Judah Hyam Synagogue",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114761787954595186200\">Danny Benjamin</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwIONE7YuG-UauWeVcVJD4_gc_XHJ1qmqll1VfjuP7BHPVUYMvXxMzFl5uCecClpN6JHi7p70mqCTk51U4BdTqytxMQVmPaQ-7TZB10K99xsUPb34UvrXkc5VnY98kQe2EhDsa7DB6U9ikN2Ao1504N-dGhR7bLJSmgDkMqj7tDRfd--1J9A12w",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJTdoqwMLiDDkRkq0KjXsj1iE",
+            "plus_code": {
+                "compound_code": "J63G+C8 New Delhi, Delhi",
+                "global_code": "7JWVJ63G+C8"
+            },
+            "rating": 4.6,
+            "reference": "ChIJTdoqwMLiDDkRkq0KjXsj1iE",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 39
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1795328,
+                    "lng": 78.021112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18445439999999,
+                        "lng": 78.02360124999998
+                    },
+                    "southwest": {
+                        "lat": 27.1729168,
+                        "lng": 78.01570785000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "423d20a58e96579125042d5319e6f60e6bd93c40",
+            "name": "Agra Fort",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111599710978603117365\">Phil</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmwksd9qOxFh0TevCIcirPyKMo6_dQKg9Ae8c1Ao9Y5bVcSGQYZ7J2iAmpc7K5n_uB3AdAE88Whp8ovwCKCnBFLLDitLRUkaUg8OcrTkeAl1xXzuq19kH1QZinAPUd7YvEhBqw8J00GuVxCSaTX5BV9BKGhSxP9cWKv2kJ4dx82fkur-P-Ve1FQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ6zs0kdRwdDkRdpUClMxcCmQ",
+            "plus_code": {
+                "compound_code": "52HC+RC Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52HC+RC"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ6zs0kdRwdDkRdpUClMxcCmQ",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 74798
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1751448,
+                    "lng": 78.0421422
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.1772325,
+                        "lng": 78.04546859999999
+                    },
+                    "southwest": {
+                        "lat": 27.1688817,
+                        "lng": 78.03880380000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "dcc9586b99ab0f0471fccecbe2dbb40fdc1fc2b5",
+            "name": "Taj Mahal",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108059568100427860058\">PAPU GAYAK</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9p3I65HnaKsC_CPsEA0YU2W-doJJ4rNkTSA9s49U0wQ6y53OMru5krB5MrGFffVr7_7pUlCHnKjqOoBKHeO4OAgaUeVzsbzBoixjj8Lsu3yEOouKXdhGrCdGscIaqkEsEhD3oq8c6nCqIPHK9-jtzETgGhQW9wZK5txrp_J3OIGQ4dNMIjf5YQ",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJbf8C1yFxdDkR3n12P4DkKt0",
+            "plus_code": {
+                "compound_code": "52GR+3V Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52GR+3V"
+            },
+            "rating": 4.6,
+            "reference": "ChIJbf8C1yFxdDkR3n12P4DkKt0",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 169013
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Moti Bagh, Agra, Uttar Pradesh 282006, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1928873,
+                    "lng": 78.0309808
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19402447989272,
+                        "lng": 78.03374575000001
+                    },
+                    "southwest": {
+                        "lat": 27.19132482010728,
+                        "lng": 78.03005915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "70f2d73239beca75c3f431ff54b458aa3c5d4e7c",
+            "name": "Itmad-ud-Daula",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101899501565977870159\">manorama Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAabgRAO_5DeLR6WqtKhfNuxPzZ14lcdXkEMYLsTnjDavO0apT9D-v1zZZNM4ualLO_xSVzC4tM_egXeeAxrI0X9htjGMH-XLnqGU0C2juXdC2LzL2qQcu4Os46R4s7LdXEhBgVxfjK6BMged0ji8UUbRRGhT8y4Sch-u37PQnubK0LrYdPtaJDA",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJk6aZ_cVwdDkRWMRKn2s89hM",
+            "plus_code": {
+                "compound_code": "52VJ+59 Agra, Uttar Pradesh",
+                "global_code": "7JVW52VJ+59"
+            },
+            "rating": 4.3,
+            "reference": "ChIJk6aZ_cVwdDkRWMRKn2s89hM",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5367
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Tomb of Akbar The Great Area, Sikandra, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2205556,
+                    "lng": 77.95050859999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.22297535,
+                        "lng": 77.95175312989272
+                    },
+                    "southwest": {
+                        "lat": 27.21329635,
+                        "lng": 77.94905347010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8a100391f6ab438f32608f06826a39718bd7d640",
+            "name": "Tomb of Akbar the Great",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111663907738936740612\">Sandeep Kumar Advocate</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAalTcVxgVoHyjLgoFmL0lhphKQz4kR_TD_M4a_6ka8tGP92DV8S3DdN3WskMgjiox0NWrYTyFVI8JU8WzLHFl_Lm3P91LUg1_pOj2ZGKncvs5e-hadHEjR2XOjKD2A6IvEhCfvX0tlzhpsBCXPmjiJZR6GhR77uDqAI3l0AAgxda-Y0561TAEDg",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJJdQjUx94dDkRFTbTtKTpyy4",
+            "plus_code": {
+                "compound_code": "6XC2+66 Sikandra, Agra, Uttar Pradesh",
+                "global_code": "7JVV6XC2+66"
+            },
+            "rating": 4.4,
+            "reference": "ChIJJdQjUx94dDkRFTbTtKTpyy4",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4266
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bharatpur - Bayana - Hindaun - Gangapur Hwy, Jawahar Nagar, Bharatpur, Rajasthan 321001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2028653,
+                    "lng": 77.5008403
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20456297989272,
+                        "lng": 77.50234932989272
+                    },
+                    "southwest": {
+                        "lat": 27.20186332010728,
+                        "lng": 77.49964967010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "7ce29c321baa9c1ce947bc06c24de4d9305911bf",
+            "name": "Sant Nirankari Satsang Bhawan, Bharatpur",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109475980704402451954\">Hidhani G</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMhP5NkvKBUQI11Uich03W_kgRC5lzt_B0obkM1GwCkdEBhbj7A9Yy4v9Q4HacECyGZn08nG9kvqxB_msRtiJIa4SSI4wv1LMt2ruUFUfFhNhsToT1r2e-LlT-Vx71vrxEhB-RbM3RHQIXrAHDpc9QTCuGhQo2PKnM1i0AsQu4Y4f1GebHg9AmA",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJD8mCwxajczkRPFjqHKM8Dvo",
+            "plus_code": {
+                "compound_code": "6G32+48 Jawahar Nagar, Bharatpur, Rajasthan",
+                "global_code": "7JVV6G32+48"
+            },
+            "rating": 4,
+            "reference": "ChIJD8mCwxajczkRPFjqHKM8Dvo",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Birjapur, Mathura, Uttar Pradesh 281006, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.4370152,
+                    "lng": 77.6938457
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.43841657989272,
+                        "lng": 77.69529362989273
+                    },
+                    "southwest": {
+                        "lat": 27.43571692010728,
+                        "lng": 77.69259397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "74571f310c300c16a28c805b57f581c9b3af8a08",
+            "name": "Sant Nirankari Bhawan Mathura",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1908,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107156514407631724858\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAT_rQTtxIUJiXeXlAODxQWsyzZdxjzl5Rji0yeYv-FibRd_CJIIxngUxnSHJGakKODcBbTtwyVHmvrbb6Ywh6iGtxxKwMNVI4xLN-Mv_KvfExNQZmb_fYApX9HJ1PXYMyEhDsZ83HZISPso3plZcCBPvoGhTqHXAfNDQZM5SPx_8ES7qiQ716Ew",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJ4X6l9Jx3czkRkloYqzuMqpE",
+            "plus_code": {
+                "compound_code": "CMPV+RG Birjapur, Mathura, Uttar Pradesh",
+                "global_code": "7JVVCMPV+RG"
+            },
+            "rating": 3.6,
+            "reference": "ChIJ4X6l9Jx3czkRkloYqzuMqpE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "14, Taj Road, Sadar Bazar, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.15942,
+                    "lng": 78.009383
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16079027989272,
+                        "lng": 78.01073582989272
+                    },
+                    "southwest": {
+                        "lat": 27.15809062010728,
+                        "lng": 78.00803617010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3bf61b0d0c5ffaaaa605d8f23fc12877e8b5e255",
+            "name": "Tour Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117731093458656818650\">joneja Agra</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_7vZI0umUU25RZbK13PTt4-G8gmAHbrA1TcgrrOyg6YjPeSOQdh9nChUWHlXs9oQJurIq-7KatUOeFoSZXfBp1ABR-a5-YkYMxALG2R29Ys4ZK4UlD0dpkldUtWvjmA1EhB1p5cnqGXQB_ghP7p4wvW-GhQjcrUI1DTMTzFF-yHG0zE-DuyxtA",
+                    "width": 1098
+                }
+            ],
+            "place_id": "ChIJIxwhn892dDkRZz5CjlOZ2O8",
+            "plus_code": {
+                "compound_code": "5255+QQ Agra, Uttar Pradesh",
+                "global_code": "7JVW5255+QQ"
+            },
+            "rating": 4,
+            "reference": "ChIJIxwhn892dDkRZz5CjlOZ2O8",
+            "types": [
+                "taxi_stand",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dadupura, Fatehpur Sikri, Uttar Pradesh 283110, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.0948978,
+                    "lng": 77.6619954
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.09638002989272,
+                        "lng": 77.66318732989271
+                    },
+                    "southwest": {
+                        "lat": 27.09368037010728,
+                        "lng": 77.66048767010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "1111008b9d30a8c960ef6cf9a31e7320d7d46f06",
+            "name": "Jama Masjid",
+            "photos": [
+                {
+                    "height": 3864,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115980414259979366775\">Malte Scholz</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAA4zwuNMmskQJLrcPZ8-Y8tsQwRj9JJyuUvnzKwQxfHCSFHJzwc-ANvwSe7THgxDYqR7uuhgCbIhQB08YQv0Sc1nh19uF_gZJaJMd01U6PIPZu3r89c23gKF7z4FrAWUREhBfU97JU-eOxCFNv1S4biOZGhTjvpmbaFCeaw3Ofr0aLzd3UXBrRg",
+                    "width": 5152
+                }
+            ],
+            "place_id": "ChIJAQAAAOOTczkRqtYS-ONRGxo",
+            "plus_code": {
+                "compound_code": "3MV6+XQ Dadupura, Fatehpur Sikri, Uttar Pradesh",
+                "global_code": "7JVV3MV6+XQ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJAQAAAOOTczkRqtYS-ONRGxo",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 199
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shyam Nagar, Aligarh, Uttar Pradesh 202001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.8876599,
+                    "lng": 78.0763753
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.88899687989273,
+                        "lng": 78.07773927989273
+                    },
+                    "southwest": {
+                        "lat": 27.88629722010728,
+                        "lng": 78.07503962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "b66e8574b639ad24d55e8d9a069dec96d5e0eb5a",
+            "name": "Sant Nirankari Satsang Bhawan , Aligarh",
+            "place_id": "ChIJA6XC1I-kdDkRRXRB1_jGNUc",
+            "plus_code": {
+                "compound_code": "V3QG+3H Shyam Nagar, Aligarh, Uttar Pradesh",
+                "global_code": "7JVWV3QG+3H"
+            },
+            "rating": 3.9,
+            "reference": "ChIJA6XC1I-kdDkRRXRB1_jGNUc",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Opposite Kailash Cinema, Fatehabad Rd, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1649102,
+                    "lng": 78.03782149999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16626597989272,
+                        "lng": 78.03918442989271
+                    },
+                    "southwest": {
+                        "lat": 27.16356632010728,
+                        "lng": 78.03648477010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7f7bbc652749cac1879ecbe2ce30ff7c01fd128e",
+            "name": "Raj Travels ( India )",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113945942775793826201\">Raj Travels ( India )</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAB5PNC44OWB6EgmmeA3RBom4F6hFfNsRgfbwItnZWTHlBHCB_j4vZ5KL6SbX9OlH8nu2TGF5SoPGDMUbFvcP6DD4AEsQ--PX4VpV_F4wKpBYtwWfWt7Kn-g52rsHRnN2oEhCJelyINd9rCuWambl_a8xbGhQo6GOY3EbGa3yohKn_twVFx2ignA",
+                    "width": 864
+                }
+            ],
+            "place_id": "ChIJlaJDMxRxdDkRv6tDUzcSOU8",
+            "plus_code": {
+                "compound_code": "527Q+X4 Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW527Q+X4"
+            },
+            "rating": 4.7,
+            "reference": "ChIJlaJDMxRxdDkRv6tDUzcSOU8",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 87
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "63, R.K. Puram Taj Nagri,, Phase 1, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.161191,
+                    "lng": 78.05316499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16255417989272,
+                        "lng": 78.05445377989271
+                    },
+                    "southwest": {
+                        "lat": 27.15985452010728,
+                        "lng": 78.05175412010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9d29012f7419347660787e8460fa70d8994fd01a",
+            "name": "Nikita Holidays",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 273,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108599011078738710646\">Nikita Holidays</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwCJWLS11b3FUaJ8DOav_QTzwFBkQc8Hj2-vb2AvN6FMRvYPDtwOHMDTP0SGSenfrZsds-Pwcu4wQQ-w1mufMOZP0h5ilPhHlDUgZZY1sRcLneHRXfzhzeAvneT1lpq7jEhDrz-UwN6yHhO-AWAqBYs24GhQTdqgm2NHMW24uU3r-oGr-KvkkKQ",
+                    "width": 707
+                }
+            ],
+            "place_id": "ChIJGUVA5hFxdDkRw5JloBHljyY",
+            "plus_code": {
+                "compound_code": "5363+F7 Agra, Uttar Pradesh",
+                "global_code": "7JVW5363+F7"
+            },
+            "rating": 4.7,
+            "reference": "ChIJGUVA5hFxdDkRw5JloBHljyY",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Noida Mor, Pandav Nagar, New Delhi, Delhi 110092, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6126735,
+                    "lng": 77.2772619
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61701029999999,
+                        "lng": 77.279216
+                    },
+                    "southwest": {
+                        "lat": 28.6112279,
+                        "lng": 77.2741928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "3e6e6ce0fcf6f4bc49e646ee71e278aa44342a49",
+            "name": "Akshardham",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1068,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104262549116667952519\">Vallid Hussain</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxzB8TPienz1pKRQgd2yNFGW5hFz-xZGWmFqi6sHoPFZChzzM_jcweiD3R_qr4bgdvMoq61bvctxxhjnW73AxFtvgR_VYJkp77tgxTxGUaN3fEVc9-mbuKRiqH4klY4TcEhDd_jKYuKNVAL5LU39PqEqDGhSIcwo83PCj2lNu4h4iD6NqTayQjA",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ-7F1mVvjDDkRKrLzXiafoGk",
+            "plus_code": {
+                "compound_code": "J77G+3W New Delhi, Delhi",
+                "global_code": "7JWVJ77G+3W"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ-7F1mVvjDDkRKrLzXiafoGk",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26365
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "55, Dr. V.B. Gandhi Marg, Fort, Mumbai, Maharashtra 400023, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.9281378,
+                    "lng": 72.8325845
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.92951127989272,
+                        "lng": 72.83393187989272
+                    },
+                    "southwest": {
+                        "lat": 18.92681162010728,
+                        "lng": 72.83123222010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "46f6f76808df1dcfb088ec291f96ce557e04ba55",
+            "name": "Keneseth Eliyahoo Synagogue",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3021,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102889685910730148351\">Naresh Shah</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAzKt5tWUvoo6ea4Yq1N7-hbba0ayBO2fRvylvpSNUH_cacUrlekK53Tn6wxVAB6T01bKqpMOufPQz6lLjXniok9W3ZZTBsQYkjmxgDz_W1K9evmCGuqHagPDOIdeufHn-EhAFDBH_s6xGg22N8IuZEBuvGhThyFoFjbSkvG9QbRNkbhLtqGaazA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJaQj5g8PR5zsRP6q-EkQeCUU",
+            "plus_code": {
+                "compound_code": "WRHM+72 Mumbai, Maharashtra",
+                "global_code": "7JCJWRHM+72"
+            },
+            "rating": 4.5,
+            "reference": "ChIJaQj5g8PR5zsRP6q-EkQeCUU",
+            "types": [
+                "synagogue",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 217
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dr Baba Saheb Ambedkar Rd, Opp. Ibaco, Gawaliwada, Camp, Pune, Maharashtra 411001, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.5192742,
+                    "lng": 73.874652
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.52086572989272,
+                        "lng": 73.87608767989272
+                    },
+                    "southwest": {
+                        "lat": 18.51816607010728,
+                        "lng": 73.87338802010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "ba17da3399cec789b9f1faee67da9ffca7af48f4",
+            "name": "Ohel David Synagogue",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 452,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118332000005283281641\">Jerin Asher Sojan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAXOe2DrcJBMRyh7U6eRzqVrZ3ye1rrjeot-6UhxfIfI6OHeBfmEATpr_DIrMvaBMlhxp3MbH7Ai8-DRzRH7WY8thoznCZCa08sJceJrx-0gJuAaOB2BzJtwHGmfFRaAZsEhCFtr1ORcNUi64FWM0eoMxSGhS3gWPT1OEsdvjNSzzatSuakOhsOg",
+                    "width": 678
+                }
+            ],
+            "place_id": "ChIJCZiTN0XAwjsRfQJx2ZVhAjs",
+            "plus_code": {
+                "compound_code": "GV9F+PV Camp, Pune, Maharashtra",
+                "global_code": "7JCMGV9F+PV"
+            },
+            "rating": 3.9,
+            "reference": "ChIJCZiTN0XAwjsRfQJx2ZVhAjs",
+            "types": [
+                "synagogue",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 237
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Synagogue Ln, Jew Town, Kappalandimukku, Mattancherry, Kochi, Kerala 682002, India",
+            "geometry": {
+                "location": {
+                    "lat": 9.957478499999999,
+                    "lng": 76.25938049999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.95881712989272,
+                        "lng": 76.26078347989271
+                    },
+                    "southwest": {
+                        "lat": 9.956117470107277,
+                        "lng": 76.25808382010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "12acc011315f6a1f52815a96272121483c3efa12",
+            "name": "Paradesi Synagogue",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107759036875700020904\">chaykeller</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAemEOFOc2VHNmdVTnr4a9V_Br0oNTjRUtXvzQgsXwxW5m0zWiEVBRq12kVJcn3hV763zDGqfhlPv0H2trh7RCKQf6vCCX7hn6uZMDvUD70QwG3Hbjf-wRnLSGi-cj68fLEhCtByG4KJjkGYpBVvSSbyvDGhQQiuVVqjdaouz_lvN_G0RkOy-Bwg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ4WbbykRtCDsRKb7-iZ5J7Ng",
+            "plus_code": {
+                "compound_code": "X745+XQ Mattancherry, Kochi, Kerala",
+                "global_code": "6JXRX745+XQ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ4WbbykRtCDsRKb7-iZ5J7Ng",
+            "types": [
+                "synagogue",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3552
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "\u092a\u094b\u0932\u093f\u0938 \u0935\u0938\u093e\u0939\u0924, \u0928\u0935\u093e, Police Colony, Nagpada, Byculla, Mumbai, Maharashtra 400008, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.9669478,
+                    "lng": 72.8322211
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.96848942989272,
+                        "lng": 72.83347767989272
+                    },
+                    "southwest": {
+                        "lat": 18.96578977010728,
+                        "lng": 72.83077802010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "800608ed9ef46c42ddabfd05dda25d787ac693f7",
+            "name": "Magen David Synagogue",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 476,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118332000005283281641\">Jerin Asher Sojan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASTLKNXbYVY70lqsVHJsVOqCFmmUPNr3rHSdVZxNtbsyHlXu-KY4A27GHNRkoPi04EP3chh3f9AiCUWcy96lVDzrKDV9UhqzbfnmrvdA-uFljemhHMBjzsyr5Mvm9NC5aEhDmwL765Dcp9Ka4wRt-mfdAGhTiKukU1on4-B9zE0F2ELHinsMrPA",
+                    "width": 644
+                }
+            ],
+            "place_id": "ChIJ5YF_lkDO5zsRKdmtZrViHTo",
+            "plus_code": {
+                "compound_code": "XR8J+QV Byculla, Mumbai, Maharashtra",
+                "global_code": "7JCJXR8J+QV"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ5YF_lkDO5zsRKdmtZrViHTo",
+            "types": [
+                "synagogue",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 125
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "93, Jewish Lane, Rasta Peth, Pune, Maharashtra 411011, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.517714,
+                    "lng": 73.867252
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.51906827989272,
+                        "lng": 73.86854362989273
+                    },
+                    "southwest": {
+                        "lat": 18.51636862010728,
+                        "lng": 73.86584397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "a820dcb9cc2112ad3d7721ac77e100676012a077",
+            "name": "Succath Shelomo Synagogue",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118382419136475194746\">succhot solomon synagogue</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAAu3w7l2FqqFSYyvzfcCgFoZcf-cvG4e5guC2iUCxLKbbZ5Pqz-RCJBjzopdPFBlIn5WRmZYt3ye7gab7DumoLDN6IAIPq79W3tAUIOV4DNC6DDqfTYUFoaOI1bRd0Ca7EhDN5wI8PwKkVFIEjsAFvo4TGhRZqPgM6qGCPaHcI50N_Uv-uz5piw",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJc4iI6ULAwjsRsFxsvhZp2dM",
+            "plus_code": {
+                "compound_code": "GV98+3W Pune, Maharashtra",
+                "global_code": "7JCMGV98+3W"
+            },
+            "rating": 4.4,
+            "reference": "ChIJc4iI6ULAwjsRsFxsvhZp2dM",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22
+        }
+    ],
+    "status": "OK"
+}

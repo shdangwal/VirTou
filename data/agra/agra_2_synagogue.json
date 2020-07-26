@@ -1,0 +1,44 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_PERMANENTLY",
+            "formatted_address": "Unnamed Road, Foundry Nagar, Kuberpur, Uttar Pradesh 282006, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2270237,
+                    "lng": 78.0386841
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.22837402989273,
+                        "lng": 78.04003752989273
+                    },
+                    "southwest": {
+                        "lat": 27.22567437010728,
+                        "lng": 78.03733787010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "b242cee48ee3bfd0a8540ebae432f2185b3b36a5",
+            "name": "Meshenri",
+            "permanently_closed": true,
+            "place_id": "ChIJuyQRlwt6dDkRX1Q-D7BrMYE",
+            "plus_code": {
+                "compound_code": "62GQ+RF Kuberpur, Uttar Pradesh",
+                "global_code": "7JVW62GQ+RF"
+            },
+            "rating": 5,
+            "reference": "ChIJuyQRlwt6dDkRX1Q-D7BrMYE",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        }
+    ],
+    "status": "OK"
+}

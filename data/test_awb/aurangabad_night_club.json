@@ -1,0 +1,828 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCAgEAAAh1CclauT0qa83jr67iWIxcsyRKupEfFxdJtpqDFH-9wXrtaNkUi3N8LMzNivUlHscG-lSV6nu1TkQEwIj3RCy_y291b94W49kaN8E-OsjaWiE_1SwsMSnKV9SFh_pYX17-UONPzK6gjR6L5wOcjOq2sgbhuj-AaW2Ovb1xzsAFK6N98dgmtpmcFKgtpqaL5E4ZFsb4Fy8Ok9g2nYV_vJUXdAMe-IrxCCNnmklgcooPLs_M55MDQSqiXE67AldhV5Jk7ZbKkBYQ0aCrv9RGvZ-GNKeSfIgD7O8TyY9nDyKv6MOqLja8XSatHPnepCUrsQXLMbCYIe32ECo3iVNWWDEHm0rHBDQW3uhERUNYaKLyEhA0J5JMJ_EEOccAknuQEND5GhRFKKU_7h0yH7Y0AphIu2R_-9yzxg",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "no 206 B, N1 Rd, Bhakti Nagar, N 1, Cidco, Aurangabad, Maharashtra 431006, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8793031,
+                    "lng": 75.3673609
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88064962989272,
+                        "lng": 75.36870982989271
+                    },
+                    "southwest": {
+                        "lat": 19.87794997010728,
+                        "lng": 75.36601017010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "cfb33b01537668d69814b05a32e656eebb3cb291",
+            "name": "4 Seasons - Pub & Nightclub & Bar",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 384,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108453544678649965391\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANstfUora46-bmTjauZ5-kJLckEvCfBvUGIvaQEq_QV-seLyDbwXR2H_PUUSk-3jDLCa76pMZF0hGtPnbtjS0TYzhaV_C0j8XYIBuNsJ-kSUSjhzWp2mglu6ftUhLMX3DEhAHqQx-G4xQ50k_VNO6RO5mGhRqVlNbOHMoZi_OFiwKzMIsFGVT9w",
+                    "width": 384
+                }
+            ],
+            "place_id": "ChIJd7q6C6ij2zsRQLkXx5vXN7M",
+            "plus_code": {
+                "compound_code": "V9H8+PW Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H8+PW"
+            },
+            "rating": 3,
+            "reference": "ChIJd7q6C6ij2zsRQLkXx5vXN7M",
+            "types": [
+                "night_club",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ulkanagari, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8594015,
+                    "lng": 75.33898789999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86084337989272,
+                        "lng": 75.34030252989272
+                    },
+                    "southwest": {
+                        "lat": 19.85814372010728,
+                        "lng": 75.33760287010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "2fdc7834bfd5c62a77a5b42e3017205452e7150d",
+            "name": "Shakambhari Mata Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJT-hPdzSZ2zsRgIrbGjSA27o",
+            "plus_code": {
+                "compound_code": "V85Q+QH Ulkanagari, Aurangabad, Maharashtra",
+                "global_code": "7JFQV85Q+QH"
+            },
+            "rating": 5,
+            "reference": "ChIJT-hPdzSZ2zsRgIrbGjSA27o",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Aurangabad, Rachanakar Colony, New Usmanpura, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.86584,
+                    "lng": 75.3181767
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86721222989272,
+                        "lng": 75.31948947989272
+                    },
+                    "southwest": {
+                        "lat": 19.86451257010728,
+                        "lng": 75.31678982010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "b731c30a4ee046bbe1ff8eae95bd4084cd5b48ea",
+            "name": "Dhayma Point",
+            "permanently_closed": true,
+            "place_id": "ChIJ4brfYGeY2zsR-g3TUQw1jag",
+            "plus_code": {
+                "compound_code": "V889+87 New Usmanpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV889+87"
+            },
+            "rating": 0,
+            "reference": "ChIJ4brfYGeY2zsR-g3TUQw1jag",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Deolai, Aurangabad, Maharashtra 431007, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8497077,
+                    "lng": 75.3539455
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85105932989272,
+                        "lng": 75.35515402989273
+                    },
+                    "southwest": {
+                        "lat": 19.84835967010728,
+                        "lng": 75.35245437010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "ef8ec49067edabf7886e9a95deca799715c1d363",
+            "name": "Sarasiddhi Apartment",
+            "permanently_closed": true,
+            "place_id": "ChIJQ68O9m-i2zsR7fUVtktOHsc",
+            "plus_code": {
+                "compound_code": "R9X3+VH Deolai, Aurangabad, Maharashtra",
+                "global_code": "7JFQR9X3+VH"
+            },
+            "rating": 0,
+            "reference": "ChIJQ68O9m-i2zsR7fUVtktOHsc",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "431001, Khokadpura, Aurangabad, Maharashtra, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8815527,
+                    "lng": 75.3327484
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88286987989272,
+                        "lng": 75.33412242989273
+                    },
+                    "southwest": {
+                        "lat": 19.88017022010728,
+                        "lng": 75.33142277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "07540a884b7ec79f4dd934f479514df4f3a9cc37",
+            "name": "Nand Gopal Derry",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117996687626604784036\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4ayVw3b1tZ_6E6kC8upKgyOMDL75xAXQ70magSCmeTrQOG0svwLkmg0P1ooGnEohgWYE5NBRSQpzxfgjV9eYEwMrWte3fV4dQd4jRSmQxmuq-3OskJvzUnKeY7YEToWuEhAVzxIKP5snObXsStDoxez5GhQgT-vGwHMJFOwVQjelKUYPq0rm-Q",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJYQ2YIXOY2zsRsh05PzI4bkk",
+            "plus_code": {
+                "compound_code": "V8JM+J3 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8JM+J3"
+            },
+            "rating": 0,
+            "reference": "ChIJYQ2YIXOY2zsRsh05PzI4bkk",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sahakar Nagar, New Usmanpura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8646716,
+                    "lng": 75.3321576
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86602017989272,
+                        "lng": 75.33347072989272
+                    },
+                    "southwest": {
+                        "lat": 19.86332052010728,
+                        "lng": 75.33077107010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "207b84c9f8c1fb51ccd60ee7d5b11d522ee98153",
+            "name": "Lifestyle Club",
+            "permanently_closed": true,
+            "place_id": "ChIJXdschnyY2zsRa9Ml2OIQrK8",
+            "plus_code": {
+                "compound_code": "V87J+VV New Usmanpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV87J+VV"
+            },
+            "rating": 1.8,
+            "reference": "ChIJXdschnyY2zsRa9Ml2OIQrK8",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "D-2, Mahalaxmi Colony, N 2, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8696663,
+                    "lng": 75.3725678
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87101852989272,
+                        "lng": 75.37389697989272
+                    },
+                    "southwest": {
+                        "lat": 19.86831887010727,
+                        "lng": 75.37119732010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "4c722a5318d89e1711a2844bdd0038e6cb5f9c78",
+            "name": "Swapnapurti lab",
+            "permanently_closed": true,
+            "place_id": "ChIJ9R5OjC6j2zsRdW7ALv1ayXs",
+            "plus_code": {
+                "compound_code": "V99F+V2 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV99F+V2"
+            },
+            "rating": 0,
+            "reference": "ChIJ9R5OjC6j2zsRdW7ALv1ayXs",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Naralibag, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8849938,
+                    "lng": 75.3229518
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88643137989272,
+                        "lng": 75.32429447989271
+                    },
+                    "southwest": {
+                        "lat": 19.88373172010727,
+                        "lng": 75.32159482010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "d84cd3a5571adbf9aff5b7059d8298d2ca765378",
+            "name": "Anjali Sangeeta Theatre",
+            "permanently_closed": true,
+            "place_id": "ChIJ-ZyIYhSY2zsRPYijxT_EDLM",
+            "plus_code": {
+                "compound_code": "V8MF+X5 Naralibag, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MF+X5"
+            },
+            "rating": 3.6,
+            "reference": "ChIJ-ZyIYhSY2zsRPYijxT_EDLM",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "NH52,railway Station,petrol Pump, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8610083,
+                    "lng": 75.30992909999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86233772989272,
+                        "lng": 75.31127942989272
+                    },
+                    "southwest": {
+                        "lat": 19.85963807010728,
+                        "lng": 75.30857977010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "f3ad67f66c5da8c7a9fe327b63316f54e46a16cf",
+            "name": "Janta Pan Center",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 414,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115098430675671633618\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAaFIy8HCrB86sTdg2gsDeu0vsL-kIRRQ1s80J4QfwMLgH_uUVMqmcMxOMFZFHii_5Vj7fV_HZIE5LiWnCFhnOl46pNDuQVcSJoeZofmghKNA4eAXPPIEzp3MBhdC4fxV3EhBgMhcUecYySjMKVOd4Mnx3GhQyPy4JQbZjiA860xXX2Bnr3cQ2UQ",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJ0T1aG1mY2zsRI7dsqU88TIs",
+            "plus_code": {
+                "compound_code": "V865+CX Aurangabad, Maharashtra",
+                "global_code": "7JFQV865+CX"
+            },
+            "rating": 0,
+            "reference": "ChIJ0T1aG1mY2zsRI7dsqU88TIs",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "RL 114, Bajaj Nagar, Ranjangaon Shenpunji, Waluj, Aurangabad, Maharashtra 431136, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.842615,
+                    "lng": 75.23406
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.84398907989272,
+                        "lng": 75.23532897989271
+                    },
+                    "southwest": {
+                        "lat": 19.84128942010728,
+                        "lng": 75.23262932010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "f8541b1b2547845aa23f0e8aa2a41b4f9277beab",
+            "name": "Nutrition world,",
+            "permanently_closed": true,
+            "place_id": "ChIJQ0mqss-b2zsRVo6Mo2ahCJ4",
+            "plus_code": {
+                "compound_code": "R6VM+2J Waluj, Aurangabad, Maharashtra",
+                "global_code": "7JFQR6VM+2J"
+            },
+            "rating": 4,
+            "reference": "ChIJQ0mqss-b2zsRVo6Mo2ahCJ4",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jaffer Gate, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8816674,
+                    "lng": 75.33595489999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88307037989272,
+                        "lng": 75.33729117989272
+                    },
+                    "southwest": {
+                        "lat": 19.88037072010728,
+                        "lng": 75.33459152010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "dc8fe7505a035a472c387e05867415bd152d4bee",
+            "name": "Sunday Market (Kabada Bazar)",
+            "permanently_closed": true,
+            "place_id": "ChIJHe2_jG2Z2zsRwKyCbA1IhuE",
+            "plus_code": {
+                "compound_code": "V8JP+M9 Jaffer Gate, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8JP+M9"
+            },
+            "rating": 0,
+            "reference": "ChIJHe2_jG2Z2zsRwKyCbA1IhuE",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sunny Center, Pisadevi Rd, Maharashtra, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.907135,
+                    "lng": 75.3726768
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90846047989272,
+                        "lng": 75.37404787989271
+                    },
+                    "southwest": {
+                        "lat": 19.90576082010728,
+                        "lng": 75.37134822010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "19fba43a3027521e172d89cbc3285f5bdc61b0f4",
+            "name": "Adda-e-Aiaash",
+            "permanently_closed": true,
+            "place_id": "ChIJaym8Xuyj2zsRy6soruHDKVQ",
+            "plus_code": {
+                "compound_code": "W94F+V3 Misarwadi, Aurangabad, Maharashtra",
+                "global_code": "7JFQW94F+V3"
+            },
+            "rating": 0,
+            "reference": "ChIJaym8Xuyj2zsRy6soruHDKVQ",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kailash Nagar, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8761653,
+                    "lng": 75.3433139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87749477989272,
+                        "lng": 75.34466647989272
+                    },
+                    "southwest": {
+                        "lat": 19.87479512010728,
+                        "lng": 75.34196682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "171126adcab4f93ba2782c58601c8e8cc5941706",
+            "name": "Nath Sagar Dam",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116588560191216005848\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAMUtXy2ezVXgjOfKoPnz9WZdXA3xzwFUF2mDyguJoShmI5YPSBFYUvqBGmpiRITv07Gr_zGgFeq4J4b2GGN96XzIXnh9gYWg7zxgzsZPLNxijdr9Qb8B8px02HnIesunzEhBYJppLzLbxCdhCcK67yQVeGhSJu38Vltl4DKkaUmpWCRvWeMKgzg",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJnS4m2uej2zsRgfzu_bqO9Mo",
+            "plus_code": {
+                "compound_code": "V8GV+F8 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GV+F8"
+            },
+            "rating": 0,
+            "reference": "ChIJnS4m2uej2zsRgfzu_bqO9Mo",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ghrushneshwar Colony, Mhasoba Nagar, Harsul, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9108495,
+                    "lng": 75.3575967
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.91224832989272,
+                        "lng": 75.35895767989273
+                    },
+                    "southwest": {
+                        "lat": 19.90954867010728,
+                        "lng": 75.35625802010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "19da03d92384ce6ea7631c3c79a6260119fe99d6",
+            "name": "Ramparw Lawn",
+            "permanently_closed": true,
+            "place_id": "ChIJ89ANPfS92zsRnWRZfJuAKLY",
+            "plus_code": {
+                "compound_code": "W965+82 Harsul, Aurangabad, Maharashtra",
+                "global_code": "7JFQW965+82"
+            },
+            "rating": 0,
+            "reference": "ChIJ89ANPfS92zsRnWRZfJuAKLY",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shri Krishna Colony, Chilkalthana, Aurangabad, Maharashtra 431007, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8661149,
+                    "lng": 75.4134912
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86747437989272,
+                        "lng": 75.41484152989273
+                    },
+                    "southwest": {
+                        "lat": 19.86477472010728,
+                        "lng": 75.41214187010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "a9ef0775954cd36129ec6c682efeb45a8e794748",
+            "name": "HB PAN SHOP",
+            "permanently_closed": true,
+            "place_id": "ChIJRxXtmraj2zsRYw9K7nM0XVk",
+            "plus_code": {
+                "compound_code": "VC87+C9 Chilkalthana, Aurangabad, Maharashtra",
+                "global_code": "7JFQVC87+C9"
+            },
+            "rating": 5,
+            "reference": "ChIJRxXtmraj2zsRYw9K7nM0XVk",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Chintamani Colony, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8739987,
+                    "lng": 75.3194631
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87558177989272,
+                        "lng": 75.32080552989272
+                    },
+                    "southwest": {
+                        "lat": 19.87288212010728,
+                        "lng": 75.31810587010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "8d0c80512c185f005faea126b2e87a949ef92c2d",
+            "name": "sanskruti raas dandiya",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115262471871746613203\">Rohit Paithankar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAihE5uA56-p0C3YseSmye-JyKz_8-A0K7foDHbc5OzTMFT8I45B8iaCIvRivhAAPRLS5v-YBok6U20YWq9Jf2S2ELlnx0P4D-GrntsAuDgehXreBVd8YSqOM_9F3tfNCGEhAWIt3mQ1g3-WVpZMYWXEt0GhQFE103gBlS7NjX_OXsO3cab8SVtA",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJNVT7K8KZ2zsRt7TS6aifBdc",
+            "plus_code": {
+                "compound_code": "V8F9+HQ Chintamani Colony, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8F9+HQ"
+            },
+            "rating": 5,
+            "reference": "ChIJNVT7K8KZ2zsRt7TS6aifBdc",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ahmednagar - Aurangabad Rd, Waluj, Aurangabad, Maharashtra 431136, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8065397,
+                    "lng": 75.2345835
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.80788602989272,
+                        "lng": 75.23593172989271
+                    },
+                    "southwest": {
+                        "lat": 19.80518637010728,
+                        "lng": 75.23323207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "020161ad3450b12c8fcecc5846043d8b38b3b935",
+            "name": "Bakwalnagar",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110931069851281498861\">Pandurang Kathale</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAr6rdmsAMVWxQWL24foIknDohJCN3NrISnwt2S4Cz-hKuVEF9_-AbZPjb7gtiwUWe1UF7n7xWplQMQVMN9rnz8S_GWERWXZFjuWzMZpkSGlALFcKmQVxUlztsK_boGEjFEhDXjV0i38fkdHxFpPbEImIYGhTi60ZQ0BWNDCyJWIP71HkO4JqzDA",
+                    "width": 2340
+                }
+            ],
+            "place_id": "ChIJWVEmo1Gb2zsR-owaXwxVwVE",
+            "plus_code": {
+                "compound_code": "R64M+JR Waluj, Aurangabad, Maharashtra",
+                "global_code": "7JFQR64M+JR"
+            },
+            "rating": 0,
+            "reference": "ChIJWVEmo1Gb2zsR-owaXwxVwVE",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dharmapur, Waluj, Dharmapur, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8515882,
+                    "lng": 75.2669018
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85294092989272,
+                        "lng": 75.26817432989272
+                    },
+                    "southwest": {
+                        "lat": 19.85024127010728,
+                        "lng": 75.26547467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "f07cd5bd403445ab0fb89f0e6c420898b6e8089d",
+            "name": "Gurusai Residency As Club Back Side Aurangabad",
+            "permanently_closed": true,
+            "place_id": "ChIJYQ47lRyZ2zsRkf916gJpndM",
+            "plus_code": {
+                "compound_code": "V728+JQ Waluj, Aurangabad, Maharashtra",
+                "global_code": "7JFQV728+JQ"
+            },
+            "rating": 0,
+            "reference": "ChIJYQ47lRyZ2zsRkf916gJpndM",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Waluj, Waluj Bk., Maharashtra 431133, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.7974201,
+                    "lng": 75.22721849999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.79880067989272,
+                        "lng": 75.22857557989272
+                    },
+                    "southwest": {
+                        "lat": 19.79610102010728,
+                        "lng": 75.22587592010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "46e303db573417837bc0b04bdc2281125bb31841",
+            "name": "Dj Sudio",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 554,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107365813414587933287\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbJQo3AiPVj1G2cI6S7XEweC7teVICEqmN8X4O_rO9C06h0b3fLwkLfAEg5SDJQKGkVsVg9ucUOSUP03KClZ69yfMhUzvDYfw6p_IMFu7yROcBiV_z9IdR_2PJ_1m7q_WEhAQRGLCuZ8gPGPqqW_Gfr_CGhQ_fSGo_v-fE8NK9RYCuLuWbZZGfQ",
+                    "width": 554
+                }
+            ],
+            "place_id": "ChIJEXI_0gSd2zsRcqFInuBtcTA",
+            "plus_code": {
+                "compound_code": "Q6WG+XV Waluj, Aurangabad, Maharashtra",
+                "global_code": "7JFQQ6WG+XV"
+            },
+            "rating": 0,
+            "reference": "ChIJEXI_0gSd2zsRcqFInuBtcTA",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Waluj, Waluj Kh., Maharashtra 431133, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.801141,
+                    "lng": 75.22484899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.80249567989272,
+                        "lng": 75.22618312989272
+                    },
+                    "southwest": {
+                        "lat": 19.79979602010728,
+                        "lng": 75.22348347010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "bd6a5a4f6b2730ab2925fcda55604f114e072e53",
+            "name": "New Sadat Pan Stoll",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101762693394630405457\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAjiBdm4fKNSoacVg9vHHlYtR2Lx4qTG1BWvbQBWe4zfGMbI98dxoxbypOYWDeiamqfChIq77mLRN9_0AJr4nN8VNNzEkhD9Ci_uxBLV0FyILYnyDZ9G5VUwsgIbYLFGlFEhBEtJ9IrbY8_M-XUe8oXQYfGhR_9bdMaZokF9iEeF7hgQ1B7T0Ivg",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJp2Xy142d2zsRQ6CiND_8WcU",
+            "plus_code": {
+                "compound_code": "R62F+FW Waluj Kh., Maharashtra",
+                "global_code": "7JFQR62F+FW"
+            },
+            "rating": 5,
+            "reference": "ChIJp2Xy142d2zsRQ6CiND_8WcU",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        }
+    ],
+    "status": "OK"
+}

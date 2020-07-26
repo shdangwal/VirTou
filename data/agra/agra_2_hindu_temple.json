@@ -1,0 +1,854 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CqQDngEAAFq9PATqb8mVMsU-x_OBHwyIuCGqNf7JNSqUTWgx4_DddpuGRenJ0G27Zd65dJXCxheLcnpRoVesFvOMStNInlNFixerL-weZMkTS-e5C9T55ELIw9ciBIk-OWAonvgwkCUtsb8vSjETEVxcj157Xwx7HAob_RHmw0HA5Va9fqOUnlV7wfKjwIb_oTRgVBae2BwAB2IQPFSPMTvCIT5RAqwlJPqCl4xOVWLfwKB-F9DO_NpDkSRNO1jW9O5OvQuQbv27PDW24FMd788lIiJkkiCrXf-0H2QXBIdZ196SGOryHg1hMmbnC7v8UO-KKOb2HJUSX3CK7HPQP9ADW2EagNIFWEadQf7JMHfO5FG8-oF5fNd_mZbKezv2PnLF2Ujmcr7dWtS3G2IWBRDXP_lA5yrSqSjoiEzbmtXQzLA3-dqZ9w6f6YokKvg64RN49PEfrRTysKhBLRXcuyDVxpm7WBBkDLGhOwq6PW5Eob5DpOuN9YbZvVfm6WEhu7fzDUu7ZIhBH34LrldEK7Ugrde2WfjbdAVJjujj4YRkN2REC_ELEhBA-nYu4HBOYHDRsv_Ast9MGhSB7doWEKLOO6N3VDCnGJBsjtgYoA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "North Vijay Nagar Colony, Vijayanagar Colony, Civil Lines, Agra, Uttar Pradesh 282004, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.204109,
+                    "lng": 78.01954359999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20549457989273,
+                        "lng": 78.02089272989272
+                    },
+                    "southwest": {
+                        "lat": 27.20279492010728,
+                        "lng": 78.01819307010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "5fd069342607a3267374f81fe89d3ce06b2dd575",
+            "name": "Vijay Nagar Agra Gurudwara",
+            "place_id": "ChIJdz-zUrNwdDkR0srNLXRD9aw",
+            "plus_code": {
+                "compound_code": "6239+JR Civil Lines, Agra, Uttar Pradesh",
+                "global_code": "7JVW6239+JR"
+            },
+            "rating": 5,
+            "reference": "ChIJdz-zUrNwdDkR0srNLXRD9aw",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Belanganj, Civil Lines, Agra, Uttar Pradesh 282004, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1930316,
+                    "lng": 78.0194819
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19443162989272,
+                        "lng": 78.02085897989274
+                    },
+                    "southwest": {
+                        "lat": 27.19173197010728,
+                        "lng": 78.01815932010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "6a68a6c080efa0b626d0e788cac35ae8d5ec6e10",
+            "name": "Shiv Temple",
+            "permanently_closed": true,
+            "place_id": "ChIJQ4m4tDR3dDkRufwL9Y_bIbA",
+            "plus_code": {
+                "compound_code": "52V9+6Q Civil Lines, Agra, Uttar Pradesh",
+                "global_code": "7JVW52V9+6Q"
+            },
+            "rating": 3,
+            "reference": "ChIJQ4m4tDR3dDkRufwL9Y_bIbA",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "51, 212c, shanti kunj, Arjun Nagar, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1649088,
+                    "lng": 77.9815994
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16628172989272,
+                        "lng": 77.98295007989273
+                    },
+                    "southwest": {
+                        "lat": 27.16358207010728,
+                        "lng": 77.98025042010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "154da275b9409477e8671a3c49a56c2b88de0dea",
+            "name": "Shiv Mandir:-Shanti Kunj Arjun Nagar Agra",
+            "permanently_closed": true,
+            "place_id": "ChIJy1TxBL13dDkRg3Nwiaut16o",
+            "plus_code": {
+                "compound_code": "5X7J+XJ Arjun Nagar, Agra, Uttar Pradesh",
+                "global_code": "7JVV5X7J+XJ"
+            },
+            "rating": 4.6,
+            "reference": "ChIJy1TxBL13dDkRg3Nwiaut16o",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sirki Mandi, Shahganj, Agra, Uttar Pradesh 282010, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1816484,
+                    "lng": 77.9913414
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18294612989272,
+                        "lng": 77.99264222989272
+                    },
+                    "southwest": {
+                        "lat": 27.18024647010728,
+                        "lng": 77.98994257010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "74de5db8faff08e39138c731d3f7d0055aaa26b7",
+            "name": "Jwala Maa Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116583788022127661918\">A2</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAt6YjIanbqcaMOYj7RQf1VsFW390tyhCvPAbgMMAHeuk-zbQ9WF6SAC4UJYlTqaov66Cav_kBBzsj6Fd3PhLZUBWrXr2kvObmT6wDlEZTvDvDp363sSjDCTFAMSEJN_BaEhCYJxXnQotpo5x_fUVJko-VGhSzbEJXubYQTl7_37vAbFcTCvhEoA",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJeQI1pZx3dDkR2xtEhV1rF3o",
+            "plus_code": {
+                "compound_code": "5XJR+MG Shahganj, Agra, Uttar Pradesh",
+                "global_code": "7JVV5XJR+MG"
+            },
+            "rating": 4,
+            "reference": "ChIJeQI1pZx3dDkR2xtEhV1rF3o",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Namner, Rakabganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1653557,
+                    "lng": 78.0059814
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16671522989272,
+                        "lng": 78.00727432989272
+                    },
+                    "southwest": {
+                        "lat": 27.16401557010728,
+                        "lng": 78.00457467010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "b0154f524cbf7cb9326b3a596ba0a60ca6362f26",
+            "name": "Pipleshawar Mahadev Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJVVVVRdp2dDkRS_sYN-pUJ1Y",
+            "plus_code": {
+                "compound_code": "5284+49 Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW5284+49"
+            },
+            "rating": 4,
+            "reference": "ChIJVVVVRdp2dDkRS_sYN-pUJ1Y",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "615b, VIP Rd, Govind Kunj, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1628019,
+                    "lng": 77.9867399
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16409992989271,
+                        "lng": 77.98810902989273
+                    },
+                    "southwest": {
+                        "lat": 27.16140027010727,
+                        "lng": 77.98540937010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "95df9ae20ef49bf3b9c6dd2d9028b3cfca0b1059",
+            "name": "Prachin Aklashwar Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101858429868488452109\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOzmubljH_tIo_KHwcfEGPLP6MHpDNN4Wx6qb2q5ih9e0H3jLZC0PHeaIC0rcJybNutPq9zDInVtP2ypsqPptTFrjlGbQGbVs9vPNSLW8RqYkIRJs8z-Jq7mhy9ROpCuGEhCSysNOpAWKPpSqz_-aNSgRGhS2pIZld-KNrGB0-dc9_0B3IBeAbQ",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJm--oo-N3dDkRv12oVi1F_4E",
+            "plus_code": {
+                "compound_code": "5X7P+4M Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVV5X7P+4M"
+            },
+            "rating": 0,
+            "reference": "ChIJm--oo-N3dDkRv12oVi1F_4E",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "\u0921\u093f\u092b\u0947\u0902\u0938 \u0917\u094d\u0930\u0940\u0928 \u0915\u0949\u0932\u094b\u0928\u0940 \u0938\u0948\u092e\u0930\u0940 \u0915\u093e \u0924\u093e\u0932 \u0926\u0947\u0935\u0930\u0940 \u0930\u094b\u0921, Agra, Uttar Pradesh, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1766701,
+                    "lng": 78.0080744
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17803267989272,
+                        "lng": 78.00942607989272
+                    },
+                    "southwest": {
+                        "lat": 27.17533302010728,
+                        "lng": 78.00672642010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "dbcf55a6e50a23db973b9fc7d684d397ca110368",
+            "name": "\u0924\u094d\u0930\u093f\u0927\u093e\u092e \u092e\u0928\u094d\u0926\u093f\u0930",
+            "permanently_closed": true,
+            "place_id": "ChIJy3jh37N3dDkRaKmjTPpJdx0",
+            "rating": 0,
+            "reference": "ChIJy3jh37N3dDkRaKmjTPpJdx0",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kheria Mod Road, Near Bus Stand, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1655655,
+                    "lng": 77.9963207
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16685017989272,
+                        "lng": 77.99769012989272
+                    },
+                    "southwest": {
+                        "lat": 27.16415052010727,
+                        "lng": 77.99499047010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "d5dec2fe546d2e52a0e2598d30faa9f7d8d8e4b5",
+            "name": "Mata Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJ67kEXOd2dDkRv6NNYYGx1BQ",
+            "plus_code": {
+                "compound_code": "5X8W+6G Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVV5X8W+6G"
+            },
+            "rating": 4,
+            "reference": "ChIJ67kEXOd2dDkRv6NNYYGx1BQ",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sultanpura, Sultan Pura, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.159687,
+                    "lng": 77.9945719
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16101817989272,
+                        "lng": 77.99600832989273
+                    },
+                    "southwest": {
+                        "lat": 27.15831852010727,
+                        "lng": 77.99330867010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "7c90c83bdbaeb815ac959539bfd87d69a7b8db80",
+            "name": "Jai Bherav Nath",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101465270462094353434\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAriK0nOA4PNtfRaD2S4QgrzwraJxMqBgYlsJOuPid6qTVMbF1DvrV2km2hz559aOQFTdjXL3DOatRxdf8yzHe1xZLmNXgaziw-SjlBXgQL9t1xOwytU5lENIIoeZTxNoDEhDwDMJbeYxxofebtTNLeB9IGhQ0KK74Jo6Z_bvuP-UZaSDGrAksLw",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJK-3NQ7B3dDkRHHA4GubYHRA",
+            "plus_code": {
+                "compound_code": "5X5V+VR Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVV5X5V+VR"
+            },
+            "rating": 0,
+            "reference": "ChIJK-3NQ7B3dDkRHHA4GubYHRA",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Near Agra Pord Railway Station, Kasmiri Road, Mantola, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1846138,
+                    "lng": 78.0170918
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18600357989272,
+                        "lng": 78.01850462989272
+                    },
+                    "southwest": {
+                        "lat": 27.18330392010727,
+                        "lng": 78.01580497010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "aa643c8ce29ac5eeee757e6fd82826ee439f8fd4",
+            "name": "Shri Ram Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110580558529138902366\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANBEqmQrA2lTcfMoEAZ-H5K0hpPkhdkIY0TDh9UA2UQJvA8qKRdeWufCC5Du0WhlCqumtaIyfyglEUaFUZhIK3UfF0WPwoL3TuiHy_n6N3R32g4aRltZwMpq6NX9rg82HEhBcjV2p3YslWjbOKfACF0QvGhTA6ESNuWVbStmrwta2oNVHQbVhfg",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJF12pT1l3dDkR9oL7kYNhB4g",
+            "plus_code": {
+                "compound_code": "52M8+RR Mantola, Agra, Uttar Pradesh",
+                "global_code": "7JVW52M8+RR"
+            },
+            "rating": 0,
+            "reference": "ChIJF12pT1l3dDkR9oL7kYNhB4g",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "thakur jaswant singh market, Shahganj, Agra, Uttar Pradesh 282010, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1754258,
+                    "lng": 77.96560099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17679017989272,
+                        "lng": 77.96696132989273
+                    },
+                    "southwest": {
+                        "lat": 27.17409052010728,
+                        "lng": 77.96426167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "a33ea6b7713e5e042dd30b98d1d55c924fc4546b",
+            "name": "Mahadev Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJh6vNK6x3dDkR20is1cOjYIs",
+            "plus_code": {
+                "compound_code": "5XG8+56 Shahganj, Agra, Uttar Pradesh",
+                "global_code": "7JVV5XG8+56"
+            },
+            "rating": 3.8,
+            "reference": "ChIJh6vNK6x3dDkR20is1cOjYIs",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Idgah Rd, North Idgah Colony, Purani Idgah Colony, Panchkuian, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1761804,
+                    "lng": 78.0016168
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17763092989272,
+                        "lng": 78.00293362989271
+                    },
+                    "southwest": {
+                        "lat": 27.17493127010728,
+                        "lng": 78.00023397010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "0039d97ad213ae064404d9b6cdfc31c58094ed80",
+            "name": "Shiv Mandir (SDCT)",
+            "permanently_closed": true,
+            "place_id": "ChIJy2cLJiF3dDkR74kK-_jbZDg",
+            "plus_code": {
+                "compound_code": "52G2+FJ Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVW52G2+FJ"
+            },
+            "rating": 0,
+            "reference": "ChIJy2cLJiF3dDkR74kK-_jbZDg",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "kushwah collony, nagla bhoja kheria mod agra, Nagla, Agra, Uttar Pradesh, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1581996,
+                    "lng": 77.9822324
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15953202989272,
+                        "lng": 77.98356282989273
+                    },
+                    "southwest": {
+                        "lat": 27.15683237010728,
+                        "lng": 77.98086317010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "7f1749cb86f4e418bfd1c1dbd4c8115967f84d52",
+            "name": "Shiv Shakti Ashram Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJqzrX9PB2dDkR64FATsLhL6M",
+            "plus_code": {
+                "compound_code": "5X5J+7V Agra, Uttar Pradesh",
+                "global_code": "7JVV5X5J+7V"
+            },
+            "rating": 0,
+            "reference": "ChIJqzrX9PB2dDkR64FATsLhL6M",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "28/256, Pathwari, Belanganj, Civil Lines, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1760853,
+                    "lng": 78.0086941
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17738537989272,
+                        "lng": 78.00992817989274
+                    },
+                    "southwest": {
+                        "lat": 27.17468572010728,
+                        "lng": 78.00722852010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "85e1e0637d62b3212fa986bff2ae146517c6ca15",
+            "name": "Khatu Shyam Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110985585607676843427\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAw6kAhfMb5xe-oyp3uAKB1rm8cPgqt-Cu-S28GDP-BHJ4aJ9WR_jCSqXNitBqjD5Ew_FAkEmHFLHXb7RPahJqFcgYiMLzP1V9yxbep4l1HZiZkacZfAYT5tD7Z0HKV2RrEhAWvG91uzFFvVbiXFNEXlhFGhQK6ov7cefkPOsPQsq2nYR8StxS1A",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJi-Kn0793dDkRgNBVcztwmEY",
+            "plus_code": {
+                "compound_code": "52G5+CF Civil Lines, Agra, Uttar Pradesh",
+                "global_code": "7JVW52G5+CF"
+            },
+            "rating": 4.7,
+            "reference": "ChIJi-Kn0793dDkRgNBVcztwmEY",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "9, Mahatma Gandhi Rd, Chhipitola, Rakabganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.176101,
+                    "lng": 78.0088837
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17734492989272,
+                        "lng": 78.01005752989273
+                    },
+                    "southwest": {
+                        "lat": 27.17464527010728,
+                        "lng": 78.00735787010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "cebbe0e24606a275ff8a3f4f2e78538c9621bebe",
+            "name": "Temple",
+            "permanently_closed": true,
+            "place_id": "ChIJWUZVIRp3dDkR74RPt-WRj48",
+            "plus_code": {
+                "compound_code": "52G5+CH Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52G5+CH"
+            },
+            "rating": 0,
+            "reference": "ChIJWUZVIRp3dDkR74RPt-WRj48",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "House no- 6/ 90 Gali no-2, Raoli Temple Road, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1758881,
+                    "lng": 78.0081359
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17727177989272,
+                        "lng": 78.00948557989273
+                    },
+                    "southwest": {
+                        "lat": 27.17457212010728,
+                        "lng": 78.00678592010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "eaec2996aa202cf2e3bdc0c6a0ff83f40f46e554",
+            "name": "Hanuman Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJSb8yqp13dDkRhvXZXxJhd8c",
+            "plus_code": {
+                "compound_code": "52G5+97 Agra, Uttar Pradesh",
+                "global_code": "7JVW52G5+97"
+            },
+            "rating": 0,
+            "reference": "ChIJSb8yqp13dDkRhvXZXxJhd8c",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "5/6, Dr Akram Rd, H.I.G, Flat Sanjay Place, Panchkuian, Rakabganj, Agra, Uttar Pradesh 282010, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1817174,
+                    "lng": 78.0055185
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18306617989272,
+                        "lng": 78.00689317989271
+                    },
+                    "southwest": {
+                        "lat": 27.18036652010728,
+                        "lng": 78.00419352010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "9d11db2232daf07eab3a371b374bd2fb51d3eeee",
+            "name": "Hanuman Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101465270462094353434\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJA9qZuKs_UweQ2Y9BL6OPuxl8j1aGoymbn64ZKEbsN1vsExgrWk_PXVUGY_dyd-jLy9lKID8HYJoF1SBSOBRwtAMXe2DYIOR8BPP95gmChBi0KuKmWJbNIMIAGBQDCJSEhCQK6hu9UQlYbJNakpiyG9DGhR5DXtMlzIvhfe-53jJYC8mDc40vw",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJGZrtpH53dDkRk9S3fEjM4zY",
+            "plus_code": {
+                "compound_code": "52J4+M6 Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52J4+M6"
+            },
+            "rating": 0,
+            "reference": "ChIJGZrtpH53dDkRk9S3fEjM4zY",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nala Kazi Paba Rd, Chhipitola, Rakabganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1773928,
+                    "lng": 78.0118671
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17870562989272,
+                        "lng": 78.01327492989272
+                    },
+                    "southwest": {
+                        "lat": 27.17600597010728,
+                        "lng": 78.01057527010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "70431c077c0f947baf7a3c82f6b59aeacc65157a",
+            "name": "Hanuman Ji Ka Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110985585607676843427\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOFDt48gSTCPhsbH9twVcwo7jEAJ2LDpgCWegsgVeCPkb7RsDIRsDL85sN39OfLYLCQqTHtdFIEaVzx6BwPAQFH-fzN-ezgbVe1O8QmSKlOZcgKE1Pwncq-bjtLtaLukcEhAoyYBrKJuhhxeGBPqlh9Q_GhRBH3P95gus0yvG4STCYEQzsaWnBA",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ4-6VPhp3dDkRp7Vm6ZsG4aE",
+            "plus_code": {
+                "compound_code": "52G6+XP Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52G6+XP"
+            },
+            "rating": 0,
+            "reference": "ChIJ4-6VPhp3dDkRp7Vm6ZsG4aE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Chhipitola, Rakabganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1723126,
+                    "lng": 78.0108411
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17367657989272,
+                        "lng": 78.01224142989271
+                    },
+                    "southwest": {
+                        "lat": 27.17097692010728,
+                        "lng": 78.00954177010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "5ef2f76ce0ac9fcb0b6be893a0ea327364989aa9",
+            "name": "Mata Rani Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108585236356868625252\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAo0O4-2XYZnsfrtpk78uoB5ss-TJoQZNbDfFgtC5zgUFu_JuqUkiPPSA-w5fjFql5P-Bx-94mzkB2vCgYB4bxSi8K9otNzUylLYMHKWO-TiuuSiL4snTEXsKQM9M2RCSQEhCRVkCTBf8FgdBKcn-Ki7CuGhQ1LjPi7HBwVSBwdC-Eq7oxHQD0PQ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ1b26fep3dDkRx7B_6GmJqm8",
+            "plus_code": {
+                "compound_code": "52C6+W8 Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52C6+W8"
+            },
+            "rating": 0,
+            "reference": "ChIJ1b26fep3dDkRx7B_6GmJqm8",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "HIG Flat 19, Bypass Rd, Langre Ki Chowki Chouraha, Langre Ki Chowki, Civil Lines, Agra, Uttar Pradesh 282004, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2058692,
+                    "lng": 78.0251997
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20721117989272,
+                        "lng": 78.02662932989271
+                    },
+                    "southwest": {
+                        "lat": 27.20451152010728,
+                        "lng": 78.02392967010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "bb339287bf615a1caca55a4cd239b5f6005f3cd4",
+            "name": "Hanuman Mandir Civil Lines Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106731372546614722317\">ram upadhyay</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAdtFTCZLQlkQudhV78UYScN3TnWCvRrvedxtdCBM0LShDA5WgElNPajZp7Qzind_VwfPYurAEr0Jd8T-PfUbc3JibFny6Ae-Ybq9vfkrP9v5ina1iaRtMfuFWp9hz1keZEhCk2EhklTqM3xDijvZmbcwyGhRqkDQFGMYD4O5-mY6AWHV76WkYaA",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJa_jkfbFwdDkR6iwNVhiL_aA",
+            "plus_code": {
+                "compound_code": "624G+83 Civil Lines, Agra, Uttar Pradesh",
+                "global_code": "7JVW624G+83"
+            },
+            "rating": 4.5,
+            "reference": "ChIJa_jkfbFwdDkR6iwNVhiL_aA",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 153
+        }
+    ],
+    "status": "OK"
+}

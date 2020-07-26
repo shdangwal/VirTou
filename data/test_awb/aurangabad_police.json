@@ -1,0 +1,885 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_gAAANcdSH2RzpuWECnWX0-vX4Mho8Ee9EfXht6-wg2Zo9w_A_wIkZnFfgomnV0t79cVnpWc9ubK2FzH-NjEDE5U5mYmHE6ChGBqY50QrFFczEN0-1sWddoEezAsL8dd3KKu3GlHbIynt9hyR4igQ9SBCjSBRZvqxA-JFOYKG_S7EVXCQ_wnNkOetH3WTSq67wpx6KbImIpeHafjqCoAlp8uuq4e4eDN6q3s7bXfnm5W2y-hE3TQs1pB_UYzmMr2H9ccCEC_6iseQrWEbLo-6oUQOAHcqXbjEJAV8Sbi92dAgmWITsfDusHBRm7SW7okqBzzEnTFB5NVmuNfFCNmAyYT-r8SEFwYN4ZedWY3wzcc98Gk_msaFJpTrc9IFiZ9tS7G_ghfZsKzvzAE",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Near N10, Hudco Road, T.V. Center, Cidco, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.899589,
+                    "lng": 75.352921
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90089192989273,
+                        "lng": 75.3541012798927
+                    },
+                    "southwest": {
+                        "lat": 19.89819227010728,
+                        "lng": 75.35140162010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "9855e417f5fb25a70a54e8c0a602b7d53ba69433",
+            "name": "Office Of Superintendent Of Police, Aurangabad Rural",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105669827427687611780\">YOGESH PAGAR</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyPsGKcJIbB7T5Q_GlqZTPSUirlt35d78wOru6EMXNXBTpmOCMgd1niqjLNw---McaH4aT4OBzyWc9IG3EwNFM9IjDAVV5DzhJ4smuq8hH0u9z7X2O446FVQqqUNaE19PEhDEhEkPHUIr_3yxdd9fZqy0GhSDQaPCqu7Y3ZzyerN3F1_2kNzRVA",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJPS0u1rGi2zsR4-IAkqMOZCE",
+            "plus_code": {
+                "compound_code": "V9X3+R5 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9X3+R5"
+            },
+            "rating": 4.4,
+            "reference": "ChIJPS0u1rGi2zsR4-IAkqMOZCE",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Naralibag, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.886445,
+                    "lng": 75.3167463
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88780962989272,
+                        "lng": 75.31809732989272
+                    },
+                    "southwest": {
+                        "lat": 19.88510997010728,
+                        "lng": 75.31539767010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "fc02df8170e8cdee82283c191db85af53f2b4914",
+            "name": "Police Headquarters Aurangabad",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107870435603226501931\">Sunny Surwade</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAdQLA9RlqiRzw2qj1ngOpPnuvj5ijL5x1TqCxpUsPvZi8U26RgpClWpQ26WZGHyDAyG9lP3oXNKKyOFFi-zIJ4yejGuYegyhiiJDwKTA-3MUyy-Fewww75xWUvhw9lz2_EhDDN9Nb5p4dY7kM9eKEKparGhTVsPrVzsH9mQqlLKqlnD6NvCEkEw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ6UltScSZ2zsR_nOQID0HVgs",
+            "plus_code": {
+                "compound_code": "V8P8+HM Aurangabad, Maharashtra",
+                "global_code": "7JFQV8P8+HM"
+            },
+            "rating": 5,
+            "reference": "ChIJ6UltScSZ2zsR_nOQID0HVgs",
+            "types": [
+                "police",
+                "local_government_office",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Town Centre, N 1, Cidco, Aurangabad, Maharashtra 431006, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8796092,
+                    "lng": 75.3658693
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88100032989272,
+                        "lng": 75.36723352989272
+                    },
+                    "southwest": {
+                        "lat": 19.87830067010728,
+                        "lng": 75.36453387010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "aebb4d8bb7525e24163ed9be6fc3a8574b864b17",
+            "name": "Police Chouki Cidco N-1",
+            "place_id": "ChIJJ7S8muyi2zsRnAGbcjBWuwM",
+            "plus_code": {
+                "compound_code": "V9H8+R8 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H8+R8"
+            },
+            "rating": 4,
+            "reference": "ChIJJ7S8muyi2zsRnAGbcjBWuwM",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Chelipura Rd, Labar Colony, Shah Bazar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8887809,
+                    "lng": 75.3371629
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89007857989272,
+                        "lng": 75.33849662989273
+                    },
+                    "southwest": {
+                        "lat": 19.88737892010728,
+                        "lng": 75.33579697010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "4b5cccb5a69807c61b3f20dac7818b432d359383",
+            "name": "Chelipura Police Chowki",
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115042058424181205300\">shobhit agrawal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAv2NnRuF2AXO8cH7OMcoTnG6Nk9rXiD19J7rXSvjQ4rtxUzUXgA0kAcnEsye_chnyt3490clsZgqZarBaCSnFjT7xFHAsWQDXhO3Q8wAj6Ii8Gw9zefCaaIcdhquaYAIjEhDJ6hvUObBlQrOzAnIMohgOGhR4QCHyil3WoNyrEZgJ7R9GXSC42w",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJRfvJ3guY2zsRiJolPhPlYX0",
+            "plus_code": {
+                "compound_code": "V8QP+GV Shah Bazar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8QP+GV"
+            },
+            "rating": 4.1,
+            "reference": "ChIJRfvJ3guY2zsRiJolPhPlYX0",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dargah Road, Near Kamgar Chowk, Osmanpura, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.863616,
+                    "lng": 75.325293
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86502107989272,
+                        "lng": 75.32668412989273
+                    },
+                    "southwest": {
+                        "lat": 19.86232142010728,
+                        "lng": 75.32398447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "8b72b614ce9cefdb682d06a50d583fe5341bbe8a",
+            "name": "Osmanpura Police Station",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115575590723899679425\">Sahil Garud</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFdipWJ96Ya30gJxdy668GZvKe9tpSkYuvooFi7T4-iCi9dbFqfVyvTrILe7gJ3vIMD0eSSOvUqSuCCJ0hXsUhF4kPniCcji0AZmOL6ZCSvkZuXQut3rM--_Z5_diqDImEhAaUtmhZ4gkhlZ8VCN1yVrvGhQrmKIPynpA2G04K8LF-vh9oo7P4A",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJB5nrlGOY2zsR_MDik83gYqY",
+            "plus_code": {
+                "compound_code": "V87G+C4 Aurangabad, Maharashtra",
+                "global_code": "7JFQV87G+C4"
+            },
+            "rating": 3.5,
+            "reference": "ChIJB5nrlGOY2zsR_MDik83gYqY",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "City Chowk Rd, City Chowk, Sarafa Bazaar, Naralibag, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8884549,
+                    "lng": 75.3302546
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88974097989272,
+                        "lng": 75.33160167989273
+                    },
+                    "southwest": {
+                        "lat": 19.88704132010728,
+                        "lng": 75.32890202010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "077a1b69aeeb6b757c705567d08c90e981bc303b",
+            "name": "City Chowk Police Station",
+            "photos": [
+                {
+                    "height": 2058,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117778159657966295772\">a.nazeer shakeel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAujpqfxG-EV_GIstboU24oP1duE4W41A7EcUGubrQnekdjvHxp9oC0E0Xsvc8f7sErHHcke5hYqtQsZOZqqaLOafkohkhy0bMYNjZrfoIBmOt8Tx4f_CfnucRaxQGeimIEhB_EZMpgyFDqbOnSvF4MqjqGhQ1iLcDJRuasRx1dkNW7nLA469kbQ",
+                    "width": 2369
+                }
+            ],
+            "place_id": "ChIJLS55Bw6Y2zsRIJzBrmMJPlM",
+            "plus_code": {
+                "compound_code": "V8QJ+94 Naralibag, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8QJ+94"
+            },
+            "rating": 4,
+            "reference": "ChIJLS55Bw6Y2zsRIJzBrmMJPlM",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "TV Centre, TV Centre Rd, Hudco, Rajiv Gandhi Bhaji Market, N 9, Cidco, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.902581,
+                    "lng": 75.35354889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90389602989272,
+                        "lng": 75.35482297989272
+                    },
+                    "southwest": {
+                        "lat": 19.90119637010728,
+                        "lng": 75.35212332010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "7acb198adf6ab50aba46788099aecc5d7d96125c",
+            "name": "TV Center Police Chouki",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109192766445053193557\">sandeep patil</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_gW8XRczfQiyvXhD9IH-SVO25LSoM08NAeUbJ4Cls7QtNOsRi2oLwOZFpvH-1Kgm2jknpQmhfRhOtWg32qgvt8TVkqPGhDVTUEuV007K0DPUTKXHi3nmWQfosZft7paWEhDeyeweSbGrrdl8HNnkTI50GhSXi7mfx8sIrLEJK0NGvhOG9eQIPg",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJzX8nBbKi2zsRkY1ZYqpJQgQ",
+            "plus_code": {
+                "compound_code": "W933+2C Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQW933+2C"
+            },
+            "rating": 3.7,
+            "reference": "ChIJzX8nBbKi2zsRkY1ZYqpJQgQ",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dr. B.A.Marg, Mill Corner, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8853882,
+                    "lng": 75.31766259999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88687017989272,
+                        "lng": 75.31911892989271
+                    },
+                    "southwest": {
+                        "lat": 19.88417052010728,
+                        "lng": 75.31641927010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "bd4104784b1934150981803552863f14c23a02b6",
+            "name": "Commissioner of Police",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101474989039192072673\">Ravindra Dole</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAw3XvjLAg7530nLyipgYX9w5cbYhnb6CCCFIXLp_NNee0PAOHeGfMkuiRj3K3wj-1wyo0lvIpf2DjgGuo8PcwRk89euY-O2ZzJq7o3PKwkY3d6Fiduo8oHCiNKNYZSfAdEhDPy-eVfygCnVtHSyry0W3TGhQgsJjBrg34TKnIPgG0qSHL-LiWSg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJqRlaJj6Y2zsRcRcTtZgU61A",
+            "plus_code": {
+                "compound_code": "V8P9+53 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8P9+53"
+            },
+            "rating": 4.2,
+            "reference": "ChIJqRlaJj6Y2zsRcRcTtZgU61A",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 51
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7, Cidco Rd, Sector M, N 7, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.892986,
+                    "lng": 75.362448
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89433847989272,
+                        "lng": 75.36389832989272
+                    },
+                    "southwest": {
+                        "lat": 19.89163882010728,
+                        "lng": 75.36119867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "1aece44143809feb11214681efbe1057e79ee328",
+            "name": "CIDCO Police Station",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101141750139791376174\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAATs9HFoVnoUOtNHM277hzWAcnMfVB_Jki4esN2PXhT-DjgrR25sXLavDlMIJkJEz4ifgcqeGYJE2NDCxaaE-aKwgaYZsYEPaT5td6QRnVCNtl0C4vbVOJ5gsWwEab7zkUEhA3FYEIR1jFfVoZK_frPZA-GhQmLlaa8JUbWB0HjW--qnJqR6FK3A",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJyR_J6Lii2zsR95UahQZWQfs",
+            "plus_code": {
+                "compound_code": "V9V6+5X Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9V6+5X"
+            },
+            "rating": 3.8,
+            "reference": "ChIJyR_J6Lii2zsR95UahQZWQfs",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Chistiya Chowk, N-5, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8801044,
+                    "lng": 75.3602787
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88139497989272,
+                        "lng": 75.36162222989272
+                    },
+                    "southwest": {
+                        "lat": 19.87869532010728,
+                        "lng": 75.35892257010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "cf87071a700915f734a3e0225c840bbd9f19a5d8",
+            "name": "Chistiya Police Chowki",
+            "place_id": "ChIJ4e5RbZSi2zsRSYStdd3r4Hs",
+            "plus_code": {
+                "compound_code": "V9J6+24 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J6+24"
+            },
+            "rating": 4,
+            "reference": "ChIJ4e5RbZSi2zsRSYStdd3r4Hs",
+            "types": [
+                "police",
+                "subpremise",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ahilyabai Holkar Chowk, Garkheda Parisar Rd, Parijat Nagar, Sector N 4, Cidco, Aurangabad, Maharashtra 431008, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8619875,
+                    "lng": 75.3649164
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86334857989272,
+                        "lng": 75.36602267989271
+                    },
+                    "southwest": {
+                        "lat": 19.86064892010728,
+                        "lng": 75.36332302010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "e6f44a46b877c79df751d3613ac1dbff6da8e668",
+            "name": "Pundalik Nagar Police station",
+            "place_id": "ChIJuWlS-V-i2zsRPvYr-2TFZGs",
+            "plus_code": {
+                "compound_code": "V967+QX Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV967+QX"
+            },
+            "rating": 4.2,
+            "reference": "ChIJuWlS-V-i2zsRPvYr-2TFZGs",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kranti Chowk, Juna Mondha, Old Mondha, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.882354,
+                    "lng": 75.33821300000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88373577989272,
+                        "lng": 75.33960647989272
+                    },
+                    "southwest": {
+                        "lat": 19.88103612010728,
+                        "lng": 75.33690682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "92d47c5aafc61dbbb50555d02f113b6adbdef63e",
+            "name": "Monda Police Chowki",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106524179237759534614\">Sandesh Navpute</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAlSoL48knBGTFdut09eBzEHFfqNe8tswKdfaGQ268PealR0cm3Ao1gTQcMvObpsQFwT2Mn4xGERJXVVcrGLi88Q0QsTRQlOuKKh_UZU-u4C9tWbJvaz3aUBi2ewHbxRPUEhBRAj1cKtKqw-exdsxRFeHjGhR4i2hDiHq2_xdc09yMUAQ6eC14lg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ4S2T2HSY2zsRwSPsgMEs3r0",
+            "plus_code": {
+                "compound_code": "V8JQ+W7 Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8JQ+W7"
+            },
+            "rating": 4,
+            "reference": "ChIJ4S2T2HSY2zsRwSPsgMEs3r0",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jalna Road, Opposite Aurangabad Gymkhana, Mukundwadi, Sanjay Nagar, N 2, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8720239,
+                    "lng": 75.37714629999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87341407989272,
+                        "lng": 75.37849622989272
+                    },
+                    "southwest": {
+                        "lat": 19.87071442010728,
+                        "lng": 75.37579657010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "00b3b54f021670a8171a072c56ab287dc31c6950",
+            "name": "Mukundwadi Police Station",
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112249404739152986260\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARj17Pkc2I3Y4hNIJhoB0NVv8PGHAClLFbK-td10VyYbpurbd-xQX5AGWZ7w7x8nBKmYDOfLjHpL0JfNQKKfyEms9_SRGw2iUMqE8AFON9a3v3MVGrHRWqa-aJArLJWmgEhC2qP9LHmnqh2i6y_IwA2APGhTGlx2sQ69pdxV7-OCP94iLNY8nng",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJybARYPqi2zsRquEUHuOu7cA",
+            "plus_code": {
+                "compound_code": "V9CG+RV Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9CG+RV"
+            },
+            "rating": 3.9,
+            "reference": "ChIJybARYPqi2zsRquEUHuOu7cA",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Main Road, D sector, Garkheda, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.853321,
+                    "lng": 75.35104729999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85463212989272,
+                        "lng": 75.35240627989272
+                    },
+                    "southwest": {
+                        "lat": 19.85193247010728,
+                        "lng": 75.34970662010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "4be1f0864d564a9edbffec3bb2061553369fbbec",
+            "name": "Shivaji Nagar Police Station",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2576,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113011223406614299880\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9HO6jJjzINCc3XkLiEU-cwzIE1nkNIJZ8SELgnMp3LFbTXekdfAv_LnA_LoTiBW3It_iEEk3cgGInMTAYE61Ng78DMscmi2cv97MjZO-WZgS8R9zFCh9_YAWnjfTAn6xEhA73_fNYZoaoZQ7SaJ-44MgGhT2LsicdLi0TVrHWo7TnmU4WsbBqA",
+                    "width": 1932
+                }
+            ],
+            "place_id": "ChIJXaX6E3ui2zsRFYn_pv_CvWo",
+            "plus_code": {
+                "compound_code": "V932+8C Garkheda, Aurangabad, Maharashtra",
+                "global_code": "7JFQV932+8C"
+            },
+            "rating": 3.6,
+            "reference": "ChIJXaX6E3ui2zsRFYn_pv_CvWo",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Prabhu Shriram Small Mandir Rd, Shantiniketan Colony, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8757278,
+                    "lng": 75.3235928
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87706382989272,
+                        "lng": 75.32502992989272
+                    },
+                    "southwest": {
+                        "lat": 19.87436417010728,
+                        "lng": 75.32233027010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "493846de56cf6161644070426274e8222e00a995",
+            "name": "Kranti Chowk Police Station",
+            "photos": [
+                {
+                    "height": 400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115034227179934791322\">Vishnu Raut</a>"
+                    ],
+                    "photo_reference": "CmRaAAAATgBTrAQcNAYzGWphhGBP1S9u3-dgKPgnnbYFJeGweycrbA67R7z648lMCS8SrR4DfIW0CS3dsygUprSlpmYw7jFOwU8gbe_u_NlV7F4xAE_86s9_v7DwKeH8JuHdBI0eEhBZ98YqKFDXx35hAxFKrm9fGhQJD5WWmTz1Id7mkyuF-LaQdgn8iA",
+                    "width": 650
+                }
+            ],
+            "place_id": "ChIJKyQSU2mY2zsR5jVtghEwn7I",
+            "plus_code": {
+                "compound_code": "V8GF+7C Shantiniketan Colony, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GF+7C"
+            },
+            "rating": 3.4,
+            "reference": "ChIJKyQSU2mY2zsR5jVtghEwn7I",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Amdar Rd, Sangram Nagar, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.847102,
+                    "lng": 75.33352700000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.84848682989273,
+                        "lng": 75.33500982989273
+                    },
+                    "southwest": {
+                        "lat": 19.84578717010728,
+                        "lng": 75.33231017010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "21855b0284a1c02d564a8f9c6f50c9bd655d5afe",
+            "name": "Satara Police Station",
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108381338637425015451\">Abdul Bari shaikh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbpWofyCTpyqeUknvTNdINPXgEcdlbRrXUVXLWvjZA8NbG5-3NZRwO67uag9q8Jvv7h0zqwcPPBKw70wgvUyZnbQDkwHRTWGM-mWKOdxCdlAqLIHlbM_8jk-pjra8GwosEhBL7nyGe8ZLaRMhZZfEmHNPGhRue0aJaRBo4tNxJPmeP1AmZ0DLOQ",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJfxnbO5uY2zsR5KTOazaPdpQ",
+            "plus_code": {
+                "compound_code": "R8WM+RC Sangram Nagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQR8WM+RC"
+            },
+            "rating": 3.7,
+            "reference": "ChIJfxnbO5uY2zsR5KTOazaPdpQ",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kamgar Chowk, N 3, Cidco, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8738609,
+                    "lng": 75.36656590000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87521182989272,
+                        "lng": 75.36790192989272
+                    },
+                    "southwest": {
+                        "lat": 19.87251217010728,
+                        "lng": 75.36520227010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "43abf854025b7cdabbe1f558b0dfba36009ab609",
+            "name": "Cidco Traffic Police Chawki",
+            "place_id": "ChIJb-b7nPKi2zsRdM_z_FTxrV4",
+            "plus_code": {
+                "compound_code": "V9F8+GJ Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9F8+GJ"
+            },
+            "rating": 4,
+            "reference": "ChIJb-b7nPKi2zsRdM_z_FTxrV4",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Aurangabad Rd, Beri Bagh Colony, Harsul, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.920284,
+                    "lng": 75.352632
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.92163607989272,
+                        "lng": 75.35395697989271
+                    },
+                    "southwest": {
+                        "lat": 19.91893642010728,
+                        "lng": 75.35125732010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "0133276427bb59b8f0a7c4f631eff9daa197f36e",
+            "name": "Police Station",
+            "place_id": "ChIJw2tMslq92zsRXeuNGJ3IBQQ",
+            "plus_code": {
+                "compound_code": "W9C3+43 Aurangabad, Maharashtra",
+                "global_code": "7JFQW9C3+43"
+            },
+            "rating": 5,
+            "reference": "ChIJw2tMslq92zsRXeuNGJ3IBQQ",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "MIDC Industrial Area, Chilkalthana, Aurangabad, Maharashtra 431006, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.877767,
+                    "lng": 75.3869418
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87902882989272,
+                        "lng": 75.38861902989271
+                    },
+                    "southwest": {
+                        "lat": 19.87632917010728,
+                        "lng": 75.38591937010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "74b5a0fb1cd90ba894850964111ea8388f648d18",
+            "name": "Chikalthana Police Station",
+            "place_id": "ChIJqyIXkeKi2zsR0zsELcMgfLE",
+            "plus_code": {
+                "compound_code": "V9HP+4Q Chilkalthana, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9HP+4Q"
+            },
+            "rating": 3.9,
+            "reference": "ChIJqyIXkeKi2zsR0zsELcMgfLE",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "TV Centre Rd, N 10, Hubco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8987462,
+                    "lng": 75.3519852
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90016187989272,
+                        "lng": 75.35331222989272
+                    },
+                    "southwest": {
+                        "lat": 19.89746222010728,
+                        "lng": 75.35061257010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "dfcb9e1dddbb0793a5bcfd45a082f96fd9883d61",
+            "name": "Sub-Divisional Police Office",
+            "photos": [
+                {
+                    "height": 4096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107399523406349003216\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAswD0QpSULPD_WSY99m_3cfRfACENEfN3Fc-XJ8fa-ArGZvVRbqmYZcZyGt5qej1TbIMUDRHkSWG41JFqGjm95jnicob0XyOGvhLJiEn0XBrisn70UhQD6ywoS0yvA209EhB4uRRizQ_480CMDjLz9xFwGhQr9tFxx4ZWt5aFNWCGPFG4WjIQjA",
+                    "width": 2304
+                }
+            ],
+            "place_id": "ChIJqYwSzK-i2zsRotI8mg7KEJw",
+            "plus_code": {
+                "compound_code": "V9X2+FQ Aurangabad, Maharashtra",
+                "global_code": "7JFQV9X2+FQ"
+            },
+            "rating": 0,
+            "reference": "ChIJqYwSzK-i2zsRotI8mg7KEJw",
+            "types": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        }
+    ],
+    "status": "OK"
+}

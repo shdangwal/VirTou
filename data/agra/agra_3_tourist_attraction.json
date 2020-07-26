@@ -1,0 +1,946 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "formatted_address": "Agra, Uttar Pradesh, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1281484,
+                    "lng": 78.0195387
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.4108,
+                        "lng": 78.8541899
+                    },
+                    "southwest": {
+                        "lat": 26.74426,
+                        "lng": 77.43195
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "c8490cb44f7b90792d63d6ac5cd149eca7bcd19f",
+            "name": "Agra",
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111609964857742664622\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYNpArPD_u26QmYq6YARKoQWU9qB3mmghzD6ouhnn3Qwo4HmgrRVuqLiQzBRKtZpgLo39PvlyF0KW2gSrPQztQaXvIRxxgk-shNFuFLXmJQgMd4YJH6UWMMN31qkmUnYTEhBsOGUr9IqOl12zxNb0KFTbGhQw3h1SRI49QO_fgMdx2zZAV595kw",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ7xNGlCh3dDkR8Cm159xP_fw",
+            "reference": "ChIJ7xNGlCh3dDkR8Cm159xP_fw",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Parsvnath Panchvati, 135 2nd floor, Fatehabad Rd, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1484094,
+                    "lng": 78.0508803
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14978112989272,
+                        "lng": 78.05226922989273
+                    },
+                    "southwest": {
+                        "lat": 27.14708147010728,
+                        "lng": 78.04956957010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9990cf918da72cb1f24a4cfa52a14b47c2a262a4",
+            "name": "My magic kitchen",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 672,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114517391758847445032\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA6YdgZR3kkYSPGzPXLWdEPndnogA_VXG6IMXcqc1nmuc_uygBD48jfDdNKty9pkTUPqJEJ9ad95rbqZ6F8D_iWYbjx6hMpD73l_dtGx02Q_8zo8aVUso5jwJF53FEGbB5EhBlNw5WFlYSUGxpNBV87KOcGhREXfNfBuma0twIPemLubzmWrDslw",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJq8U2cipxdDkRVzuE_yH0EVM",
+            "plus_code": {
+                "compound_code": "43X2+99 Agra, Uttar Pradesh",
+                "global_code": "7JVW43X2+99"
+            },
+            "rating": 0,
+            "reference": "ChIJq8U2cipxdDkRVzuE_yH0EVM",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "SHOP NO 06, Sector 7, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.19565,
+                    "lng": 77.96548899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19700227989273,
+                        "lng": 77.96681472989273
+                    },
+                    "southwest": {
+                        "lat": 27.19430262010728,
+                        "lng": 77.96411507010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "93f398e8dbb6dca814b2f0a68b61078d4df4603d",
+            "name": "S S TOUR AND TREVELS",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 673,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101534960973603146958\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAklR0TG3IeCrCB-MOudA-BERG8gRx4A7iHXUciGOY36YdHqv0iIsarzdoMk7SNmbJZ8tvYYlUddP2kbQUjuPJDT9nI4lexZ1caZr86to4EGHe3QJwTddlmFR3JHbcpBPqEhBpz6iMex95cNJ1S0hNJ5enGhRv8xKMKu-bpduvF1VTz2HSFdKH3Q",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJk1KgO-x3dDkRarTAhjQfawc",
+            "plus_code": {
+                "compound_code": "5XW8+75 Sikandra, Agra, Uttar Pradesh",
+                "global_code": "7JVV5XW8+75"
+            },
+            "rating": 3.8,
+            "reference": "ChIJk1KgO-x3dDkRarTAhjQfawc",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Taj Expressway Link Rd, Moti Bagh, Agra, Uttar Pradesh 282006, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1924692,
+                    "lng": 78.0351752
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19335277989272,
+                        "lng": 78.03650587989272
+                    },
+                    "southwest": {
+                        "lat": 27.19065312010728,
+                        "lng": 78.03380622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "8cd51f24ecdbbf855152b61ad143a827924d61de",
+            "name": "Chauburji, Agra",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110670011566947145447\">Savita Dutta</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOZrceT7dkqcFE9qXvINl4B3c-MvkPcRtmpofC4deoP_asrKbz6TbSUey1d9UgVJ8KJJ4Wmp5xRzNvGuSwaN561OWHoN3i1JFeNduzg3sQyi1vazNIgb54h61gWjtMZ2SEhDqKBA32izycX5yXr1MKLpbGhRUK5FlHDcG3mCW09P303OKs7RghQ",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJuTtMPcRwdDkRp6j2Nb9rMgA",
+            "plus_code": {
+                "compound_code": "52RP+X3 Moti Bagh, Agra, Uttar Pradesh",
+                "global_code": "7JVW52RP+X3"
+            },
+            "rating": 3.8,
+            "reference": "ChIJuTtMPcRwdDkRp6j2Nb9rMgA",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1776971,
+                    "lng": 78.02252469999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17904692989272,
+                        "lng": 78.02387452989272
+                    },
+                    "southwest": {
+                        "lat": 27.17634727010728,
+                        "lng": 78.02117487010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f9c299a118aeaad3df33272905268f677992813c",
+            "name": "Jahangir's Hauz",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101307249602340920234\">Sonia Binte Khorshed</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmrAbjfzYAb-pH6fapBWhmH40QxrK_tAvywalcbcrqEAyavJwOOVmxRbNvTP4tT_xwTOvdkpK-4A5WM4uNQ4r2d7QYbGQrqzSuxhAULZ3nvts6tOhveIsCSHgGbO2BuVyEhB9kl6MazbLSkH5JNdSnVM3GhQVQXRlpM6m7XykGVlL-6uugOj-pw",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJE9E6VdRwdDkR7oem51oW2Cs",
+            "plus_code": {
+                "compound_code": "52HF+32 Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52HF+32"
+            },
+            "rating": 4.5,
+            "reference": "ChIJE9E6VdRwdDkR7oem51oW2Cs",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 156
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "19B, 33, A4, Lohiya Nagar, Balkeshwar Colony, Agra, Uttar Pradesh 282005, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2113337,
+                    "lng": 78.0314716
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21270607989272,
+                        "lng": 78.03282832989272
+                    },
+                    "southwest": {
+                        "lat": 27.21000642010727,
+                        "lng": 78.03012867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "13b387b1a9e5628cc3f34d5556d02c10d6c25019",
+            "name": "Agra Taxi | Agra Cab | Taxi Services In Agra | Payal Express",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 576,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113147484700356786699\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAq4uqvE1HxI-9pgnX23PIz7Fq7WXYe19TfVzcvhV2fRNLecmdTe1KYJY7hWcFu5QOziTdhbH9fpkKF-SXWL44KnGD12Mlm5VKWLZ4YuO9ULvPaBaPWF8KF80lke37PeqQEhAbtU7be9hjTCWgulG-LNo3GhRQ9_UxTo3qznKtCRSKMwL4onS60w",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJoV1cGoFxdDkRZtpl9r7tiLg",
+            "plus_code": {
+                "compound_code": "626J+GH Agra, Uttar Pradesh",
+                "global_code": "7JVW626J+GH"
+            },
+            "rating": 5,
+            "reference": "ChIJoV1cGoFxdDkRZtpl9r7tiLg",
+            "types": [
+                "travel_agency",
+                "car_rental",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Office No. 30/58, Nagladhani, North Vijay Nagar Colony, Agra, Uttar Pradesh 282004, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2039802,
+                    "lng": 78.0198625
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20545272989272,
+                        "lng": 78.02121692989272
+                    },
+                    "southwest": {
+                        "lat": 27.20275307010728,
+                        "lng": 78.01851727010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "eeffe13600388b7ff864f26a6e95057767a287e9",
+            "name": "Agra Taj Mahal Guide | Agra Tajmahal tour by train | Tajmahal tour by gatiman train Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110680711273930696669\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAggoyRIeM_g3aAjulCa6LrrszK5GBBkeWJzs6pOChwhMVgF2fWXuNxPn-LgsZdfKfAlwhequPIA-yepGdBVBIY2AiYHqrVwCfoOvptbw5kQBhjfIX5puV1jgBf4ZOsU9jEhA5BUQZQjuA5VLraFidXLSAGhSKtG-Fg1wGFvFfAw2LTiu7o0OFKQ",
+                    "width": 1152
+                }
+            ],
+            "place_id": "ChIJR_zKXLNwdDkRdaDW5bJ1XJ0",
+            "plus_code": {
+                "compound_code": "6239+HW Agra, Uttar Pradesh",
+                "global_code": "7JVW6239+HW"
+            },
+            "rating": 4.9,
+            "reference": "ChIJR_zKXLNwdDkRdaDW5bJ1XJ0",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "19 laxmi puram, Rajpur Chungi, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.144328,
+                    "lng": 78.030445
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14567322989272,
+                        "lng": 78.03179397989271
+                    },
+                    "southwest": {
+                        "lat": 27.14297357010728,
+                        "lng": 78.02909432010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0da823501fa455d10f49a6767ef66729c79d4b5c",
+            "name": "Agra tour",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 809,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104492717881433498840\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAsJva9gMO6NbUMMYiQovNe14I68YH4ZeAKz5vggmnrskCA90iZgZ7gP_QAsqOBmKHo8w9RvDcaHhSBMeItd8lLpvJGfa7Y_iPykz7ooNQCFTnD8UIPsX9CMjCSx6uY5NQEhBOEowox3lL-33XTry1OD6JGhSJdbA51TaikmrvYgafOR5yzOEx5g",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJt9KScrJxdDkRZb2fIOo7Qlo",
+            "plus_code": {
+                "compound_code": "42VJ+P5 Agra, Uttar Pradesh",
+                "global_code": "7JVW42VJ+P5"
+            },
+            "rating": 5,
+            "reference": "ChIJt9KScrJxdDkRZb2fIOo7Qlo",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "130 Floor, Parsvnath Panchvati,, Taj Nagari Phase 1, Kaveri Vihar Phase II, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1478966,
+                    "lng": 78.05128479999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14923072989272,
+                        "lng": 78.05264537989271
+                    },
+                    "southwest": {
+                        "lat": 27.14653107010728,
+                        "lng": 78.04994572010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "721f269020b0bf3129c97cf2c528c96dde59db2d",
+            "name": "agra travel",
+            "permanently_closed": true,
+            "place_id": "ChIJAQAAfG5xdDkRiWzunU2cUj0",
+            "plus_code": {
+                "compound_code": "43X2+5G Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW43X2+5G"
+            },
+            "rating": 4.5,
+            "reference": "ChIJAQAAfG5xdDkRiWzunU2cUj0",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "41/142, A/1 VIP Road-Taj Mahal Road, Fatehabad Rd, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1619512,
+                    "lng": 78.059755
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16326377989272,
+                        "lng": 78.06122022989273
+                    },
+                    "southwest": {
+                        "lat": 27.16056412010728,
+                        "lng": 78.05852057010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d03d797fada575aa89629a47bdfe91466bbd1f60",
+            "name": "Kalakriti culture and convention centre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110957031670540076940\">Wei Hsiang Houng</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAiVkJlWiySaNtpZVEKtIKCeYzDDHP8Agq6HpKJTpVWZgrY7bRXwm_yI_XsfZHyQfy-aqoYNmAoUMMbgfQv86bWC3MJ_ZpQa32MlbBHum3RKWstyMwTbLPBfdG1oxTvgQYEhD0RLR5dk9EhH4TaQc4h7BbGhQVmcBHxPVrRyI6zHI_BTXn_WNQjA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJERKTTglxdDkRbP71qMTwrqI",
+            "plus_code": {
+                "compound_code": "5365+QW Agra, Uttar Pradesh",
+                "global_code": "7JVW5365+QW"
+            },
+            "rating": 4.4,
+            "reference": "ChIJERKTTglxdDkRbP71qMTwrqI",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 936
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Taj Road, Fatehabad Rd, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1747896,
+                    "lng": 78.0251692
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17613942989272,
+                        "lng": 78.02651902989273
+                    },
+                    "southwest": {
+                        "lat": 27.17343977010728,
+                        "lng": 78.02381937010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "00952fa215df369023141dda6f511da4f2597a28",
+            "name": "Shahjahan Garden",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111868106668872424913\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAoUDalZNhgYK1bdrfoiUmg6hy3NFc8EQj48UQ9lRvrptHe_vpUKf7AuFe3lXfvDfINTS335AYYjCTSwNhDqgYPk9s5iBmD5GGriiG-Hs8-j8Wn7Kh4tiWWQpcWo2YWJhXEhCFSa4fBPCjl04qi4PEHk8oGhSKdK6-m0a41cbIIJFJ8fSXrCoJLQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJeyfiAypxdDkRxwTRplE1GVI",
+            "plus_code": {
+                "compound_code": "52FG+W3 Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52FG+W3"
+            },
+            "rating": 4.2,
+            "reference": "ChIJeyfiAypxdDkRxwTRplE1GVI",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 211
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "18/1, Gwalior Road, Opp BSNL office, Shahzadi Mandi,, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1627017,
+                    "lng": 78.0144092
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16413522989272,
+                        "lng": 78.01577027989273
+                    },
+                    "southwest": {
+                        "lat": 27.16143557010728,
+                        "lng": 78.01307062010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "3d9caf9b4548f0a634768451561e950950c7a04d",
+            "name": "Subhash Emporium",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112803393883882847795\">\u90fd\u5009\u6cf0\u4fe1</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZDwQF2hPlfX9XDCFsPZP5EhqL1gWTFyQZtftysFQVvhhifMvwA040BD21k2Sx-myVviytZc8yPNUUUyoDBkiwny0TeAY4beI8VqNJG-mTUFNKrEFzJFsU2dBuNtLZqrjEhAoRgS6KLFdWyOvK--r8CAaGhRyb6eAcMSnELtgsGkn2xBRt8NI9w",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJZSdZBtJ2dDkRT2mb1HkCHGA",
+            "plus_code": {
+                "compound_code": "5277+3Q Agra, Uttar Pradesh",
+                "global_code": "7JVW5277+3Q"
+            },
+            "rating": 3.8,
+            "reference": "ChIJZSdZBtJ2dDkRT2mb1HkCHGA",
+            "types": [
+                "art_gallery",
+                "tourist_attraction",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 81
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "SH 39, Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1807734,
+                    "lng": 78.0180529
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18212322989272,
+                        "lng": 78.01940272989273
+                    },
+                    "southwest": {
+                        "lat": 27.17942357010728,
+                        "lng": 78.01670307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3be15e05e2801e1be31ed834625f3263abdb3cf9",
+            "name": "Delhi Gate",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117272785922353971660\">Arpit Shivhare</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAo92SAWWfpUqZaEDNAEMVImUoMzZ3RTcQHSL6hpK8U0ofRZzhdP1Mr7PSCyTkk95FL5YZfkrlZVYji28hRCRMgEv4bdYaiOKDL93F7RXh88uXZO7UXHYI0kAaBprGaZp6EhCTLM0VBM8-iqDw_Ws1UTCdGhQW71_Y1HCAnNlttaY4fiexZ6mIFw",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJGVpsmCx3dDkRu-9gfpFsMJo",
+            "plus_code": {
+                "compound_code": "52J9+86 Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52J9+86"
+            },
+            "rating": 4.2,
+            "reference": "ChIJGVpsmCx3dDkRu-9gfpFsMJo",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 369
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "9, Sikandra-Bodla Rd, Sector 6-C, Sulabh Puram colony, Lohamandi, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.217005,
+                    "lng": 77.9504362
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21835482989273,
+                        "lng": 77.95178602989272
+                    },
+                    "southwest": {
+                        "lat": 27.21565517010729,
+                        "lng": 77.94908637010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4ea70194f13939ff0dada9f4e3a0b4dd27b4ee10",
+            "name": "Sikandra",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2500,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103804391932788432654\">Pratham Shakya</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbAtzK6tW-ZJo5jPoGytVA2mgXg05uvpY6KKcKTRNkYqfDFSp-IqcXn74OXBqdvCdDRzX_3LKh7pN2gmPF0SE6Ieahs0YN-t-YUKntbPPU0tHFGE8eHgUCudmRrAkvjWNEhAOooC5Y0wWXoGnyZheU_N4GhQ3VhnCNNERwQQpXeYQzzRl1oFnjA",
+                    "width": 3312
+                }
+            ],
+            "place_id": "ChIJnQQca5R3dDkR2B7wHn1nNy0",
+            "plus_code": {
+                "compound_code": "6X82+R5 Lohamandi, Agra, Uttar Pradesh",
+                "global_code": "7JVV6X82+R5"
+            },
+            "rating": 4.4,
+            "reference": "ChIJnQQca5R3dDkR2B7wHn1nNy0",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1681
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1786807,
+                    "lng": 78.02351259999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18013572989272,
+                        "lng": 78.02526032989272
+                    },
+                    "southwest": {
+                        "lat": 27.17743607010727,
+                        "lng": 78.02256067010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6438e406f2f227f560918bd359294804b1db998c",
+            "name": "Jahan Ara Pavilion",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2848,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106099914051271258360\">buddha ghosh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAS8jsB4jz6tIZcmPwcyDwfqrhFvJ46Eh2xrlwU2CgcRbDYQBmX6x86tuTW7desmYRrljwbaVOuLoevdhwRA25gv_FegahzvWpuAmfz_FxIP4ZVJrjC2GldGRrns8eb6t-EhBPqA1Ijmv3b3Z0ow_rb4cUGhQjVg3KTNjtNYz9HPLfNxyrkVuOQA",
+                    "width": 4272
+                }
+            ],
+            "place_id": "ChIJW_H6RtRwdDkRArVauWDlPDU",
+            "plus_code": {
+                "compound_code": "52HF+FC Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52HF+FC"
+            },
+            "rating": 4.4,
+            "reference": "ChIJW_H6RtRwdDkRArVauWDlPDU",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "18/163, B/5, Fatehabad Rd, Bagichi, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.162048,
+                    "lng": 78.039047
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16345217989272,
+                        "lng": 78.04040997989273
+                    },
+                    "southwest": {
+                        "lat": 27.16075252010727,
+                        "lng": 78.03771032010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7a31be825c6e3856f00eaa3f36e51fd3d3194c3f",
+            "name": "Travel Mart (India)",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 384,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116529692467175687423\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA83bKHA4H42qvQr7fB5F9LoMdYorVUy8r6939Ey237NE-UKt83MOrwntz91t-BiSRWqqav6g2AzoAgpgDIRDjf8ChWOmQa1rwUy-wQ-ts8_PC-G3XFvRPWOgzDatGV9_PEhAQagVWNVZKiwxafOD85EzSGhR_tS_69nthWe7eiDXslh58-L0l0Q",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJm_Q0-jxxdDkRvnzVjXJf8ZY",
+            "plus_code": {
+                "compound_code": "526Q+RJ Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW526Q+RJ"
+            },
+            "rating": 4,
+            "reference": "ChIJm_Q0-jxxdDkRvnzVjXJf8ZY",
+            "types": [
+                "car_rental",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Balkeshwar Ghat Wasan, Kailash Nagar, Rajwara, Kamla Nagar, Agra, Uttar Pradesh 282004, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2204465,
+                    "lng": 78.03067639999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.22178592989272,
+                        "lng": 78.03209432989271
+                    },
+                    "southwest": {
+                        "lat": 27.21908627010728,
+                        "lng": 78.02939467010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "1a2c891a6a1430517b33ad459bc4cf38f6b00ebd",
+            "name": "Balkeshwar Mandir",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109883087422148599809\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyAZj9ueZrPUOoJL8qj1epw584ZPakfpF3yz8-mDvCAqhyyM_UGJ3y_Tuiwa95EinPERmQHOBFvOYS0L6SaU3AYK8xs1W_Te3ioOvV09WlFCXNcbwgJN7nIJo49rqZTJlEhCGkCE4JLtzpQjLy7FHif_HGhR0y9Lie1FXXL9Dlh804HN9upfwVQ",
+                    "width": 810
+                }
+            ],
+            "place_id": "ChIJW_FiEqhwdDkRyXV0Z6m8drg",
+            "plus_code": {
+                "compound_code": "62CJ+57 Kamla Nagar, Agra, Uttar Pradesh",
+                "global_code": "7JVW62CJ+57"
+            },
+            "rating": 4.6,
+            "reference": "ChIJW_FiEqhwdDkRyXV0Z6m8drg",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 716
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "59/142/D3A , Madhuvan colony jagner road, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.150157,
+                    "lng": 77.984585
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15150127989272,
+                        "lng": 77.98594547989272
+                    },
+                    "southwest": {
+                        "lat": 27.14880162010728,
+                        "lng": 77.98324582010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "dedd6d89cdf2833b1f7ce4d5433624031ff6eece",
+            "name": "Kumar Taj Mahal Tour",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114598377782389407290\">Kumar Taj Mahal Tour</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAHgR0azlK5cZvdtbfz31JaMasqBG-ULEYsj2WwmKRh06TdmHj51ChH9MSx7YIrfhcngOZ5Yjcrvm9ytYUx-x4AAatqod0EUuFa0b7vFKGw8V-5EW0j88Qr46HMqg7VnEnEhBUC8WvhXNtwxhQobAEgCFjGhR68xTKYN82D0P_2vfgAPdYfUhrAw",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJCS8GmvJ2dDkReg5Vz-cPAUc",
+            "plus_code": {
+                "compound_code": "5X2M+3R Agra, Uttar Pradesh",
+                "global_code": "7JVV5X2M+3R"
+            },
+            "rating": 4.8,
+            "reference": "ChIJCS8GmvJ2dDkReg5Vz-cPAUc",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "54, Taj Rd, phol syed crossing Tajganj, Agra Cantt, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1587697,
+                    "lng": 78.0249711
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16012247989272,
+                        "lng": 78.02631062989272
+                    },
+                    "southwest": {
+                        "lat": 27.15742282010728,
+                        "lng": 78.02361097010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "9e0eeca784262edc7847a31e4e21326227598a8d",
+            "name": "Hotel Clarks Shiraz, Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 350,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109927320059432718193\">Hotel Clarks Shiraz</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMAXpNHDkAbO3OyV7JiuN4s0KzqYll-kTprNbqb9YOjpUFuje7reR1kq22XSxlKo3wi2FushFDjzKHTP99Yw7j2o1MgRh_CSuR0JY16xo1LSZdBn8TiHoVTTITZ948CQIEhBi6vFL3W8TERbZHVF28qNcGhT_g5CdeP9hdpcqGV_5BL0IrFtMEA",
+                    "width": 509
+                }
+            ],
+            "place_id": "ChIJTSS64DNxdDkRCXIdGhtlc2M",
+            "plus_code": {
+                "compound_code": "525F+GX Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW525F+GX"
+            },
+            "rating": 4.3,
+            "reference": "ChIJTSS64DNxdDkRCXIdGhtlc2M",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3979
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Raja Kaira, Shamsabad Rd, Anantpuram, Indrapuram, Kaveri Vihar Phase II, Shamsabad, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1432603,
+                    "lng": 78.0441927
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14451777989272,
+                        "lng": 78.04543622989273
+                    },
+                    "southwest": {
+                        "lat": 27.14181812010728,
+                        "lng": 78.04273657010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "fb536da809246499431e24a120aedbd3f4d1ce36",
+            "name": "Rajeshwar Mandir",
+            "photos": [
+                {
+                    "height": 471,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105400442064581386659\">Pawan Kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAC8xS8bdQqnLgHJuIuotQdysMkJrH9mbQtvPJ-ePvgC6R9SG4M1GBimenyMkPtCVwjxbh_mGXvgicrXe5gQhEJB8iNHXWCG4HORqFjgF4wUdmY-dgIob3rSmdCTiQq4UDEhD4785qdj1lqqpGULyRXP0pGhTTB3rEipZ1FMuJIckE6oc5TlFcdg",
+                    "width": 464
+                }
+            ],
+            "place_id": "ChIJhab6aWhxdDkRddZKwnKL7-c",
+            "plus_code": {
+                "compound_code": "42VV+8M Shamsabad, Agra, Uttar Pradesh",
+                "global_code": "7JVW42VV+8M"
+            },
+            "rating": 4.5,
+            "reference": "ChIJhab6aWhxdDkRddZKwnKL7-c",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 730
+        }
+    ],
+    "status": "OK"
+}

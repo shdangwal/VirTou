@@ -1,0 +1,962 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_gAAAGhcLrbPAZxbzrnWPMJlSPAJu7KLEvFccap79Fuv0mToqp-NzXAHw1no00ND_Eh8lllSZf5wsDHp1L2DZ4trcs7FvXAaklL24IcbcGf6rlB6MdPpd-Bp4rHlaITH2vsJzjUmDZz_s-R5yxBhYWAto-osgd9l2pcL1xf-iU2_2ysbpOvC0h8gzYL2F5A8XFlV0cbcN57vy49Rjkjcly_PRJ_haVRcYQulG60hTjkX6e_2qMUbwdYgSszDPPWKJkGVPsAN--MiMimlCDrpgOHBGDa5ldvpSC_OgTVYVTwfQxqv4jyfBOqdUrPw2jYfmpgP65xGQKMJx9s121s5hYPTu2cSED1Dd2Xz5vpbb8n2_Wyk3K4aFLZZgXog5cRq9PTh7ClgFVZ_bmAF",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Town Center, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8757578,
+                    "lng": 75.356105
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87710727989272,
+                        "lng": 75.35741127989272
+                    },
+                    "southwest": {
+                        "lat": 19.87440762010728,
+                        "lng": 75.35471162010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "b7727b68e3495f85d4bd3afe20ace94e03e26fb4",
+            "name": "Indiana Cake Boutique",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100200536856270682886\">Shubham Shirpurkar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVcMV9e4fEXyr8aoEeoxcWYhU2lKz4qUoTh6trRKVigIZGIkc3uNlvlRZ1tL2kqXkNp6b2fGQ_2auIVQReCqNE1ayGwba8L79Jdw4sZlCKqYHFqWpamlvovRAISB1y7jLEhAnoF-zKrB7R4EnwOr1RSDJGhTeBNRZNuGeV8477AD6dgQPlPeP9g",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJpyj3q5Gi2zsRhmaduEQqgi4",
+            "plus_code": {
+                "compound_code": "V9G4+8C M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G4+8C"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJpyj3q5Gi2zsRhmaduEQqgi4",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 210
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sidharth Chowk, Avishkar Colony, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8824412,
+                    "lng": 75.3606071
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88378807989272,
+                        "lng": 75.36198977989271
+                    },
+                    "southwest": {
+                        "lat": 19.88108842010728,
+                        "lng": 75.35929012010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "4356f1e1bf14e674d7b104d0cfd2064bae142a8b",
+            "name": "Kulkarni Bakers And Cake Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103439752569513513874\">Kulkarni Bakers Cake Shop</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAoEMPiFxscisvg5JFK2kpmOBvc2xX4ktq9BtLtmCm6B3uGzB8iX98oHg9hPfbYkfc1CSHNpEjj0gxNalWGfdfx3yOxU_AVGrWCCSghWj-FAsn8SVPcxj-rk3rnre0itSPEhCVpmlpdQqoUX8b22EoFpZwGhTY7QAc3OpWEKTFB9Vs9bfOTHdbuQ",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJbaJzs5Wi2zsRg2i_Wv_7Z4w",
+            "plus_code": {
+                "compound_code": "V9J6+X6 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J6+X6"
+            },
+            "rating": 4.2,
+            "reference": "ChIJbaJzs5Wi2zsRg2i_Wv_7Z4w",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 65
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Angel Infotech, Opp. of JNEC Gate No. 05, Above Gajanan Canteen, CIDCO N-6, Arun Uday Colony, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8810107,
+                    "lng": 75.35745589999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88233102989272,
+                        "lng": 75.35878487989271
+                    },
+                    "southwest": {
+                        "lat": 19.87963137010728,
+                        "lng": 75.35608522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "73ceda361457b3abc3c2ae381abb672afffc997d",
+            "name": "Zee Bakers",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111596122004029317949\">Sajed Shah</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAI7FqJGw7Oj5hx67LbZG7HKUNWV5aF-2WAXLTZrPhXdL1EQkZ0oD2HX6emzIwHjsyaozWFvrjKdTrfMyZ8Dr6nk6oOtQSCp1vaclHQT5YpG0aQTEHqc3NSnqGKPm9ah2LEhBunmH6ZW5d4JrurBBbOWeuGhTa9FKn4rAhc4E5beyu8DLMIeRxHA",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJhTOZk5ai2zsRhLwm4IpEk1A",
+            "plus_code": {
+                "compound_code": "V9J4+CX Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J4+CX"
+            },
+            "rating": 3.3,
+            "reference": "ChIJhTOZk5ai2zsRhLwm4IpEk1A",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cidco Rd, Roshan Cir, Bari Colony, Kiradpura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8875214,
+                    "lng": 75.3467586
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88892832989272,
+                        "lng": 75.34811172989272
+                    },
+                    "southwest": {
+                        "lat": 19.88622867010728,
+                        "lng": 75.34541207010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "c9765606ab179ce4a397665ca8cb50a502e34b3d",
+            "name": "Golden Star Bakery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1088,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105907089612303385875\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOuKToSURMnMDldEUX82U9xfiV4QlNnSKWUHznWRmwswtVfeBdTiFD9aWiTwxL_hUVLK0Rgzfv1evvmmttaYnJvUlm8FxEtjNlGHtmK-yfs3h2NHZJKHvnqTKlFIGSYE9EhCunhAvYb5nWMOuw1WSB8QOGhQseoTON8ERNA81lLH9WQmCzI0Zsg",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJk-KSfsuj2zsRm0STq6uBgMg",
+            "plus_code": {
+                "compound_code": "V8QW+2P Kiradpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8QW+2P"
+            },
+            "rating": 4.1,
+            "reference": "ChIJk-KSfsuj2zsRm0STq6uBgMg",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 100
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shop No.6, Naik Plaza, Jawahar Colony Rd, near Hedgewar Hospital Signal, Opp.Hedgewar Hospital, Jawahar Colony, Nyay Nagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8701534,
+                    "lng": 75.34719079999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87144257989272,
+                        "lng": 75.34853177989272
+                    },
+                    "southwest": {
+                        "lat": 19.86874292010728,
+                        "lng": 75.34583212010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "0d57693ded12bc02eae9e0d8a6f96a2033b81bc4",
+            "name": "The Cake Factory Love At First Bite",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113099982358029224465\">1neclick Online Pvt Ltd</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA5zgdK3HoWgHlegiqp-DwoVCb9YSzX79EtoqcBh5jWnQpTJRifDpwRTOOm1zRqHNhJbodVH0pdIoywlFskZG6_Iy6N4UAuG_U00pY0p5KU95kVmmbpk9LJNZB7LM0uMfrEhApmv71dQMHf-JCsgjyQJq1GhQ26WYbhoAIQYvrS2O_FP_QPHAOzQ",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJY6akgoSi2zsRMQeP6KnJ5q8",
+            "plus_code": {
+                "compound_code": "V8CW+3V Nyay Nagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8CW+3V"
+            },
+            "rating": 4.5,
+            "reference": "ChIJY6akgoSi2zsRMQeP6KnJ5q8",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 51
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No.B/26 Shivaji Chowk, Sector N 4, Cidco Rd, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.865961,
+                    "lng": 75.3672058
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86731497989272,
+                        "lng": 75.36861297989272
+                    },
+                    "southwest": {
+                        "lat": 19.86461532010728,
+                        "lng": 75.36591332010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "97a8a7a83fd7780d7781545e23b435ab8c0b63b7",
+            "name": "Master Bakers",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJLeYJ-fSi2zsR-DeA9SDP2zY",
+            "plus_code": {
+                "compound_code": "V988+9V Aurangabad, Maharashtra",
+                "global_code": "7JFQV988+9V"
+            },
+            "rating": 4.3,
+            "reference": "ChIJLeYJ-fSi2zsR-DeA9SDP2zY",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Chistiya Colony Rd, Arun Uday Colony, N-6, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8806584,
+                    "lng": 75.3588415
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88203972989272,
+                        "lng": 75.36020082989272
+                    },
+                    "southwest": {
+                        "lat": 19.87934007010728,
+                        "lng": 75.35750117010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "2b4868f173d5ec7ce0844898c9ad3e0b115cbeb1",
+            "name": "Z Bakers",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101748688720662163067\">Raees Sayyed</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACJ9BlkCjoWcGPhWyo7seKVICO6_QnujmaXcnvpuDwprsi-QJ3sk618Q3kDOLUxkxbAYqyjf2YrSFm34VpYFF3u3N1AOse9E-JodQgTLgUwbVAn2S2hHti34oSQUKbTN3EhAL1ceuHo-hdJEMjQv7UHKuGhR0CfwB5HCjJ7L0P2Yxhd3z30QQlQ",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJD2aPH5Si2zsR0-r7W1cf_is",
+            "plus_code": {
+                "compound_code": "V9J5+7G M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J5+7G"
+            },
+            "rating": 3.5,
+            "reference": "ChIJD2aPH5Si2zsR0-r7W1cf_is",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No. 319, N-3, Cidco,, Jalna Road, Opposite Hotel Lemon Tree, Aurangabad, Maharashtra 431210, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8736878,
+                    "lng": 75.3658971
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87510857989272,
+                        "lng": 75.36726252989271
+                    },
+                    "southwest": {
+                        "lat": 19.87240892010728,
+                        "lng": 75.36456287010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "8d556d606dd2cac880c1af87512db214207eb3fb",
+            "name": "Baker's Lounge (Cidco)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3265,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108781276236447031830\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOd3w3uJueJz6x83D-c4t5JbD1rR8gkiDVCvY0Zo-sUPBqaGwCcQMt5jpWaAJe8u_-ZEBFtUKfq-x1TVf8xQkKXeG7qNk1fqq4knugUxqEBJGdPFjfAKg666aa0WnAPsBEhBINjF6_0jiHqlIJEp1E7roGhQHNa7uJn6IdUtEtd9j6gaVB4EC_A",
+                    "width": 4898
+                }
+            ],
+            "place_id": "ChIJOyyNofKi2zsRHA6ADKk4jK4",
+            "plus_code": {
+                "compound_code": "V9F8+F9 Aurangabad, Maharashtra",
+                "global_code": "7JFQV9F8+F9"
+            },
+            "price_level": 2,
+            "rating": 3.6,
+            "reference": "ChIJOyyNofKi2zsRHA6ADKk4jK4",
+            "types": [
+                "bakery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 108
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Galli Number 5, Baijipura, Indira Nagar, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8837487,
+                    "lng": 75.34903039999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88508837989272,
+                        "lng": 75.35037457989272
+                    },
+                    "southwest": {
+                        "lat": 19.88238872010728,
+                        "lng": 75.34767492010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "ebfb02e517c51dc29eb4f5fabd03a6af25d15e7e",
+            "name": "New super Quality Bakery",
+            "place_id": "ChIJt0y0Zkaj2zsRpx8KKcJDt7o",
+            "plus_code": {
+                "compound_code": "V8MX+FJ Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MX+FJ"
+            },
+            "rating": 5,
+            "reference": "ChIJt0y0Zkaj2zsRpx8KKcJDt7o",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jawahar Colony Rd, Nyay Nagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.871095,
+                    "lng": 75.345398
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87244432989272,
+                        "lng": 75.34674282989273
+                    },
+                    "southwest": {
+                        "lat": 19.86974467010728,
+                        "lng": 75.34404317010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "62e5ec0a67a382bc680170dcaa88be07ac652f99",
+            "name": "Cake N Bake",
+            "place_id": "ChIJw8yYoUij2zsRODBWJZOXEO4",
+            "plus_code": {
+                "compound_code": "V8CW+C5 Nyay Nagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8CW+C5"
+            },
+            "rating": 3,
+            "reference": "ChIJw8yYoUij2zsRODBWJZOXEO4",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8-19-255, Cidco Rd, Bari Colony, Kiradpura, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8874309,
+                    "lng": 75.3519905
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88898417989272,
+                        "lng": 75.35333877989274
+                    },
+                    "southwest": {
+                        "lat": 19.88628452010728,
+                        "lng": 75.35063912010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "5d6f8a6dc211f013180a20ee500f418927f1ded7",
+            "name": "Ajanta Bakery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJdWGbJ6Oi2zsRll82Q6qN8Yw",
+            "plus_code": {
+                "compound_code": "V9P2+XQ Kiradpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9P2+XQ"
+            },
+            "rating": 3.8,
+            "reference": "ChIJdWGbJ6Oi2zsRll82Q6qN8Yw",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Arun Uday Colony, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8800304,
+                    "lng": 75.35975619999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88137992989272,
+                        "lng": 75.36114007989272
+                    },
+                    "southwest": {
+                        "lat": 19.87868027010728,
+                        "lng": 75.35844042010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "4a9d48a92176157b0a3cedbad99e4cfdc6e84de4",
+            "name": "Fresh Cake Bakers",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113239155895056194721\">arshad patel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWJdRfTFPNXy2cwIIg2RJLCcMVza_Oy54ABgWabz-5Gqj62Nd4Zz0gWzNHl9idYtxos8LLW-EFMT8mZ270NeTL4Abm9kmR8jqHQnfkeiNypkIDR0FFSuliNRs9yv5Z6WyEhAlRY2JSZuy1TAfASwiddIMGhQsfgfhMH5LL7_Ly5dNfTQGi2JNiw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJMcwCDpSi2zsRw15e4DX12_0",
+            "plus_code": {
+                "compound_code": "V9J5+2W Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J5+2W"
+            },
+            "rating": 5,
+            "reference": "ChIJMcwCDpSi2zsRw15e4DX12_0",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "229, Garkheda Rd, Sahyognagar, Garkheda Area, Ulkanagari, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.862344,
+                    "lng": 75.3471809
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86364322989272,
+                        "lng": 75.34861637989272
+                    },
+                    "southwest": {
+                        "lat": 19.86094357010728,
+                        "lng": 75.34591672010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "e9631d25299235ac63a7ad3cd3085365c5bfddda",
+            "name": "Friend's Bakery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104638731105322905709\">Datta Joshi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2F5jLkhHvcJaSPSieppPemJ7HnJNLrQz5Ba_GxeH4bVm6hpAWi-Dte3twSz_ga4HPHoJbgZEC4iQsVQ8iBOJKiCSD3CpYM7-PMZnz2L_PvDN9EbEh2ntFRbfwTBwgPmCEhADLteXQabXbn9A2YzLiIpdGhSdwmcvxO7x9UUeN4qEDPZlcB20yA",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJGxqCSoei2zsRetYo7XpjZik",
+            "plus_code": {
+                "compound_code": "V86W+WV Ulkanagari, Aurangabad, Maharashtra",
+                "global_code": "7JFQV86W+WV"
+            },
+            "rating": 3.6,
+            "reference": "ChIJGxqCSoei2zsRetYo7XpjZik",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 32
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "#4, Samarth Nagar Rd, Nirala Bazar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8797255,
+                    "lng": 75.3232235
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88103372989272,
+                        "lng": 75.32461897989272
+                    },
+                    "southwest": {
+                        "lat": 19.87833407010728,
+                        "lng": 75.32191932010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "31122ca7aec11feec7e0f214717d2c11281a364f",
+            "name": "DELITE Oven Fresh",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1356,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117583655445798877500\">Badal Jadhav</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWnGGcrq3ZdDdWN2zKNf-Pec3xSuo5-0qR27uSsXFs98A2FM05sJ96kZ6aWx3Q5CTO8hINhLfFk2_aNlHf4Wq2_zouioMWLS2r2Gh5f9eav94a-_0xq0xSMSvpXCKrHp4EhA5W52fTi9Wr6UAZctI5BluGhRa144tzLRdoS1FhCa34aSMYTHXZA",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJw6-ne2uY2zsRl2rDD5PP1PA",
+            "plus_code": {
+                "compound_code": "V8HF+V7 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HF+V7"
+            },
+            "rating": 4.2,
+            "reference": "ChIJw6-ne2uY2zsRl2rDD5PP1PA",
+            "types": [
+                "bakery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 67
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "ARIHANT, Mill Corner Rd, Opp. Veterinary Hospital, Khadkeshwar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8843171,
+                    "lng": 75.3212333
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88571007989272,
+                        "lng": 75.32258247989273
+                    },
+                    "southwest": {
+                        "lat": 19.88301042010728,
+                        "lng": 75.31988282010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "0612fbecdce004be831f787abbb2d231cc377e70",
+            "name": "Arihant Cakes & Cookies",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 718,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114038000375403598336\">dilip munot</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASNdTFkPRtRU__6PMP_XmnrhMpWQGh1SqB2FisfjtvyH-OrJ2R3JizMlGSE3HeBaPoTQJYDYvHEwATNT2G9XzUOUr35vI9p_V6FHEyanj6HDl-6g2R1_TB6FVPkDSNIYREhBuWZB37RqHxfCOWTaR9DXsGhRBW2kQ7m-7qJYoHOIUpv5ZEOOo2Q",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJq4xN_BSY2zsRyyAP32dO7Es",
+            "plus_code": {
+                "compound_code": "V8MC+PF Khadkeshwar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MC+PF"
+            },
+            "rating": 4,
+            "reference": "ChIJq4xN_BSY2zsRyyAP32dO7Es",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Chelipura Rd, Labar Colony, Shah Bazar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8888623,
+                    "lng": 75.33734869999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89021337989272,
+                        "lng": 75.33869867989272
+                    },
+                    "southwest": {
+                        "lat": 19.88751372010728,
+                        "lng": 75.33599902010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "529099e31e7f74eaf21436dad07282232be8d3e6",
+            "name": "Nutrela Bakery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110072653375619389377\">khan Sufiyan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAY_hicU4KiwReYZzxYpg-wZoAeV-KJFn5TTnrYZyv-516lrOZJurMMaWWA0AY_4eU6SvCrFkgd7Fan95xGhMp_S9UOxclv3anVRFDARTgBdOUU2ExtO0l9_BwNBIVgSFEEhBC9yrP-AR2Ho1I7GUSaOvNGhSMeneAI9GAw9l9ek1wSkqg1l7HXw",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJxzYF3wuY2zsRE2E9fPiP8PM",
+            "plus_code": {
+                "compound_code": "V8QP+GW Shah Bazar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8QP+GW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJxzYF3wuY2zsRE2E9fPiP8PM",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jinsi Rd, Ranmastpura, Nawabpura, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.885406,
+                    "lng": 75.3388279
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88679282989272,
+                        "lng": 75.34018522989273
+                    },
+                    "southwest": {
+                        "lat": 19.88409317010728,
+                        "lng": 75.33748557010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "f1e28cca292ba8de14bab340e9c32988b127cc6c",
+            "name": "Zee Bakers Showroom",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJgYP85AqY2zsR2VS6RdQ-N28",
+            "plus_code": {
+                "compound_code": "V8PQ+5G Aurangabad, Maharashtra",
+                "global_code": "7JFQV8PQ+5G"
+            },
+            "rating": 3.8,
+            "reference": "ChIJgYP85AqY2zsR2VS6RdQ-N28",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "d1, Shrikrishna Nagar, Ulkanagari, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8626694,
+                    "lng": 75.3387236
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86401582989272,
+                        "lng": 75.34008437989273
+                    },
+                    "southwest": {
+                        "lat": 19.86131617010728,
+                        "lng": 75.33738472010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "c4eb93084f0b6a68c204fa087f7a3ccfdd78f5c0",
+            "name": "Bhoomi Bakery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108667803939379336987\">smita suryawanshi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAuoN3D1ZUtOViGoNOnR_dhi0GMZMk2SEGHZ8OSK-JPKQCB0Qvujp-OvIVxrcRejbX2zRRc1p_dmrfWs35HJ9P0SI9gKMdplr4wSUlPES_tf4eDRpGh9tPOP5-CCq5T-ghEhADXChOoT12lUzTGGSQotB1GhQw00Atcn_SI2vzVSDwHJvgb0q0og",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJ159MqX-Y2zsRIffy0XdvW-k",
+            "plus_code": {
+                "compound_code": "V87Q+3F Ulkanagari, Aurangabad, Maharashtra",
+                "global_code": "7JFQV87Q+3F"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ159MqX-Y2zsRIffy0XdvW-k",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 51
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Main Road, Gulmohar Colony Rd, Gulmohar Colony, Sahyadri Nagar, N 5, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8804236,
+                    "lng": 75.360756
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88178137989272,
+                        "lng": 75.36202657989271
+                    },
+                    "southwest": {
+                        "lat": 19.87908172010728,
+                        "lng": 75.35932692010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "0fe4e183bbb2578726c982175bddcddd207294f9",
+            "name": "Balaji's Cake 'n' Bake",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJj8skb5Si2zsRhvLmoZo_wHw",
+            "plus_code": {
+                "compound_code": "V9J6+58 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J6+58"
+            },
+            "rating": 3.4,
+            "reference": "ChIJj8skb5Si2zsRhvLmoZo_wHw",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 34
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shop No 23/24, Near Jaju's Collection, Sanmitra Colony,, Nirala Bazar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8790612,
+                    "lng": 75.3232517
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88041742989272,
+                        "lng": 75.32454527989272
+                    },
+                    "southwest": {
+                        "lat": 19.87771777010727,
+                        "lng": 75.32184562010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1d6e3f812d415db1ce3b8afd67abb6dbb9a82277",
+            "name": "Baker's Lounge",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112864233200818459552\">abhinav wankhede</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVeLLKm-tY6xIlMQdV7wkZijyIgiwscu0dqjb_3f4GjGguUjocxNF_AAFS6KZ8MoxkhQKWFZEHBwDYVbJbCJDX4rDNBMyDWPKQuBasjW1Fz1aVeQkJVFUp6ikPvTi_ltVEhAIfqwVc3dtI4dLUbGo6WfcGhSc6YWQta_XQHXsigcJjdahLjsOmA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJwwd2gmyY2zsRz9oqnzLZ420",
+            "plus_code": {
+                "compound_code": "V8HF+J8 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HF+J8"
+            },
+            "rating": 3.5,
+            "reference": "ChIJwwd2gmyY2zsRz9oqnzLZ420",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 56
+        }
+    ],
+    "status": "OK"
+}

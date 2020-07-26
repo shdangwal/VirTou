@@ -1,0 +1,1009 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "18/184, Fatehabad Rd, Purani Mandi, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1663027,
+                    "lng": 78.0373146
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16762827989272,
+                        "lng": 78.03861477989273
+                    },
+                    "southwest": {
+                        "lat": 27.16492862010728,
+                        "lng": 78.03591512010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "dd4a1adb70bdf3ad7d9ba0f4b91114807ebb8ac9",
+            "name": "Maya Hotel & Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113528578435214322710\">Jeyak kannan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWiRWNjLdmZ2Ym0MjUJbH0PKqXFjYCntHVRVKzyVg9ttrkSU46XG_0UOM8Pf32wWveLQdgpI8kr7I34oiF905BAmxQJrVD6kx2ul1Q-ubKBqEUXqSQZfycs2GG6wVhos8EhCCMXiBsqIXBsnzkirqdExFGhTYidQh8qecw6220ObYmXCuUMG2tg",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJVTDafiRxdDkRGxu9x-O_glE",
+            "plus_code": {
+                "compound_code": "528P+GW Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW528P+GW"
+            },
+            "rating": 3.8,
+            "reference": "ChIJVTDafiRxdDkRGxu9x-O_glE",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 311
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Fatehabad Rd, near Fal Fruit Shope, Opposite Saga Emporium, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1578405,
+                    "lng": 78.0472472
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15915897989272,
+                        "lng": 78.04859377989273
+                    },
+                    "southwest": {
+                        "lat": 27.15645932010727,
+                        "lng": 78.04589412010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "b8727559f2f03730090b2d20b21c4605b09d753c",
+            "name": "Taj Mahal Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115452995217491521477\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARXVtbDjoDQUV-GzrEdNkh1WUTln6SL7wAAOME2oRZfJ5v8u5CZIx8IndMjRqK8pR8Wf7IrIiinEwj2dPWEpw3hmipQ90-T2_VYXNHLUQ6u8MCkSMvwCfRDg_hd58hfD4EhBFv2czpkgHPxUmzev0bhDTGhThxL-7eYW4nrl_6BtHUR431TL8TQ",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJw-TTbxRxdDkRieuPZGR69eY",
+            "plus_code": {
+                "compound_code": "525W+4V Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW525W+4V"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJw-TTbxRxdDkRieuPZGR69eY",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 657
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "MD Jain Inter College Ground, opp, Sanjay Place, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1968911,
+                    "lng": 78.0032526
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19826957989272,
+                        "lng": 78.00452857989272
+                    },
+                    "southwest": {
+                        "lat": 27.19556992010728,
+                        "lng": 78.00182892010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "fcf0885d19341ca12187d13de15826e8c0ffe566",
+            "name": "Berco's",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116157639806867197237\">Kuldeep Sagar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANypGeM6Nae5IkjYDDRzWZ5j6M8kAfhue4ndCnAMjWTZ6WE9CGOLg7hFBrCETkH43jWaZtYIHtW-5_spFZMyOaPbHEklOiWl0K-1Bpik2KTOoLMiMmk_vcpR_AL-grxM7EhBleSC8zjTQSyPZexoESADVGhT7F15fWRsRDeBjoz35_hyjBnWsdg",
+                    "width": 562
+                }
+            ],
+            "place_id": "ChIJTVV3V0d3dDkRxzTG91aZRzA",
+            "plus_code": {
+                "compound_code": "52W3+Q8 Agra, Uttar Pradesh",
+                "global_code": "7JVW52W3+Q8"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJTVV3V0d3dDkRxzTG91aZRzA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 522
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1611502,
+                    "lng": 78.04377699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16234222989272,
+                        "lng": 78.04483167989272
+                    },
+                    "southwest": {
+                        "lat": 27.15964257010728,
+                        "lng": 78.04213202010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "010cb833eacea076f167e19ea59bd8da337ef432",
+            "name": "PESHAWRI",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112303296031097376385\">Anup Acharyya</a>"
+                    ],
+                    "photo_reference": "CmRZAAAA3IEQ02Ze3dHLLgf9ZkOo7r_YeBXY6R3JWSKqa4Mj3TDDoWZ7rhkU3C2nHqrVHCiDynnhtL6ct_d00ALLgJlbMaq3ZTG9cdwErEJIHR2Kt5QKChPIkoezFqppo7KqTo-GEhAOPAO3ucNCec-hP9o5ohN3GhSa-xRBy9Mi_bdYwO5XCteDFAPRlQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJwfJjMjZxdDkRMCFS5cYEHuM",
+            "plus_code": {
+                "compound_code": "526V+FG Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW526V+FG"
+            },
+            "rating": 4.5,
+            "reference": "ChIJwfJjMjZxdDkRMCFS5cYEHuM",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "194, Fatehabad Rd, 15th Battallion PAC Quaters, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1641457,
+                    "lng": 78.03771189999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16560422989273,
+                        "lng": 78.03930037989271
+                    },
+                    "southwest": {
+                        "lat": 27.16290457010728,
+                        "lng": 78.03660072010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "a11ba57df92e4ff0a29f25c467a26cc2e68f7c9e",
+            "name": "Green Park Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113001330740757852791\">Nazareth Rodriguez</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFJTUuHeq2KnmFgsu9frgzsvM0-xSSBgvnDjBlHCwrcWAACRr1i0xLYPTX0wI8dF1-hMakfVm6FCZPLEjoMk9kM8HiXgmUba1uqkDrhtBLrjAlgCTc6C7vjLmADw65yvIEhBlEAd1fFbKsVjV7tKsEfkxGhTqFwBN3Y6lkBZpsktOzt-DtbvuDQ",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJIY75szxxdDkRj9oduvMK0MU",
+            "plus_code": {
+                "compound_code": "527Q+M3 Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW527Q+M3"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJIY75szxxdDkRj9oduvMK0MU",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 148
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shop No.89 Bypass Rd Bhagwan Talkies Chauraha, Indra Puri, New Agra Colony, Agra, Uttar Pradesh 282005, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2110017,
+                    "lng": 78.0054217
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21230717989272,
+                        "lng": 78.00675002989271
+                    },
+                    "southwest": {
+                        "lat": 27.20960752010728,
+                        "lng": 78.00405037010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "817c4c4f157df2567653f7652467bc5b9c328537",
+            "name": "Sanskar Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJG6InjVp3dDkR2ulmbWwAyw8",
+            "plus_code": {
+                "compound_code": "6264+C5 New Agra Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVW6264+C5"
+            },
+            "rating": 3.3,
+            "reference": "ChIJG6InjVp3dDkR2ulmbWwAyw8",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shopping Arcade, E-23, Gopi Chand Shivhare Rd, Sadar Bazar, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282006, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1617596,
+                    "lng": 78.0116304
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16311377989272,
+                        "lng": 78.01294697989272
+                    },
+                    "southwest": {
+                        "lat": 27.16041412010728,
+                        "lng": 78.01024732010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1fa4a6f02a20151899dab6ada24522bd6568565d",
+            "name": "Jahanpanah",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 597,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106092354323254006394\">Jahanpanah</a>"
+                    ],
+                    "photo_reference": "CmRaAAAADe3ihUmUT6Zf3_opsAxFQ2mnMcLkKD2CPfVfZwJeAA6Vhj2Pne04tkHSaof7OSakHfaV3zUPllH88w3iQlo3BGtfcE1iUafrpUKjxhie1_xReffpXNHiIxd7RvUMyVDVEhCMXP7sJdi2WTatBqTGMX9DGhQapGo_eADfEaoCUBLYqOAe1Q8lkg",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJCYUDMc52dDkRJAig39XQsBE",
+            "plus_code": {
+                "compound_code": "5266+PM Agra, Uttar Pradesh",
+                "global_code": "7JVW5266+PM"
+            },
+            "price_level": 2,
+            "rating": 3.5,
+            "reference": "ChIJCYUDMc52dDkRJAig39XQsBE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 434
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Fatehabad Rd, opp. GopalDas Pethewale, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1580487,
+                    "lng": 78.0459777
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15945507989272,
+                        "lng": 78.04736002989272
+                    },
+                    "southwest": {
+                        "lat": 27.15675542010727,
+                        "lng": 78.04466037010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "5711fcc1d86cd8c12ccf7060abcc7909ee12616a",
+            "name": "New Maharaja Haveli Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101529630616011137332\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFQiMCwljQjXxaatflNwuXa7IX3yKhhTOjzpssIOKb0zvi2bFzMzkhKJbSD4faJyivgdkUAi8pufYu55Y5mKc-UOVuaIoosxyoKZoW-vZ3L8AYf7K56quMVP-BlV40gVYEhATsnPymvfKdehDPnWixFpWGhSVvfUYzL-pKxNAsyK50zvlSRmTMw",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJX_-jcBJxdDkRUaHNfLEkjIc",
+            "plus_code": {
+                "compound_code": "525W+69 Agra, Uttar Pradesh",
+                "global_code": "7JVW525W+69"
+            },
+            "rating": 4.4,
+            "reference": "ChIJX_-jcBJxdDkRUaHNfLEkjIc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "30, 17, Fatehabad Rd, Opposite Saga Emporium, Dinesh Nagar, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1577098,
+                    "lng": 78.047055
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15913712989272,
+                        "lng": 78.04841942989272
+                    },
+                    "southwest": {
+                        "lat": 27.15643747010728,
+                        "lng": 78.04571977010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "51dfc199ecc62b05e56d3ed38179e9345b9467e4",
+            "name": "Pind Balluchi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100490311518932817439\">Nidhin sivadas</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAl0FnWV__woRG7yabBtF6QrlgoT0f6Ng5o1Lw38fHs_6NVD8ZhopKE3yyF1bvvGTLyP0OAMNKz6qC5tfXwiVwTJqsMO4W0OcXjdJkFPVqkI4ZzNvzcObT71L1xaBudaBSEhCbp229O1ACFI5N9LgJVPSDGhRO-WuU_JkcH2F7tGpJhXus4d9X4w",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJiRJmbhRxdDkR43wBzpstngA",
+            "plus_code": {
+                "compound_code": "525W+3R Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW525W+3R"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJiRJmbhRxdDkR43wBzpstngA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3289
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ground Floor Kalyani Point Bye Pass Road Near Tulsi Cinema, Kripal Colony, Khandari, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.211269,
+                    "lng": 78.0025809
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21271982989272,
+                        "lng": 78.00393747989271
+                    },
+                    "southwest": {
+                        "lat": 27.21002017010728,
+                        "lng": 78.00123782010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "2cb59703f7ad4d891998ac0cdc88a69ab9959f2c",
+            "name": "Bikanervala - Indian Restaurant in Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106379659518732594735\">Mukul Tripathi fitness</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAc7JLKLCIrEfbHcXUWTqA5viLLKdv6DBbNdUNKyE_tNTfkXyhBMoOoIn6bNUWrN4BWF0hqN2IcSjIBI9gurFzmFf0dxCDRAfpc6Hv5VoIiiFKkA49opG4gWliQFEJdd0PEhCOT2wyPCqkc6SUsZmOVs0MGhQacv_Y-Cp_M_dNecUrL3hj1QuPTg",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ88AaVWl3dDkROEtbqhGGtwQ",
+            "plus_code": {
+                "compound_code": "6263+G2 Khandari, Agra, Uttar Pradesh",
+                "global_code": "7JVW6263+G2"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJ88AaVWl3dDkROEtbqhGGtwQ",
+            "types": [
+                "bakery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1699
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2/78, Western Gate - Taj Mahal, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.170064,
+                    "lng": 78.0404504
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17141427989272,
+                        "lng": 78.04182462989272
+                    },
+                    "southwest": {
+                        "lat": 27.16871462010728,
+                        "lng": 78.03912497010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "b66a84eff497b4199f350382f581611c08916194",
+            "name": "YES Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115910017710913128267\">Pedro Moreno</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFWviWMZzTzqY9SIo1SveRAMxEhBn0mbLKvmKa_Dgojtw6yzxT_vXmX4m273rt1NP_brdhC77Vz6XD9GDUWX7YWezlAXhjyPr-D-blaVjJy03sdK2t8JiQEHi7CwvT41uEhCIU9K3XHfeLSB9IcSyLPAXGhQg0Doi7kre3xyfJwE4BYg5T1ZiiA",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJ1WSsJiJxdDkRCiMYg-m2oa8",
+            "plus_code": {
+                "compound_code": "52CR+25 Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52CR+25"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ1WSsJiJxdDkRCiMYg-m2oa8",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 224
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tajmahal, Taj East Gate Rd, opp. 132Kv Power House, Taj Nagari Phase 1, Telipara, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1641914,
+                    "lng": 78.05604470000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16558237989272,
+                        "lng": 78.05743617989273
+                    },
+                    "southwest": {
+                        "lat": 27.16288272010728,
+                        "lng": 78.05473652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "8206a6da6637216ad85e8d3fcf68095fd048524d",
+            "name": "Udupi Sudarshan Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107805340180136029193\">That Kanpuria Guy</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAltEGuHoaiwaLliRuk2WL_nQppfDFelWg7roHbNiSih3xwr9lG46wJ5PCagKKAw-ixM5EQcNUVOKjoGI7xd1qMYJtINJMxy6Phw07A-WJCke8Tthy2FvbVStVG55spbZqEhD-jRf4z3Ryz8jJaRWOtkpNGhRJDENn2TZyWXmEpXNvN7T8pIY_KA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJe_CPuw9xdDkRCjhLIK1QQ78",
+            "plus_code": {
+                "compound_code": "5374+MC Agra, Uttar Pradesh",
+                "global_code": "7JVW5374+MC"
+            },
+            "rating": 4,
+            "reference": "ChIJe_CPuw9xdDkRCjhLIK1QQ78",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 153
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "23/453 Wazirpura Road Opp. Sanjay Cinema, Sanjay Palace, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2019585,
+                    "lng": 78.0071703
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20325407989272,
+                        "lng": 78.00850542989272
+                    },
+                    "southwest": {
+                        "lat": 27.20055442010728,
+                        "lng": 78.00580577010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "ddc1a931a9696526ce2e924bd28a3ac75889cd30",
+            "name": "Pinch Of Spice",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113595621839999147406\">Ashish Agarwal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1keauMxin35dLNr-orabvDcu0LN2-zkdvcNUwomrf5lspharBp9HZNIl5E7TgyJTRBErYSRv5IuJ9tLjrvzdRddbCsXG6ZHMLcq8yKr3_i3s2P_slYcXOLeLar5k9RvXEhAEmzmwL6xrgt8JzeLHyglHGhSbYLQYhiOWbhuSRvR2cNrFMQUIvA",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJhfdNy0d3dDkR6-qJXbZKFig",
+            "plus_code": {
+                "compound_code": "6224+QV Agra, Uttar Pradesh",
+                "global_code": "7JVW6224+QV"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJhfdNy0d3dDkR6-qJXbZKFig",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2273
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shilpgram Rd, Taj Nagari Phase 1, Telipara, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1636711,
+                    "lng": 78.0535731
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16502437989272,
+                        "lng": 78.05491517989272
+                    },
+                    "southwest": {
+                        "lat": 27.16232472010728,
+                        "lng": 78.05221552010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "5f1a485decddc55bd2fad0b26bc95c9df083eacd",
+            "name": "Bamboo Cafe",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101479447338991291057\">Linda Liepa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA8feoW6CUWF5ydItLl6EkCaGvM8YEmmwX0EJbt_H9KAHI8GaDWMzB4FYPhcleNmyKrn07M0GzsMQ9P6LL7uNjhGKFogQpPzHKq1p7LLk7fV0Iz4KI6BgX6XOzM6lQkRcmEhCMkMHZrHjqFR_JMBej53LyGhRbGGFekdOZ_U6y82pk2JyjaxwqKA",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJX-YgJhBxdDkRGPfrKIYMC5M",
+            "plus_code": {
+                "compound_code": "5373+FC Agra, Uttar Pradesh",
+                "global_code": "7JVW5373+FC"
+            },
+            "price_level": 1,
+            "rating": 4.2,
+            "reference": "ChIJX-YgJhBxdDkRGPfrKIYMC5M",
+            "types": [
+                "restaurant",
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 199
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "304, Fatehabad Rd, Opposite Taj View, Tourist Complex Area, Near Man Singh Palace, Bagichi, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1615568,
+                    "lng": 78.0405735
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16285672989272,
+                        "lng": 78.04188407989271
+                    },
+                    "southwest": {
+                        "lat": 27.16015707010728,
+                        "lng": 78.03918442010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "03a2532a790a7289629233c321ffc6b1daa6e8ca",
+            "name": "The Pindi Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102137831542647699623\">Sohan Sharma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYJ__HEgFaMHcCNfyhcfWn14R-xqqojvlMtt3CbgmEd0wsg_0t7piPOzia422JTCI76r0D_xUTDiBkUG93tLlrohKuVHcV4uvCegm0xrkCX0m_XdBwYiaRfUBdjQeQ2bYEhAUDug7CRR9nkrXsTpSwGvHGhTjDcixWO3HYzshjeZzh-zgTtr5Yg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJkfWfSHVxdDkROOK61X1bBPc",
+            "plus_code": {
+                "compound_code": "526R+J6 Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW526R+J6"
+            },
+            "rating": 4.6,
+            "reference": "ChIJkfWfSHVxdDkROOK61X1bBPc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 56
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Agra Canteen Railway Station, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.158746,
+                    "lng": 77.99052999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16007737989272,
+                        "lng": 77.99204677989272
+                    },
+                    "southwest": {
+                        "lat": 27.15737772010728,
+                        "lng": 77.98934712010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "86b0fa1b6008f9f315e5c271c3eaf3b99ca84891",
+            "name": "KFC",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102840309893233679507\">PUBG crazy mad</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUSCb9SKcDuqtl14KmFE0ezktMHkQ3kldVTwu97yU2yOTeCCgudvEh9mFi0py_RXVmVH6JXdfPrz9BaFkJFBfTgydKZfyli_XFDMi43qu8QIXkNVhz7LR8fKTkR0jHjt2EhBSRTgnuwf8eS8jzDUuF7iKGhSSkLtITz5EwBm9QfsPcx4tMyCS5A",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJLYIEprl3dDkRX5hMbJ4j2b0",
+            "plus_code": {
+                "compound_code": "5X5R+F6 Idgah Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVV5X5R+F6"
+            },
+            "rating": 3.6,
+            "reference": "ChIJLYIEprl3dDkRX5hMbJ4j2b0",
+            "types": [
+                "restaurant",
+                "meal_takeaway",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 441
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bon barbecue, Hotel Parador 3A-3B, Fatehabad Road Taj Nagari Phase 1, opposite shanti manglik hospital, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1591638,
+                    "lng": 78.0557129
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16043452989272,
+                        "lng": 78.05707592989272
+                    },
+                    "southwest": {
+                        "lat": 27.15773487010727,
+                        "lng": 78.05437627010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "964324e10e799f85003e548483a2e65d7d16e9fa",
+            "name": "Bon Barbecue Agra",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 648,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100302313442289481386\">Sagar Shiv</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAi6c9X6M5YLQwPV-SfUl2aZ74WQfPvqUYUa_Wf0VREHzfdnJRrjCqPhlDAZkZH_m_Owd9EaJaEltbcvlLllZ3FlerVZyf7wu8CrMB8lJV3oyZitq4i5o4aFpKG7E31QnKEhCMwygg3OMVMnolTCBalZjrGhSoJbAhZzMFBXjWTuPYrZXUh72LpA",
+                    "width": 1152
+                }
+            ],
+            "place_id": "ChIJe-Ldxg1xdDkRA1-u1RLyVzc",
+            "plus_code": {
+                "compound_code": "5354+M7 Agra, Uttar Pradesh",
+                "global_code": "7JVW5354+M7"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJe-Ldxg1xdDkRA1-u1RLyVzc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 875
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Of Taj Mahal, 21/110B, Opp . Hotel Taj Khema, Eastern Gate, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.170452,
+                    "lng": 78.046474
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17187582989272,
+                        "lng": 78.04785507989273
+                    },
+                    "southwest": {
+                        "lat": 27.16917617010728,
+                        "lng": 78.04515542010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "f4a5e5f57f7cbea404cb098a47d7e2283b089e14",
+            "name": "Relax He Relax Restaurant",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109294102121687886524\">Epic! Forest Destine</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAvv0wh5gTEH6Xh2d0PcFnIZqNe1oQ9vsGPI7cYpKWsbVBk9hZNBL3bUMOfZV43sbBajUb9xnkuOXSbWDE0njatDdo-GctBXVUMNvj3buOUW9LoLm2sSHOsvT6CQZUfPk5EhAAPxM7ZEtIFWAmTh_cK3CdGhTvIr2XMsimlarDEfk-UmaUr77EUA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJCRyqNxlxdDkRsbF6_4iAoN0",
+            "plus_code": {
+                "compound_code": "52CW+5H Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW52CW+5H"
+            },
+            "price_level": 2,
+            "rating": 3.4,
+            "reference": "ChIJCRyqNxlxdDkRsbF6_4iAoN0",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 66
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "101, 51, 3E, Tantpur Rd, Arjun Nagar, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1689645,
+                    "lng": 77.9838303
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17032337989272,
+                        "lng": 77.98535902989272
+                    },
+                    "southwest": {
+                        "lat": 27.16762372010728,
+                        "lng": 77.98265937010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "185bde26627775d138c525fcd9ed506f6b590bdd",
+            "name": "Shubham Vegetarian Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105140530502620567457\">Manoj Yadav</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYL0IH6HEfbvMzPAZCUiYWCqBkIjX62Rawih6lmx4wrbfUvUNkFyv2m0LpzBlhoTa4VHAZMbrzkMHPBsNZqGgd5E7NcjhvGeE9gzrmXkyNYFcIf4sAlw-_6m3tPpTs5KwEhCMlR8IgqWc_13Qel2HMEFNGhRnHTdqJtavBrWiBE4h4AgqFZal8w",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJkRCdIf12dDkRN0IfJ3K1uuQ",
+            "plus_code": {
+                "compound_code": "5X9M+HG Arjun Nagar, Agra, Uttar Pradesh",
+                "global_code": "7JVV5X9M+HG"
+            },
+            "rating": 3.6,
+            "reference": "ChIJkRCdIf12dDkRN0IfJ3K1uuQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 158
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "VIP Rd, near Kala Kirti, Taj, Tajganj, Agra, Uttar Pradesh 282003, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1618909,
+                    "lng": 78.0594646
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16316802989272,
+                        "lng": 78.06072522989272
+                    },
+                    "southwest": {
+                        "lat": 27.16046837010727,
+                        "lng": 78.05802557010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "4203d9b9cf004706d30d26d7c93eb5e3a54ffccc",
+            "name": "Prince of Spice Restaurant Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111212929694747167721\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAApR3twtD5uIfCCCvFnp-5dY-i04Lh8jaOsbGgt7-fKpYShFgzc3Z3DQfLrJ3cbiZTit4JsOg_qJd6lORmZl66zvck8Orp8AbGSZ-aOj6QGEwYh683fEoXjxiikCZFK970EhD08YvVtObGDHZWXWSEpu1EGhR4A5yzgeYMNFL3k2jsTmbC6iOY0Q",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJd3o4tQ5xdDkR6zJJNsSp_P4",
+            "plus_code": {
+                "compound_code": "5365+QQ Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW5365+QQ"
+            },
+            "rating": 3.9,
+            "reference": "ChIJd3o4tQ5xdDkR6zJJNsSp_P4",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 164
+        }
+    ],
+    "status": "OK"
+}

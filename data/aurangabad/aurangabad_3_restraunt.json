@@ -1,0 +1,777 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "yashodhan complex, opp. reliance mall, beside mongines cake shop, Garkheda, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8644542,
+                    "lng": 75.3557927
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86580617989273,
+                        "lng": 75.35716217989273
+                    },
+                    "southwest": {
+                        "lat": 19.86310652010728,
+                        "lng": 75.35446252010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "bd74b4b23785abbc52a58ec35d1ccdbf88c7c56d",
+            "name": "AMBICA HOTSPOT",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103729955470531339948\">baliram kale</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyzy19VxAeBxS6o6xkiiSBSb3PR6TKl3vjbJFfNwifU9G7wOfTBMhTzABW6QexUHbETP1XS3wbxGUSdMkiI_xXzAGu8xuWOr8CbaJO8Mlux8Nuz--Vg5xfQocWee6HEG3EhDr0ggPw8x-pL2eJ7U5Dv0dGhS2UB3M3y2bmYbKLuzPBwF3Ugg-rw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJSyjIBqKj2zsR63FkMcrYTYw",
+            "plus_code": {
+                "compound_code": "V974+Q8 Garkheda, Aurangabad, Maharashtra",
+                "global_code": "7JFQV974+Q8"
+            },
+            "rating": 5,
+            "reference": "ChIJSyjIBqKj2zsR63FkMcrYTYw",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Nava Mondha, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.882752,
+                    "lng": 75.335751
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88406477989272,
+                        "lng": 75.33707807989273
+                    },
+                    "southwest": {
+                        "lat": 19.88136512010728,
+                        "lng": 75.33437842010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "7954d101c0ea3c2889dbe3e22998543ac94f1aed",
+            "name": "Goli Vada Pav - Adalat Road",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJJ_7_q3SY2zsRuYFL1xvcSrs",
+            "plus_code": {
+                "compound_code": "V8MP+48 Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MP+48"
+            },
+            "rating": 3.6,
+            "reference": "ChIJJ_7_q3SY2zsRuYFL1xvcSrs",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "MIDC Industrial Area, MIDC, Aurangabad, Maharashtra 431006, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8922418,
+                    "lng": 75.3667229
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89357542989272,
+                        "lng": 75.36807277989273
+                    },
+                    "southwest": {
+                        "lat": 19.89087577010728,
+                        "lng": 75.36537312010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "8acfc4ff8b21502fd0f60c804fe3df90012fb530",
+            "name": "Gionee",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112332956456098373717\">Akash Ali</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAClW-ohkZnqNEdLrTnutiGj4ZkCGk__wfcAyDUC3fVQ-fKoaq6BN-4KuBIW_CsHEvol7HTOzmnte8QDtAhOE3CjYloGHvm3xrPjIQs2tuoy5tkh5EPaMnG2JRDKWuO1JkEhBCIiTjg1u__PUXDcio8rLdGhQ06Hjo0Pg8fYglbye3jIo4hCiOyA",
+                    "width": 1944
+                }
+            ],
+            "place_id": "ChIJq6qqOsei2zsRXi5vMWLYVBg",
+            "plus_code": {
+                "compound_code": "V9R8+VM MIDC, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9R8+VM"
+            },
+            "rating": 4,
+            "reference": "ChIJq6qqOsei2zsRXi5vMWLYVBg",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Seven Hill Flyover, Jalna Road, Vidya Nagar, beside IDBI Bank, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.874822,
+                    "lng": 75.3536649
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87619087989272,
+                        "lng": 75.35501922989272
+                    },
+                    "southwest": {
+                        "lat": 19.87349122010728,
+                        "lng": 75.35231957010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d9da8047016c136d07ac62107b47b0a8242554bf",
+            "name": "Hotel Angeethi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1948,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102736999938194490453\">\u0939\u094b\u091f\u0932 \u0905\u0902\u0917\u0940\u0920\u0940</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACCZP4CHDxybo1t49YcZZI2RGbN7GI49ojoG1M6v4Ytz6vAKRfiqfHD8wISQtyhlh1Z-J8ROVnqso6tNApj-n9Y3-NShEJp6PNqjX1mhqCnT0ABdZMP5CehAuIakFmBMEEhBnlugaBFP3Jhofx-14ygm8GhSvtEqbxszySwpiBpKmxv8snLBBwQ",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJQdlObJCi2zsRu-EDBKlsZQs",
+            "plus_code": {
+                "compound_code": "V9F3+WF Aurangabad, Maharashtra",
+                "global_code": "7JFQV9F3+WF"
+            },
+            "rating": 3.7,
+            "reference": "ChIJQdlObJCi2zsRu-EDBKlsZQs",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 698
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "CANNOUGHT MARKET, Wankhede Nagar, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9131135,
+                    "lng": 75.347048
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.91432547989272,
+                        "lng": 75.34824237989272
+                    },
+                    "southwest": {
+                        "lat": 19.91162582010728,
+                        "lng": 75.34554272010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "2f04966d5553c8e198c13447b227f8becf35ad7e",
+            "name": "Goli Vada Pav Pvt Ltd",
+            "place_id": "ChIJaW2PRrW92zsRZiAQ8uigeBc",
+            "plus_code": {
+                "compound_code": "W87W+6R Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQW87W+6R"
+            },
+            "rating": 0,
+            "reference": "ChIJaW2PRrW92zsRZiAQ8uigeBc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "SHOP NO. 2, JEET COMPLEX, New Usmanpura, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8664969,
+                    "lng": 75.32809929999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86786727989272,
+                        "lng": 75.32935542989271
+                    },
+                    "southwest": {
+                        "lat": 19.86516762010727,
+                        "lng": 75.32665577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "60d6a8e3dd97fd51f7c7d0ae25411b7966f5e54c",
+            "name": "Goli Vada Pav Pvt Ltd",
+            "place_id": "ChIJQYL8B1KZ2zsRdPeyzDBGstM",
+            "rating": 0,
+            "reference": "ChIJQYL8B1KZ2zsRdPeyzDBGstM",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Daultabad T point, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9152454,
+                    "lng": 75.233392
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.91659572989272,
+                        "lng": 75.23487237989272
+                    },
+                    "southwest": {
+                        "lat": 19.91389607010728,
+                        "lng": 75.23217272010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "547941eb895041b9c4520ca65678d2a2f271e588",
+            "name": "Tinu's Family Garden Restraunt",
+            "photos": [
+                {
+                    "height": 835,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102415645995690647891\">Ujwala Salgare</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOat2MsOXnv5YWKzFQVcQFglwuDZAMKqA8h_GtfNoCd5pwtke672prsFBu3k1Bs1lA0Irh3leYtSll6q1Fl-wqFQaQ25tx1mGX20-qh_Te1VeuCuyATZUI5avRjtzioqEEhDMTQ-Af5d3GRPjiYGxscmkGhQYbBXHPWOoM_BgKuouuYrjj0Q55A",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJvcLeHyOR2zsRqrlIFvpM3i8",
+            "plus_code": {
+                "compound_code": "W68M+39 Wanjarwadi, Maharashtra",
+                "global_code": "7JFQW68M+39"
+            },
+            "rating": 5,
+            "reference": "ChIJvcLeHyOR2zsRqrlIFvpM3i8",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "MIDC Industrial Area, Chilkalthana, Aurangabad, Maharashtra 431006, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8766299,
+                    "lng": 75.37273379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87797767989272,
+                        "lng": 75.37408307989271
+                    },
+                    "southwest": {
+                        "lat": 19.87527802010727,
+                        "lng": 75.37138342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "dc3b662b257fe2ad0038e43ba90deba07c534119",
+            "name": "Subway",
+            "place_id": "ChIJhVRNTu6i2zsRKSx_3cTTSS8",
+            "plus_code": {
+                "compound_code": "V9GF+M3 Chilkalthana, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9GF+M3"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJhVRNTu6i2zsRKSx_3cTTSS8",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No. 319, N-3, Cidco,, Jalna Road, Opposite Hotel Lemon Tree, Aurangabad, Maharashtra 431210, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8736878,
+                    "lng": 75.3658971
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87510857989272,
+                        "lng": 75.36726252989271
+                    },
+                    "southwest": {
+                        "lat": 19.87240892010728,
+                        "lng": 75.36456287010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "8d556d606dd2cac880c1af87512db214207eb3fb",
+            "name": "Baker's Lounge (Cidco)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 562,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114602254271069940437\">Bakers Lounge</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAlYQdql86rIkjbGNwG0jWWYf9RmFmWWckn2zGOQU1aEmBL6Pwce3SgQV7oKeRQ6-Xuz-QmpSkSfCV6UQSAKRNUgFltAgd1z8q8m4Sh0hmRS10o8fqHZvWr_FQ6sWneDu_EhAUFBAj-wb_xskO-GR7vOD5GhQ4wIiGCuUMSXt8XJJVhqNuQpDqVQ",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJOyyNofKi2zsRHA6ADKk4jK4",
+            "plus_code": {
+                "compound_code": "V9F8+F9 Aurangabad, Maharashtra",
+                "global_code": "7JFQV9F8+F9"
+            },
+            "price_level": 2,
+            "rating": 3.6,
+            "reference": "ChIJOyyNofKi2zsRHA6ADKk4jK4",
+            "types": [
+                "bakery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 108
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bajrang Chowk Rd, Shivdatta Housing Society, N 8, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8905299,
+                    "lng": 75.359511
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89191152989272,
+                        "lng": 75.36102582989272
+                    },
+                    "southwest": {
+                        "lat": 19.88921187010728,
+                        "lng": 75.35832617010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "2624b40a7487b0c235f59547940155d107f793a9",
+            "name": "Vijay Snacks Corner",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJEbXotL6i2zsRzPXKZiaMCxg",
+            "plus_code": {
+                "compound_code": "V9R5+6R Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9R5+6R"
+            },
+            "rating": 3.5,
+            "reference": "ChIJEbXotL6i2zsRzPXKZiaMCxg",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Waluj, Wadgaon Kolhati, Maharashtra 431133, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8508383,
+                    "lng": 75.2403617
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85215997989273,
+                        "lng": 75.24154632989271
+                    },
+                    "southwest": {
+                        "lat": 19.84946032010728,
+                        "lng": 75.23884667010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "8ce6e8e3113b9e7b53a688a4a4e4dc2c2a8db671",
+            "name": "5star Chicken Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJDYY5OdOb2zsRptz5_vLUr6k",
+            "plus_code": {
+                "compound_code": "V62R+84 Waluj, Aurangabad, Maharashtra",
+                "global_code": "7JFQV62R+84"
+            },
+            "rating": 4,
+            "reference": "ChIJDYY5OdOb2zsRptz5_vLUr6k",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "State Highway 60, Ahmednagar - Aurangabad Road, CIDCO Waluj Mahanagar 2, Waluj, Aurangabad, Maharashtra 414603, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.5841884,
+                    "lng": 75.0000012
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.58546287989272,
+                        "lng": 75.00148537989271
+                    },
+                    "southwest": {
+                        "lat": 19.58276322010728,
+                        "lng": 74.99878572010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "33ab4cb646837eb546b7d3a6ce4e1a85d3efcfb1",
+            "name": "Hotel Sri Datta Digambar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112325293305963625197\">feroz pathan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkOHRvMoMqxky2TBDnHoSGGKUh7RDxlOXyBRA_y59GTibhPxyiYvHH_6zKa0QLnYFQCXGZ2osRt2hF4q7kTVQqOYZbzVx4fNi6pZRXubdA5DeTWTPCECdv1CgjMpo8q2xEhCG9blqNNcbyFh7HVJTBzW3GhS4WiyK4SZHQadByA2oLlhiRm31Iw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJLdCDw9V92zsRoKaEyD5--4M",
+            "plus_code": {
+                "compound_code": "H2M2+M2 Jalke Bk., Maharashtra",
+                "global_code": "7JFQH2M2+M2"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJLdCDw9V92zsRoKaEyD5--4M",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1053
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shivrai, Maharashtra 431133, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.7809351,
+                    "lng": 75.1978373
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.78228622989272,
+                        "lng": 75.19921487989272
+                    },
+                    "southwest": {
+                        "lat": 19.77958657010727,
+                        "lng": 75.19651522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "44489da0cf95622c622cc2aa1686e64906995f7a",
+            "name": "Hotel Vaishnvi & Family Restaurant",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101381984977373776289\">Rohan Agrawal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA6P8RXBw2sRPe_eEGetljuIfyZNjbf1KtJ_FqasNEVo7BltUF9ajJStzQv0ZAsBYLGMjfLOg5D9jauADyk9w9-RPxgP-qhActp21v83MAY1ShvC8e01eW859HoYVM9YasEhB-D7g89Jo6dDq0c6xnYVrvGhSb5T-gatQ9iuge36B2qN5khuWR_w",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJkcjzBIuc2zsRmsqRu8_xDek",
+            "plus_code": {
+                "compound_code": "Q5JX+94 Shivrai, Maharashtra",
+                "global_code": "7JFQQ5JX+94"
+            },
+            "rating": 3.9,
+            "reference": "ChIJkcjzBIuc2zsRmsqRu8_xDek",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Aurangabad - Ahmednagar - Pune Hwy, Zapwadi, Maharashtra 414607, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.3303812,
+                    "lng": 74.86894029999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.33172382989272,
+                        "lng": 74.87030497989272
+                    },
+                    "southwest": {
+                        "lat": 19.32902417010728,
+                        "lng": 74.86760532010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1911e1898379cb8b10bc1926091bc81884ac048f",
+            "name": "Vithal Kamats Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113309077036910104147\">lamat droid</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwIxtcnsFsKx-v41YYq3ntBVNmlOI5L4vT3_LRUatzp_4qquRJL8FnImseAmU0WaKXZeCo4WkVGmERYLFOcKyDXpZSw5x3av_DNtGvWgXZHvfAXZfGLKq1oin8XZlaVvSEhCHAcT8Fm2VHVzOPiH3aRRAGhTlDu63A_XEhVdvou2zu7nTsO6OyA",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJbxmw0rWY3DsRTT1j-mlH9yI",
+            "plus_code": {
+                "compound_code": "8VJ9+5H Zapwadi, Maharashtra",
+                "global_code": "7JFP8VJ9+5H"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJbxmw0rWY3DsRTT1j-mlH9yI",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 66
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Gut no 159/163, Shendra Jahangir, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8641372,
+                    "lng": 75.4578164
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86558852989272,
+                        "lng": 75.45915462989272
+                    },
+                    "southwest": {
+                        "lat": 19.86288887010728,
+                        "lng": 75.45645497010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "19f08fba838f378a282e202840b9deab6af4e700",
+            "name": "KNK Highway Diner Multicuisine kitchen and bar.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100272184947114869852\">mukesh rajbhar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAvzxnKqikFAO8PBqsDkV6h5fpjKx21MyTea1-84igZCdyKfrGiZKdo2AD1HqBCsTKvfSTJCHJXtN8Ftt7r4MwxWn1hDUiVXAEkZora06LViXNqBo5O2ca7pqIN__Z1VNTEhCP9lFNtEEU5ewsNELvx0-YGhSVI-qplCzW-BQiCW-x-u4LZ4J1fA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJp0Ix_F2k2zsRddSZDnPF4zk",
+            "plus_code": {
+                "compound_code": "VF75+M4 Hirapur, Maharashtra",
+                "global_code": "7JFQVF75+M4"
+            },
+            "price_level": 2,
+            "rating": 3.6,
+            "reference": "ChIJp0Ix_F2k2zsRddSZDnPF4zk",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 242
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shop No. C/17, Sureshdada Jain, Bhajipala Market, Aurangabad - Ajanta - Jalgaon Rd, Jalgaon, Maharashtra 425003, India",
+            "geometry": {
+                "location": {
+                    "lat": 20.9958333,
+                    "lng": 75.57938879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.99720322989272,
+                        "lng": 75.58068412989272
+                    },
+                    "southwest": {
+                        "lat": 20.99450357010728,
+                        "lng": 75.57798447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "b1c3dba2b0d2cf1f3f0d69216fc243f6cfd8a980",
+            "name": "Omkar Restraunt",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJa5CIcv4O2TsRnt8Bo_0MUWc",
+            "plus_code": {
+                "compound_code": "XHWH+8Q Jalgaon, Maharashtra",
+                "global_code": "7JGQXHWH+8Q"
+            },
+            "rating": 4.6,
+            "reference": "ChIJa5CIcv4O2TsRnt8Bo_0MUWc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "newasa,, Nagpur - Aurangabad Hwy, Maharashtra 444110, India",
+            "geometry": {
+                "location": {
+                    "lat": 20.5938302,
+                    "lng": 77.45285059999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.59520777989272,
+                        "lng": 77.45418147989271
+                    },
+                    "southwest": {
+                        "lat": 20.59250812010728,
+                        "lng": 77.45148182010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1b2c2266665882375ba445461a34459de1e3d21e",
+            "name": "Hotel Lakshmi (pure veg family restraunt)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104979833732644961049\">Upendra Herwadkar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAq1VQQP1I6Y0FSoi01B0Fmxt0S-Vd7T-UmdZL72KVVgiLlur-ikvXgWKQAD01pcQhtLa46_Sg-haWQXGzzEZOc0JR1dso-eQ-Tl4jeqJXAEEnplGkjLIcwvaP5hNX4NbKEhBrOJcPAQOVo0IloaUkX1rhGhR0kXTwYX1tF2OJZbFyR5mCNf_Zsg",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJYVHl2HMz0TsRw33nw4uWE9s",
+            "plus_code": {
+                "compound_code": "HFV3+G4 Vilegaon, Maharashtra",
+                "global_code": "7JGVHFV3+G4"
+            },
+            "rating": 3.9,
+            "reference": "ChIJYVHl2HMz0TsRw33nw4uWE9s",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        }
+    ],
+    "status": "OK"
+}

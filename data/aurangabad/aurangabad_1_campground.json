@@ -1,0 +1,999 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCAgEAACfTSh-zJUjOyzDqfvH6u8btCa7SzZWx1iYIKXlHQomJvfbxygg85yz_RDxs2NcJOTPzThyzF_33MXMlilLYLMBQKZ3O3eq0INHUmXabgdsEKaJKyj5_N4l8Npc3guBexxKt40aC0WN--ElTMU30yj3gF8sp6FENGx0rpU7FY2SnHl5v_07KEoAG22AOtTIhoLpEGJyE4fdc_yjVzsvxIZHTE8ZQdD8b8JHkKvkPDlyB2r6xEBFr0QN3jAgu0QuOY4EeISG-aHBk2O-JWJ6zNXRCaHpl0nSG8DUGcdKLUz9rLnbJ_KodMRkdJhfewPJFRJR4zzmxi30Vm5odPNEcLlGBsA_b74OJX3ZuM1fP1Pu_EhDpvlOeFrcequ5vzSchxtJxGhQ1uleSQsT3_fSjmzUIyQwPoc9jRg",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "opposite milind college of science gate,beside hotel maurya, between little flower school to dr.Bamu, University Rd, Aurangabad, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8896949,
+                    "lng": 75.3074012
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89111937989272,
+                        "lng": 75.30861202989271
+                    },
+                    "southwest": {
+                        "lat": 19.88841972010728,
+                        "lng": 75.30591237010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "91f1e1389ef1476aab7e571638cc04ac825c3443",
+            "name": "Chhawni Eidgah Maidan",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106360513616993416743\">muhammed anwar abdul rehman</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARswrzjmFoCfR-rfRdspjkpv9aMoBCJk0eE3OTX56BOLKEjuW7OrZE5eW_DBbzKjO69Moktiy0J5YkBm9oGWetr46r3mFKzb-Do2M-Ag4lCAx4yqTcZYAlBL94JjeLilREhDTlZ8jDO7yCVaKVAumG-a9GhRwi7PHbEOY9PoCuHXv2Skj52iQpg",
+                    "width": 2880
+                }
+            ],
+            "place_id": "ChIJw_PGizqY2zsR_2V6Ajk2ijI",
+            "plus_code": {
+                "compound_code": "V8Q4+VX Aurangabad, Maharashtra",
+                "global_code": "7JFQV8Q4+VX"
+            },
+            "rating": 4.2,
+            "reference": "ChIJw_PGizqY2zsR_2V6Ajk2ijI",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 52
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "fauji dhaba, Aurangabad, Maharashtra, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9124408,
+                    "lng": 75.25236389999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.91395132989272,
+                        "lng": 75.2541193298927
+                    },
+                    "southwest": {
+                        "lat": 19.91125167010728,
+                        "lng": 75.25141967010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "18e0bc42ccaf6d6225103ee8312e9c0d384b0c14",
+            "name": "Aditya Krushi Parytan Kendra",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2368,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115324598015545880179\">Aniruddha Deshmukh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQ8SQjcKtMGjZluwQRgmghouv3AVxGGAJ9jvuVx5T9QKBFlOIHDUcw8QkbH-OWZAL5ecFOb9HykNCJrvh-tGr0a4dC_EeYBAlFb34C60c_zj8IiB35e1dIn8_375zo_t7EhBUxm-BgMWXPlJIRty0gb_OGhQWxoqljqQVEOp75xBugxc4ylwgvA",
+                    "width": 4224
+                }
+            ],
+            "place_id": "ChIJG4VooVeX2zsR8TF64kOMgOo",
+            "plus_code": {
+                "compound_code": "W762+XW Aurangabad, Maharashtra",
+                "global_code": "7JFQW762+XW"
+            },
+            "rating": 4,
+            "reference": "ChIJG4VooVeX2zsR8TF64kOMgOo",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 72
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "265, Bhaskara A, Anuvihar Complex, Samarth Nagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9590819,
+                    "lng": 75.2235784
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.96016052989272,
+                        "lng": 75.22488957989272
+                    },
+                    "southwest": {
+                        "lat": 19.95746087010727,
+                        "lng": 75.22218992010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "50b550315ef2b7cd6d13e6685db17d93604a7642",
+            "name": "BaseCamp - Backpackers Campsite",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 864,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103490725244141897318\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxsFG8Bv0zwvKpGp-TVyy6_P7bg_Mf1HVCIX_fWkDlgj7u2bpVtlaTi_mkOAPUooDJJ1bQacitQN0StMzJkU7haGNImq8szijjDrgCVW9J5wWNfZVcbtz-2uyenO0fCeOEhCe7Mzpd7gPT7mfm2w-AAr_GhRAoYDYFJCeBEhAx7E1DTW_buF2Tg",
+                    "width": 1152
+                }
+            ],
+            "place_id": "ChIJO8Sw-9yZ2zsR6VXZI2ttb8k",
+            "plus_code": {
+                "compound_code": "X65F+JC Aurangabad, Maharashtra",
+                "global_code": "7JFQX65F+JC"
+            },
+            "rating": 5,
+            "reference": "ChIJO8Sw-9yZ2zsR6VXZI2ttb8k",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mangalam lawns, Beed Bypass Rd, near MIT college, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.841525,
+                    "lng": 75.36383490000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.84309677989272,
+                        "lng": 75.36527867989273
+                    },
+                    "southwest": {
+                        "lat": 19.84039712010728,
+                        "lng": 75.36257902010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "6f89c908fc3851fd9cb03a0e724a5da64fffaf13",
+            "name": "Holi festival",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110540488065660540145\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQs9CGOubzDfjEvLuxbM8oOVZjpfYC04k9OqJkH4s_OMMh2mO1__FBh9Z3Ly1NyBjskZ2sRjk6ozV1qGmHtzRWsGQc4uwC2rrVsHmR5adItPGuVV3DHNJHsEYkKT-yHISEhBqy9vXXEXJ_H4a5fucN-ULGhTEElMsoAXzavtgobhpS97VZyEq-w",
+                    "width": 1205
+                }
+            ],
+            "place_id": "ChIJITAVuO6Z2zsRFv6KlmkpFxs",
+            "plus_code": {
+                "compound_code": "R9R7+JG Aurangabad, Maharashtra",
+                "global_code": "7JFQR9R7+JG"
+            },
+            "rating": 0,
+            "reference": "ChIJITAVuO6Z2zsRFv6KlmkpFxs",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Hiranya Resorts, Vitkheda - Ellora Rd, adjacent to Daulatabad lake, Aurangabad, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9587337,
+                    "lng": 75.222379
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.96009287989272,
+                        "lng": 75.22376337989273
+                    },
+                    "southwest": {
+                        "lat": 19.95739322010728,
+                        "lng": 75.22106372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "36dc8deb8744227f9a5c1ccd22b3e7e371e88964",
+            "name": "Hiranya Resorts - Full of Nature",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3744,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106622307614100891568\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2mz6nwrIH5VJyJ2lMLxVzJAjtLvdWCQ5_p74i275ow_THwbZXRGA6AvWooKZuLbqiO-jWVE3JuaXtYGZOBjl-nsbgbp6ElcMQpj0E1xAhwRIIVE8AuE-q0v_ViX8pr_MEhDI1nN5nMRhr8Hi-b2yypqWGhTRMZECO2gGGXyCmplevkA31MKUmg",
+                    "width": 5616
+                }
+            ],
+            "place_id": "ChIJOSC-KBaR2zsRtUCAHnX2A_Q",
+            "plus_code": {
+                "compound_code": "X65C+FX Aurangabad, Maharashtra",
+                "global_code": "7JFQX65C+FX"
+            },
+            "rating": 4.1,
+            "reference": "ChIJOSC-KBaR2zsRtUCAHnX2A_Q",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "restaurant",
+                "food",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1325
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dr Babasaheb Ambedkar Marathwada University Campus, Aurangabad, Maharashtra 431004, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9064753,
+                    "lng": 75.30438269999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90782512989272,
+                        "lng": 75.30573252989272
+                    },
+                    "southwest": {
+                        "lat": 19.90512547010728,
+                        "lng": 75.30303287010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "91acb933a1a191797fb8ca1e92d2e393eb0b3371",
+            "name": "Goga Baba Hill",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3008,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111484607528116363018\">Kiran Dhokne</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHaCZrM5QNqtUJwz6qjvQ_Lub5mzaBppBvYNzcsn-VJEd3UugbGBAhgoGGld-HVx1Zum3C0qmUTkM9OZ3ThnLLgWSwcFUfVspffeWjmq-01qlohfdt90QPxyvOV1u9BHdEhDVE0YxvZj5muudQv1p4lYxGhS_znRtSiGS2007Xo4p2naTf_eYWA",
+                    "width": 4016
+                }
+            ],
+            "place_id": "ChIJi4Y6qiCY2zsRkagXVJJmSS0",
+            "plus_code": {
+                "compound_code": "W843+HQ Dr Babasaheb Ambedkar Marathwada University Campus, Aurangabad, Maharashtra",
+                "global_code": "7JFQW843+HQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJi4Y6qiCY2zsRkagXVJJmSS0",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1663
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Fatiyabad, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.932973,
+                    "lng": 75.20120399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.93431382989272,
+                        "lng": 75.20259802989273
+                    },
+                    "southwest": {
+                        "lat": 19.93161417010728,
+                        "lng": 75.19989837010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "1087b4726c7b12311e468bf6b91cf0c22e760e27",
+            "name": "Coconut Valley Farms",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101755634128358827267\">funny dunya</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFR0QQ-D8HbgpyWWC8mAzQYtaRHn_aMMOUhjfc2QdC1xksEZ67gKfYWpiNoAdY3B7ZOQ-rnHEvQ2O9EB0_qjxsx6DUGdEKrz4t_M_lo-7aUYOTjV_od65dxRTQ-amoZ3bEhAuvk1orz33VLClBhB--LkpGhRFt6xA8aHTrMADExxYnl0hE17U6A",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJc919KlaQ2zsRFw10dJTWKUQ",
+            "plus_code": {
+                "compound_code": "W6M2+5F Fatiyabad, Maharashtra",
+                "global_code": "7JFQW6M2+5F"
+            },
+            "rating": 4.6,
+            "reference": "ChIJc919KlaQ2zsRFw10dJTWKUQ",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Randha fall, Bhandardara, Maharashtra 422604, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.5401598,
+                    "lng": 73.8043533
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.54150962989272,
+                        "lng": 73.80570312989273
+                    },
+                    "southwest": {
+                        "lat": 19.53880997010728,
+                        "lng": 73.80300347010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "5b69d7d4442dfe06e6ae0de0d5fd15d2b569bc92",
+            "name": "Randha Fall Adventure Camping and Kayaking",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110802458152912703378\">Pramod Dhuri</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAox6L4B5b9skwDzl1qN9ksjjEW5CeTMrYlAWYspKXVG2cypjd7-hufWjiJkTkr5dPUz6JzZF7Gsl9OUa620oOHKXDixpbbdXrY7Wvw39sxF0ZS2JdqjyYpr4FMwxz5Z0rEhCzCan2WTXu0bOKCnjGBeqFGhQHWpx0dLghJi8gWbcFyeu7m9rh8Q",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJExk9mgJ13TsRCNgyyWAQFkU",
+            "plus_code": {
+                "compound_code": "GRR3+3P Bhandardara, Maharashtra",
+                "global_code": "7JFMGRR3+3P"
+            },
+            "rating": 4.4,
+            "reference": "ChIJExk9mgJ13TsRCNgyyWAQFkU",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2233
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ratangad to Rajur Rd, Bhandardara, Maharashtra 422604, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.5344322,
+                    "lng": 73.7657936
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.53604212989272,
+                        "lng": 73.76768712989272
+                    },
+                    "southwest": {
+                        "lat": 19.53334247010728,
+                        "lng": 73.76498747010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "72c007daa487ddf9964eb85f3ebeb8e8d3f0175b",
+            "name": "CAMP AT BHANDARDARA",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106019045375979442247\">Ram Gosavi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAH9Qdc5Mfg_nPS7XVgVlk4p_b7HTy9vLF7Qo2hY5W4fdQAvRFfF7Fq83qPpBRZBCV_FGe7a0hQcU1BhItvHQCSVK_ZISBJLXAndt2Hb-UTgot1OCAwQmKhf9h80bG8vDGEhDJlB7WNk7plstvGhvFLch3GhTU3GKv4gwS8P3aQN1t88BCGz9X0Q",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJJ1-IgzR03TsRQ7omwWtDQTc",
+            "plus_code": {
+                "compound_code": "GQM8+Q8 Bhandardara, Maharashtra",
+                "global_code": "7JFMGQM8+Q8"
+            },
+            "rating": 5,
+            "reference": "ChIJJ1-IgzR03TsRQ7omwWtDQTc",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ahmednagar-Kalyan Rd, near Khubi, behind Saj By The Lake, Phata, Khubi, Maharashtra 412409, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.331042,
+                    "lng": 73.810374
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.33195527989272,
+                        "lng": 73.81119202989272
+                    },
+                    "southwest": {
+                        "lat": 19.32925562010728,
+                        "lng": 73.80849237010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "8a4efd031eac133457933fc6c5ab8fd86fe486ae",
+            "name": "GreenScapein Trekking and CAMPING",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 288,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114202259973606686786\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAeZVBvhYS23lfwEaZmVfW2p_5yQ9NfV_h0p05fqY3Vzah0ThTi7T5f3PHjb5MY50bYUynYE0ImZSkxl2TQxs4a7izcKYhsI2yjv5ltJXVSvOyxDVgQGwASKEBuLWZzDEoEhBwG5Adiz_F2pptateAiFtQGhReaaM5IbM3V9er-OqddOm7AO7gmQ",
+                    "width": 512
+                }
+            ],
+            "place_id": "ChIJ2zdmdjZt3TsRb2LEcTYUo9o",
+            "plus_code": {
+                "compound_code": "8RJ6+C4 Khubi, Maharashtra",
+                "global_code": "7JFM8RJ6+C4"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ2zdmdjZt3TsRb2LEcTYUo9o",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Post Tal, Thakursai, Pavana Nagar, Maval, Lonavla, Maharashtra 410406, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.6538722,
+                    "lng": 73.4957936
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.65502082989272,
+                        "lng": 73.49767127989271
+                    },
+                    "southwest": {
+                        "lat": 18.65232117010728,
+                        "lng": 73.49497162010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "ccff0528c90dfe004fb5a61d2decd9c6b1250347",
+            "name": "Pavana Lake Camping",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1986,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107418343155660319668\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2J2eGPPApeGn3ieYMR1YpnaIjgDNg_X3QZk9ShR0j52A8KeQpe7YVYjz-MWzGqRcj9-ATn9m-mWahw_Vmh_morjMRvc7jCFSQmNGZLUQHqSj-HKJYZFepcg3DfwTjCMrEhA3IFTY4ENPlPWaJpgE-pNXGhSAG2AGhbaJ9Ze_iPvmF0T0NC2ipQ",
+                    "width": 4192
+                }
+            ],
+            "place_id": "ChIJpZC3wkOowjsRAlcddVDy22M",
+            "plus_code": {
+                "compound_code": "MF3W+G8 Maval, Lonavla, Maharashtra",
+                "global_code": "7JCMMF3W+G8"
+            },
+            "rating": 4.4,
+            "reference": "ChIJpZC3wkOowjsRAlcddVDy22M",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 756
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Pawna Camping, Lonavla, Maharashtra 412101, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.684417,
+                    "lng": 73.488477
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.68581632989272,
+                        "lng": 73.49012187989273
+                    },
+                    "southwest": {
+                        "lat": 18.68311667010728,
+                        "lng": 73.48742222010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "28e71590811e4555415677b46720924999c03059",
+            "name": "Pawana Lakeside Camping",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3712,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104588978619847577673\">Mahesh Nair</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-pDad0BVLrgCPOu5d2KPFZcy0POtGJAh2Gwiv2kJdZi5iSiHhjCtzsnsDRbXMFmSlGKr0VGx2u0IeQ6REG2c4YoWXLCZDaqnguZ6Y-BfX-NzMjAaVo_zLXfQKi1mk-fUEhAmlRdbYwhQ5exupfc7wMiZGhQJgV1bazldRV2OMngwcbP4qj4FGw",
+                    "width": 5568
+                }
+            ],
+            "place_id": "ChIJ_Te2e7WpwjsRWiF3QG_RiJk",
+            "plus_code": {
+                "compound_code": "MFMQ+Q9 Lonavla, Maharashtra",
+                "global_code": "7JCMMFMQ+Q9"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ_Te2e7WpwjsRWiF3QG_RiJk",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 211
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Thakursai - Ajivali Road, Thakursai Pawana Nagar Tal, Dist, Maval, Lonavla, Maharashtra 410406, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.6589078,
+                    "lng": 73.4958896
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.66029932989272,
+                        "lng": 73.49700622989272
+                    },
+                    "southwest": {
+                        "lat": 18.65759967010728,
+                        "lng": 73.49430657010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "9b13ee7084474835f01192886138819094a16b7e",
+            "name": "Pawna Lake Camping Pawnacamp",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2364,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100916956069069882567\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJkYvENyYX4UcORxLYHoZZQG5hCdCYfc2uhpdPzlJBxt0-z7vyROBQ7QzJpK56tdgjN_tvOBUlmpBASKrFffGW8Jk8dH90oSOxvGSEb709TzjSI3Hf3-k40tFsRBQeC67EhCWNYjiI2n_VNZzfZUuOf-fGhRojjYCMPHPK2gtoA6lPK7FzRumbQ",
+                    "width": 3546
+                }
+            ],
+            "place_id": "ChIJR9jZ70KowjsRBZpaWXW8QZA",
+            "plus_code": {
+                "compound_code": "MF5W+H9 Lonavla, Maharashtra",
+                "global_code": "7JCMMF5W+H9"
+            },
+            "rating": 4.3,
+            "reference": "ChIJR9jZ70KowjsRBZpaWXW8QZA",
+            "types": [
+                "campground",
+                "tourist_attraction",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1843
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Eden Hills, Pendhari, Maharashtra 421402, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.2862306,
+                    "lng": 73.6391064
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.28760452989272,
+                        "lng": 73.64046217989272
+                    },
+                    "southwest": {
+                        "lat": 19.28490487010728,
+                        "lng": 73.63776252010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "09c97dff4c3488f116e3c2dcbae793ac4154cd03",
+            "name": "Malshej Nature Camp",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3144,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103777781037861347199\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAamvEEY3nHfyFDNZ8AYqicOAfd7DbEtxqKZLxitijJJgSQP8RQ1hxbgr_vK54-TvJFbd81zpoBHU8Ag5x4WkXXz6beJUp9PepU3cdovLhpYrDJYmAiIsrbORhVkO1p1AkEhAn-iehzHsimSVoPmygqewnGhRAG50jNQ_ZilllAdZpEMhWpMRKaw",
+                    "width": 4192
+                }
+            ],
+            "place_id": "ChIJ3_YOgK1n3TsRl80hh84o1rQ",
+            "plus_code": {
+                "compound_code": "7JPQ+FJ Pendhari, Maharashtra",
+                "global_code": "7JFM7JPQ+FJ"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ3_YOgK1n3TsRl80hh84o1rQ",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 61
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sayde, Igatpuri, Maharashtra 401604, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.7685223,
+                    "lng": 73.4376296
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.76985452989272,
+                        "lng": 73.43902272989273
+                    },
+                    "southwest": {
+                        "lat": 19.76715487010728,
+                        "lng": 73.43632307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "f994a577df67a0fd9781a2096b3bb342f33b4b4a",
+            "name": "Igatpuri Camping and Watersports - Treks and Trails",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 5304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100486294711472673848\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJ-EjGKV4S6XrfTRYiV1MkbzTsIaev44iujU1X6degayzymDlS4cznuZTYgKzoRwEGINoUQtkrccaPFxFkHIo9d9xCjruGKW76cR41mAJZO77YWFKdZdERbTOHbvoWGWcEhD4X_wJTfJjVfiv_m7f3_LzGhS8EiF3rBDDWJHxZ_S2jLZVkpPf2A",
+                    "width": 7952
+                }
+            ],
+            "place_id": "ChIJiculVzFj5zsRLamxte_etXY",
+            "plus_code": {
+                "compound_code": "QC9Q+C3 Igatpuri, Maharashtra",
+                "global_code": "7JFMQC9Q+C3"
+            },
+            "rating": 4,
+            "reference": "ChIJiculVzFj5zsRLamxte_etXY",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 61
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "105, Sudha Narayan Apt Shindenagar, Opp Maratha Mandir, Bavdhan, Pune, Maharashtra 411021, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.5126849,
+                    "lng": 73.7832865
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.51407857989272,
+                        "lng": 73.78464052989273
+                    },
+                    "southwest": {
+                        "lat": 18.51137892010728,
+                        "lng": 73.78194087010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "3964a311bc124ed64f53bb398efb705b8ac4c952",
+            "name": "Nisargshala Camping booking",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102323850589675523609\">Torna Hikers</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAp0_Rv87UJLfTJSkub9axNiir7vY3Bg8dt7dlePZS4Aazy6s9YuDbhziKnZXBq46cPcBxLSWquxA2S-oEnrpy1roiD8J7fgxO8vGSE-RpzMs4ig2yv3Sj6bwoggNcS1RKEhDDyJslnZ1arFaBzJA9Kfh5GhS6zmqcc_eVZBaXgzaP_PTndCYIHQ",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJRVACQb6_wjsRH2pGotVXDic",
+            "plus_code": {
+                "compound_code": "GQ7M+38 Bavdhan, Pune, Maharashtra",
+                "global_code": "7JCMGQ7M+38"
+            },
+            "rating": 4.4,
+            "reference": "ChIJRVACQb6_wjsRH2pGotVXDic",
+            "types": [
+                "campground",
+                "local_government_office",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Tikonapeth, Near, Pawana lake, Tikona, Maharashtra 410406, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.6411829,
+                    "lng": 73.5129329
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.64256662989272,
+                        "lng": 73.51420057989273
+                    },
+                    "southwest": {
+                        "lat": 18.63986697010728,
+                        "lng": 73.51150092010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "348361fc0c0a3189944bb8c981aefd40a9d51cf3",
+            "name": "Rusticville Farmstay And Camping",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 543,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100139523236549557646\">Rusticville Camping Ground</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbqmImlnwKwp0VmcUyNWMZuvZTfAtppKnf0tPtP9BUmJSxTAHoPmcsqMCQYgEJ9klQHlIhQyQfWBrashHBu5ggkRL-rAzGjrGtOs3Pa9PMm9pw2GhaM_KqzcApk8alZc9EhDz21Iijf4MrY3vkYp3VN-mGhRBpVMZghAVsXpflQvyO3xzijvCaw",
+                    "width": 963
+                }
+            ],
+            "place_id": "ChIJAzz2hICowjsR5pFEHid_XFQ",
+            "plus_code": {
+                "compound_code": "JGR7+F5 Tikona Peth, Maharashtra",
+                "global_code": "7JCMJGR7+F5"
+            },
+            "rating": 4.2,
+            "reference": "ChIJAzz2hICowjsR5pFEHid_XFQ",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 256
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "khadak gevande thakursai, below dellas bunglow, Pune, Maharashtra 410406, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.630481,
+                    "lng": 73.4964287
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.63185212989272,
+                        "lng": 73.49776277989272
+                    },
+                    "southwest": {
+                        "lat": 18.62915247010728,
+                        "lng": 73.49506312010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "2a6f9c8db9654812cefb67914cc540377480c6f7",
+            "name": "Pawna Lake Camping Thrillophilia | Pawna Lake Camping Near Mumbai | Camping at Pawna in Pune",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110424541310778096149\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkkOvMiW7zMdVWxOGiTZlfBdSlSbGXFouIfnFsyw2OF6JV4Kggrs5tzCOxlBD9pJurMgNOvBDmObjEV7inf4jxBC5c3kXTwjeumhGGutH96Kxb1SW3iB80SvdLtCjnG6kEhCk8JnOF7WfHSY0eBUFuaqvGhSk_aNlCY2OPa_ROBQJvcbpczjCFg",
+                    "width": 975
+                }
+            ],
+            "place_id": "ChIJu_glSAanwjsROdql7CihsiA",
+            "plus_code": {
+                "compound_code": "JFJW+5H Gevhande Khadak, Maharashtra",
+                "global_code": "7JCMJFJW+5H"
+            },
+            "rating": 4.9,
+            "reference": "ChIJu_glSAanwjsROdql7CihsiA",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 590
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Thakursai,post-pavananagar,Tal-maval, Lonavla, Maharashtra 410406, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.653619,
+                    "lng": 73.49629999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.65489422989272,
+                        "lng": 73.49792447989272
+                    },
+                    "southwest": {
+                        "lat": 18.65219457010728,
+                        "lng": 73.49522482010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "4a597746213d283a09d2c0cf8d251613cc5f78ef",
+            "name": "Pawana Lake camping",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108299655649608031751\">khushboo goyal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA7NEFgECvcVWgDxfDdaectsSHYuW4d8IJHjno3Cavw6p5a_xCJCVa9bEDKGfpSlGSrDoA27SeyESNJIV3prm1CpJ04GzCcIiCudbLGpi5yskKJQS6gZ3WXBGkNX5p85qZEhCwxilmPTQmpT8tQmGUESKBGhSIXLN9cNemyNqXEU8vu_D6Xl7fnw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ17r4Oe2pwjsRpG8TZelX7lI",
+            "plus_code": {
+                "compound_code": "MF3W+CG Lonavla, Maharashtra",
+                "global_code": "7JCMMF3W+CG"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ17r4Oe2pwjsRpG8TZelX7lI",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "At Post - Kashig,Taluka Mulashi, Paud, Lonavala Rd, Hadashi, Maharashtra 412108, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.6085059,
+                    "lng": 73.5189736
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.60998417989272,
+                        "lng": 73.52048282989273
+                    },
+                    "southwest": {
+                        "lat": 18.60728452010728,
+                        "lng": 73.51778317010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "0ef70111c56192003c92e0823ea2d3fabe0bab3f",
+            "name": "Tikona Picnic - Lakeside Agro Tourism",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104324952100834610773\">prits</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAK0KTrVeBYzLW-jzUwfsy1vVz-W0Ti52JAGOnwLuYGjiPnCBccGBHLHDmG9sB6lFWWuYKGCQ7iEOBxJHE-kwJbwE8v52tVENOc8Vcr_GwJpxP_yznXgMrtJsP8DAN5FMkEhDJ9YjiY9CT0K3OQ2Hv7hw7GhSnGkORMW1dgaMDdNroxKLt0Z9E0A",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ9ULYuk6mwjsRGPP96L_njPo",
+            "plus_code": {
+                "compound_code": "JG59+CH Hadashi, Maharashtra",
+                "global_code": "7JCMJG59+CH"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ9ULYuk6mwjsRGPP96L_njPo",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 603
+        }
+    ],
+    "status": "OK"
+}

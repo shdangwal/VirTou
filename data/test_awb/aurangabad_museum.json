@@ -1,0 +1,872 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_gAAAImgPpThzIT_MeVbufwiS-uUVHIAgNd00HHBPp9TlbO00-puuievePlJahtQXFB_D0XhthmnFZPoSLDXH-xlvsTA0zAWnh1HgnomieXn9QttIPmVPcLV5FZIK018h1rvAO7raoxwNnPu-Yimv8kP2MOf7eQwL0Lqeh6Nkcqn65gLeJXU1u2BD_o-WD4WzXtd8h_Jf5qEZH_uJEqinyXu152w-5YVyTsSFI4cAqn8ihwQG4CSmC9rFNNNR69_QrXv6HGWuUTfIB79VBBAgNQMe3KGdZvep5vEZzxpWvRD-oNfAb0jvrehOiSU9bnCc9JQiUMT3wiyU0-KoBg2zOEEbyoSEANbIqP8c8JSiQMGKJWyB90aFNgdM29JJlGAxQtPdRY0h_EJcmrj",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Near Govt. Arts and Science college, Himayat Bagh, Aurangabad, Maharashtra 431004, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8946229,
+                    "lng": 75.3358822
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89574967989272,
+                        "lng": 75.33724067989272
+                    },
+                    "southwest": {
+                        "lat": 19.89305002010728,
+                        "lng": 75.33454102010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "0a67e500b612e748e72170905c2d556bc94aad69",
+            "name": "Chhatrapati Shivaji Maharaj Museum",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103275209347585187922\">Ashitosh Nikhade</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACihLch2zmjRdg59aJ-nJQoDDsyrFETnPW22UVA7aWDH0uSwznRbx4q0AnP-a8jAxw_yO5QI0q3b7niqT4UX-ZLghF4QtdvMcUyDOW9kR20t7tuL3GCvyelykOuU2_70NEhDlqO_epcUXcrMc7o20GA4xGhSc2eNveGtPOELPfRkDaqTkZ7GOUw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJX166qQiY2zsRTaNfETxOmrc",
+            "plus_code": {
+                "compound_code": "V8VP+R9 Himayat Bagh, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8VP+R9"
+            },
+            "rating": 4.2,
+            "reference": "ChIJX166qQiY2zsRTaNfETxOmrc",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 928
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "MGM Campus, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8814918,
+                    "lng": 75.35467609999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88276747989272,
+                        "lng": 75.35602087989272
+                    },
+                    "southwest": {
+                        "lat": 19.88006782010727,
+                        "lng": 75.35332122010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "5475d88cc19551e7716dfb4d8b6f13f46d28346b",
+            "name": "MGM APJ Astrospace Science Center and Club.",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104500947464149614355\">Nivrati jagtap</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAqyWoyb4v__U-2ED_vIFYZUyk8DPsDQca4QSeqZUUhmZV9sQO6PM0WGJHCorSEMklmosJLZNomXAGZ5jN4jTDFi2VNIQxPgf17T3GF_bG5F8I0LBIJxOouBRFb230XBjCEhDc1iD80lIUQP-edP_JDRnwGhQN5b6qGeHAKS0YYCSIVCQ-_Ep8CA",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJ9bzXApei2zsRUOrocfiqx78",
+            "plus_code": {
+                "compound_code": "V9J3+HV Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J3+HV"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ9bzXApei2zsRUOrocfiqx78",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 115
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, 431004, Dr Babasaheb Ambedkar Marathwada University Campus, Aurangabad, Maharashtra 431004, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9052553,
+                    "lng": 75.3119924
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90652252989273,
+                        "lng": 75.31333842989272
+                    },
+                    "southwest": {
+                        "lat": 19.90382287010728,
+                        "lng": 75.31063877010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "fbe5ad1a9e2751845214e8a00d9c86c65ea00e45",
+            "name": "History Museum",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102581299097683262153\">VILAS Rathod</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfFXgUst2JlDdCU9unR0tJao27orajn4j1ouXIFyNZBTCLXjGY63m7KKqsz5EaFOwdtCo6j_WpGN4KWGD76qY-EJl9I2TBrPBJDnr4tI9K3liWDws09BQYxhOjOLuuJH1EhD_i1_bPF5Pz8UerXcMTicmGhSppgvOCvhHJhAWFNQnBrqhhTmTVg",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJIR0ProuX2zsRGVwsBMZ6hac",
+            "plus_code": {
+                "compound_code": "W846+4Q Dr Babasaheb Ambedkar Marathwada University Campus, Aurangabad, Maharashtra",
+                "global_code": "7JFQW846+4Q"
+            },
+            "rating": 4.2,
+            "reference": "ChIJIR0ProuX2zsRGVwsBMZ6hac",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 173
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sarafa Rd, Sarafa Bazaar, Shahgunj, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.888268,
+                    "lng": 75.333501
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88957377989273,
+                        "lng": 75.33484757989272
+                    },
+                    "southwest": {
+                        "lat": 19.88687412010728,
+                        "lng": 75.33214792010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "d7eb8abfa93e223478ec85c8848a3f66082cf3fe",
+            "name": "Matushree Kaushalya Purwar Museum",
+            "permanently_closed": true,
+            "place_id": "ChIJ725sJAyY2zsRH3e8uzT3SVw",
+            "plus_code": {
+                "compound_code": "V8QM+8C Shahgunj, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8QM+8C"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ725sJAyY2zsRH3e8uzT3SVw",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mosque, Nagsenvan, Aurangabad, Maharashtra 431004, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8890007,
+                    "lng": 75.3149871
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89038442989273,
+                        "lng": 75.31617847989273
+                    },
+                    "southwest": {
+                        "lat": 19.88768477010728,
+                        "lng": 75.31347882010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "853e1cb7ae666aee50e31ababf9a32cb13e08ac8",
+            "name": "Museum of Panchakki",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 900,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100334254559497856656\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMZdhZkCgrmIEIdATYXPxQAW1-bHPbxad1tJ1yqUZY0vRRVGSCR5_DBzbrhaI-xHk4jWr40AXvfqbnsK0CpUF0nExzLM1pCyRMDKe6S_1-4vkhxUXiGgqoBnWMCyHqwDoEhBks5RcElea1Z3quHb7YpNwGhRicPJ-TVm1AbO8y1W8LuNXB9xryg",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJedA_tPmZ2zsRuQUAwOxS6fs",
+            "plus_code": {
+                "compound_code": "V8Q7+JX Nagsenvan, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8Q7+JX"
+            },
+            "rating": 4,
+            "reference": "ChIJedA_tPmZ2zsRuQUAwOxS6fs",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kailash Nagar, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8761653,
+                    "lng": 75.3433139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87749477989272,
+                        "lng": 75.34466647989272
+                    },
+                    "southwest": {
+                        "lat": 19.87479512010728,
+                        "lng": 75.34196682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "b8c98e4f95a26a7cd67398c1303593ee128b9900",
+            "name": "\u092e\u094b\u0915\u094d\u0937 \u0915\u0941\u0902\u0921",
+            "permanently_closed": true,
+            "place_id": "ChIJs0xYdp-j2zsRZZbjtyNKAnw",
+            "plus_code": {
+                "compound_code": "V8GV+F8 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GV+F8"
+            },
+            "rating": 0,
+            "reference": "ChIJs0xYdp-j2zsRZZbjtyNKAnw",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Tanaji Chowk Rd, Shivshankar Colony, Sindhi Colony, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8685678,
+                    "lng": 75.3403883
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86992762989272,
+                        "lng": 75.34177152989272
+                    },
+                    "southwest": {
+                        "lat": 19.86722797010728,
+                        "lng": 75.33907187010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "5eaca935a261cd40522725d904db0a1c1d737398",
+            "name": "Tanaji Statue",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101031655341209952113\">Shradha Lankepillewar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAGGruvgaRYV935ZIcZo0jz9IRh2CaBu0mP8u-L6GfsC6rBjpSo-rOeK4F2RnbsQ2nn4LF3LfYZRtLYf_k_MceNOqjXNTsuakQgQmpVNhTuU-d3wOdPrKp8T2IvVUnWmOrEhB2LqU-7znG1H_fmz6zjuk5GhRBxV9s45rY4VsHQsQ0NGyD6zEyjg",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJayk4j3iY2zsRbllgbcoScYQ",
+            "plus_code": {
+                "compound_code": "V89R+C5 Sindhi Colony, Aurangabad, Maharashtra",
+                "global_code": "7JFQV89R+C5"
+            },
+            "rating": 3.9,
+            "reference": "ChIJayk4j3iY2zsRbllgbcoScYQ",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Moulana Azad Chowk, Kirti Housing Society, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8878638,
+                    "lng": 75.3542473
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88921432989272,
+                        "lng": 75.35559972989272
+                    },
+                    "southwest": {
+                        "lat": 19.88651467010728,
+                        "lng": 75.35290007010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "b283cd59a82e0d53e0f31fe6c456b0ce860754d1",
+            "name": "Minar E Aman",
+            "permanently_closed": true,
+            "place_id": "ChIJffsB3ryi2zsRaDdqtui3Y7o",
+            "plus_code": {
+                "compound_code": "V9Q3+4M Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9Q3+4M"
+            },
+            "rating": 5,
+            "reference": "ChIJffsB3ryi2zsRaDdqtui3Y7o",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mhra sty, City Chowk, Gulmandi, Shahgunj, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8877685,
+                    "lng": 75.3292135
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88901297989272,
+                        "lng": 75.33058847989271
+                    },
+                    "southwest": {
+                        "lat": 19.88631332010728,
+                        "lng": 75.32788882010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "bed3b1cc06634cd9deaa9ef6db6bdd4f1ea577d1",
+            "name": "ARHAN",
+            "permanently_closed": true,
+            "place_id": "ChIJHQpiozWZ2zsR3PJQKV3kCio",
+            "plus_code": {
+                "compound_code": "V8QH+4M Aurangabad, Maharashtra",
+                "global_code": "7JFQV8QH+4M"
+            },
+            "rating": 0,
+            "reference": "ChIJHQpiozWZ2zsR3PJQKV3kCio",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dr Bhapkar Marg, New Usmanpura, Pannalal Nagar, New Usmanpura, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8725048,
+                    "lng": 75.3286389
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87387077989272,
+                        "lng": 75.32990237989272
+                    },
+                    "southwest": {
+                        "lat": 19.87117112010727,
+                        "lng": 75.32720272010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "43b6d67ebe08062979b38fbd48436398cd792ff7",
+            "name": "Kala Chabutra",
+            "permanently_closed": true,
+            "place_id": "ChIJ5f91WEeZ2zsR3yScKttDW24",
+            "plus_code": {
+                "compound_code": "V8FH+2F New Usmanpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8FH+2F"
+            },
+            "rating": 5,
+            "reference": "ChIJ5f91WEeZ2zsR3yScKttDW24",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dr Ambedkar Rd, Himayat Bagh, Aurangabad, Maharashtra 431004, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8945038,
+                    "lng": 75.3290784
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89524592989272,
+                        "lng": 75.33058297989272
+                    },
+                    "southwest": {
+                        "lat": 19.89254627010727,
+                        "lng": 75.32788332010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "31fea7846c2b5f5bfac08717819d25c402a2d686",
+            "name": "Dr. Babasaheb Ambedkar Research Centre",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107712309386149513120\">prashant pattekar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwe5wUf-kfeIyLg81nNS6MeIaaXn-DfGq0OOJtKTD1B00rxD4Q0LOV03JPFowi06IAP3BK-zCqzghy253OD1x8qQ95TvApc81YeUeg4-Ej-wDLP6YwvogYtvcNzlHiQhFEhCoBuZ992Y4gXabPU_RJ3_zGhQNLp6HXyL4XTsenr5OvUtF70-muQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ39IwqRqY2zsR0VV9UFhRjmQ",
+            "plus_code": {
+                "compound_code": "V8VH+RJ Himayat Bagh, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8VH+RJ"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ39IwqRqY2zsR0VV9UFhRjmQ",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Maharashtra 431101, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.921367,
+                    "lng": 75.3184153
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.92290975,
+                        "lng": 75.31982177989272
+                    },
+                    "southwest": {
+                        "lat": 19.91673875,
+                        "lng": 75.31712212010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "054cdf3d55f66dc2acec9bb70cab2c13fb07bbe3",
+            "name": "Aurangabad Caves Right",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114522930112633620051\">Faisal Shaikh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAXqc-DeA7IRXW16EJifChRAzFXbBFBZlpyTJeCMTpZ_xkI_54ueA5hG7_enuW3zrc8fe-e8bT-jhrq_gA8p8LuzTegV0l8ljcn0ctCI5o8XR4ItAr1MhaxdIIbdMDcenlEhBIetxjWUF0P93fjNGCs_8BGhTSEUp_tgvzGKDYrTaBRo4uFMBkkQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJcZobseyX2zsRbgCQ0leV3ME",
+            "plus_code": {
+                "compound_code": "W8C9+G9 Aurangabad, Maharashtra",
+                "global_code": "7JFQW8C9+G9"
+            },
+            "rating": 4.4,
+            "reference": "ChIJcZobseyX2zsRbgCQ0leV3ME",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 78
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Aurangabad, Jaisingpura, Begumpura, Aurangabad, Maharashtra 431004, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8950296,
+                    "lng": 75.3178199
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89647312989272,
+                        "lng": 75.31901937989271
+                    },
+                    "southwest": {
+                        "lat": 19.89377347010728,
+                        "lng": 75.31631972010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "523ee1b81334299db0e0989ff566116066dde86e",
+            "name": "Shiv Art",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107172023508035807585\">suresh Asole</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAeBZw1dcOv5Zv89neyrssm2glQeu-3rKmVOfzlMqMx6imYYuskWrh2QxnXAKNISHjb4HjXydsSA_LuZoE_cmlXXSGxY1F2VEXwcU6ZBddbjuQMp5Vdu3AO5x-9EQrAVyxEhDQMrx1RAr8_NTLbeCgNI92GhRf-EEFjD0KqfHMgd3VAIR9BdIjUw",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJ3XrwnSKY2zsRKx6Kbbq-mLo",
+            "plus_code": {
+                "compound_code": "V8W9+24 Begumpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8W9+24"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ3XrwnSKY2zsRKx6Kbbq-mLo",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jai Vishwa Bharti Colony, Ulkanagari, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8657331,
+                    "lng": 75.342655
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86716792989272,
+                        "lng": 75.34402082989271
+                    },
+                    "southwest": {
+                        "lat": 19.86446827010728,
+                        "lng": 75.34132117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "1c1235f43795faf6f4dbf52721765475f495a561",
+            "name": "Chandra-Deep Dhanure House",
+            "permanently_closed": true,
+            "place_id": "ChIJtVY_qdGj2zsRnHi1T353V5k",
+            "plus_code": {
+                "compound_code": "V88V+73 Ulkanagari, Aurangabad, Maharashtra",
+                "global_code": "7JFQV88V+73"
+            },
+            "rating": 0,
+            "reference": "ChIJtVY_qdGj2zsRnHi1T353V5k",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Said Nagar, Deolai, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.848275,
+                    "lng": 75.351601
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.84962527989272,
+                        "lng": 75.35295712989272
+                    },
+                    "southwest": {
+                        "lat": 19.84692562010727,
+                        "lng": 75.35025747010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "840334240afc707a3ac98e2efb8cf51e5d776714",
+            "name": "Moin\u2019s Home",
+            "permanently_closed": true,
+            "place_id": "ChIJk_nXTmyj2zsR4FR3ht55zcw",
+            "plus_code": {
+                "compound_code": "R9X2+8J Deolai, Aurangabad, Maharashtra",
+                "global_code": "7JFQR9X2+8J"
+            },
+            "rating": 5,
+            "reference": "ChIJk_nXTmyj2zsR4FR3ht55zcw",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Himayat Bagh, Aurangabad, Maharashtra 431004, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9029707,
+                    "lng": 75.3404785
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90443562989272,
+                        "lng": 75.34184062989272
+                    },
+                    "southwest": {
+                        "lat": 19.90173597010728,
+                        "lng": 75.33914097010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "3ba85c810d5e3212c8b7c226dc0d616af876702b",
+            "name": "Datta Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115436259627583934305\">Anil Mungikar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARdod_U-BNsbgS1z-hnc402fxvOe0bzCILEU2P2vNNoxoY4qFEhZDa3b283SJg7ciQqseRSDVTIF4wtdGgkFYFaPoLvQGGiDHIdxrLdjw0mlUBLEp4zsfGzBG_7ROBxyoEhB-JO8w7w5BRQz7_1WR6212GhS7s_scGh8IXe94Og9GVuJ81pge6w",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJfYGVRQWZ2zsRVk9uCwOUOhg",
+            "plus_code": {
+                "compound_code": "W83R+55 Himayat Bagh, Aurangabad, Maharashtra",
+                "global_code": "7JFQW83R+55"
+            },
+            "rating": 2.5,
+            "reference": "ChIJfYGVRQWZ2zsRVk9uCwOUOhg",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "ulkanagri, near jai vishvabharti colony, Aurangabad, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8645796,
+                    "lng": 75.3374359
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86604812989272,
+                        "lng": 75.33872987989272
+                    },
+                    "southwest": {
+                        "lat": 19.86334847010728,
+                        "lng": 75.33603022010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "a215b64dddd42a63eaad2dcdb5dee8441c150dcd",
+            "name": "Bharat Mata Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118323197951925428433\">Sushant Wadjikar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAdpynnqqcAzUdxOBAMjC1o2AX0lWCwMZT28QgQrk4NR-SUdXNO1XCivDrGXtYu_DkG50yD69Rl7udO4ww18KCAccZRokfgRiqiX0iuc99AWOmnvWodGgmGA6hgMWLhv4REhD7YbYHULKaBA9H5bI5yJRlGhRw9dI5qvzve6ca-F_9Ep2YRyh3Wg",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJ360Ew36Y2zsR-7B8HGOJzFs",
+            "plus_code": {
+                "compound_code": "V87P+RX Aurangabad, Maharashtra",
+                "global_code": "7JFQV87P+RX"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ360Ew36Y2zsR-7B8HGOJzFs",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "museum",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 51
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "80, nawathe, Shantipura, cannt, Padegaon, Aurangabad, Maharashtra 431002, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.881727,
+                    "lng": 75.306545
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88306027989272,
+                        "lng": 75.30793462989271
+                    },
+                    "southwest": {
+                        "lat": 19.88036062010728,
+                        "lng": 75.30523497010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "fa0a0ffd6906a0d160f7f08cd2e9a9ab2a7364e3",
+            "name": "Pravin R. Nawathe",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114584793360539904799\">Pravin Nawathe</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAb_m85bUn4Gb7WpjHAPQ2kSf4WNYNumdACv3YjPkRUNYLxmCo4KHLd5k6slUrE0Cz9esdAjV6hOJosKjV8JRONqVOSdHscaPAfoqG895kf-OgwYaGZrkPlxlLSOQPluWNEhDZXgNyDbaM8W2SXC0Pfue9GhT3HwZLhsmKBHqTNKJge3J6R1bsGQ",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJf_dqHDiY2zsRPnKa-EUQxFw",
+            "plus_code": {
+                "compound_code": "V8J4+MJ Aurangabad, Maharashtra",
+                "global_code": "7JFQV8J4+MJ"
+            },
+            "rating": 5,
+            "reference": "ChIJf_dqHDiY2zsRPnKa-EUQxFw",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nirala Bazar Rd, Sahjeevan Colony, Nutan Colony, Samarth Nagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8781967,
+                    "lng": 75.3235138
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87951537989272,
+                        "lng": 75.32485877989271
+                    },
+                    "southwest": {
+                        "lat": 19.87681572010728,
+                        "lng": 75.32215912010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "0c6979b8503892ef622d84f5bb2842693f24e52a",
+            "name": "phoenix study poit",
+            "permanently_closed": true,
+            "place_id": "ChIJSfEMiWuY2zsRsK6s_ZuGYzw",
+            "plus_code": {
+                "compound_code": "V8HF+7C Samarth Nagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HF+7C"
+            },
+            "rating": 0,
+            "reference": "ChIJSfEMiWuY2zsRsK6s_ZuGYzw",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Hudco, Yadav Nagar, N 11, N 13, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9095526,
+                    "lng": 75.34654499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.91086032989272,
+                        "lng": 75.34785922989272
+                    },
+                    "southwest": {
+                        "lat": 19.90816067010728,
+                        "lng": 75.34515957010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "514c32012826aeebef8e950afe2d650b77104b17",
+            "name": "Silver Art Palace",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 612,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108224711994699287831\">Riddhi Mishra</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAeI2O-b0I2BPVYZaDB4t8HDo8B_1tZtiwyS4dQUj_FBuIwEmboFQNnKMYUPXtpdgr6s6dvD8I34eo33fMxOO8cTc_7fPiMkaGLZcOTEs1bAhe2cJuurDr5rptOJfGtxzAEhAwN4ng9awVIuYhe49W7EtDGhQnxkwVSRRFu0C9PhDwBvnVk2IK7w",
+                    "width": 816
+                }
+            ],
+            "place_id": "ChIJEQfmhFS92zsR7NQXbuF2-fY",
+            "plus_code": {
+                "compound_code": "W85W+RJ Aurangabad, Maharashtra",
+                "global_code": "7JFQW85W+RJ"
+            },
+            "rating": 3.5,
+            "reference": "ChIJEQfmhFS92zsR7NQXbuF2-fY",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        }
+    ],
+    "status": "OK"
+}

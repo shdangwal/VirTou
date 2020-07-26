@@ -1,0 +1,967 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQCAAEAACmOOBp9mE0R3KbVZ5YfZN87lOwilHyKwQVXAA97XM2bi9aJlI2ONk5T68P-gFJpYzh70aMgKpVNerm4PPsVbZQ-uTL9SsQQscfPeHQbPPhzGttvfcEPNrwQDx_hdNhzj_CVEEv7pUUuhRZPFRZPXsUZZri1v2vI0AaoEWYWEDDNwNmZmjJOAkVSt2AIX8nOydy5EU1NCUTbxugK8PwJg7_dGfbjOBt_LaT4J1c5n99PWamg7708nrolw61hmApYkY7f_LKmd9ylfeLJH4ZQp0JIAeetHMc7so1-21oufrlz-k-JhgCjSYv3y7a3-RExH1NR3Q4zzvgsZ5t4PJvXBjoSEBQ3rl1LusYIjsO70-HgfskaFHRua8FFyau06_kUOIXhRa2Gm4Xe",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "43, Jalna Road, Behind Hotel Yashodeep, Raghuveer Nagar, Surana Nagar, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.876923,
+                    "lng": 75.350141
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87829457989272,
+                        "lng": 75.35139467989272
+                    },
+                    "southwest": {
+                        "lat": 19.87559492010728,
+                        "lng": 75.34869502010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "a72614f47ee2a7ea5f7bddbd6c4704e64ba13b68",
+            "name": "Deogiri Children's Hospital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100639706941411169130\">Indiacom Ltd</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJMCNi64H91OqWAXN2CUnRGxZezt3vwyZ6UEg8Ip4ljhq0wQArQhRlVDv8ZzwyFwJsKkaHRsPZyFTikedl7s4rU-cWxDUI8eyqbXpg8lY1s-aAoE3BmDikY_gP8rc1LOyEhCQ8K-RaiJvtbWj_7rjCm0uGhQjVy0mW9fdjXbmdcpzFrO3kQHsWw",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJiZvySpqi2zsR4EI-EkDb0So",
+            "plus_code": {
+                "compound_code": "V9G2+Q3 M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G2+Q3"
+            },
+            "rating": 4,
+            "reference": "ChIJiZvySpqi2zsR4EI-EkDb0So",
+            "types": [
+                "hospital",
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No.52, Raghuveer Nagar, Surana Nagar, M G M, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.877022,
+                    "lng": 75.349891
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87836412989272,
+                        "lng": 75.35127482989272
+                    },
+                    "southwest": {
+                        "lat": 19.87566447010728,
+                        "lng": 75.34857517010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "e42fa757ef4d1f1b0e6a2456cf7f6801733a8cc7",
+            "name": "Jyoti Maternity Home And Sonography Clinic",
+            "opening_hours": {},
+            "place_id": "ChIJf9letZui2zsR6cgCEoc3DMc",
+            "plus_code": {
+                "compound_code": "V8GX+RX M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GX+RX"
+            },
+            "rating": 5,
+            "reference": "ChIJf9letZui2zsR6cgCEoc3DMc",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Raghuveer Nagar, Venkatesh Nagar, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8766066,
+                    "lng": 75.347979
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87794462989272,
+                        "lng": 75.34937282989273
+                    },
+                    "southwest": {
+                        "lat": 19.87524497010728,
+                        "lng": 75.34667317010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "59274eb7f87986aaf665f2c816a280c12c781067",
+            "name": "Cigma Hospital",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 1392,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115451874965098407074\">Balkrishna Jadhav</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAqb7_OC1vkZPsR5Lt3DP-TVyzmFiqWVkr8QxUXrHwW1MKTCmS85llsEYp0k6CC8ja565jbgZnE9rZhL5IEiJntE1X7j6gGklx8xT_DFr1hXf1RYFSOXx8MDpKUPQo3O2KEhBDRVgrWgdEfB_GtQPAOvdiGhRqWWN_QjOu99CBe48gkFHZYST-kQ",
+                    "width": 1392
+                }
+            ],
+            "place_id": "ChIJAWpbz5yi2zsRb8A6HL7thIg",
+            "plus_code": {
+                "compound_code": "V8GX+J5 M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GX+J5"
+            },
+            "rating": 3.6,
+            "reference": "ChIJAWpbz5yi2zsRb8A6HL7thIg",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5-8 Bassayye nagar, Opposite SFS School, Jalna Road, Sanjay Nagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8812498,
+                    "lng": 75.34715430000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88269222989272,
+                        "lng": 75.34854242989273
+                    },
+                    "southwest": {
+                        "lat": 19.87999257010728,
+                        "lng": 75.34584277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "59c2e26a57b9f579c3e793d34e3738fb399d5fa2",
+            "name": "Apex Superspeciality Hospital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107837765910805327972\">sagar nilekar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkN-kzJE3ot8llIMyfCdVa0lxt1lTk7ubRljDjHj-Yybnnh5ZjZXp8ywbpqE2DB22SXR8eYPgZHGN1wzzk7nkqsQ2Oo5u-Q6SY_x2yMv8Zb1ERew7Oe9tYmLf7JlJtDVgEhBeLlFeeK_5qdTC9v2c4y21GhRK9QBBJV244moYnd97_WaEwaHC9w",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJr9IL1Zii2zsRpumDRwBHkMc",
+            "plus_code": {
+                "compound_code": "V8JW+FV Aurangabad, Maharashtra",
+                "global_code": "7JFQV8JW+FV"
+            },
+            "rating": 3.6,
+            "reference": "ChIJr9IL1Zii2zsRpumDRwBHkMc",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 148
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "55, Jalana Road, Opp.St.Francis School, Mahesh Nagar, Mondha, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.877793,
+                    "lng": 75.3468709
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87913137989272,
+                        "lng": 75.34828917989273
+                    },
+                    "southwest": {
+                        "lat": 19.87643172010728,
+                        "lng": 75.34558952010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "0cba89daebd23ac81c3ecae346016c41d62304c6",
+            "name": "Kabra Hospital",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100639706941411169130\">Indiacom Ltd</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAq8SE_IDsDJu-bY8AmUz7CE86eFfV6D1DfgQq8K7O9OIwShxIPlNUnkENKcQ435UosHqAKTSbksUwzpCgBK4ZAzX_YUwZfMQnCFxg81Kw8A2faSi863fKuRnlmBnH9lIQEhBYAbS6YAIyc1xZhiAXrN8IGhTmdpOW4088XpKejvwEyvPc3L64sw",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJ_YogB5yi2zsRqBZmNGZQ_Qc",
+            "plus_code": {
+                "compound_code": "V8HW+4P Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HW+4P"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ_YogB5yi2zsRqBZmNGZQ_Qc",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "34, Jalna Road, Jlal Colony, Vidya Nagar, M G M, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8778993,
+                    "lng": 75.35417389999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87910892989272,
+                        "lng": 75.35551147989271
+                    },
+                    "southwest": {
+                        "lat": 19.87640927010728,
+                        "lng": 75.35281182010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "df8bf13e6708ae0c4c349f22464cb530dbf5b5a5",
+            "name": "M.G.M. Hospital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103146145200755132868\">103146145200755132868</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAd0HRqQsKTWdAfcAKdRpFIPpptUV-HQ9Mc_PyGZ3Uh8rs0x1IAr-bdJsv_BpqFzfAnR3YVlWiYA2xH5oqf4ygYTHHl7L73GI73Ed3c6Pvuh8icLctaY279NAaIDn7xkSUEhBYMozbZ0odYfaaHk-g8pifGhTsIbyf2xJTK_iBlDqnXmkAQXLLVw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJXazyuZ2i2zsRIUSfZwfrF0Q",
+            "plus_code": {
+                "compound_code": "V9H3+5M M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H3+5M"
+            },
+            "rating": 3.8,
+            "reference": "ChIJXazyuZ2i2zsRIUSfZwfrF0Q",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 62
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dr YS, Khedkar Marg, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.879288,
+                    "lng": 75.36008199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88074027989272,
+                        "lng": 75.36144737989272
+                    },
+                    "southwest": {
+                        "lat": 19.87804062010728,
+                        "lng": 75.35874772010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "ad5b2497d1565a1ed8817193b99d13e9d1ed318b",
+            "name": "YSK Superspeciality Hospital Aurangabad Brain Kidney Spine Children Cancer Orthopedic ENT Gynaec",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3648,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106485849873384547422\">YSK Hospital</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwWHF58Dy018umXHdT838ZXriQh-skzOlco9RrMR25QMRjuGOo1mjjz1A5xU_HE98Yd0WKeM6f_nMo-w04yo_TYY7zwVLXOOvX9JjaB8wyYUNaYhcKNve6xUeT7XcwkNaEhBURfgGEzaHv_T3QX-ca9FbGhRS80BR6ipJK9hZoPw86FUTcLVBog",
+                    "width": 5472
+                }
+            ],
+            "place_id": "ChIJc3L79ZOi2zsRMLHCcmOsoBI",
+            "plus_code": {
+                "compound_code": "V9H6+P2 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H6+P2"
+            },
+            "rating": 4.6,
+            "reference": "ChIJc3L79ZOi2zsRMLHCcmOsoBI",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 198
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Juna Bazar Rd, near Head Post Office, Town Hall, Buddi lane, Naralibag, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.889236,
+                    "lng": 75.326152
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89024512989272,
+                        "lng": 75.32746112989271
+                    },
+                    "southwest": {
+                        "lat": 19.88754547010728,
+                        "lng": 75.32476147010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "d0910d8f0b56fdf034dc77969f94cc329e3ea9c8",
+            "name": "Aurangabad Hospital Mother And Child Care",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105158778128261689114\">khanjunaidali</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACpW29f2GbNdC6fGAK7if30Q5vJxQP_joaCyi8OoULvEKtXdglbdZ1AXICITyChx_OSQJDwd61igzt41pNlJV5dfwXDV7JeoccgIWG3ChMzb7sEI08MEN5H2LNnbOy9hREhAz4ycgMah5eA56LFj7FLj1GhRQK7ZMhoxppZ1IT0vG9gxK7K0f8Q",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJMy3acxGY2zsRqj38QX7CcbQ",
+            "plus_code": {
+                "compound_code": "V8QG+MF Aurangabad, Maharashtra",
+                "global_code": "7JFQV8QG+MF"
+            },
+            "rating": 4.3,
+            "reference": "ChIJMy3acxGY2zsRqj38QX7CcbQ",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Motiwala Square, Jalna Road, Akashwani Chowk, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8758505,
+                    "lng": 75.3454994
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87720162989272,
+                        "lng": 75.34670742989272
+                    },
+                    "southwest": {
+                        "lat": 19.87450197010728,
+                        "lng": 75.34400777010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "b6a7e2fe1a5c12d72964392757dfbd318578b864",
+            "name": "Asian Citicare Superspeciality Hospital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117176098529592344836\">MIRZA AASEF</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAXCDrmsgzg0YRBKzUUNcCdKfA95c14pSmtjqQYX5h-DMPo2Z7cQATxVyf1o_eV3PT8UBYJKzMorTn9aBfjc0Hc8hV2pgPDOvaKDIL_Moysy2l-H04tsSSgwJPg3koD3m1EhCnfJp6eWL2_Bp99bmai_5RGhRu70hEF06bWHOyRRlsWz80jy08JA",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJa9K6_m-Y2zsRd3QazsYX7go",
+            "plus_code": {
+                "compound_code": "V8GW+85 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GW+85"
+            },
+            "rating": 3.7,
+            "reference": "ChIJa9K6_m-Y2zsRd3QazsYX7go",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 91
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Unnamed Road, Motiwala Nagar, Nyay Nagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8754825,
+                    "lng": 75.3508737
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87682627989272,
+                        "lng": 75.35222222989273
+                    },
+                    "southwest": {
+                        "lat": 19.87412662010728,
+                        "lng": 75.3495225701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "a113c45b80947f0fa391afa1608d70104bd8f2a7",
+            "name": "Cigma Hospital",
+            "place_id": "ChIJMXhd1VSj2zsRxSBg4TXoLEw",
+            "plus_code": {
+                "compound_code": "V9G2+58 Nyay Nagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G2+58"
+            },
+            "rating": 4,
+            "reference": "ChIJMXhd1VSj2zsRxSBg4TXoLEw",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "PLOT NO 74,79 ;BASAINAGAR, NEAR, Apex Hospital Road, AKASHWANI CHOWK, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8814226,
+                    "lng": 75.3457238
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88276742989272,
+                        "lng": 75.34713117989271
+                    },
+                    "southwest": {
+                        "lat": 19.88006777010728,
+                        "lng": 75.34443152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "130fe23d9af371fd42b1464df1c01f0988a80279",
+            "name": "GANGA HOSPITAL AURANGABAD",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 666,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114241516261095256002\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAuLkQ1riowk1Ax9Cm_Sh9pH3NaRa68yrCPXXo5N0vqpmj5RgAJVwNNxwutahbBp08Qjbq58Yt76K3AF9ZcAH4HPKvHCUVVQvrDPFJPYfPVpNSiQbcHD5nAbA3-RA6V9v3EhDmX6quIcvbDg4mMgag5dfbGhTbWdlwrZ5f7Ez1sEepPmqTCbPr4g",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJq6qqGpyi2zsRWDVkthVIi7c",
+            "plus_code": {
+                "compound_code": "V8JW+H7 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8JW+H7"
+            },
+            "rating": 3.8,
+            "reference": "ChIJq6qqGpyi2zsRWDVkthVIi7c",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Near Gajanand Maharaj Mandir, Jawahar Colony Rd, Garkheda, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8692712,
+                    "lng": 75.3478556
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87085837989272,
+                        "lng": 75.34930287989273
+                    },
+                    "southwest": {
+                        "lat": 19.86815872010728,
+                        "lng": 75.34660322010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "205a9651964d75296d6d86799528d75c897e0964",
+            "name": "Dr. Hedgewar Rugnalaya",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104273541984203536453\">Dr Hedgewar Hospital</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFL_mXEuo5c3dfurY-ogX2emQLwwWvofkm2jVpfwF80xhUksEyR44bKuwZ3KRbne0UVy3Do9-ONYgxUYuGPj7Gxk2QSlNolkKl2rBpmMjy7O0bRYu70fiz-k5XYDymD0qEhDDpodLP_Bpk0yUcgWHDE2fGhSul1Gn8Q5_L80H0xfOZubij2N1_Q",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJieDuZISi2zsRSbjP8z6xe2U",
+            "plus_code": {
+                "compound_code": "V89X+P4 Garkheda, Aurangabad, Maharashtra",
+                "global_code": "7JFQV89X+P4"
+            },
+            "rating": 4.1,
+            "reference": "ChIJieDuZISi2zsRSbjP8z6xe2U",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 352
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8, 9 Jalna Road, Opp. Akashwani, Manjeet Nagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8780721,
+                    "lng": 75.34480359999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87941952989272,
+                        "lng": 75.34608467989271
+                    },
+                    "southwest": {
+                        "lat": 19.87671987010728,
+                        "lng": 75.34338502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "1d1cbf1cc9345fe67561fd4a589a0be3a82524c0",
+            "name": "Kodlikeri Memorial Hospital",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 4096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117176098529592344836\">MIRZA AASEF</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxok_Onk7a-L7o7CUFOq96N13_DXW3RGowfq9ltwOs7EsbETLXP7KO7tQyKaI9zEABeV2gsQb8Q8wkmCshgVL3tkES4ywsKYLtfzaXM8ppvqZrdckwM4N7_61SgHyNViPEhCcvRi8ceKPAsfEh3aXHBpiGhR6vd5Q8ok429pieF-p6QRXmXmy8A",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJY7xpoxWY2zsRqJLVPqCm160",
+            "plus_code": {
+                "compound_code": "V8HV+6W Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HV+6W"
+            },
+            "rating": 2.9,
+            "reference": "ChIJY7xpoxWY2zsRqJLVPqCm160",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "29 Venkatesh Nagar, Jalna Road, Opposite St. Francis School, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8786736,
+                    "lng": 75.347379
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88003097989272,
+                        "lng": 75.34867907989272
+                    },
+                    "southwest": {
+                        "lat": 19.87733132010728,
+                        "lng": 75.34597942010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "5fc4037b331f802f32532fdca482ee97147f3dfd",
+            "name": "Totla Hospital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 375,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115464174751674023741\">Totla Hospital</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-UUhKsabhUpqjQvMEhvag4dgr7AhYVv6CwwGD4Z-w0NUlX9tECsKNFJI-33OHGFYQRVNcBFfNcLdwyrYueTGcpnp5_xLiRVa9Bll4PbJNi8qsPfvsCg4uXdr3b8eCZoTEhDEBka8d20OD5kcEAaeyxlLGhQbDmlftDDd_S6Y6hu9EclW0Xyiiw",
+                    "width": 500
+                }
+            ],
+            "place_id": "ChIJq6qqGpyi2zsRvoY95Ljq8PU",
+            "plus_code": {
+                "compound_code": "V8HW+FX Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HW+FX"
+            },
+            "rating": 4.1,
+            "reference": "ChIJq6qqGpyi2zsRvoY95Ljq8PU",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No.11, Venkatesh Nagar, Opp. S.F.S School, Jalna Road, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8790856,
+                    "lng": 75.347109
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88042262989272,
+                        "lng": 75.34853222989273
+                    },
+                    "southwest": {
+                        "lat": 19.87772297010728,
+                        "lng": 75.34583257010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "9e805602408f08809717698f2edc90e20b99446d",
+            "name": "Carewell Superspeciality Hospital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113870814012854044886\">mayur bargaje</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAiGf3l172Qfzt0Ur0J-3hc3XfNyRkrvN76knMX5tPTT3jp49vbjrZEdOrR2lgdAD4oiciKP2GAFPGEWazm1KR0D_XDZX5iK_9svwtBjpuM3ZazF2CyPhskQ96FvytR7hREhBsixZwI9oo77RlGeYKZ4ksGhT_LVJwko8jyOM4fpzpy9QayRzxUA",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJz4WkrZ6i2zsRQpnHjCRBcbU",
+            "plus_code": {
+                "compound_code": "V8HW+JR Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HW+JR"
+            },
+            "rating": 4.7,
+            "reference": "ChIJz4WkrZ6i2zsRQpnHjCRBcbU",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot 2, Jalna Road,Opp. Akashwani, Manjeet Nagar, Mahesh Nagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.877185,
+                    "lng": 75.344759
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87853432989272,
+                        "lng": 75.34609977989271
+                    },
+                    "southwest": {
+                        "lat": 19.87583467010728,
+                        "lng": 75.34340012010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "5900e10aede356bd3089a8f80e16bcc34a191b70",
+            "name": "Gandhi Multispeciality Hospital ORTHOPAEDIC , GYNAECOLOGY , PAEDIATRIC",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3672,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109065544584021425745\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAurTtimqot0YpyHf_ggut-Rzbi8HiLHUE4kFlc1kbhX9j91G7iORHxZIRbSpu73npUfHi5KD7Khl0nxy4gk20udxgtwY2e28blqsL5Hq1-d97LT13AhjPXRu63pBEYFk3EhBqhd3HObHPtldUdGVHoi8kGhRl1US1shlf8X6UpYQO6zIBuHMs_g",
+                    "width": 4896
+                }
+            ],
+            "place_id": "ChIJKb8GMJyi2zsRVHBERndcoa8",
+            "plus_code": {
+                "compound_code": "V8GV+VW Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GV+VW"
+            },
+            "rating": 4.9,
+            "reference": "ChIJKb8GMJyi2zsRVHBERndcoa8",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Aurangabad, Venkatesh Nagar, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8776017,
+                    "lng": 75.3532086
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87895072989272,
+                        "lng": 75.35460932989272
+                    },
+                    "southwest": {
+                        "lat": 19.87625107010728,
+                        "lng": 75.35190967010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "0a13a2dcf09988d66746b8866c176db838e4ee4d",
+            "name": "Jilha Hospital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJZ2BcoZCi2zsRdPLrdHBhlAo",
+            "plus_code": {
+                "compound_code": "V9H3+27 M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H3+27"
+            },
+            "rating": 4.8,
+            "reference": "ChIJZ2BcoZCi2zsRdPLrdHBhlAo",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No.8, Central Naka Rd, Motiwala Nagar, Indira Nagar, Kiradpura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.879641,
+                    "lng": 75.35320899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88098747989272,
+                        "lng": 75.35465977989271
+                    },
+                    "southwest": {
+                        "lat": 19.87828782010728,
+                        "lng": 75.35196012010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "145554ab08cb30af7f556845b491af66890102be",
+            "name": "International Hospital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110909361634126550185\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAcj7AAaAtQPo2xPBtqDApPpujh71ohWMuJk8N9ZaR7xatCcACEnpj4_9tHmcH2x3Hl2dEmlT32towsFB152tz8dVGTOxODlUKqdDJ_lSF6dWha7mkt2TtYdjwl_hsn8f6EhBHn_EjVe1Zpy22jFgSxOUQGhSXpX9Msd3IfpLouB6nukpfpn6Fxg",
+                    "width": 4496
+                }
+            ],
+            "place_id": "ChIJsf-qWZei2zsRTHYPwiea2X4",
+            "plus_code": {
+                "compound_code": "V9H3+V7 Kiradpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H3+V7"
+            },
+            "rating": 4.4,
+            "reference": "ChIJsf-qWZei2zsRTHYPwiea2X4",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mahesh Nagar, Mondha, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8780163,
+                    "lng": 75.3469835
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87936037989272,
+                        "lng": 75.34836762989272
+                    },
+                    "southwest": {
+                        "lat": 19.87666072010728,
+                        "lng": 75.34566797010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "b0f69c8f69568fd0bf133f77784ec55643838366",
+            "name": "Papinwar Hospital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111387197934522072280\">Riteish Gholap</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAz5RMNIOkI3iwtcghi4A8tJOfiD2i9KL9CqJsqwJqCP90MALqzkhtUUHdIZsUiKzXNJ_zahb9fj1sXtOXP6ePYxTlylVuA16tuq9w4Fk5Npg9SCLttNmDGD3lhondMjfYEhAqK6FDrua6-xTeMLsiQXZrGhQhGM8CLo-HJxfKoJ-c05xhc3JT0Q",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJEyNoQjSj2zsRbjFApt3xUPE",
+            "plus_code": {
+                "compound_code": "V8HW+6Q Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HW+6Q"
+            },
+            "rating": 5,
+            "reference": "ChIJEyNoQjSj2zsRbjFApt3xUPE",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "34, Jalna Road, Jlal Colony, Vidya Nagar, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8761653,
+                    "lng": 75.3433139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87749477989272,
+                        "lng": 75.34466647989272
+                    },
+                    "southwest": {
+                        "lat": 19.87479512010728,
+                        "lng": 75.34196682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "4f07029e7ad3c6e9509eea86b5088d46e596233b",
+            "name": "Ghati Hospital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114594476357993227780\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASlX6IRRVB-L8fahFGPHndE4hJM0NgSqGTJAQ7edI2RmjSKAt_HOcDj80T3u0KhgFhxKy6mQfCX6Nop50xzMWflKFlmrxWOeinWiiNLy-S11j9IpSqe8wJ-Fw8QDRzKuzEhCadaEkCm4Q5mVYNQa6yoDfGhTTtoV81Flv-SLyHc6u-JSe0LACcw",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJXazyuZ2i2zsRYT48ec8mEiA",
+            "plus_code": {
+                "compound_code": "V8GV+F8 Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GV+F8"
+            },
+            "rating": 3.4,
+            "reference": "ChIJXazyuZ2i2zsRYT48ec8mEiA",
+            "types": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28
+        }
+    ],
+    "status": "OK"
+}

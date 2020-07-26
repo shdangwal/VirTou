@@ -1,0 +1,56 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Museum Rd, Ram Niwas Garden, Kailash Puri, Ramniwas Bagh, Jaipur, Rajasthan 302004, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9123097,
+                    "lng": 75.8211759
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91310972989272,
+                        "lng": 75.82241707989272
+                    },
+                    "southwest": {
+                        "lat": 26.91041007010728,
+                        "lng": 75.81971742010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c25b2273ef4c50430f78becf4da9bf2dbdeeb644",
+            "name": "Jaipur Zoo",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104174900223627988826\">INDRADIP NANDI</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQ91pSuOczo0hnKR7YplvHuU2hVFhPwUK7sgmgzy2MD-aCn3bcq-c1PDRcEHJwF6615GutfZzkrNoMsZzj3puByiZOYy0JZLTk693eB6AAT_IOT9ZiY2UcqnoKaN7bRhlEhD_ZxXnREcL_UeP8qbmk-rkGhTIwfDgaVShiLpspZjuN35uGdmAmg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJlUU0la22bTkRYjOPfx2lY9E",
+            "plus_code": {
+                "compound_code": "WR6C+WF Jaipur, Rajasthan",
+                "global_code": "7JRQWR6C+WF"
+            },
+            "rating": 3.4,
+            "reference": "ChIJlUU0la22bTkRYjOPfx2lY9E",
+            "types": [
+                "zoo",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5525
+        }
+    ],
+    "status": "OK"
+}

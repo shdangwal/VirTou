@@ -1,0 +1,103 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Pranay Plaza, Near Shradha Gas Agency, Aurangapura Bhaji Mandi, Gulmandi, Aurangpura, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.884545,
+                    "lng": 75.329448
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88592827989272,
+                        "lng": 75.33080072989273
+                    },
+                    "southwest": {
+                        "lat": 19.88322862010728,
+                        "lng": 75.32810107010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "409b68e4aa16f146fd5a9d2dcd40dfbc59e45dc1",
+            "name": "Gajanan Art Gallery",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116177486885753585564\">PRAMOD PATEL</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACwiizC5IjV08GdQ4Z54-UvA5QBRkU3qkfg2juo0zG_ojyYtyd_yCBh_wibGs36aGHVWHgE4zabnFOCXi_KZVk9r9RRG5m2T17e9d1CJ6DxH3SXk19sXKUUFB3tJpTv_rEhDh56w5_BO0NL4UejqUK5vCGhSltaN__r2INzdZBV-NZifEoDjoOg",
+                    "width": 1960
+                }
+            ],
+            "place_id": "ChIJY7xpoxWY2zsRf6xlpdHocZ0",
+            "plus_code": {
+                "compound_code": "V8MH+RQ Aurangpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MH+RQ"
+            },
+            "rating": 3.8,
+            "reference": "ChIJY7xpoxWY2zsRf6xlpdHocZ0",
+            "types": [
+                "art_gallery",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 33
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot.no.E9,MIDC Industrial Area, Chilkalthana, Aurangabad, Maharashtra 431006, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.87953,
+                    "lng": 75.382848
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88083682989272,
+                        "lng": 75.38419292989272
+                    },
+                    "southwest": {
+                        "lat": 19.87813717010728,
+                        "lng": 75.38149327010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "814e39b70f013e5e295604075dfe54d4d4b01300",
+            "name": "Harman Finochem Ltd",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116348029450418857361\">saleem shaikh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAcSXI_Hej_gZ6C7cjZrJ5ObAT5X2puyHl1Fq9oulNv0iTIGTOYE8-rlWVJjdqLCvf4lOuJFysCMQyRFeI01cnwPep2wQc3i3fpUBClN_u54bxk9lJXu7UqObJK6LI1-WlEhCt_XME23tEFVAMuE2G3AEbGhRP_yZxCQvdGzrPJ8l7Plpxhjmvow",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJsaH7k-Oi2zsRVl6ObecGSfU",
+            "plus_code": {
+                "compound_code": "V9HM+R4 Aurangabad, Maharashtra",
+                "global_code": "7JFQV9HM+R4"
+            },
+            "rating": 4.1,
+            "reference": "ChIJsaH7k-Oi2zsRVl6ObecGSfU",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,962 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Block B6, Humayunpur, Safdarjung Enclave, New Delhi, Delhi 110016, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5603376,
+                    "lng": 77.1954798
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56165792989272,
+                        "lng": 77.19685257989272
+                    },
+                    "southwest": {
+                        "lat": 28.55895827010728,
+                        "lng": 77.19415292010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "1afab9dab5b3fdf10e83ba51e6c7217ecc6cb375",
+            "name": "Aazaadi Hostels",
+            "photos": [
+                {
+                    "height": 2112,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104752792860774414384\">Saahil Rokade</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOYd5GRdedHzBLxnS5LD5tlhRvbfmfSZoDs8uUfP4dDLMJaLahitX-NLz0Izf2WmxD7ckF2Cyw7_eLoeppu3Stoy4Buo_mceKQm8sc1-VIE-lzsUTvHhu0S7WjVdigRv2EhDy6QRD8i3KN2dtre_W_66cGhR5ixGlg3pQXSAWrsHbkw8rUZ4Jig",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJaTbpQEvjDDkRAep9hthZa-o",
+            "plus_code": {
+                "compound_code": "H56W+45 Safdarjung Enclave, New Delhi, Delhi",
+                "global_code": "7JWVH56W+45"
+            },
+            "rating": 5,
+            "reference": "ChIJaTbpQEvjDDkRAep9hthZa-o",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 105
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Asset Area 12 Hospitality District, Aerocity, New Delhi, Delhi 110037, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5500782,
+                    "lng": 77.1228015
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.55132527989272,
+                        "lng": 77.12412637989272
+                    },
+                    "southwest": {
+                        "lat": 28.54862562010727,
+                        "lng": 77.12142672010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "8e0cba2aa512b8f9d02d0bf05d1dcb0ae9d6eb31",
+            "name": "Holiday Inn New Delhi Int'L Airport",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 632,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117210280794773537698\">Holiday Inn New Delhi Int&#39;l Airport</a>"
+                    ],
+                    "photo_reference": "CmRaAAAABzTYsX-e-9m3ahVGII2v-SAVgI9i8WEnlYtbyVKvebpZtCNeD1VVTgQKn8J4Vw3bO-wZa0a3uXiK6lmhQlg9lved9nzrlm0C1dQLCTpIHlASjBPoL52y9-gEXYNuSrT2EhCJclLM4Bu-svzo5tbYwU3EGhQ4bMPDlgNB7dbBYZOBWk-yRxy7NA",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJo7kBM2ocDTkR2TXLzP1eBUk",
+            "plus_code": {
+                "compound_code": "H42F+24 New Delhi, Delhi",
+                "global_code": "7JWVH42F+24"
+            },
+            "rating": 4.4,
+            "reference": "ChIJo7kBM2ocDTkR2TXLzP1eBUk",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6495
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "A-272, IGI Airport, Mahipalpur, New Delhi, Delhi 110037, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5482713,
+                    "lng": 77.12659
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.54966757989272,
+                        "lng": 77.12794127989272
+                    },
+                    "southwest": {
+                        "lat": 28.54696792010728,
+                        "lng": 77.12524162010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "6cb4e83dfc726b0c68941bc475fdc16023936338",
+            "name": "Hotel Shree Radhe Krishan at Delhi Airport",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3609,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117392743455812357684\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA46xvNUppNXqhOKcL1_QoHt4sQwIngdrDbsT_P2Ew5QJ1oX7Yc1_XDeuz1ElxAA5wVGlExBUMAUhtAyQtd3-e5rhMnL_0-AaiBik4A6vC-4Ff6u_MZY2bjX5oajJmKnahEhDhcIg5JWMpRN5S6pVn_VHpGhTGh7fW1OPTxIzhyzMSswUo1jOxbw",
+                    "width": 2260
+                }
+            ],
+            "place_id": "ChIJV1KVCqkdDTkRCmoloIVJDw0",
+            "plus_code": {
+                "compound_code": "G4XG+8J Mahipalpur, New Delhi, Delhi",
+                "global_code": "7JWVG4XG+8J"
+            },
+            "rating": 4.4,
+            "reference": "ChIJV1KVCqkdDTkRCmoloIVJDw0",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ginger New Delhi, IRCTC - Rail Yatri Niwas New Delhi Railway Station Bhav Bhutti Marg, New Delhi, Delhi 110002, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6445302,
+                    "lng": 77.2226202
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64594432989272,
+                        "lng": 77.22393637989272
+                    },
+                    "southwest": {
+                        "lat": 28.64324467010728,
+                        "lng": 77.22123672010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "08da04cd643dba8265618cd937d921b1244d4b52",
+            "name": "Ginger Delhi RYN",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113346681077971693732\">Aditya Lalla</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgdV82Z_l1NPxCnAucE_4onxxVvD-3TQq21cXwu9DK5GAFOwrHWYuqor93IPNDKZRwNva__t_GYLhlho51DP8wWW19wkSt8shS1BleybZh2B-jSGtXjyokms00Jj79rtuEhCVR7x8EX1kI0clrcX4eia9GhTsPnfVStbW9gJ2eRNwPuYl1LW86w",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJY6qeej79DDkRiiK9mHflvyA",
+            "plus_code": {
+                "compound_code": "J6VF+R2 New Delhi, Delhi",
+                "global_code": "7JWVJ6VF+R2"
+            },
+            "rating": 3.9,
+            "reference": "ChIJY6qeej79DDkRiiK9mHflvyA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4145
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "A 83/243 Road No.4, Street Number 6, Mahipalpur Extension, Delhi 110037, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.54911,
+                    "lng": 77.1290053
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.55046347989272,
+                        "lng": 77.13032257989272
+                    },
+                    "southwest": {
+                        "lat": 28.54776382010728,
+                        "lng": 77.12762292010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "63b425ce297ed9ee1ee8c0e88307a6b6a51f7aaf",
+            "name": "Hotel Grand Lawson",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3968,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100270509856900427528\">Prateek Bansal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMjWFoqcyFQibiO786rTuZYvfxjAnMvyeMtvHOrNhnwmkmzyamQ7PajGDjbClB3qZwW81eqpqFoPUYjuxBEgqzDqwxQBJrYxg9Tbfvdb8vMMxgIO-HeaD3UN5GapjlebJEhCk0Lo3kXo01xUiybWzkyr3GhTTpTEozKREGE21rPeya546j6EMnQ",
+                    "width": 2976
+                }
+            ],
+            "place_id": "ChIJo3URA0EcDTkR0pIO9Wuq1HY",
+            "plus_code": {
+                "compound_code": "G4XH+JJ Mahipalpur, New Delhi, Delhi",
+                "global_code": "7JWVG4XH+JJ"
+            },
+            "rating": 3,
+            "reference": "ChIJo3URA0EcDTkR0pIO9Wuq1HY",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 128
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8A/33, Channa Market, Block 8A, WEA, Karol Bagh, Delhi, 110005, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6447249,
+                    "lng": 77.18402379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64605422989272,
+                        "lng": 77.18537787989273
+                    },
+                    "southwest": {
+                        "lat": 28.64335457010728,
+                        "lng": 77.18267822010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "4ecebe604ed01398ebe64ed9c1a9fd67969235d1",
+            "name": "The Suncourt Hotel Yatri",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2734,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110101919619282599972\">Hotel Suncourt Yatri</a>"
+                    ],
+                    "photo_reference": "CmRaAAAApTGAF1aC7S5Ydrlt1PVwFE38wMk3669GwmKKwAFfyDxgfjH6-MNqw9gUz5A65zrcrM_ZCr5N8lw0Y0sFJpyEbzH0rfE9tv_Xgr9BE5yqzznbsoKQM7_JRE9lECj2r-HWEhDBvS38dbpq8lSUMeyN5H4SGhTpu7vwBzi6rXPDEpkITVPj2GySQw",
+                    "width": 3929
+                }
+            ],
+            "place_id": "ChIJC-P-G5gCDTkRpV3HzHjERLA",
+            "plus_code": {
+                "compound_code": "J5VM+VJ Karol Bagh, New Delhi, Delhi",
+                "global_code": "7JWVJ5VM+VJ"
+            },
+            "rating": 3.9,
+            "reference": "ChIJC-P-G5gCDTkRpV3HzHjERLA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 458
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "G-59, Connaught Cir, Block G, Connaught Place, New Delhi, Delhi 110001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6338968,
+                    "lng": 77.2172409
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63536707989273,
+                        "lng": 77.21844437989272
+                    },
+                    "southwest": {
+                        "lat": 28.63266742010728,
+                        "lng": 77.21574472010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "32a8fc6436b1dab4b5e0197c87e58dd50327ed00",
+            "name": "Radisson Blu Marina Hotel Connaught Place",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100834293360163843494\">Radisson Blu Marina Hotel Connaught Place</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkm1zBY-uweI1j2yyDmn-hRNdNg8OyDj8FO8BEdmAAX7fidcHGslRspXAIpPmJ6EnF8g9VgBWPexG_3Kl_r3CVn2ydu1TCcoYuimsH0zztVZYUTAOG2XwHETcztvkeYEnEhDKEy5tC13Tttv4eOyY8sh1GhT1W7XpXUpghH0PkLZn1SWcL8YcnQ",
+                    "width": 6720
+                }
+            ],
+            "place_id": "ChIJV7Tarzf9DDkRhgc0y-Qqgkw",
+            "plus_code": {
+                "compound_code": "J6M8+HV New Delhi, Delhi",
+                "global_code": "7JWVJ6M8+HV"
+            },
+            "rating": 4.1,
+            "reference": "ChIJV7Tarzf9DDkRhgc0y-Qqgkw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4501
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No.8145, 6, Arakashan Rd, Ram Nagar, Paharganj, New Delhi, Delhi 110055, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.646759,
+                    "lng": 77.21322409999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64807592989272,
+                        "lng": 77.21455927989273
+                    },
+                    "southwest": {
+                        "lat": 28.64537627010727,
+                        "lng": 77.21185962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d653962c924af84717c0098f77b1323a94965300",
+            "name": "Hotel Amax Inn",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 534,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105911315616831107618\">OYO Rooms 104 Paharganj Railway Station</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFjtY7x9fBHrbHzdpoUuT6ryUdMj27ku2lLKDFfj2ibXZwAec0K0UAwr2Xb3YsNHZwbdbwE9TBdPZWpOzk1Ixou8HmxTzF8ct4G-h6gtnoeiRqu8A7Y5KkwH4_nup3D7oEhCwoTvVk11KcZxSD7O7gcyQGhQQhJ80FM3djQFTcnAn3RKJFqaO1g",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJO4UtbWr9DDkRTPdRbaOaENc",
+            "plus_code": {
+                "compound_code": "J6W7+P7 Paharganj, New Delhi, Delhi",
+                "global_code": "7JWVJ6W7+P7"
+            },
+            "rating": 3.8,
+            "reference": "ChIJO4UtbWr9DDkRTPdRbaOaENc",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 690
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Le Meridien, Windsor Pl, Connaught Place, New Delhi, Delhi 110001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6188432,
+                    "lng": 77.2183091
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62025292989272,
+                        "lng": 77.21976397989272
+                    },
+                    "southwest": {
+                        "lat": 28.61755327010728,
+                        "lng": 77.21706432010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "5e5301831dcfef2818684cbaadacdbe87f33f40e",
+            "name": "Le Meridien New Delhi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103107462126978447969\">Anand Kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAG5tDjFVwFc1wUdMJQboCaD-owZoI12TPAYrkZZ5vwMyKPYghgO4ojH-ytnqD_Uf_cFQ5dtSK-I-nIwnxLo1mrM1PEk9si6qCCXzZgpJi5-BJCCGmlRVeN-Rx_wI5yD3hEhB7TfQUfPCM9__4o7tAoQTZGhRXO7wI0Odm4kbtkhpxM4FvIL6ajQ",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJ58c5DMriDDkRIdu-LiFHx4I",
+            "plus_code": {
+                "compound_code": "J699+G8 Connaught Place, New Delhi, Delhi",
+                "global_code": "7JWVJ699+G8"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ58c5DMriDDkRIdu-LiFHx4I",
+            "types": [
+                "night_club",
+                "lodging",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11331
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "98-99, Krishna Gali, Ratan Lal Market, Kaseru Walan, Paharganj, New Delhi, Delhi 110055, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6420684,
+                    "lng": 77.21762729999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64345212989272,
+                        "lng": 77.21895742989271
+                    },
+                    "southwest": {
+                        "lat": 28.64075247010728,
+                        "lng": 77.21625777010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "16f7aa45c2b4ca41d4eb34c10a46072056cbd386",
+            "name": "Hotel Star Villa @ New Delhi Railway Station",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105115316267555510684\">Pratheek Renjal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAh7UgYuFbDvX1UWe-GKXGOOIC9gq_fUyl1UWNbowkakat7Ith-Xi-X6hZPGqH2M2eqnZkkd-WtUBkeFWlOkBzzyXZjCFpknZNoHhdPz6C4xzGaWeGoFPMIWQCF-kEOK2DEhA4kh8st0_1cqJJvBRGJSzsGhTNVNXh3Bmh7gE5tIenUb41OFm6dg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJgV6GYD_9DDkRR_UEsfCW6Ck",
+            "plus_code": {
+                "compound_code": "J6R9+R3 Paharganj, New Delhi, Delhi",
+                "global_code": "7JWVJ6R9+R3"
+            },
+            "rating": 3,
+            "reference": "ChIJgV6GYD_9DDkRR_UEsfCW6Ck",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 526
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No.15/1, BlockG, Jhankar Rd, Qutub Vihar I, Goyla Dairy, Delhi, 110071, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5787608,
+                    "lng": 77.0246157
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.58011247989272,
+                        "lng": 77.02592837989272
+                    },
+                    "southwest": {
+                        "lat": 28.57741282010727,
+                        "lng": 77.02322872010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "6bce6723667cabb01da33c1a3eff11403b318a42",
+            "name": "Collection O 50329 Qutub Vihar I",
+            "place_id": "ChIJdWOkmUwbDTkR9c31dT6lBH8",
+            "plus_code": {
+                "compound_code": "H2HF+GR Delhi",
+                "global_code": "7JWVH2HF+GR"
+            },
+            "rating": 5,
+            "reference": "ChIJdWOkmUwbDTkR9c31dT6lBH8",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4775 Main Bazar Road Near 6, Tooti Chowk, Paharganj, New Delhi, Delhi 110055, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.641088,
+                    "lng": 77.21414299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64246977989272,
+                        "lng": 77.21548512989273
+                    },
+                    "southwest": {
+                        "lat": 28.63977012010728,
+                        "lng": 77.21278547010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "075b8024bbc6d44a4f5a2053165107b091f6b726",
+            "name": "Hotel Hari Piorko",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108381255623785128285\">Roxana Galeano</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARBdt9h0wIU7xGQ9CMCieHZqE71R-xIig5Wz9Z48Y40ScjmseHQ28jla2rmUSLBY_xVGy8xFL3vEnNNEqRKwTMmqttJoGbF6Fjh1dcmUtTRSBF9JscB-js3zAiE3k5-GSEhBU1x89jsAG5VEGs3oYr-jSGhQQQ79JZS6NehpV6fhum3MEbKmabw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJsWZJJEH9DDkRLIvrsH_SoIY",
+            "plus_code": {
+                "compound_code": "J6R7+CM Paharganj, New Delhi, Delhi",
+                "global_code": "7JWVJ6R7+CM"
+            },
+            "rating": 3.9,
+            "reference": "ChIJsWZJJEH9DDkRLIvrsH_SoIY",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3266
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6A/67, Channa Market, Block 6A, WEA, Karol Bagh, New Delhi, Delhi 110005, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6469035,
+                    "lng": 77.1849178
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64824272989272,
+                        "lng": 77.18628862989272
+                    },
+                    "southwest": {
+                        "lat": 28.64554307010728,
+                        "lng": 77.18358897010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "2f4ec0dccdbadc596810dce75d4e267d3191dd23",
+            "name": "Hotel Suncourt Corporate",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1333,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105674918366962306396\">FabHotel Suncourt Karol Bagh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA99R5xHKFe7AodYv_4F77zETGQrnSAt_jIAO06cfz4DMbu0yI8wYFCFnRmIaM5ki_Yv03cAQoG5DDGvYGZWnASjqkSH3qrtAbkdJgl92Fi-L8SWZVshgFe2XtaNf3PjyYEhCtrQ2mjvRn-QuJ0uVXmiBQGhQG18nWA1UzUBFBngQZlEeYPCi_LA",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJowM_upkCDTkRtKfuVBhKgdw",
+            "plus_code": {
+                "compound_code": "J5WM+QX Karol Bagh, New Delhi, Delhi",
+                "global_code": "7JWVJ5WM+QX"
+            },
+            "rating": 3.7,
+            "reference": "ChIJowM_upkCDTkRtKfuVBhKgdw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 425
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "A 17 road no 2 Near IGI airport, Mahipalpur, Delhi 110037, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5484334,
+                    "lng": 77.12814519999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.54978322989272,
+                        "lng": 77.12949857989271
+                    },
+                    "southwest": {
+                        "lat": 28.54708357010728,
+                        "lng": 77.12679892010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d15fd6ba0574565bc1c147535ef82105a002f7f7",
+            "name": "OYO 30462 Hotel Ivy",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106595390225901276487\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_tXYXomrl1falNQ2i6KrePv6T0zG6pkxHf7FYJvLwWchp4UmdaCSlDcspgf5AmM9c8gi4oby7IHUTsGdJrjZyZSvUskO5NH1FMe_M-MgDC28N6aWpQ00vC86rD9o5cjAEhCa5itfn64hwCIoVmS0s8AEGhSdRj3gXCxqt118qDFSC0TV7zkfew",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJq2EPdeQdDTkRktSK5RD7yVg",
+            "plus_code": {
+                "compound_code": "G4XH+97 Mahipalpur, New Delhi, Delhi",
+                "global_code": "7JWVG4XH+97"
+            },
+            "rating": 3.5,
+            "reference": "ChIJq2EPdeQdDTkRktSK5RD7yVg",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 225
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Hotel Harry's 1 C1, Hotel Harry's 1, near Bal Kishan Memorial Hospital, Khanpur Extension, Delhi 110080, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.511442,
+                    "lng": 77.23464799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51279992989273,
+                        "lng": 77.23594147989272
+                    },
+                    "southwest": {
+                        "lat": 28.51010027010728,
+                        "lng": 77.23324182010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "1d1c2272def0778964d1d2b946b43008a30c7891",
+            "name": "SPOT ON 68379 Hotel Harry's 1",
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103305317472958594468\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA7k4KFLy9SWSeDuQ7mViFZ-C-OxRknF1LSaAJUKuMm1q5q2WTojLei5zapdeuk9Goh9unndNosML6PBlmNWcdSu6OZvZHlyOjBY8j-kf4K9uDXS8QrFZbZPFogfUcY3_FEhAqXp3k0My6mYKB0HsfvhHvGhR-CAHtCliwWx2bznPKIh3QQ0pUSw",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJcfbq1Z7hDDkRCgXhsDeM6eE",
+            "plus_code": {
+                "compound_code": "G66M+HV Khanpur, New Delhi, Delhi",
+                "global_code": "7JWVG66M+HV"
+            },
+            "rating": 3.4,
+            "reference": "ChIJcfbq1Z7hDDkRCgXhsDeM6eE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No 118/119, Street Number 3, Block B, A Block, Mahipalpur, New Delhi, Delhi 110037, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5483793,
+                    "lng": 77.1274364
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.54973482989272,
+                        "lng": 77.12878622989273
+                    },
+                    "southwest": {
+                        "lat": 28.54703517010728,
+                        "lng": 77.12608657010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "1fd46966011d86c947e874d6882bac7fc51c9eb7",
+            "name": "Hotel Sunrise Moon",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115897154975725922384\">john aaron</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAAW-FTx74-7A5Eem6xTww5DVOjfLyWpXG1d8itZurkIGclfVSY6039-gddC3580AmE6IG4BgpvqMAccvOANrNxinm4G_gSn5J_2TQUoa3dMSS-3Vy8EvDDRGaA5oke1FmEhDPnuAO8ZG7buYJiFLyH7kCGhQ7Ngfd8LiM8IqMbidp5FeaPKZnOA",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJi-7YmkAcDTkR_hf3JqzXZq4",
+            "plus_code": {
+                "compound_code": "G4XG+9X Mahipalpur, New Delhi, Delhi",
+                "global_code": "7JWVG4XG+9X"
+            },
+            "rating": 2.8,
+            "reference": "ChIJi-7YmkAcDTkR_hf3JqzXZq4",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 181
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2283, 9, Rajguru Marg, Chuna Mandi, Paharganj, New Delhi, Delhi 110055, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.642928,
+                    "lng": 77.210574
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64428352989272,
+                        "lng": 77.21188397989272
+                    },
+                    "southwest": {
+                        "lat": 28.64158387010728,
+                        "lng": 77.20918432010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "defee773fdc0e380bfb9af11f3754ab9f9eb7668",
+            "name": "Hotel Venus International",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116131400540169157395\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVG8q2hoZfAE2tB-gjWwUnCv18niO6m1zWmijCHHGcPWgmyBxADa5fWh_wy4einnc5tlrxoOPb40_olJgNcxVnKnVthU1d7JXi0T8pl7js89i8ctYbU8Qk87vr2E3wB_WEhA4VBDUt7FsfcykbABposeuGhQzYxzKBzfH8XWnY7fdvTL59CVuLA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJtQZOmwz9DDkRnjUXQ2-FFhc",
+            "plus_code": {
+                "compound_code": "J6V6+56 Paharganj, New Delhi, Delhi",
+                "global_code": "7JWVJ6V6+56"
+            },
+            "rating": 3,
+            "reference": "ChIJtQZOmwz9DDkRnjUXQ2-FFhc",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "104 near Mata Chowk, Main, Vasant Kunj Marg, New Delhi, Delhi 110037, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.541034,
+                    "lng": 77.130341
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.54236267989272,
+                        "lng": 77.13166207989272
+                    },
+                    "southwest": {
+                        "lat": 28.53966302010728,
+                        "lng": 77.12896242010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "17a6bc1e44deded45218e79558b419cfe2ae86c8",
+            "name": "FabHotel S Ambience",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1333,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112117611492285176176\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMDndvL5MjyoULs6lTSkumX0IHcAcqSVyDzGT8wVnyxLG8xRi5EM8GJCjeShdmz0ujIHaEFXhJIurQwHaneHlfuWajBnTDNRPb0EaX1F901_6ov7EfDHfxWtlsK11_vVxEhDM38EDQTnTM40Tyx0cqNqRGhR74rowF182Nha3fB7WXWhL0az2Xg",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJ98DhSYkdDTkR6F6Q27VICOM",
+            "plus_code": {
+                "compound_code": "G4RJ+C4 New Delhi, Delhi",
+                "global_code": "7JWVG4RJ+C4"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ98DhSYkdDTkR6F6Q27VICOM",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "AG-35 2nd Floor, Block AG, Shalimar Bagh, Delhi, 110088, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.701601,
+                    "lng": 77.16277989999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70293462989272,
+                        "lng": 77.16413542989272
+                    },
+                    "southwest": {
+                        "lat": 28.70023497010728,
+                        "lng": 77.16143577010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "28ceebb36caa3a8327af65650e1ccc0a40ae7bea",
+            "name": "OYO Home 43629 Designer Stay",
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112174314666043181067\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFulhZIfTkjdmyWw1oh1VXMBoQJFWp1D_ty5OvIVg3S-gyMSxd-ljgdGar0K3g7e9HBdtonxezTDI1QJZP5u9anq-KWunPFgPvEA1tc-t06voeELC2qNRKQPpVTxACSSPEhANBg9C-3otYJkaW0RKTYdVGhRdwVYzkg26Q-qvM0IbJ3GQbpsWeQ",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJE4B3yyADDTkRVFwUNHLsb50",
+            "plus_code": {
+                "compound_code": "P527+J4 Shalimar Bagh, New Delhi, Delhi",
+                "global_code": "7JWVP527+J4"
+            },
+            "rating": 3.6,
+            "reference": "ChIJE4B3yyADDTkRVFwUNHLsb50",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 75
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "917, Chandiwalan, Main Bazar, Paharganj, New Delhi, Delhi 110055, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6418565,
+                    "lng": 77.2147632
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64317147989272,
+                        "lng": 77.2161178798927
+                    },
+                    "southwest": {
+                        "lat": 28.64047182010727,
+                        "lng": 77.21341822010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "9ed0d45de8220d0191997ad5ac5b25e508e66dd7",
+            "name": "Hotel Namaskar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3059,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113108672711024046357\">Hotel Namaskar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKje4xLbM5W7iosmvdoTlBHj-TjT1xacs-NBQaaTUhPxlA_fm0E1apde7SrN6VFeEq2FxypmbvEiRxWJNy1ZJLEHR2h-L9Hu1-l3WSh9vNuRAEN9X-iqQi5C_9o32ReRREhDrSIlXfAQ91Z-_tZujEGG_GhSoJIcKWSkXD49yzDLJMMgr049UGg",
+                    "width": 5344
+                }
+            ],
+            "place_id": "ChIJCRxbGUH9DDkRJAp38CllHZ8",
+            "plus_code": {
+                "compound_code": "J6R7+PW New Delhi, Delhi",
+                "global_code": "7JWVJ6R7+PW"
+            },
+            "rating": 3.1,
+            "reference": "ChIJCRxbGUH9DDkRJAp38CllHZ8",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 298
+        }
+    ],
+    "status": "OK"
+}

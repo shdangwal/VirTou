@@ -1,0 +1,1008 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CqQDmwEAAErvQyzLLFSPjKEuB9JNSuiv2WRNSgdxPtAKWtRwLnzjO7r3bn9DHeNo1QdxMS34qARSdghhvGVN6yoTJwkXVPOKdjoCw0HgklxrlBhdfEfb2CQY-XybQUugFahr0n5f91zp5p939WgpYubTeRMXUrR0xDcDnsEFGf3OiBpRTieUxgkrioYx2zMDZ3wcs9KMQz7RSO2Hwrp10YULyduT9YHIARWNbQotuGGzICPvuzldc_SastMi0X9BPOmx68m4dEOH4c2jYpu4_czUJWVdUG1wNvRbhIS_iF5cU7VbsmB9yi1pDy3klTRWa0yaiUSVbwHxnwiaiT5REI8Wge6w6TyiHA2EQbX7F664wnHS4fjHn3CASVpqWYkr27plUGGOARUmsYFERZfZ5Lbx2WCkMVlEEduwiD0V8cdsK1tpYaWD9-DAbZCeQrtgDXkHzcIPMcLhSNSkJHcSEFxM48uD7BuUW2lSTdAFgih1QW5CviWQCWJrv7IeIdgG_r4YwAlfSt-MK5dVneTylGjdoujnkG45qvMQWWeVL9D4veCF8GHzEhAxkSU47BjehCRLC4ndjdMLGhRmXiQu6mtOhqjEwnLTfkAm6_Dg1g",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1st Shop Kheria More Near Petrol Pump Agra, Arjun Nagar, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1630402,
+                    "lng": 77.9876297
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16433707989272,
+                        "lng": 77.98899942989271
+                    },
+                    "southwest": {
+                        "lat": 27.16163742010728,
+                        "lng": 77.98629977010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "f0bd3521165e10250917bbfcbc42733ea06b9891",
+            "name": "Shivam Sweets And Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 540,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114948954400114709859\">atul gupta</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAPX5PIY2Aj2vRdIknFBACCNBZFJXIvPxJBfGX0PZDLdy-R8wu6_EkhLlkf7dsxZp4iZHDaC7MHmxGaf6UaE6hAe8OitCkAc8NcpP_iR-FD-WdOcmizV640J40tt3_ymd5EhAGoJ5BUBbD190tauwadFMNGhTBggOVu4qrTVa16VLQmeptixnMvQ",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJrYDOHiZ3dDkRfmGYGc54h_M",
+            "plus_code": {
+                "compound_code": "5X7Q+63 Arjun Nagar, Agra, Uttar Pradesh",
+                "global_code": "7JVV5X7Q+63"
+            },
+            "rating": 3.6,
+            "reference": "ChIJrYDOHiZ3dDkRfmGYGc54h_M",
+            "types": [
+                "grocery_or_supermarket",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "45/1, Avas-Vikas Market, Bodla - Lohamandi Road, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.192281,
+                    "lng": 77.96009409999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19362162989272,
+                        "lng": 77.96144232989272
+                    },
+                    "southwest": {
+                        "lat": 27.19092197010728,
+                        "lng": 77.95874267010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "6f3f43821b023f2f7da77d3565e5fc0f414b1993",
+            "name": "Shri Tirupati Family Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106184978202755226286\">Shri Tirupati Family Restaurant &amp; Caterers</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAzHxKMI4BbxWgNKa38w5KchMSJqB7uGMafMsgzEMZOWeobjQ9x-j5KZPRBEsuI0ol6xuOqFIqmjsGax4xJywo7XCn3IuSIxhk65FCZcCNeFkaNPiqSNi0GrejNDZXrlqgEhDwXZac7GviVHzdXvQVMdXtGhRhpN6TLvdGW1ITpZ0MBoLjp4JCqA",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJGUZXHKN3dDkRBmhbQ9-RwE4",
+            "plus_code": {
+                "compound_code": "5XR6+W2 Agra, Uttar Pradesh",
+                "global_code": "7JVV5XR6+W2"
+            },
+            "rating": 3.4,
+            "reference": "ChIJGUZXHKN3dDkRBmhbQ9-RwE4",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 50
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "27/29, New Vijay Nagar Colony, Sultan Ganj, Vijayanagar Colony, Civil Lines, Agra, Uttar Pradesh 282004, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2076316,
+                    "lng": 78.0166385
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20905932989272,
+                        "lng": 78.01802707989273
+                    },
+                    "southwest": {
+                        "lat": 27.20635967010728,
+                        "lng": 78.01532742010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "6d6c7e06bd0212c658491cf8e94e56bf42583930",
+            "name": "BHAI BHAI RESTAURANT",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1714,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114195889978558842041\">Shivi Mohan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAnHUXAMgF75t38ZyuDHqwQPY5xBiXV1vOkxhYPuYn5CAYp7SEKInJtXTycVHNjJG8pG5gvSaeIzAmquhqi-0UpKXohk1VRdexpcB29bngZPl1HrwBPLqa7d5LmU88mw_PEhAVp9rLQ8gvr5EswYrkEUowGhQLDsuzr9JxLyROWL1_4VARyiqrlg",
+                    "width": 2908
+                }
+            ],
+            "place_id": "ChIJUfMkmkd3dDkRpN5vA0AxpAo",
+            "plus_code": {
+                "compound_code": "6258+3M Civil Lines, Agra, Uttar Pradesh",
+                "global_code": "7JVW6258+3M"
+            },
+            "rating": 4.3,
+            "reference": "ChIJUfMkmkd3dDkRpN5vA0AxpAo",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "M.G.ROAD opp Bhagwan Talkies, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.210149,
+                    "lng": 78.00442
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21149727989272,
+                        "lng": 78.00577442989271
+                    },
+                    "southwest": {
+                        "lat": 27.20879762010727,
+                        "lng": 78.00307477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "c208937a35ded7b166307183d64e58c8c8567fc1",
+            "name": "New Vishal Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 446,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107938308254491070375\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAALOseI_oZojPcwp1XB4zzQnUCq0qEaQPlKCP6aQJK_XjLa320jyreZ0PbOL4IgLQrP-d0J25vRtOB-Gc--sP2f3jrp0eBAcOCzdSLoaoD2zUzsucxjgX98m6lYh7i2RKzEhBw3p562zdyWQgA4uj1-MLYGhT2NIDNNRqcwSw49X2AdPNBwjvkNw",
+                    "width": 687
+                }
+            ],
+            "place_id": "ChIJ_YtUCFt3dDkR89FtsDEAWLg",
+            "plus_code": {
+                "compound_code": "6263+3Q Agra, Uttar Pradesh",
+                "global_code": "7JVW6263+3Q"
+            },
+            "rating": 3.4,
+            "reference": "ChIJ_YtUCFt3dDkR89FtsDEAWLg",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dayal Bagh Rd, Opp. Soami Bagh, Kamala Nagar, DayalBagh, Agra, Uttar Pradesh 282005, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2222471,
+                    "lng": 78.0103225
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.22361267989272,
+                        "lng": 78.01162337989271
+                    },
+                    "southwest": {
+                        "lat": 27.22091302010728,
+                        "lng": 78.00892372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "4ccece2f7fbec35f1b4ed0e0fdd1a07aece16d56",
+            "name": "Honey Dew Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1683,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118128695437896109035\">Honey Dew Restaurant</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA7lhPYkYDTbKSQujas-7KxgpYkYkkSm0X3jE25kCm7RkxpPajyyFywLHfZtyRkr1p6ilVEDlOh0j4Ebdy5GzG8JUhQYALDHrrc7sG1HWWp70HQI18BgtUNCXid00iNAyvEhCWd5Hd8QmhRqoQdy_Yqo-yGhQMGGwOnVUByMJuGZWo3Hd63IGv8w",
+                    "width": 1867
+                }
+            ],
+            "place_id": "ChIJSRjMqv15dDkRkAp5HydvXLA",
+            "plus_code": {
+                "compound_code": "62C6+V4 DayalBagh, Agra, Uttar Pradesh",
+                "global_code": "7JVW62C6+V4"
+            },
+            "rating": 3.9,
+            "reference": "ChIJSRjMqv15dDkRkAp5HydvXLA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 351
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7, Ali Market, Shastri Puram Rd, near Pushpanjali Market, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2030236,
+                    "lng": 77.9521903
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20439142989272,
+                        "lng": 77.95353837989272
+                    },
+                    "southwest": {
+                        "lat": 27.20169177010728,
+                        "lng": 77.95083872010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "23f1ee3a0ce2b553ef57d400fe2160098d6df625",
+            "name": "The Swaad Restaurant - Best Restaurant In Sikandra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118159842930440940293\">Nitesh Dwivedi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgLD9V6hrglOVIixx8CA2MmX1EIc7B9yiqJkzELhNs4movHoo3xyETQEz9pQFNqEF6w_Uxnd7zAcHzbm8Oaaoj1SHnH8Gzq5KKyX2d85gjTRF0fhBVRqjhXu_rrE9ohk5EhBOMGpMFk_YvC-XXtoklFZyGhQMvmcsG_CfnJrLSDrQXd-XrnSL_Q",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJZ4qf_Fd3dDkRWvzeT7m1Ez4",
+            "plus_code": {
+                "compound_code": "6X32+6V Agra, Uttar Pradesh",
+                "global_code": "7JVV6X32+6V"
+            },
+            "rating": 4.9,
+            "reference": "ChIJZ4qf_Fd3dDkRWvzeT7m1Ez4",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "510, Mall Rd, Sadar Bazar, Agra Cantt, Rakabganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1641746,
+                    "lng": 78.00791079999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16551317989272,
+                        "lng": 78.00918337989272
+                    },
+                    "southwest": {
+                        "lat": 27.16281352010728,
+                        "lng": 78.00648372010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "dffb4377a376a91d02490acb24609d5979b37551",
+            "name": "New Agra Caterers Bar & Restaurant",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104556452828006225263\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFxEo0IWDybxX8hGyeD915T0ASiKkJmeJyq4qd4oSuZ70gEM5uTX_ic5lHURi0CiIpoQhql09zTC5f10sj2Ls7hB0TLGBzBDpjRKMURVcY4ymMQA9T22QeHAn4NszmMoIEhA4ecRsV8oUCmxR4KgCIrnuGhQvWqUynZq7QhD0sic4q0WQJWlA9Q",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJHfbteNB2dDkRRtzueUFY6BA",
+            "plus_code": {
+                "compound_code": "5275+M5 Rakabganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW5275+M5"
+            },
+            "rating": 3.9,
+            "reference": "ChIJHfbteNB2dDkRRtzueUFY6BA",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 77
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Paschim Puri, Sulabh Puram colony, Sikandra, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2023616,
+                    "lng": 77.94673770000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20369702989272,
+                        "lng": 77.94811202989271
+                    },
+                    "southwest": {
+                        "lat": 27.20099737010728,
+                        "lng": 77.94541237010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "bf8be199bdb254526b943eb868fee27c557bd016",
+            "name": "Shree Bala Ji Family Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106379659518732594735\">Mukul Tripathi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-YvLTjqKPMgymjxDqSe2wh50TDavFtnx2bIARot9lt0F-CbAatMKhtQo032dF8uJJaqrAiMAacnd2qPoE7_ruK_--RaVCgvl-4Hzcun1s-VLSyHTx-ulnKMEGhP5mMOyEhBRx_1d9QzY58nH7AoShg3VGhR5nvpOcmF7Bvy8ic7_lCmjQLYiuQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJC9Msje13dDkRFjsU-Kh2Pg8",
+            "plus_code": {
+                "compound_code": "6W2W+WM Sikandra, Agra, Uttar Pradesh",
+                "global_code": "7JVV6W2W+WM"
+            },
+            "rating": 3.7,
+            "reference": "ChIJC9Msje13dDkRFjsU-Kh2Pg8",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 79
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kheria More Agra, Arjun Nagar, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.164396,
+                    "lng": 77.984517
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16574397989272,
+                        "lng": 77.98582807989271
+                    },
+                    "southwest": {
+                        "lat": 27.16304432010728,
+                        "lng": 77.98312842010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "6556af16e29628068e53ecc47d9f15325fbfe284",
+            "name": "Haji JiChacha Dhaba",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103521443066238137497\">Virat Raghav</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQw9gv29j0oi5NYEktNOkynppdike2wmtijm9whX1hFPDctYCXWvmgsL6bHa_cZKad_iL6-vgbz9jjjEEyKKCrOmrWNpaz0bAFsmxQyYKjRA-ZqT4chJ7hO64NbjqXC-REhCNQ-_4rxHmrPDOIrc_YXDjGhTjsgKs4QkIeGZcWKzFLipVPoEmeQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ1wDNR_t2dDkR9Ez6tvUKOYk",
+            "plus_code": {
+                "compound_code": "5X7M+QR Arjun Nagar, Agra, Uttar Pradesh",
+                "global_code": "7JVV5X7M+QR"
+            },
+            "price_level": 1,
+            "rating": 3.8,
+            "reference": "ChIJ1wDNR_t2dDkR9Ez6tvUKOYk",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "UG-4 Anna Ikon Complex, opp. Deviram Food Circle, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2060443,
+                    "lng": 77.9528571
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20740532989272,
+                        "lng": 77.95426942989272
+                    },
+                    "southwest": {
+                        "lat": 27.20470567010728,
+                        "lng": 77.95156977010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "4e4f746a6c473a2d03af13575a85dc9a32a4a414",
+            "name": "Greenox",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100526999754278346674\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAROfBfQDVDZtZEtOU4KyLQKGNxC720mmCG3T4MCnHBY-u2mJGaS9_7WXeH51XN3rn-_iOot_s6GHpwMJuzkuE2_g-RIuo3bExR2SfJoxO39r6Ax_0OLnwpxaxW5ZgWqK6EhB4fEHJlnaS_y0ZCYyyZdeiGhQSG71R4dwDJ27K-TsfSH-bHAOIJA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJM04phIt3dDkRNL0sz7YIaQE",
+            "plus_code": {
+                "compound_code": "6X43+C4 Agra, Uttar Pradesh",
+                "global_code": "7JVV6X43+C4"
+            },
+            "rating": 4.3,
+            "reference": "ChIJM04phIt3dDkRNL0sz7YIaQE",
+            "types": [
+                "restaurant",
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 56
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "B-45, Pratap Nagar Crossing, Jaipur House, Agra 282010, Pratap Nagar, Chanakya Puri, Goalpura, Shahganj, Agra, Uttar Pradesh 282010, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1864374,
+                    "lng": 77.980097
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18780212989272,
+                        "lng": 77.98145307989272
+                    },
+                    "southwest": {
+                        "lat": 27.18510247010728,
+                        "lng": 77.97875342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "c3eec2d98708f18a21fcede072eccbaa84175bde",
+            "name": "chef's signature pure vegetarian restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 464,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118407122173794874546\">Ravindra Shrama</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAlQhumFvUziVYo3Y-xHee2k_DoUdfLon7OM9Ys_OPabzStgYnr71OW4anR-aX7ayPj7xYJ437gSJOwcp8age52fnmNhx-32FQWonymJvczN40eqYyeWrFTSePkTYVgIVGEhAn69k69iw8Gk2cv8OqZiGlGhTNvA2oaxqXXuFzjPFy-BiElwB0Fw",
+                    "width": 727
+                }
+            ],
+            "place_id": "ChIJvaJTzg53dDkR3BGXw4xsWTE",
+            "plus_code": {
+                "compound_code": "5XPJ+H2 Shahganj, Agra, Uttar Pradesh",
+                "global_code": "7JVV5XPJ+H2"
+            },
+            "rating": 4.2,
+            "reference": "ChIJvaJTzg53dDkR3BGXw4xsWTE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sikandra Choraha, Opp Akbar Makbara, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.21548,
+                    "lng": 77.95078099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21682967989272,
+                        "lng": 77.95213072989272
+                    },
+                    "southwest": {
+                        "lat": 27.21413002010728,
+                        "lng": 77.94943107010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "20a4e1d04d1b0909b416677f4ab12f225df8fe14",
+            "name": "Celebration Foods",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118045311484178222187\">Abhiranjan Sharma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUBwY_xfyjuzCOsoCJChGdCgkizZAO1Rg6S782J0dkH_YNdKAAEDryD6Dalfkd5QsLMjB7AG-jl87yTwyD0mAyPM2x3Sht9vhqB_jA0E5lHE5I9s9eEsDNIr3oK6Sj-ssEhBAh8KdeUO1FeRQjFOZum5IGhRMGq_bBDTUG965I3V7fteRY7dOsw",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJiV25-R94dDkR_SgvE3b2l68",
+            "plus_code": {
+                "compound_code": "6X82+58 Agra, Uttar Pradesh",
+                "global_code": "7JVV6X82+58"
+            },
+            "rating": 4.1,
+            "reference": "ChIJiV25-R94dDkR_SgvE3b2l68",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "shanti city mall, UG 1 & UG 2, Bhagirathi Devi Marg, Khandari, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2076172,
+                    "lng": 77.98940379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20896707989272,
+                        "lng": 77.99075132989272
+                    },
+                    "southwest": {
+                        "lat": 27.20626742010728,
+                        "lng": 77.98805167010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "8034293430db50095e0f9ca625e9b7123a620ea1",
+            "name": "The Rollings Restro",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3474,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109647164792921923222\">Harsh Dhanwani</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAFaX2XOQGpwWfGxjEjofL6fGPogI5FPUEv5p2ifPhMyvv8pkzb4UH6d48IeCXpt0EFEGAl7f5-zFmJvRoUwqIQAu9DfE_e2KsEfnefu8v4VFmy5xhWB0Cer3iQ7jWgAD0EhAZ01qabJEGuCzDtwQPd4mQGhT7rD5IJ5oMjhhhrGT099qdfMMS7Q",
+                    "width": 4632
+                }
+            ],
+            "place_id": "ChIJKxoSLGZ3dDkRpuqCEN77F0c",
+            "plus_code": {
+                "compound_code": "6X5Q+2Q Agra, Uttar Pradesh",
+                "global_code": "7JVV6X5Q+2Q"
+            },
+            "rating": 3.9,
+            "reference": "ChIJKxoSLGZ3dDkRpuqCEN77F0c",
+            "types": [
+                "restaurant",
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 167
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "shop no. 1, upper ground floor , Etah plaza sector4B Central Park Road, near police chowki, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1948249,
+                    "lng": 77.96647320000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19618737989272,
+                        "lng": 77.96782377989273
+                    },
+                    "southwest": {
+                        "lat": 27.19348772010727,
+                        "lng": 77.96512412010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "e27b50fc3fb5aeba82072148527300bd5e88cd10",
+            "name": "Cafe Pizza Inn",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102170861793276414183\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAABmPSsgm8AD1pKesNRdjJrhOvVBpihIeG8oMWYFfY-KgpstA8l5nxoFPtaoFFlOUy4i1zKIIpY-puZPdD7sXqhU46JHf8eYkoqTd5QkdqGZGaJv5-OBrwl4YLfyJt-hjjEhBr2Aqp2-SCkhdPJbswsgzCGhQXQuZxpak2-c7dKFP0ETMBr_Yljg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJTZnpEJd3dDkRQEixXwd4ma0",
+            "plus_code": {
+                "compound_code": "5XV8+WH Sikandra, Agra, Uttar Pradesh",
+                "global_code": "7JVV5XV8+WH"
+            },
+            "rating": 4.4,
+            "reference": "ChIJTZnpEJd3dDkRQEixXwd4ma0",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 32
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Basement Hotel Blue Heaven, Khandari Crossing Delhi Byepass Road Agra Uttar Pradesh 282002 IN, Chennai - Delhi Hwy, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2112058,
+                    "lng": 77.99091349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21267537989272,
+                        "lng": 77.99228442989272
+                    },
+                    "southwest": {
+                        "lat": 27.20997572010727,
+                        "lng": 77.98958477010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "179b050063c3e23961d2b47fa9b850ace9d8237b",
+            "name": "Devil Disc & Restaurant - Best Disc in Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 864,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109396491230070273318\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4E_hv_sh4cKKGubEBkiI2JeGDXAbMbCAz_TT1r-TXfnh0_y-Cf4Pma2ZI8-JUatbvv1jd_AVOEc16HSsgBzY_BF26GYGJ8r0EKbYx7dwawH3hjJf_InQYrcBAs2W8xSmEhAD8gMiah6lOGGk0tJwrAFtGhR_9zOCyWjWWyKPRMcSPoJem5EH8Q",
+                    "width": 1152
+                }
+            ],
+            "place_id": "ChIJzzgF8O93dDkRIR_L6E7AXb4",
+            "plus_code": {
+                "compound_code": "6X6R+F9 Lawyer's Colony, Agra, Uttar Pradesh",
+                "global_code": "7JVV6X6R+F9"
+            },
+            "rating": 4,
+            "reference": "ChIJzzgF8O93dDkRIR_L6E7AXb4",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 65
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Khandari Rd, Nasirabad Colony, Khandari, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.2073413,
+                    "lng": 77.99347209999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20872122989272,
+                        "lng": 77.99482127989272
+                    },
+                    "southwest": {
+                        "lat": 27.20602157010728,
+                        "lng": 77.99212162010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "31f15bd628be1a13c2f153c0cde1b387c0fb3726",
+            "name": "Bhawana Hotel Khandari",
+            "photos": [
+                {
+                    "height": 4352,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110151147668591632479\">CA Puneet Agarwal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtm5Xt2cOL2NzhSc4muWP0Ob9hIFVjR2LkvvEgzuTlh3KT-tu4KVoc8pLchay3pZIAAreH95wog0vbYiC5cMHwsUO75RCCce-v7om3p4f8o6UoZXJZFcN04BIuBHOuXrDEhDB80N1O4HKaiVwDcw8swtMGhSuowMkbNFNERSqTFrn9jlGGCHHRg",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJO5lUKWZ3dDkRdvYXYMnAoQc",
+            "plus_code": {
+                "compound_code": "6X4V+W9 Khandari, Agra, Uttar Pradesh",
+                "global_code": "7JVV6X4V+W9"
+            },
+            "rating": 3.7,
+            "reference": "ChIJO5lUKWZ3dDkRdvYXYMnAoQc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shahadra Chungi Nuneham Crossing Oppsit- Bajrang Petrol Pump Bansal Petha Store, Agra, Uttar Pradesh 282805, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.17667,
+                    "lng": 78.00807499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17803257989272,
+                        "lng": 78.00942667989273
+                    },
+                    "southwest": {
+                        "lat": 27.17533292010728,
+                        "lng": 78.00672702010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "be0e5cba661accc74aefa65f9384646dcb9b5645",
+            "name": "The Family's Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105276865085339661946\">Aamil Siddiqui</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA87H33Log-OuhGj43CZxG5d7ethtyC8_dFExE3T9alP2KgJXwdWR0Uv6WKzSpfiH7tMdnTLnO9zPdsWhhl5_2QIORnaMXN91SJPfzCzTfRcAZt08GffOeuIhLZ1CpcVWBEhBooNlUC31PIuHzGIEvRnMwGhRAwCLUoMOw0XGTf4MP7HXwKlLHHw",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJw68SKiZ3dDkRM8hm8p_eclE",
+            "rating": 3,
+            "reference": "ChIJw68SKiZ3dDkRM8hm8p_eclE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shop No, Delhi Gate Rd, Hariparwat, Raja ki Mandi, Civil Lines, Agra, Uttar Pradesh 282002, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1953991,
+                    "lng": 77.99845309999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19674902989272,
+                        "lng": 77.9998027798927
+                    },
+                    "southwest": {
+                        "lat": 27.19404937010728,
+                        "lng": 77.99710312010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "80fce167fedcd9030beeb4c5c60c6769a1a50eab",
+            "name": "Shri Anand Shakahaari Bhojan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113697064387557810310\">Anand Jain</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA7drQuqjZs--GL88r6qHzGCquFywk6nJorMQ4CTEFETcM3vugXBGnDrulc9jeIicx9WTspusgz4NaoIr1q9niZHVs6YWWZWtKNPH9z3B8VaTKVlDzBNtf4o5hQRWUG-4xEhA0yKoualyk-oZxd5qGYHkeGhSVBG8mjSkx5mUQV4qPuyg5ijNx1w",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJI4xHcuF3dDkRAQkHq9hOKXE",
+            "plus_code": {
+                "compound_code": "5XWX+59 Civil Lines, Agra, Uttar Pradesh",
+                "global_code": "7JVV5XWX+59"
+            },
+            "rating": 0,
+            "reference": "ChIJI4xHcuF3dDkRAQkHq9hOKXE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1076, 2, Fatehabad Rd, opposite Hotel ITC Mughal, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.159627,
+                    "lng": 78.04317089999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16104022989272,
+                        "lng": 78.04456437989272
+                    },
+                    "southwest": {
+                        "lat": 27.15834057010728,
+                        "lng": 78.04186472010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "ad01e4960f6465261a481f173a96c1109f4087b9",
+            "name": "Pinch Of Spice",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100049199289036113702\">Anirudh Nallamalli</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAt0hFCeOTSqhw3AFOdV19IqVmDORrKkGLJz_T7IHQHih9ZMbJkcX1MCwnKdGF2fSQ0P-SenOhVrbHN6qbAH2Wk6Mf99UStB6uJyT4AAO6HR1_-c8_Q2w0GqA-FxPg9UPXEhBMck1_7cOp2N9iCDFDolfFGhQqQySAGrmJJb9ZkzJKmHQGZp-ZtQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJk4opGxZxdDkRxyhMFottbzk",
+            "plus_code": {
+                "compound_code": "525V+V7 Tajganj, Agra, Uttar Pradesh",
+                "global_code": "7JVW525V+V7"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJk4opGxZxdDkRxyhMFottbzk",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3248
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "9, Fatehabad Rd, behind ManSingh Hotel, Bansal Nagar, Tajganj, Agra, Uttar Pradesh 282001, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.1607505,
+                    "lng": 78.0357799
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16209822989272,
+                        "lng": 78.03709097989271
+                    },
+                    "southwest": {
+                        "lat": 27.15939857010727,
+                        "lng": 78.03439132010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "9a92de8a4a831e29313c522dafb85ad3a9be1afa",
+            "name": "Dasaprakash Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109746887037916177280\">Rajiv Mazumdar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAafzBlhAwsuEvDZNpQfT3YrHgd_u65etlMvkxYyZBdcZ7B2UHzUG2okFaNBfHtE9Bvy6DRzHLGOMI-JRfsP3jzRa_DY2mvthq9OVKxwp-3eId7-L3op7OKWvFRIowfPWMEhDyuLTvoFmPAx2a6Lvhwm4bGhTKOter5SJfO0vY_4_1p6kRy9vmnQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ____gztxdDkRewekDz18ylo",
+            "plus_code": {
+                "compound_code": "526P+88 Agra, Uttar Pradesh",
+                "global_code": "7JVW526P+88"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJ____gztxdDkRewekDz18ylo",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 414
+        }
+    ],
+    "status": "OK"
+}

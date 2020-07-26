@@ -1,0 +1,205 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2, Humayun Rd, opp. Junior Model School, Sujan Sing Park North, Sujan Singh Park, New Delhi, Delhi 110003, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6035878,
+                    "lng": 77.2258626
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.60505377989272,
+                        "lng": 77.22728277989273
+                    },
+                    "southwest": {
+                        "lat": 28.60235412010728,
+                        "lng": 77.22458312010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "3b6384a5dcbf2dac2e3f10308e93988da52a5676",
+            "name": "Judah Hyam Synagogue",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114761787954595186200\">Danny Benjamin</a>"
+                    ],
+                    "photo_reference": "CmRaAAAApQAHw5qmJoVQAx6-cEyniqmRTfEm1yAwx3_G0oB7vLuy19VJ6b1UsvunLw5XcdrJORASVHYr0FcobIT33ZkeKIGfI2elUwNCDM_Vz9d6_hK9c1e7fjc7kl5jZ3VngMU1EhDDns_2rI7HCBZPBpXczMhzGhTsB26dRNzqislV1vL-0d0XiwvSWg",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJTdoqwMLiDDkRkq0KjXsj1iE",
+            "plus_code": {
+                "compound_code": "J63G+C8 New Delhi, Delhi",
+                "global_code": "7JWVJ63G+C8"
+            },
+            "rating": 4.6,
+            "reference": "ChIJTdoqwMLiDDkRkq0KjXsj1iE",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 39
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Block D, Vasant Vihar, New Delhi, Delhi 110057, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5638783,
+                    "lng": 77.15563829999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56523392989272,
+                        "lng": 77.15696032989271
+                    },
+                    "southwest": {
+                        "lat": 28.56253427010727,
+                        "lng": 77.15426067010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "2effe80367323fd9749dcd408af86ad0d5759b47",
+            "name": "Chabad Delhi - South",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100529627313979157555\">\u05d7\u05d1&quot;\u05d3 \u05d3\u05dc\u05d4\u05d9</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA69QW8HQc883yM9CMtilVhDoBD7mLjp341g_7r1nYc_nemSpPzNzTpnvrfRuy5_YIOSRjesWs8fjfqU2RPH4DpLz6Iny3pfwRzA1DjUTsbhsbaazTXSEA5a_j0I7nBEisEhApvMXuZX28jC0P7Ss-0aP6GhSQ_hL3wNtVSAlxxm3di1Nyu7H82Q",
+                    "width": 1599
+                }
+            ],
+            "place_id": "ChIJOydeybodDTkRJiCaFnq4e7k",
+            "plus_code": {
+                "compound_code": "H574+H7 Vasant Vihar, New Delhi, Delhi",
+                "global_code": "7JWVH574+H7"
+            },
+            "rating": 4.6,
+            "reference": "ChIJOydeybodDTkRJiCaFnq4e7k",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "T432, Main Bazar Rd, Opp Vishal Hotel, Bharat Nagar, Paharganj, New Delhi, Delhi 110055, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6406912,
+                    "lng": 77.2117707
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64210212989272,
+                        "lng": 77.21310197989271
+                    },
+                    "southwest": {
+                        "lat": 28.63940247010728,
+                        "lng": 77.21040232010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "29e4e68d044f2cb1098e2fd6f4e6a7d7539505a0",
+            "name": "Chabad Of Delhi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100211056923323625688\">Vad Lal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACjvBsq1hc5NiKzDseKAXQPL2NPC3dRDuCOuqkfNVEXjdjEUSu7ng-pw_84WSvs5ZUxIbDx5ydKizhPuxJH96q541I8VAeQaJjxxRISf_SbVe7_jralF7_Knn__XmEQdqEhDOOeWDEz3P9zHxRVqwrZ0fGhQt6lMJ7KKooFpIYaQieUlszghLOQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJoT-h_UP9DDkRsu054Nu-9v4",
+            "plus_code": {
+                "compound_code": "J6R6+7P Paharganj, New Delhi, Delhi",
+                "global_code": "7JWVJ6R6+7P"
+            },
+            "rating": 4.6,
+            "reference": "ChIJoT-h_UP9DDkRsu054Nu-9v4",
+            "types": [
+                "synagogue",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 409
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "8/16, Block 8, 110019, Kalkaji Extension, Kalkaji, New Delhi, Delhi 110019, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5449205,
+                    "lng": 77.2595219
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.54630697989272,
+                        "lng": 77.26087097989273
+                    },
+                    "southwest": {
+                        "lat": 28.54360732010728,
+                        "lng": 77.25817132010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "e7312ecae89f7ba03d4bf20e3f557e4ebfaf4efc",
+            "name": "Mizoram Synod House, Jyoti Bhawan",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 5664,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107543914160632976248\">Mawia Ralte</a>"
+                    ],
+                    "photo_reference": "CmRaAAAABM3Hxky5wcI73QQw2BR3zpCMQJfWvz7osrhT3jZm5vNcUJYSWDntnBeCyC21dy6fXrSBCR2xIRtCkrpY0zPyS3nk2fJPLTLLUTT9O4z-MRNaLfEiSbZOS7Pd77JiZM9gEhBYg5Uf3oCEvPAQH6_tc8PUGhS5hfUnR9dMuq69NS6whD8KTZSOsA",
+                    "width": 3184
+                }
+            ],
+            "place_id": "ChIJ5XQG7NvjDDkR7HEH7Jfo2HQ",
+            "plus_code": {
+                "compound_code": "G7V5+XR Kalkaji, New Delhi, Delhi",
+                "global_code": "7JWVG7V5+XR"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ5XQG7NvjDDkR7HEH7Jfo2HQ",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16
+        }
+    ],
+    "status": "OK"
+}

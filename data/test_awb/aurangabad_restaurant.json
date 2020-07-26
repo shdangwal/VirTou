@@ -1,0 +1,1022 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCAgEAAKtnhtwSSpJKnlC-Bq1zYb8xCW7rIRvn2kobMzCq-iqwKmq6V3jOfiSQo5LYwAExBIYSoGNOgwXB4-9W6Vi7sQpPABTto1gPBJRnQFNTpY50FlkfFS5H8zKMWyFM_69pU5E7cTM2RuA0nYWfqjH2bObwTg-2o7qGUzdiNcSEMftyIXNJ19F4601FFgy8DEzw3nJz23Zbl-cK6Xyh9TxjjPQVtZH_pqe26iMRQ8k2QN_oQCB4cDdxDy7oFnQsPLFSXSIQxm0jBlRlZH6snCUmNa31JzJLBTHQF2FUMaQCE6w8xE4qcOwbx8oFI3pvVfv4bQgciU_LFDjyvhQkss3stvxHUz6a-pbRLiUy75kXkD07EhCLIx9ySSpqPFnPUnl54deYGhQWu6PZAu2rQR35s80IAz8VRSsgrw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No.2, Akashwani Circle, Jalna Road, Mondha, opp. Big Bazaar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8766435,
+                    "lng": 75.3461574
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87800042989272,
+                        "lng": 75.34745352989272
+                    },
+                    "southwest": {
+                        "lat": 19.87530077010728,
+                        "lng": 75.34475387010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "c5cff310c6ab2f5cd0415d5be5b33f693ff66297",
+            "name": "Kream N Krunch",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105099554498089427394\">Sumit Kulkarni</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAlnnbeOvZh6Xdx4XG2ngsGSMWW-AxjtjsxT5IfXfRxbbmquIohspYA26G4iMMrTv2E-bFz4TrsW-WKkxAglcWTd-PY5TyvU7Vi-VT91JXVRQJ_NmXc-P1OCX_ZG11FUObEhD6L0D1O4jm-bka_SX76dx5GhTelOXxLteTFgIvZNK1E8UMkJUd9g",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJTXIvbZyi2zsRPDahdDEcfb4",
+            "plus_code": {
+                "compound_code": "V8GW+MF Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GW+MF"
+            },
+            "price_level": 3,
+            "rating": 4.1,
+            "reference": "ChIJTXIvbZyi2zsRPDahdDEcfb4",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1311
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5, Jalna Road, Nyay Nagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.875564,
+                    "lng": 75.349869
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87701172989272,
+                        "lng": 75.35123667989272
+                    },
+                    "southwest": {
+                        "lat": 19.87431207010728,
+                        "lng": 75.34853702010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "8485b6b1fb7bddd8e204c41b8cc23cdc0c9855f8",
+            "name": "Castle Executive",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116017027715143483512\">Satish Dhakne</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAlH9CUSBwB_23O_IqdY4p7_UwVgAQnEIaZ8ZoWikxstmDmemc84QPg6JjFZZVkWVFfZYJgXIho9dCXvVMAl5VkX2IqLCwPNhoEsnTD5Gap6rkAthUd-V4ZI3Xokq6b9LJEhAM8H94KTDcevTIRPOH9shdGhRFtoWftr059viiDbVPmmDiNfIPLg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJK5mfqpui2zsRwgW9Tm5o9f8",
+            "plus_code": {
+                "compound_code": "V8GX+6W Nyay Nagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GX+6W"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJK5mfqpui2zsRwgW9Tm5o9f8",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 120
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shop No 6 to 9, Block J B, Town Centre, N 1, Cidco, beside Inox Tapadiya, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8793755,
+                    "lng": 75.3659543
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88070887989272,
+                        "lng": 75.36722057989272
+                    },
+                    "southwest": {
+                        "lat": 19.87800922010728,
+                        "lng": 75.36452092010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "210f1313389dadc452e609a987c2fa65528f3bea",
+            "name": "Green Leaf vegetarian cuisine",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102112371565457249454\">Shailesh Sarolkar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANEKrKRWwSkQF_tO2zlbB6CzQDpJ6vb9LYFI8vkyVyl6DSNky5UXM70p5K07I8esv2HUYvDHSEnDGTM-NRWE39SVnExOIfXXECZVQtK90n9mgyLU8fzx8dTR2l3OFeF8FEhAVJnVLYfz0RrC4zAppn9LqGhT8rD-lPOzM9ZvH24z_6UrEEmpyNA",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJowFmouyi2zsRm2dkUC1wrxQ",
+            "plus_code": {
+                "compound_code": "V9H8+Q9 Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H8+Q9"
+            },
+            "price_level": 3,
+            "rating": 4.4,
+            "reference": "ChIJowFmouyi2zsRm2dkUC1wrxQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5545
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sut Girni Rd, beside Hotel Chaurangi, Kasliwal Nagar, Garkheda, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8613789,
+                    "lng": 75.347021
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86275282989272,
+                        "lng": 75.34832977989272
+                    },
+                    "southwest": {
+                        "lat": 19.86005317010727,
+                        "lng": 75.34563012010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1211ba1d12e5e7aadbff7b749543aff91d244d79",
+            "name": "Rayat Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2814,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106006327329663866440\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAPCHn5jJ0eTc2I2pmIW22gAP1qkaRzNyIu94uLoaB9klCjr0RO8ZqBuuwy8mrG-DGtaGHrGW9l2XJ6w9BlZPini4jPZdM0MrO0yGXZQghaz6-5Yf1uMMRMJnUvacQClW1EhDiknZ7p8xY0RbxTzly50ulGhRiwhIuaegT7HF9WbPS6m8zQrXHUA",
+                    "width": 2814
+                }
+            ],
+            "place_id": "ChIJbzgnQ-Cj2zsRKOWri4CT_NI",
+            "plus_code": {
+                "compound_code": "V86W+HR Garkheda, Aurangabad, Maharashtra",
+                "global_code": "7JFQV86W+HR"
+            },
+            "rating": 4.9,
+            "reference": "ChIJbzgnQ-Cj2zsRKOWri4CT_NI",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6A, Jalna Road, beside Sakal Office, Sambhaji Nagar, Town Center, Cidco, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8741021,
+                    "lng": 75.3680577
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87538217989272,
+                        "lng": 75.36939662989272
+                    },
+                    "southwest": {
+                        "lat": 19.87268252010727,
+                        "lng": 75.36669697010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "fc693217fe2a45b5f166138d340dd26bf0afed25",
+            "name": "Naivedya Thali Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115717842074035657040\">prashant malokar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA0ewU5QXutcru2vCeEuU674SwuQvPueEJnxH081YJxfa1W1JWXYaUJCL93LMo_lSSpWfjZHzC6HJUuktzLe3zHUZ00RzTN0xm2XiI_t05_5p6pYKx_pG6W2jDQIpGTtfCEhCVvl2DKRnh4ZLCd0Z-rkBkGhSFgd9fX5PlFSocZLjhC2hziu1mSg",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJ6WOgd_Ki2zsRkSlDGMFcZgE",
+            "plus_code": {
+                "compound_code": "V9F9+J6 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9F9+J6"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJ6WOgd_Ki2zsRkSlDGMFcZgE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1606
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "WelcomHotel Rama International R-3, Chikalthana, Jalna Road, Aurangabad, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.875912,
+                    "lng": 75.35891699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87717312989272,
+                        "lng": 75.36032227989273
+                    },
+                    "southwest": {
+                        "lat": 19.87447347010728,
+                        "lng": 75.35762262010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "d0bc5cfee8cd4cfe9dc1086e9a87bdb0af01c354",
+            "name": "Madhuban Restaurant Aurangabad",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1844,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101261057133165503582\">Tanassapon Sakulpatanacharoen</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAE_2FfrZ5czvE7SLjt_iR_0VON9yDnZSQUytPMJttpY8ubR1On73HIjGtOQPTJYQRrJWSKL3fORX7T5p93XKY8d46LucYrpKTLgP1_-R_UHvrIT3TirGl8x-9-6-U3lAxEhDFLFfnIoG6_4TzzTi4tqFUGhQ_u_uSiGxc2PeI17XA9Eq0s53hwA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJoz5xKZKi2zsR2jBMaPhaNb4",
+            "plus_code": {
+                "compound_code": "V9G5+9H Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G5+9H"
+            },
+            "rating": 4.2,
+            "reference": "ChIJoz5xKZKi2zsR2jBMaPhaNb4",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 457
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Khinvasara GoldPlex, 4th Floor, Jalna Road, Opposite Akashwani, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8765789,
+                    "lng": 75.3443503
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87782252989272,
+                        "lng": 75.34571332989272
+                    },
+                    "southwest": {
+                        "lat": 19.87512287010728,
+                        "lng": 75.34301367010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "61339db3ddc5654348176263894fec6a77ad5e93",
+            "name": "TeAmo Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108316352943604855659\">sudhir Jakhar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAqKbGb51cqcgevLXU7le_t4ilASi1ESAkOFqKSN41oj8_uJxMbvi7q2tnOCpoPXiUVYZLp1oq15sS759KNXwfuJUM2ETTPthxi_Ovc4AbciR-u37k6tewxihfNgcYtQLWEhB8LQfsQAxL0AtzMvkTiKEwGhQhNLVBTNqBbxTANifI20fcmuVOeA",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJv6UzvJ2i2zsR0854tUjlhDk",
+            "plus_code": {
+                "compound_code": "V8GV+JP Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GV+JP"
+            },
+            "price_level": 3,
+            "rating": 4.2,
+            "reference": "ChIJv6UzvJ2i2zsR0854tUjlhDk",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1063
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7, Mahesh Nagar Rd, Raghuveer Nagar, Mahesh Nagar, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8764647,
+                    "lng": 75.34701969999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87782572989272,
+                        "lng": 75.34829572989271
+                    },
+                    "southwest": {
+                        "lat": 19.87512607010728,
+                        "lng": 75.34559607010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "f9fa49fab4bbfafd4cfd6bf98878d6c8f1de44e3",
+            "name": "RED N Black Pure Veg Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117717147474216987907\">CA. Gopal Zawar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2HAYRbvc1iBVx2rO8vfpIqbew6qFIjbEEjjofpyqjiATkPheGSsUr8BCuf4Vb0cNxVqBX-5dOWqkTnto_oAnvWMY7ce4qH3Pg7Ol9kQN9aSozAxVupK4JtNWxDHMcbsCEhCNESWaj4yYajlj68YkQWtIGhQwqn7biJ2cSRmXXzk-oiW0psQ61g",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJb8r7dZyi2zsRuOquktVGijY",
+            "plus_code": {
+                "compound_code": "V8GW+HR Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GW+HR"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJb8r7dZyi2zsRuOquktVGijY",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 150
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shop No. 121,122 Radhika Arcade, 7 Hills Road,, beside Nupur Mukta Cinemas, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8752118,
+                    "lng": 75.3542428
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87655642989272,
+                        "lng": 75.35563887989271
+                    },
+                    "southwest": {
+                        "lat": 19.87385677010728,
+                        "lng": 75.35293922010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "39b5ca4cb6e71b604dfb77257c052c7f6f784b68",
+            "name": "Falahaar Aurangabad",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118376249722749535863\">Huzefa Dawasaz</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANlB3-uC7EEAeqTseZPLBdYdF4u6rdtln1mzFFx5YxxXe5G7P857dC5JpZvwIT5yjpMK8clMVra0foWpq4C9YoVFWKn3G0jMFe34Ae_bmp27O29pSqDNUvqCsfHDP6LmhEhAuNrSjqqz9AHDiFAA4fcjpGhRlEEeBGrHEX8l1SX9yvl6TZMNtoA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJL9_eZ5Ci2zsROjqeQyW1w4Y",
+            "plus_code": {
+                "compound_code": "V9G3+3M Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G3+3M"
+            },
+            "rating": 3.9,
+            "reference": "ChIJL9_eZ5Ci2zsROjqeQyW1w4Y",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 402
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot no. 73, near, Seven Hills Flyover Rd, Opposite Bharat Petroleum Pump, Motiwala Nagar, Nyay Nagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8731444,
+                    "lng": 75.35194480000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87448337989272,
+                        "lng": 75.35340482989272
+                    },
+                    "southwest": {
+                        "lat": 19.87178372010728,
+                        "lng": 75.35070517010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "9e3e66690453b820a991913ea47c4d20de6e8d29",
+            "name": "This and That",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101347277637268942491\">Akash Pandav</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAGbLOBnELORDNnR8uy1_BF9b1HmyjMmh14gjBqlowz6cdRgxAEeu4rhyWUIJ_IibQC-8wS1XGsBxAC2bHZ4W7-yScaxxpucZrMBaMOBrPTabQMTNwe7xPF1sKSVHdw86qEhDeRPi4bNEGPUyQU2g5O818GhRi2lYwE1tU4m82TQL1HW3HH4qsbw",
+                    "width": 2340
+                }
+            ],
+            "place_id": "ChIJrRw5iJuj2zsRKKm5m1J34Lc",
+            "plus_code": {
+                "compound_code": "V9F2+7Q Aurangabad, Maharashtra",
+                "global_code": "7JFQV9F2+7Q"
+            },
+            "rating": 4.1,
+            "reference": "ChIJrRw5iJuj2zsRKKm5m1J34Lc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 200
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Landmark - Near Shivaji Statue, Kanchan Chambers, Doctor Bhapkar Marg, Kranti Chowk, New Usmanpura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8711524,
+                    "lng": 75.3280381
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87253117989272,
+                        "lng": 75.32933567989271
+                    },
+                    "southwest": {
+                        "lat": 19.86983152010728,
+                        "lng": 75.32663602010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "7538b34b860a4f17e4b1ae170bc8f4346b242089",
+            "name": "Swad Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113099982358029224465\">1neclick Online Pvt Ltd</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAzVC4-q8nWBCX6nst1Nh4hCNJnPEuLriN6EyYJn6iyierYHwq8tqGm1Av7LxdCVJFor-S5z4BCC_rZJtqjXlx7XxiANR1IjL_5Dj3w08-P-qYHM7SdJmF9Gj2ngPZjJdXEhANXarol8AZqQxuEK1lr9Q4GhRhqHFdO2gQBlNrQnObymuPgL4BHw",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJqZ1Xim-Y2zsRgi_zvgnAihE",
+            "plus_code": {
+                "compound_code": "V8CH+F6 New Usmanpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8CH+F6"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJqZ1Xim-Y2zsRgi_zvgnAihE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1463
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Tulsi Chamber, Jalna - Aurangabad Rd, Opposite SFS high School, Raghuveer Nagar, Venkatesh Nagar, Mondha, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.876521,
+                    "lng": 75.34704099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87775777989272,
+                        "lng": 75.34837192989272
+                    },
+                    "southwest": {
+                        "lat": 19.87505812010728,
+                        "lng": 75.34567227010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "aeadf77554cd7b3f0d29b7a8c4d0e0ae9beff1c0",
+            "name": "Hotel Pancham Bar & Restaurant",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118012279095308408203\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAArAHeaxql8nuX5rvVy4_4zr47QL2VpODdRcKLn0dCD88IYElIU74wj5rlWRm5mV7uvESFuySjoAWzUnAd-ue9sPH7_qs2N1vdHtOermcZQa2-E1jg26f3KVZ1oIBLf-SWEhBEewWEq_VLMgqjqHphUfxkGhQJ3Qg0yxLr0mw6yfq2UKUI-Ui0SA",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ8zn1dZyi2zsR62e8jLpcD4U",
+            "plus_code": {
+                "compound_code": "V8GW+JR Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GW+JR"
+            },
+            "rating": 4,
+            "reference": "ChIJ8zn1dZyi2zsR62e8jLpcD4U",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No, Previously unusual cafe, 17, MGM Rd, behind Lokmat Bhawan, Town Center, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8771953,
+                    "lng": 75.35899479999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87859497989272,
+                        "lng": 75.36029257989273
+                    },
+                    "southwest": {
+                        "lat": 19.87589532010728,
+                        "lng": 75.35759292010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1da412341ecf74b3ab4c88750c9867f2c15a992c",
+            "name": "Kala Curry Pure Veg (Cafe & Restaurant)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1008,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115856464416044337516\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAXSuIi55x5utbdoCuRkS1D5IK27tq3lWha0ZpGp9dj_aJ_782GnVnebn99ZOO8Te2Yi21di3esHr_gscpDJf5CgEN1zWgCsehIoYBL6PCWiBZsRqZriYW6HIlvQ8isP9iEhC5HuTElS-9YHhL8A9Fa0IfGhQqbt96M8kGao3o3fGn5RHFQ5zSlA",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ7898hySj2zsRFDyQjAHi15Q",
+            "plus_code": {
+                "compound_code": "V9G5+VH Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G5+VH"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ7898hySj2zsRFDyQjAHi15Q",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 71
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "G-38, near Dawarkadas Shamkumar, Town Center, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8781599,
+                    "lng": 75.360416
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87943957989272,
+                        "lng": 75.36171442989271
+                    },
+                    "southwest": {
+                        "lat": 19.87673992010728,
+                        "lng": 75.35901477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "4f239d0e7fccc8e2c901fc766a17b56cd57eda3a",
+            "name": "SIDDHI Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114930573398102711205\">niteen madrewar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAjC2U7GoTkBbbwNGvS50_y3lL9nOTEbIXRBrLgV33GOEm7eMyAGVzoVuUIh3Juze-VXDl6XCThm9GAjREbXfqZyoMMRUIsPJo4BYfnjM9sN7XvWx38b7-KG9fIsv62gVOEhB_egy94tWaX76mmNMEeE1CGhSlppOn-Sni9tGBW8jtIxGjD5lcUQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJIadGlJOi2zsRkIxWovprs-g",
+            "plus_code": {
+                "compound_code": "V9H6+75 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H6+75"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJIadGlJOi2zsRkIxWovprs-g",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 624
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "13-14, MP law College Campus, Nirala Bazar Road, Samarth Nagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8797105,
+                    "lng": 75.3238818
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88113532989272,
+                        "lng": 75.32518252989273
+                    },
+                    "southwest": {
+                        "lat": 19.87843567010728,
+                        "lng": 75.32248287010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1d5058d1f415771cc0137eb3251187ed670eaca7",
+            "name": "Smile Veg Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2010,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108310807126460994115\">Omkar Joshi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAqdyS_BvIFDBP1l5rrN3ZHEl5gT_BtiPcLykTfB7QIYjQaDm15YzfihmuX87OwJzz3-PPbpX6i2x1F9yBAPnX_DW-qsJlbm_hkqrMQJFnOABaYvKP42NOFAtbtImDN5JkEhC8z9tP4ZVCIlMii50Gh-IHGhRiiWc2dwPiT4rJSPIdM1cr0B1kzA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJVbtPg2yY2zsR78QLaefgL8E",
+            "plus_code": {
+                "compound_code": "V8HF+VH Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HF+VH"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJVbtPg2yY2zsR78QLaefgL8E",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1493
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Veer Sawarkar Chowk, opp Roplekar hospital, Darga Rd, Tilaknagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8666635,
+                    "lng": 75.336542
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86801242989272,
+                        "lng": 75.33788177989273
+                    },
+                    "southwest": {
+                        "lat": 19.86531277010728,
+                        "lng": 75.33518212010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "76f24237dc3ec64e8bd686235e18a989e54f2d87",
+            "name": "PULAV Aurangabad.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106811988128606332848\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAATXDW537bI7_0zBxoNqm9QNVHhmUxMT5XCpltTo3PE0tiPsZWPX8WUhtZ3K4gnB5BwwaYwyyZ17phpU8XhRqaw0lXS4jsyKu2LOtcSfDE9X_YDCw0ooFXLmLZ-8wb5jeyEhDiyRVfcoOTs0Y8QRLuAmRgGhQTSL_4kELewuGpGZ7zNj3e0BRKXQ",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJAUYjRHmY2zsRBfeXgKJ0Eeg",
+            "plus_code": {
+                "compound_code": "V88P+MJ Aurangabad, Maharashtra",
+                "global_code": "7JFQV88P+MJ"
+            },
+            "price_level": 1,
+            "rating": 4.4,
+            "reference": "ChIJAUYjRHmY2zsRBfeXgKJ0Eeg",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 165
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Near Vivekanad College, Samarth Nagar Road, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8748529,
+                    "lng": 75.32241650000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87614987989272,
+                        "lng": 75.32375952989273
+                    },
+                    "southwest": {
+                        "lat": 19.87345022010728,
+                        "lng": 75.32105987010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "37937fee5da776a9d2a956144bb7ba9dcb19b59b",
+            "name": "That Baat",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103427065519011207250\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANGYlqd5juHqKafwmD1zXUPPAzYZtCgc-UUMnWKWzbzMIuTtPY5KpM00laAViAzsR7vNhvAERnNACgMacQl6gArLPID7PltqVoBAQQ7PE3l8qVoDuO7TAlTrIxpvnjS_YEhCgbuydRTyobZskEzGhRAS8GhQ22jXh9Cg43VxojwwBBChZ7lDRAA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJiYeXQWmY2zsRcWo5tkhUXoQ",
+            "plus_code": {
+                "compound_code": "V8FC+WX Aurangabad, Maharashtra",
+                "global_code": "7JFQV8FC+WX"
+            },
+            "rating": 4.1,
+            "reference": "ChIJiYeXQWmY2zsRcWo5tkhUXoQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1052
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No. 19, MGM Rd, behind Lokmat Bhawan, Town Center, M G M, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8770928,
+                    "lng": 75.35891900000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87850077989272,
+                        "lng": 75.36020812989274
+                    },
+                    "southwest": {
+                        "lat": 19.87580112010727,
+                        "lng": 75.35750847010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "5196f2cde9e8200a18509695df440751d22f6083",
+            "name": "Amigos Kitchen",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109343257840451019016\">Prasad Barhate</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAqwQ4TGquOkuBdGTdme2R-Cg-XsHLfmXrT9E_BodtNQh70UgPF1bXoQk9xLqBW9nuZreZ00dza_SNWQMANACK6rZ6k31R5Mkg7Ybrdk7BOqG0mEgPcuZ3fuwfNvffJRXVEhD8Mb4C62HF1N7JPkTfKfxEGhQKqNrGOmhp1ywF6nvBtzhKmT7nDw",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJmxPR2ZOi2zsRgVPYo7r2H1Y",
+            "plus_code": {
+                "compound_code": "V9G5+RH Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G5+RH"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJmxPR2ZOi2zsRgVPYo7r2H1Y",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1565
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "C-2, N-1 Cidco, Next to Fame Inox Cinema, Near Cidco Bus Stand, Sector C/3, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8782508,
+                    "lng": 75.3661235
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87959182989272,
+                        "lng": 75.36742857989273
+                    },
+                    "southwest": {
+                        "lat": 19.87689217010728,
+                        "lng": 75.36472892010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "c322c641ae1790ff4afbf226aba5a9b442609d55",
+            "name": "Shahi Bhoj Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108660057335702086705\">Suraj Khedekar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4kRHE77HkW8Y0ZyMImspJ2rsUoznnP-9I5AbOWSzaC2aLHBFftHBfMumj7x4RAudMy7oDad490JP4PIaqhDvJfEaeKB1drZCeGeHmbLGGFA34k8GZPPw2iomn8ar04MgEhANXU3j9CBsSxOCwktjO3t0GhQJvsiJhAFlo5ZIztUqmOJhODuFYw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJX2T26uyi2zsRVIBylyTsC7Y",
+            "plus_code": {
+                "compound_code": "V9H8+8C Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H8+8C"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJX2T26uyi2zsRVIBylyTsC7Y",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1246
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No, 2, Jalna Road, next to New HighCourt, N 3, Cidco, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8743834,
+                    "lng": 75.3602768
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87579672989272,
+                        "lng": 75.36162742989272
+                    },
+                    "southwest": {
+                        "lat": 19.87309707010728,
+                        "lng": 75.35892777010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "45ca0d2a64fa7a88c2df43b77b1e3ccdf03adb50",
+            "name": "Indiana Veg Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 780,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104070934164023663933\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbXgVgvsh-G64cX8tySK-Ko7XksC7NGmTcg-QHkq3h2A9df9khUbmTRk62fcm5jCOQSDRa2kmzSPqh0ipavyk8eh3ZFdA-p9UKgqOGlxD84TDS0omjCOKTeV1yQAHfourEhALLp0vhpteR4PGoXJNlerJGhSZ9cfbDj62UxVOLEMN-9u9xzONoQ",
+                    "width": 1040
+                }
+            ],
+            "place_id": "ChIJT6rYbJKi2zsROOv8a6HhVw0",
+            "plus_code": {
+                "compound_code": "V9F6+Q4 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9F6+Q4"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJT6rYbJKi2zsROOv8a6HhVw0",
+            "types": [
+                "bakery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 729
+        }
+    ],
+    "status": "OK"
+}

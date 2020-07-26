@@ -1,0 +1,929 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-wAAAEGG--DiEQB-nq7wsyX-PLRyBQB8fd_3Vhr4FHD50cOk2c1d1n6xCc8X5il13HiJ3Da0vMJZ9VhMhV91H2IE7GJcz4yD5Rp_XnYfJ-2r4T0MZuKPwtrCHFqcWSB74noiaDGdVARTXe8L-I3k8nsbvUItq_YDln0VDmorcL3QtCmshKD_IIaFfAvjfUBIeA3XF8XA2pFQRkq0W983Ip1OLUj4MJkdaK13Q2VTC02bfoIidVNHL5g37YkgXy0Qk5C--J5h0S2OAKgFYn9_3mst4_WYTjOHl4aO6Z_kMQISEE8YHz3MqaITrm5BBYS9MGlWMvUYjuH71IMgBogmpWo__3ASENn47RziQJvnMx3tBSBV5lIaFCRri-i5yCtTIX3GwUJ6dEvJb0lw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Pride Landmark, 4th Floor, Nisha, Jalna Road, Mondha Naka, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8761959,
+                    "lng": 75.3409446
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87741692989272,
+                        "lng": 75.34229907989273
+                    },
+                    "southwest": {
+                        "lat": 19.87471727010728,
+                        "lng": 75.33959942010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "57d7acd694e513d5b26a6252e2371e219f0a47b9",
+            "name": "Sunway Spa & Beauty",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116473686161669518041\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA5yOUJwNOJMBR90PNm2iccNRVwSH2r4uVoVvzYvS62IROqwqDkhOs2vElRBmWdCu3PR1pcYn8V4lkNLEAx6sP8HjxArOslJCN6fh12XSUqUWjaSBFn4IyfkRMf1NqSBNUEhBdVr0Pg-53EPE0fRQ4NhIpGhRhoVa8J2ITgHAXJTobqvKUzX8Rjg",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJ__-_IXaY2zsRooYB7Si93xk",
+            "plus_code": {
+                "compound_code": "V8GR+F9 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GR+F9"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ__-_IXaY2zsRooYB7Si93xk",
+            "types": [
+                "spa",
+                "beauty_salon",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 63
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1st floor, vatslya niwas, Jai Bhawani road, opp. gokul sweet, Sector N 4, Cidco, Aurangabad, 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8625511,
+                    "lng": 75.33084629999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86388562989272,
+                        "lng": 75.33222542989272
+                    },
+                    "southwest": {
+                        "lat": 19.86118597010728,
+                        "lng": 75.32952577010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "966199f4d4b086eab339af54a4c0dd4565b332e3",
+            "name": "Ellora Spa & Wellness Pvt Ltd",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117352164481946986298\">anshuman thakur</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKzTYg1avq72lLDEQ0TZMRbUqxjaUgG6pbQlTxsnqqtVV_AT00mN4_4_QPK5CmU-LHTeQOuCOoSclXpN6JRqij9QIgOek5WKViHdQFd3tDKlShSpjLwk9WqIer1fR9QI_EhDACKc_CxSeMluProB6zmssGhRyZe6-n9Wt4kp2mIpJzQImWiw1sQ",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ9biZkGuY2zsR5xpSmIwuSaQ",
+            "plus_code": {
+                "compound_code": "V87J+28 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV87J+28"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ9biZkGuY2zsR5xpSmIwuSaQ",
+            "types": [
+                "spa",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 77
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bhanudas Sabhahgrah Railway Station Roadd,, Mhada Colony, Vedant Nagar, MIDC, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8630338,
+                    "lng": 75.3161289
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86430197989273,
+                        "lng": 75.31756267989272
+                    },
+                    "southwest": {
+                        "lat": 19.86160232010728,
+                        "lng": 75.31486302010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8d46eb199883410958ddf5e239b5fe9bdc82581b",
+            "name": "Panch Indrayani Dazzle Spa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 5184,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108781276236447031830\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACXBQNPTfUewg7lSc62nNrJgWl_x5Pes0IvwXvWXWT15cW0wIpKc2rZ-niTleZsYvsY4uDtmH7w-oSq3A-sIKIOadt1N4WXflAISUSJRLAOjGFHJWJlfQuhNlEVhaPME_EhAtMcn60v3UvHTNRZP26ig1GhQuZELsC78HTnxkPNmrHO3k9U7Mow",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJjasXbF6Y2zsRfTUenYj75jU",
+            "plus_code": {
+                "compound_code": "V878+6F Aurangabad, Maharashtra",
+                "global_code": "7JFQV878+6F"
+            },
+            "rating": 2.3,
+            "reference": "ChIJjasXbF6Y2zsRfTUenYj75jU",
+            "types": [
+                "spa",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "House no-32, Dr Bhapkar Marg, Opposite Keys Hotel, Friends Colony East, Konkanwadi, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8680051,
+                    "lng": 75.3203147
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86927452989272,
+                        "lng": 75.32169737989271
+                    },
+                    "southwest": {
+                        "lat": 19.86657487010728,
+                        "lng": 75.31899772010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "080c504e9ab1219b08a87a53146bb750e90ab360",
+            "name": "Spa Rituals",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114783572438578553553\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAX3lK67A_XChq2UWJTtoygKmYCaqFtImfmExRC2QnPAsCHaDBiuJvjzyDGHAjqdsgMEW8VQgEdWXAx4Gh-7wEthLoIq_wK6BoHuddPzltNWfPQ0I7rxTG8zu1o_Mi_y6HEhCyjyRM8rg3auafqCf2W33tGhSQWeizl5UffofDovmTFVyxrIzlVw",
+                    "width": 533
+                }
+            ],
+            "place_id": "ChIJWQRZqWeY2zsRs_FeuoSkdbg",
+            "plus_code": {
+                "compound_code": "V89C+64 Aurangabad, Maharashtra",
+                "global_code": "7JFQV89C+64"
+            },
+            "rating": 3.9,
+            "reference": "ChIJWQRZqWeY2zsRs_FeuoSkdbg",
+            "types": [
+                "spa",
+                "park",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sr No 206 , Sector B ,Cidco, N1 Rd, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.881152,
+                    "lng": 75.36616699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88250112989272,
+                        "lng": 75.36746222989271
+                    },
+                    "southwest": {
+                        "lat": 19.87980147010728,
+                        "lng": 75.36476257010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c3b92c1bdc1552b15aeac82988a1b5917e67f712",
+            "name": "Four Seasons Thai Spa And Salon",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 422,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113132883406121886567\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOhs7_wIDhchXJznRongZtwqTju7yb0cDWgd9kfz17YGT7t6U7fPgC-acZA3KQQL8R-odQBdW1Aqmzrz-hm_eceW0f3bBuIW8cP77pKTRaBcHfsUdBBy2EN2kD2s4m0e6EhCB3jdqT9GV8wdjcA408WOdGhSZaF98Xxr5KFBVH-YVF_-Rw2FYJA",
+                    "width": 750
+                }
+            ],
+            "place_id": "ChIJodLCWW6j2zsRUwR8Fu1z4VM",
+            "plus_code": {
+                "compound_code": "V9J8+FF Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J8+FF"
+            },
+            "rating": 4,
+            "reference": "ChIJodLCWW6j2zsRUwR8Fu1z4VM",
+            "types": [
+                "spa",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "3-16-527, Datta Nagar, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8792784,
+                    "lng": 75.3415547
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88061797989272,
+                        "lng": 75.34286527989273
+                    },
+                    "southwest": {
+                        "lat": 19.87791832010728,
+                        "lng": 75.34016562010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "55ecc78820e1149915cbf06ebf827a8fd10c954d",
+            "name": "Akshay Hair Spa",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116957668738762048888\">ganesh padaswan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwcValOfMVUL4ICd8BfF-NgS_3tsj5UFylWSvFT_4ftqAeNCCdoSJhIEEmEFhU6toNsR9TBTQwrhUkn0aWTA3PuYhFjUWzaLGfZ86K_HVHrRNyWIBjJXMJnBrbhW2uTZUEhBr7OpeYw-6ydbuKY0mDULMGhRVWMn62EqiKOxYnP5syoOT8LxTIQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ8XH1Cfqj2zsR2S4m21kjVG8",
+            "plus_code": {
+                "compound_code": "V8HR+PJ Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HR+PJ"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ8XH1Cfqj2zsR2S4m21kjVG8",
+            "types": [
+                "beauty_salon",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Near Keys Hotel, Station Rd, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.880891,
+                    "lng": 75.36538999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88224007989272,
+                        "lng": 75.36673362989272
+                    },
+                    "southwest": {
+                        "lat": 19.87954042010728,
+                        "lng": 75.36403397010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1c221f5bdde291c34f920e17eaa50ce297c8355f",
+            "name": "Spa Rituals",
+            "permanently_closed": true,
+            "place_id": "ChIJx-qCF-S92zsR1cyDmBxtKAQ",
+            "plus_code": {
+                "compound_code": "V9J8+95 Aurangabad, Maharashtra",
+                "global_code": "7JFQV9J8+95"
+            },
+            "rating": 3,
+            "reference": "ChIJx-qCF-S92zsR1cyDmBxtKAQ",
+            "types": [
+                "spa",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shop no 1/2,Malik Plaza,chkalthana,Jalna road,land mark manapurram gold bank, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8675099,
+                    "lng": 75.40660009999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86891707989272,
+                        "lng": 75.40794992989271
+                    },
+                    "southwest": {
+                        "lat": 19.86621742010728,
+                        "lng": 75.40525027010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0061940328d43bd24835d486dd70a4d309c54db6",
+            "name": "SAI SANDIP BODY MASSAGE / Spa Center",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114782342349457413257\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-5rn2PKlgX8wPw1u2-kTraGQPrZPBPcMBoVtEpHtkr4tn89KePH_kT91QfzWIgSHv5FTcN7_ydz05lv0anTM1B67mcKnP93RDrvFwLaRe6XzqqQGArNMDPQh0cpHwdi5EhCruemOOVpaAxiV-Md9qPDdGhTOWo_FiLR7B5Uk1Thgl4VDtw6z0A",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJsQ_GvAmj2zsRCj_n-uGkpKU",
+            "plus_code": {
+                "compound_code": "VC94+2J Aurangabad, Maharashtra",
+                "global_code": "7JFQVC94+2J"
+            },
+            "rating": 4.4,
+            "reference": "ChIJsQ_GvAmj2zsRCj_n-uGkpKU",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "14/A, Dnyantirth Housing Society, Yashashri Colony, N 8, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8921516,
+                    "lng": 75.35936749999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89351702989272,
+                        "lng": 75.36078842989271
+                    },
+                    "southwest": {
+                        "lat": 19.89081737010728,
+                        "lng": 75.35808877010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c7c55bbfdb0ac8e104cd9545cb19162ba4b75f0f",
+            "name": "GIRJA'S PROFESSIONAL SALON SPA ACADEMY",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112841824998729938554\">GIRJA&#39;S SALON &amp; ACEDEMY</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkNhX-1idRlgVWwkkpZWgOu9bNtr3YVTTsosANjGup08hj-V_4QfJAc9kQYGzQ7dlgJhoMNTycov5707OtjVmYg6Mzb2wYtyFwEhJivUx_e_QfqxMX4ol0Cxp35ogP79wEhBINRjigftGuoDu090jIK4yGhQjcBI7OhI5VKZ8FosauA9ACbvC_g",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJffkarr6i2zsRMc11S0I2Wx4",
+            "plus_code": {
+                "compound_code": "V9R5+VP Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9R5+VP"
+            },
+            "rating": 4.5,
+            "reference": "ChIJffkarr6i2zsRMc11S0I2Wx4",
+            "types": [
+                "beauty_salon",
+                "hair_care",
+                "spa",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 440
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sundaram Plaza, Opp. Police Chowki, N-1 Police Chowki, Town Centre, N 1, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.879773,
+                    "lng": 75.366158
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88113927989272,
+                        "lng": 75.36758142989272
+                    },
+                    "southwest": {
+                        "lat": 19.87843962010728,
+                        "lng": 75.36488177010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "33bcaae5967f877d3b4ed59d105131e9d2f759ee",
+            "name": "IKONIC Hair & Beauty Spa",
+            "permanently_closed": true,
+            "place_id": "ChIJH-rLn-yi2zsRNfHsvjqMDhw",
+            "plus_code": {
+                "compound_code": "V9H8+WF Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H8+WF"
+            },
+            "rating": 4.2,
+            "reference": "ChIJH-rLn-yi2zsRNfHsvjqMDhw",
+            "types": [
+                "beauty_salon",
+                "hair_care",
+                "spa",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "3, Shreyas Apartment Next To HDFC Bank, New Shreya Nagar, New Usmanpura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8698336,
+                    "lng": 75.3356125
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87123257989272,
+                        "lng": 75.33695427989272
+                    },
+                    "southwest": {
+                        "lat": 19.86853292010728,
+                        "lng": 75.33425462010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d3b46872296fbac4cbad77df578e67afca5e4d62",
+            "name": "LADY BIRD BEAUTY PARLOUR AND SPA THERAPY CENTER",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115880700386935525394\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyimUdAvM_bh5aEaRUlBVzHDVUu2grR9xMto5t8deTv-dMjOACHK9F6KRff0CK6gwycLEbYAppDoOIN0xOqcVDeBeGMrQKdA4awEPSfx56sWGe5nU8a4LQZebLjjs2E1LEhDnkEN7Lb0P8ZFAApqwoIq5GhRKSayFxPLvrhE3uzWMydI_-zKDqw",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ-wGni3mY2zsR8UOFI-Nnvg8",
+            "plus_code": {
+                "compound_code": "V89P+W6 New Usmanpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV89P+W6"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ-wGni3mY2zsR8UOFI-Nnvg8",
+            "types": [
+                "beauty_salon",
+                "spa",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "16, Nageshwarwadi - Nirala Bazar Rd, Swatantrya Sainik Colony, Nageshwarwadi, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8822539,
+                    "lng": 75.323712
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88360737989272,
+                        "lng": 75.32500892989272
+                    },
+                    "southwest": {
+                        "lat": 19.88090772010728,
+                        "lng": 75.32230927010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "916dda859c3b55aa2089904c1a6ed1c53e6fea30",
+            "name": "360 Degree Spa",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113373244408142089092\">Parikshit Verma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAb9-oxJpZQ6a2nfFEkrYBaKxDGlfCcM48gx1675M_2dCtjxpZZbjgoqkivErTmFUbwwPJ3nXwwY_RFb2r2thSLLATAM7vMJ58zeSCt-AnkP57dTgbo-kUej5JvPfOvmM8EhC0ZKcXrxD9MvD0b1M3y1o3GhQZY6dnSaMdYyDYY6vfpLHZNZtNFw",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ9dRnVROY2zsR5vE-uBWy-YU",
+            "plus_code": {
+                "compound_code": "V8JF+WF Nageshwarwadi, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8JF+WF"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ9dRnVROY2zsR5vE-uBWy-YU",
+            "types": [
+                "beauty_salon",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 42
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "TV Centre Rd, Hudco, Navbharat Housing Society, N 8, N 12, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8952185,
+                    "lng": 75.3541353
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89656907989272,
+                        "lng": 75.35551862989273
+                    },
+                    "southwest": {
+                        "lat": 19.89386942010727,
+                        "lng": 75.3528189701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5c0007c41cee5324f8e1bffe78bbdaf107498952",
+            "name": "Manav Salon & Spa",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 540,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116200686562742322669\">ravikumar jangle</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARq_1CxRF2Dil0y22lS37DQmrY-tDuHv-intTJuww1rkJBeX8nAGddhzgnwtpuYrDQCfnS-kSw6olwF8ssODA65J7pnUl2lnyVku1FYzBCXEoWNXBB_lPiyDms749t7N-EhCUlY0AjMjn0f-4v7m8xqjAGhQYJe3M3aTiuiGTWNo3BzLPqgBMOg",
+                    "width": 540
+                }
+            ],
+            "place_id": "ChIJjUUKi62i2zsRx5n51ovyjhU",
+            "plus_code": {
+                "compound_code": "V9W3+3M N 12, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9W3+3M"
+            },
+            "rating": 4.1,
+            "reference": "ChIJjUUKi62i2zsRx5n51ovyjhU",
+            "types": [
+                "beauty_salon",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "cannought place, Cidco, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8772062,
+                    "lng": 75.36460439999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87855487989272,
+                        "lng": 75.36590587989272
+                    },
+                    "southwest": {
+                        "lat": 19.87585522010728,
+                        "lng": 75.36320622010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "73289491140cef4c38db10c218286d357ce8b217",
+            "name": "VARAD PROFESSIONAL SALON",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 438,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102910666253898865983\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAvcoMj_8SS7dJK1z4j92q_CC_mfm3o7khX96qnJeVJpPukMLXU9xIOg3PmySZp6WQXO5KwzyVh5RgXL_HkTiZzqNgIBKk9-cCxhwh6oa-_ibLdRSQPDManWAw1cb0CLolEhAyplCGD1d3FFletbSIJITtGhRErsutdHZ4fyzBP9JCGJ-2Xwf40w",
+                    "width": 780
+                }
+            ],
+            "place_id": "ChIJR70J0uyi2zsRYE0DLcOWMPg",
+            "plus_code": {
+                "compound_code": "V9G7+VR Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G7+VR"
+            },
+            "rating": 4.4,
+            "reference": "ChIJR70J0uyi2zsRYE0DLcOWMPg",
+            "types": [
+                "beauty_salon",
+                "hair_care",
+                "spa",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 176
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "CIDCO Cannought, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8792706,
+                    "lng": 75.3639525
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88056007989272,
+                        "lng": 75.36528547989273
+                    },
+                    "southwest": {
+                        "lat": 19.87786042010728,
+                        "lng": 75.36258582010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b69f4be402121fda63c7705387f4b14887181c2b",
+            "name": "SMART LOOKS spa & salon",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1872,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105160745087187452865\">Aayoushi Khandelwal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4CQSR3sQc-aWgxceRjJpC6IKldNlFwCIZ2rdyppa_SkYYrNvk-MWqxCxorWCcsa19SG-2MOIB7OeXzuIDdWF-QWtFoEdfg_CnIVFLtPAGNZEAUe5kWj-4nTxP9NDwiNKEhBOQvBNUGA2Q6laGA0CehDFGhTAZuMRtlIgj2ViwkTyyh4czCryyg",
+                    "width": 3328
+                }
+            ],
+            "place_id": "ChIJj73RUJOi2zsRlo3UR7CHky8",
+            "plus_code": {
+                "compound_code": "V9H7+PH M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H7+PH"
+            },
+            "rating": 4,
+            "reference": "ChIJj73RUJOi2zsRlo3UR7CHky8",
+            "types": [
+                "beauty_salon",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dr Bhapkar Marg, Padampani Colony, MIDC, Aurangabad, Maharashtra 431005, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.861256,
+                    "lng": 75.313368
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86261092989272,
+                        "lng": 75.31472142989271
+                    },
+                    "southwest": {
+                        "lat": 19.85991127010728,
+                        "lng": 75.31202177010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6d347adfdc9e4f47e678abcd7fd969d362f0936a",
+            "name": "Rupa's Beauty Salon Spa & Academy",
+            "permanently_closed": true,
+            "place_id": "ChIJvc1w3l6Y2zsRpsHGRv0qBPo",
+            "plus_code": {
+                "compound_code": "V867+G8 Aurangabad, Maharashtra",
+                "global_code": "7JFQV867+G8"
+            },
+            "rating": 3.7,
+            "reference": "ChIJvc1w3l6Y2zsRpsHGRv0qBPo",
+            "types": [
+                "beauty_salon",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "C 4/5, Motiewala Trade Center, KFC Building, Nirala Bazar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.880455,
+                    "lng": 75.32328199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88180112989272,
+                        "lng": 75.32471582989272
+                    },
+                    "southwest": {
+                        "lat": 19.87910147010728,
+                        "lng": 75.32201617010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cf335fe07edc2754ecfe3429334f7e600aa1c13f",
+            "name": "Harsha N Sanjay's Salon Spa & Academy",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100639706941411169130\">Indiacom Ltd</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA5WkaYsMie0eMkiSC5qYFfzw-sKhbf0Llv7fv6K2U2gxabeK1sK7Nl52KIRno4kSJ77t4vLX2vyoJvZ1NysHqTleGq4rydhPp785J1VWN_zlyUUHrvZyXhRUn65obAYjsEhCH3NEN1NxcbeVeI6h6JeECGhT-_axo8KAQsjnf1v4CRMuq5_rGig",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJnVXWnWyY2zsRMO8zNwywvrQ",
+            "plus_code": {
+                "compound_code": "V8JF+58 Nirala Bazar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8JF+58"
+            },
+            "rating": 3.5,
+            "reference": "ChIJnVXWnWyY2zsRMO8zNwywvrQ",
+            "types": [
+                "beauty_salon",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 115
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "chetana tower, Darga Rd, Zambad Estate, Shreya Nagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8677541,
+                    "lng": 75.3363921
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86910257989273,
+                        "lng": 75.33768332989273
+                    },
+                    "southwest": {
+                        "lat": 19.86640292010728,
+                        "lng": 75.33498367010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4ec1875fe6b3f1ffa648a1d3668122ff900a80d9",
+            "name": "Varad Hair Salon",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100639706941411169130\">Indiacom Ltd</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAz10UFBiPUcE-xLU7VRVqH4eV6X-SWFutZ06CXuJBWzovrL8rgIFKjsV6EBFqw6F0UaFD-OgMiKIsHHwqYEIWxlKRvsUaRh_1hHrly_HotcVH9CLmLEXpbgewnrQUw2T8EhCUnCmJRfrwvJRyxg-taoV9GhRxcmmqubjPskQ9MuO2UjcTqgaCKw",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJ7c7AbnmY2zsR_1NcTXlIf0w",
+            "plus_code": {
+                "compound_code": "V89P+4H Aurangabad, Maharashtra",
+                "global_code": "7JFQV89P+4H"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ7c7AbnmY2zsR_1NcTXlIf0w",
+            "types": [
+                "beauty_salon",
+                "hair_care",
+                "spa",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 128
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Renukamata Mandir Kaman, Chate School Rd, Satara Deolai Parisar, Aurangabad, Maharashtra 431010, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8490265,
+                    "lng": 75.3394974
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85029282989272,
+                        "lng": 75.34084492989271
+                    },
+                    "southwest": {
+                        "lat": 19.84759317010728,
+                        "lng": 75.33814527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6c133f8a94fddd5a13037095ff0f82439ea2bc13",
+            "name": "GODS OWN AYURCARE",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109332614968950729348\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAz3Z18C4arj6Jx_EOWHfSXSEs9VXBMM2aKVdYuvk6ECa39dVqiRnuymSrdpMTSFqDzhHFwCtnw3Hclam6Hm6X6sPvFLote5PSqFAFVoFklrMvVlraLg2dUHzNVfDcEhjlEhAhUR-tgr-68pCUADIEJCcOGhQ77CJfGh_A_VnXUySgwu7OpgbLqQ",
+                    "width": 1013
+                }
+            ],
+            "place_id": "ChIJC-MAjA2Z2zsRGZNYYQxUzxk",
+            "plus_code": {
+                "compound_code": "R8XQ+JQ Aurangabad, Maharashtra",
+                "global_code": "7JFQR8XQ+JQ"
+            },
+            "rating": 5,
+            "reference": "ChIJC-MAjA2Z2zsRGZNYYQxUzxk",
+            "types": [
+                "spa",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Atharwa Plaza, Garkheda Rd, Kasliwal Nagar, Garkheda, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.860924,
+                    "lng": 75.3467599
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86230622989272,
+                        "lng": 75.34805267989272
+                    },
+                    "southwest": {
+                        "lat": 19.85960657010728,
+                        "lng": 75.34535302010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c546e8449e018f3e70afdea0e25a649421b1c969",
+            "name": "West Style Family Salon and Spa",
+            "permanently_closed": true,
+            "place_id": "ChIJVQjl7NWj2zsRL_W7_fFjvcA",
+            "plus_code": {
+                "compound_code": "V86W+9P Garkheda, Aurangabad, Maharashtra",
+                "global_code": "7JFQV86W+9P"
+            },
+            "rating": 4.6,
+            "reference": "ChIJVQjl7NWj2zsRL_W7_fFjvcA",
+            "types": [
+                "beauty_salon",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        }
+    ],
+    "status": "OK"
+}

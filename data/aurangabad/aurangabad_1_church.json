@@ -1,0 +1,832 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_gAAAPQ_pv2jaoAGn0cbTyxQ4oMrd2iy8PjWRAiMBCm9rZMTXAhFnzDxZhqiGXhZ2DmElSr-bNEcDt2npLp35Rms3okLWcQWuaVp-Um61CIDpyeTjbf0a24NdmfrwhsvoW5mbBz0bLtwFAuWtbtFySdr7mUPBB78pioFjkLsqwNdVmHf4a5IubYg_-e2TiJMVQa3qhrhimRsWj8Oa_qC0fIMqirxfNAviIX6hh76TdHWuYFpL95xuUdy4HakhNkPo17mYISwCpW1rFGc2pxqUmvGLjflG1E-TudaXfuAYgM0yWyRooQ1-i42DIBHt3vlub7syyjVJ7Ydl2yFUNiPa8FrWhsSEExGOlXcNll8VLkNbYAJoGMaFGYk0BO8OSCUAsx4ihdPH_6kxXxW",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jalna Road, near S.F.S School, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8724499,
+                    "lng": 75.350568
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87385542989272,
+                        "lng": 75.35171192989272
+                    },
+                    "southwest": {
+                        "lat": 19.87115577010728,
+                        "lng": 75.34901227010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "510d85a6641298e23dffacf10d3217a18f12b00d",
+            "name": "St. Thomas\u2019 Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116090695242839216522\">shrey chauhan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAj9qSh0hw9gr3X85cq3lq7IpVOdMDu62MAD-adZHw3kXewnJbx010I200Xfkol81iLc0NCpx58LJUHvP7tAO_5zS0TK64UU4dOgvnZu4wHdx-ORxcFJUVoSbJVsIvPWP_EhB4H20qWoVEsjR04P2zL7kTGhR25f5OqFlKoTV1PY3mcE04uOHa5g",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ27qWLoWi2zsRMZ9X7AOHnWY",
+            "plus_code": {
+                "compound_code": "V9C2+X6 Aurangabad, Maharashtra",
+                "global_code": "7JFQV9C2+X6"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ27qWLoWi2zsRMZ9X7AOHnWY",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 46
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ayodhya Nagar, N 7, Cidco, near Sai Baba Mandir, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8934609,
+                    "lng": 75.360322
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89474832989272,
+                        "lng": 75.36170097989272
+                    },
+                    "southwest": {
+                        "lat": 19.89204867010728,
+                        "lng": 75.35900132010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "f033e861b947a7f493e2319c69513dab1c28150e",
+            "name": "St. John The Evangelist's Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117993696511417801407\">john rodrigues</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVyh0Bef7fLv8M3AxYky94EPCAfPJsXRlowcZLd4xo-yRSOGj4-vVYxgA3IC16Iw8Be3BQcBvhpzFaKFYWJLdfLf9X6hSge71oDPTzE4j8QQS1i4Y9kI-GwzYfgkvo0wJEhDzFamlEzJ1qZdNHGoSHur7GhR0J3LTMTX21QN9bNURKhP8uK1qkA",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJT8iODLmi2zsRq2LIKkZdYYA",
+            "plus_code": {
+                "compound_code": "V9V6+94 Aurangabad, Maharashtra",
+                "global_code": "7JFQV9V6+94"
+            },
+            "rating": 4.2,
+            "reference": "ChIJT8iODLmi2zsRq2LIKkZdYYA",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "M-6, Near Bajrang Chowk, Shri Nagar Colony, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.887444,
+                    "lng": 75.357953
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88878112989272,
+                        "lng": 75.35923587989271
+                    },
+                    "southwest": {
+                        "lat": 19.88608147010727,
+                        "lng": 75.35653622010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "3025caede9cd328d29e0f5d1067c6953af46d5e6",
+            "name": "PEACE MEMORIAL NAZARENE CHURCH CIDCO",
+            "permanently_closed": true,
+            "place_id": "ChIJPekCzr2i2zsRbbmqs-JhKXA",
+            "plus_code": {
+                "compound_code": "V9P5+X5 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9P5+X5"
+            },
+            "rating": 4.5,
+            "reference": "ChIJPekCzr2i2zsRbbmqs-JhKXA",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "N-6, Azad Chowk Road, Road, Avishkar Colony, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8880069,
+                    "lng": 75.352471
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88931472989272,
+                        "lng": 75.35382207989272
+                    },
+                    "southwest": {
+                        "lat": 19.88661507010728,
+                        "lng": 75.35112242010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "34da24f74ba6b438b360b6aa6a2ebdef88c7dee1",
+            "name": "Church Of Nazarene",
+            "permanently_closed": true,
+            "place_id": "ChIJqfcnLKOi2zsRI0b42j7zSwg",
+            "plus_code": {
+                "compound_code": "V9Q2+6X Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9Q2+6X"
+            },
+            "rating": 3,
+            "reference": "ChIJqfcnLKOi2zsRI0b42j7zSwg",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "MH SH 16, Padegaon, Aurangabad, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8839456,
+                    "lng": 75.2946609
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88521312989272,
+                        "lng": 75.29595952989273
+                    },
+                    "southwest": {
+                        "lat": 19.88251347010728,
+                        "lng": 75.29325987010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "cb7c78c19b59898e4d77da7a6c09184a31875b98",
+            "name": "Orthodox Church Aurangabad",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115935973135266765951\">scaria mathew</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAF_iagaiq_HkO6maL1uw5CbURjMbwdlTwuDYqirETACw70KdQsIXtI5v5c1tZf0LGisjHjnlAX4mkNF2_NXpo8aSOEAB4QjlttflklAgcPI-X-HAsw_7xXznZkJAYsiZ6EhBQUCQH5esT6vxo2NaUeMCSGhR7wFuGR40RRzshQrhrF6zZghR5yQ",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJo2DgMcuZ2zsR9eFimOxiDaM",
+            "plus_code": {
+                "compound_code": "V7MV+HV Padegaon, Aurangabad, Maharashtra",
+                "global_code": "7JFQV7MV+HV"
+            },
+            "rating": 4,
+            "reference": "ChIJo2DgMcuZ2zsR9eFimOxiDaM",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jubilee Park, Naralibag, near GMC HOSPITAL, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8876841,
+                    "lng": 75.3194859
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88897627989272,
+                        "lng": 75.32083547989272
+                    },
+                    "southwest": {
+                        "lat": 19.88627662010728,
+                        "lng": 75.31813582010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "28b1708ecf9a2b01d6b3f6291db1a0e8dc0ec373",
+            "name": "Church Of The Nazarene",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103517775089016099249\">Vishal Awachar</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAIHSK4Pnxpa3he-jo8i9ltwTMhV2pQCq6OJYvhA8xiWRM6JVO1BXm5Vdqer0bW8JZU3PdG9bllzUZzP_-X1dfGlByCt-DFUlAnvjCo0MeyefvZa0R1bCz48uJGD875yP3EhBJKxdXZGwjgGJZsz4eG9NiGhRuH4_hoUq-mkKMF3exbgUju0vUgQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJo8w_CxaY2zsRtl6eY1e355Q",
+            "plus_code": {
+                "compound_code": "V8Q9+3Q Aurangabad, Maharashtra",
+                "global_code": "7JFQV8Q9+3Q"
+            },
+            "rating": 4.6,
+            "reference": "ChIJo8w_CxaY2zsRtl6eY1e355Q",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Cm-2-134, Thakre Nagar, N-2, Cidco, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8677311,
+                    "lng": 75.3776524
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86906512989272,
+                        "lng": 75.37900357989272
+                    },
+                    "southwest": {
+                        "lat": 19.86636547010728,
+                        "lng": 75.37630392010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "3ba77dc129db95a610afd664674ee4e36e8129f7",
+            "name": "Indian Pentacostal Church Of God",
+            "permanently_closed": true,
+            "place_id": "ChIJVVVVlfmi2zsRz_GpRX1Kmks",
+            "rating": 0,
+            "reference": "ChIJVVVVlfmi2zsRz_GpRX1Kmks",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jubilee Park Road, Nazarene Church (Gaikwad Vinay), Jubilee Park Road, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8761653,
+                    "lng": 75.3433139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87749477989272,
+                        "lng": 75.34466647989272
+                    },
+                    "southwest": {
+                        "lat": 19.87479512010728,
+                        "lng": 75.34196682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "065bfb3668889a779310810a351c8003c37642bd",
+            "name": "Prist Nazarene Church",
+            "permanently_closed": true,
+            "place_id": "ChIJY7xpoxWY2zsRJrra3z15fsY",
+            "rating": 0,
+            "reference": "ChIJY7xpoxWY2zsRJrra3z15fsY",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cantonment, Mission Compund, Cantonment, Aurangabad, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8761653,
+                    "lng": 75.3433139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87749477989272,
+                        "lng": 75.34466647989272
+                    },
+                    "southwest": {
+                        "lat": 19.87479512010728,
+                        "lng": 75.34196682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "c7a637732d9b7c9f035a75396be74af273f6d202",
+            "name": "Christ Church Girls & Boys Hostel",
+            "place_id": "ChIJY7xpoxWY2zsRlVCF6z8mKYc",
+            "rating": 5,
+            "reference": "ChIJY7xpoxWY2zsRlVCF6z8mKYc",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nagar Naka, Aurangabad, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8749942,
+                    "lng": 75.300912
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87640367989273,
+                        "lng": 75.30205897989272
+                    },
+                    "southwest": {
+                        "lat": 19.87370402010728,
+                        "lng": 75.29935932010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "b7d179192b1b3581101e72a9ecdea6171cff7e1b",
+            "name": "Holy Trinity Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109954719692357236196\">Raj Wayal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAcAtI-T7q2A3t9XbLARwNLZrbARlDrnJZrIHeN1zJq4sgwwvZIWxUP4YUde5KkkuAmyTT8PUZShVYjSEk4yALBFuZwQpiFwGQFKjVIRE9-5RrHFR9vFFtRJT45aYjaNmuEhC-XJOczCTCQhk18-FsSJWRGhSkomFmGmCXjtH2x_kqbgtEFRReMA",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJWxuNUEmY2zsRh5qkhVEP1GM",
+            "plus_code": {
+                "compound_code": "V8F2+X9 Nagar Naka, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8F2+X9"
+            },
+            "rating": 4.5,
+            "reference": "ChIJWxuNUEmY2zsRh5qkhVEP1GM",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Khadkeshwar Rd, Khadkeshwar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8865605,
+                    "lng": 75.3213346
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88791032989272,
+                        "lng": 75.3226839298927
+                    },
+                    "southwest": {
+                        "lat": 19.88521067010728,
+                        "lng": 75.31998427010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "53fa4240c82d519a5d30430e0c6623eec7a0ed7c",
+            "name": "Christian Fellowship Church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117532455368879295040\">kumar bathula</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4axGJJpaB9iOkJYpP1zDtt35ps7obM6Wg3DjGYBCLt8-1L3bXYhX6dLqRNZw8GN23GYIDYhl522Xcaa8q1wZtdry2VbisQFtsh0ylmelZzVKl9a_1eeaqCL1SAgeW8HrEhCy2NcrQpekGPVXcDY6WErUGhQ7rF67XZSguUQAozX7xiXt4Hydjg",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJFR0eOhSY2zsRwg1NUhFWdfY",
+            "plus_code": {
+                "compound_code": "V8PC+JG Khadkeshwar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8PC+JG"
+            },
+            "rating": 4.1,
+            "reference": "ChIJFR0eOhSY2zsRwg1NUhFWdfY",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "N-2, C I D C O, Jalna Road, Mukundwadi, Near Chikalthana, Mukundwadi, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8540341,
+                    "lng": 75.33538759999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85532157989273,
+                        "lng": 75.33672112989271
+                    },
+                    "southwest": {
+                        "lat": 19.85262192010728,
+                        "lng": 75.33402147010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "907c15435f5531a2097cbd091358148201864303",
+            "name": "Evangelical Church Of India",
+            "permanently_closed": true,
+            "place_id": "ChIJVVVVVYGY2zsRAI-NhJk7A58",
+            "rating": 0,
+            "reference": "ChIJVVVVVYGY2zsRAI-NhJk7A58",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mhada Colony, N 2, Cidco, Aurangabad, Maharashtra 431007, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8645092,
+                    "lng": 75.39199669999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86586497989272,
+                        "lng": 75.39328842989272
+                    },
+                    "southwest": {
+                        "lat": 19.86316532010728,
+                        "lng": 75.39058877010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "112212ff2106cd812f62b6d4acce772659ee7c95",
+            "name": "AG CHURCH",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 853,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101037891830818204130\">Amol shinde</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYBMCjVZr-sXcKnERUJXRillXDdOHq3JBAmwEKDimfD2H8BNbGtWcwAyo9o7S5k5uEgdPtdEIT3NlqWReyRj1z-x1Ff57K6-3CFpfnwvNNJnSN72wIgbu8fsFfY7BB5xKEhAoSdTFr-V9wtnLzBWUpYscGhQqYEUNhT3xILJ_JKa1HViMniD6Zg",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJrfph5iyj2zsRIwbPSrAerrA",
+            "plus_code": {
+                "compound_code": "V97R+RQ Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV97R+RQ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJrfph5iyj2zsRIwbPSrAerrA",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Gaulipura Ward no, 1, Cantonment Chhawani Rd, Aurangabad, Maharashtra 431002, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.883825,
+                    "lng": 75.30760269999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88514842989272,
+                        "lng": 75.30905447989272
+                    },
+                    "southwest": {
+                        "lat": 19.88244877010728,
+                        "lng": 75.30635482010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "0c02984a4008444f6049f59e18131f834bbde5e3",
+            "name": "Christ Church (CNI)",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107318208510593270621\">Prashant Tidke</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbNt-MUbpwudN4rl5GUYGZztX4j7qTsyFyioXPxi0cbqqCdEdtsSw2G9lGT0Cte_r5_UeVi4ZuB7AQEaZYAtCov9Onh_haCcQBlG6Uj0abGLk1aasjVrp_peG6DaVUJChEhAkCZWWI7CmLILN_EIN48INGhSIAlQvmsNoO9uQHsyDT6ySGngj8g",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ27bxzTmY2zsRHPkBYF6UXVk",
+            "plus_code": {
+                "compound_code": "V8M5+G2 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8M5+G2"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ27bxzTmY2zsRHPkBYF6UXVk",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "N-2, C I D C O, Jalna Road, Mukundwadi, Near Chikalthana, Mukundwadi, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8721221,
+                    "lng": 75.32325209999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87346442989272,
+                        "lng": 75.32460212989271
+                    },
+                    "southwest": {
+                        "lat": 19.87076477010728,
+                        "lng": 75.32190247010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "323abeb2c547e4fa84d7da2aae0c41642e1cd08d",
+            "name": "Evangelical Church Of India",
+            "permanently_closed": true,
+            "place_id": "ChIJSUPtyGiY2zsRpoVWdposzD4",
+            "rating": 3.3,
+            "reference": "ChIJSUPtyGiY2zsRpoVWdposzD4",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sector 92-A, N-1, Cidco, Cidco, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8786234,
+                    "lng": 75.3689089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87988422989272,
+                        "lng": 75.37023737989271
+                    },
+                    "southwest": {
+                        "lat": 19.87718457010728,
+                        "lng": 75.36753772010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "20e2d2fce2612a28a1632da01b645badd96fb2fe",
+            "name": "Baftist Missionary Association",
+            "permanently_closed": true,
+            "place_id": "ChIJVVVVFeyi2zsRi5FI_hk2xxk",
+            "rating": 0,
+            "reference": "ChIJVVVVFeyi2zsRi5FI_hk2xxk",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shivajinagar, Sara Raaj Nagar, Shivaji Nagar, Aurangabad, Maharashtra 431007, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8564253,
+                    "lng": 75.3567169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85777452989272,
+                        "lng": 75.35807532989271
+                    },
+                    "southwest": {
+                        "lat": 19.85507487010728,
+                        "lng": 75.35537567010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "bf6bd0d6312c877c5a638694447e8f7234534ecc",
+            "name": "GOD'S LAMB JESUS CHRIST CHURCH ANANDNAGAR",
+            "permanently_closed": true,
+            "place_id": "ChIJ6WRMjmOi2zsRsP6acKp5Pzc",
+            "plus_code": {
+                "compound_code": "V944+HM Aurangabad, Maharashtra",
+                "global_code": "7JFQV944+HM"
+            },
+            "rating": 1,
+            "reference": "ChIJ6WRMjmOi2zsRsP6acKp5Pzc",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Prajapita Bhramhakumari Vishvidyalaya, Jawahar Colony Rd, Bhanudas Nagar, C\\O, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8730924,
+                    "lng": 75.34630779999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87443957989272,
+                        "lng": 75.34760992989273
+                    },
+                    "southwest": {
+                        "lat": 19.87173992010728,
+                        "lng": 75.34491027010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "8eeafbfb2dbf33fe311c2105de15a0b6aed5f453",
+            "name": "World Renewal Spiritual Trust",
+            "permanently_closed": true,
+            "place_id": "ChIJq6qqupyi2zsRNKDbQimT85M",
+            "plus_code": {
+                "compound_code": "V8FW+6G Aurangabad, Maharashtra",
+                "global_code": "7JFQV8FW+6G"
+            },
+            "rating": 2,
+            "reference": "ChIJq6qqupyi2zsRNKDbQimT85M",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Plot. no 22.Nisarg Colony, Pethenagar Bhausingpura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9036579,
+                    "lng": 75.3028196
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90503467989272,
+                        "lng": 75.30410857989271
+                    },
+                    "southwest": {
+                        "lat": 19.90233502010728,
+                        "lng": 75.30140892010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "a277f426881b5a7c647eac80889111b401ec77d1",
+            "name": "The Pentecostal Mission church",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105186111745532134887\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtOhrEwHcVtHUdkKyXcXT5sq65kKU7LnTrAScb9nVXjs-8OWnlqHcbwR5nTxAgY7uaRPRHumaASUQkpQXCwLhbX3mgvysatc7nTWvDPxhHIwKi3O4O5h7suNeR7hjW5HmEhD-HsT9YduMVSViNUMLWb16GhTmSVH9WmBxB8lkt-gmSkw8tfgqDw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJy72QfYeX2zsRR6WaYK8iArY",
+            "plus_code": {
+                "compound_code": "W833+F4 Aurangabad, Maharashtra",
+                "global_code": "7JFQW833+F4"
+            },
+            "rating": 3.3,
+            "reference": "ChIJy72QfYeX2zsRR6WaYK8iArY",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Mhasoba Nagar, Harsul, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9099962,
+                    "lng": 75.35562759999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.91134832989272,
+                        "lng": 75.35696562989273
+                    },
+                    "southwest": {
+                        "lat": 19.90864867010728,
+                        "lng": 75.35426597010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "a916b1713fa64b1465d13821c9c479e51bd49d1b",
+            "name": "Church",
+            "permanently_closed": true,
+            "place_id": "ChIJrWHgo8292zsRaTC2Eop0mAE",
+            "plus_code": {
+                "compound_code": "W954+X7 Harsul, Aurangabad, Maharashtra",
+                "global_code": "7JFQW954+X7"
+            },
+            "rating": 2.3,
+            "reference": "ChIJrWHgo8292zsRaTC2Eop0mAE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        }
+    ],
+    "status": "OK"
+}

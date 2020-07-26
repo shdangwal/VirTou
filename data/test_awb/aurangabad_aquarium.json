@@ -1,0 +1,962 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQCAAEAAHX_fAZND9OkLjJ5VJvDqtKnjl_k7hM0vEHYJxyxZC9UfBQNVXIaVbDAJHAb4QqdVqpPGGukQ4GpLIzuxC-hpB-L7kJTxi6ILPUGrBhspbgzNoFtXyTcaNQQNC0Ht5sRf9tR2iRCbieC5YMtN2b2RWZs2_Szhi0aeyWJ7u1hnMVeBg3gcVJ_RSlvK_TevvfohfXPlrBMrG3bSNRcBG8Mn_E1enh29iDB89LA0nFu9yubmy68SkdQ51K70WoxfAhsRhj3LNZi9BFC6ZPzTaeemgJHn6g5lFaUJuuyXfTUoozsCiw4LQBacS3zG_aArebfscpwZjsYkZQnCjIWQaLdnWASEEn-tLI07KvA3Zz4SQ9goH0aFK7wgXjGMvT_56osf8yb9sL3mhDz",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Beside Paris Juice Center ,Opposite A.M.C, Paithan Gate, Khokadpura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.880799,
+                    "lng": 75.3298873
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88208962989272,
+                        "lng": 75.33125747989271
+                    },
+                    "southwest": {
+                        "lat": 19.87938997010728,
+                        "lng": 75.32855782010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "253e5b4880f0227fd0eadfcaa78bed06cee92055",
+            "name": "Navrang Aquarium & Birds Shop",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118420097499651574425\">Rashpal _singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQ-_fXZB4EIsTElrpVq_r7X4JFr70_fNf5V7ugw82aealcVAQYXZUjTyiqGQFuYsYDrjcjpjVwkizkdcO_vFZLfCirZzPQJ0c3uuOQmFSf71FbM5d_3h5XGapeGT-Wc9MEhCcMUhstg_UJ3C_S2gQkYtnGhT6ZX7AeesUxv42ydAFSiJLZHZG7A",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJG90CnHKY2zsR_wPQTAUpnq4",
+            "plus_code": {
+                "compound_code": "V8JH+8X Aurangabad, Maharashtra",
+                "global_code": "7JFQV8JH+8X"
+            },
+            "rating": 3.6,
+            "reference": "ChIJG90CnHKY2zsR_wPQTAUpnq4",
+            "types": [
+                "aquarium",
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 43
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kasliwal Suvarnayog, L-7, G - building, Garkheda Rd, opposite vyankatesh hall, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8612057,
+                    "lng": 75.3466631
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86256257989272,
+                        "lng": 75.34800017989272
+                    },
+                    "southwest": {
+                        "lat": 19.85986292010728,
+                        "lng": 75.34530052010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "87c53d9cf3ca2e9a0ad16f9eb7710256f125212c",
+            "name": "GOLD FISH AQUARIUM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108059613568582484262\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1KQUpCRuU_qBP2TlyAx0pfp_N5RR93kxJfaYWrMM5CKOk96TodCF9wCjiDGBSH2P-d-jXiIQUn0BtbJ6VWqpN8glbxVckGDjQsvMR9x3tq4SeiIW1dhWkyiP2zjqqrpREhC1srGOKk15Pj6Ib4BDaT4WGhSSpFzBqMrCkWmizI41hOk5sF1U5g",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJzyu1A36i2zsRkN1ZU37PV10",
+            "plus_code": {
+                "compound_code": "V86W+FM Aurangabad, Maharashtra",
+                "global_code": "7JFQV86W+FM"
+            },
+            "rating": 4.4,
+            "reference": "ChIJzyu1A36i2zsRkN1ZU37PV10",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 91
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shriram Apartment, Nirala Bazar Rd, near Roplekar Hospital, Tilaknagar, Awarkar Chowk, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8668254,
+                    "lng": 75.3368562
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86811257989272,
+                        "lng": 75.33820702989271
+                    },
+                    "southwest": {
+                        "lat": 19.86541292010728,
+                        "lng": 75.33550737010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "530e4f78b4a1450fe633eaa48203dcffe39f3781",
+            "name": "Sailee Aquarium",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102273445082519967856\">Shrikantsailee Srikabeer</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACJg17DlMyFr0EU5D1JjIvXgF3wTSr8ZNyB9XJ59CPxQ7xjBfaJ-p9Ybzr_8CP0M-Zkb9HYDdQ5AcQ3OsqpoQO8jhg_Kd_dxInNJFag01O-0tyBn8Rs_-cOvJT0eDSFe1EhBHCpfOT4aqxjOCeIlewHTPGhQ_tqjr4S2SXPXnD6_TJ_9HhjGOFg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ4c6POHmY2zsRW_A27Y6kmiY",
+            "plus_code": {
+                "compound_code": "V88P+PP Aurangabad, Maharashtra",
+                "global_code": "7JFQV88P+PP"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ4c6POHmY2zsRW_A27Y6kmiY",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shop no. 4, Tulsi Arcade, Cidco Rd, Kirti Housing Society, Rahemania Colony, N/5, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.887924,
+                    "lng": 75.3525143
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88930532989272,
+                        "lng": 75.35386317989271
+                    },
+                    "southwest": {
+                        "lat": 19.88660567010728,
+                        "lng": 75.35116352010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "97b9a170c1f8cd4c137385d27f61b2d3b9a03fee",
+            "name": "Sea world aquarium",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109556299904792217298\">Anonymous Dude</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMzpujeoBOY-TZPYfIdY0lmvvez2eCx3TLgray_lF9e85F6MM2OL-9Mj7iVUqVgbGwijrqOB3L1zJOY4sxmQkmtPAJYf_HEKgMtO3-jxOoKiSToHKii27JnhRcjeGZDzEEhCdXeLtxCkidfHWmmSuM-RqGhTyLabiLm-2M3G5g2GXcaNOrlA7_g",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJK6e0A5Oi2zsRLHGzEXyF9ps",
+            "plus_code": {
+                "compound_code": "V9Q3+52 Aurangabad, Maharashtra",
+                "global_code": "7JFQV9Q3+52"
+            },
+            "rating": 3.7,
+            "reference": "ChIJK6e0A5Oi2zsRLHGzEXyF9ps",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot no 5/13/2, Railyway Station-RTO Road ,Near Ram Mandir ,Padampura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8682712,
+                    "lng": 75.3124212
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86961382989272,
+                        "lng": 75.31376782989273
+                    },
+                    "southwest": {
+                        "lat": 19.86691417010728,
+                        "lng": 75.31106817010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "07d4a8054f7ac4a9287ac3a87a426cbf3efb1762",
+            "name": "Barwal Fish Aquarium",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106723163498346376663\">Pravin Sable</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2R8OD7kmScoDPY-uYqag3qb50vIfUhKkRAfo_rgaZ2AE09uuOL2DW-izoJp_-F6ZKR9ZMlyEIMtC-pFWt-gKXBZWrbiFGtr4Izn903vrATSUye4TSB9k9jFv_g3ftjsdEhDNtFVGgXsThcdrmmZX_CnzGhRp4GkvjXTiXdc0tomu1X0sMCLY3g",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJSyENe2WY2zsR_KB4FkxgXe0",
+            "plus_code": {
+                "compound_code": "V896+8X Aurangabad, Maharashtra",
+                "global_code": "7JFQV896+8X"
+            },
+            "rating": 4.2,
+            "reference": "ChIJSyENe2WY2zsR_KB4FkxgXe0",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 100
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shop No. 2, Tanme Meridian, Nirala Bazar Rd, Nageshwarwadi, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.882161,
+                    "lng": 75.323533
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88350752989272,
+                        "lng": 75.32491402989272
+                    },
+                    "southwest": {
+                        "lat": 19.88080787010728,
+                        "lng": 75.32221437010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "aab3b5766db9f0323bb7fb1cfa97cb0125b2ee98",
+            "name": "MATSYAKANYA AQUARIUM",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103157216099343337015\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWAhNOjqlanYDz1TGlgXDTogkKTdARrZFs0wl-_Qw8d2yCFFVlr4JTghcTXAtZ2SrtJtO7jjdqSliZiOGGJFCSL4uZFWt3Ys2GyzBIpHyKmF0AZucnxNuNnOQOdO58vbJEhBu7I98d3LYPNk7ftQjhcQfGhRm2w-Z-8TNR54ilV7C4m_ySi9rHw",
+                    "width": 1944
+                }
+            ],
+            "place_id": "ChIJo9UgqxSY2zsRm1bfm0zjheY",
+            "plus_code": {
+                "compound_code": "V8JF+VC Nageshwarwadi, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8JF+VC"
+            },
+            "rating": 3.9,
+            "reference": "ChIJo9UgqxSY2zsRm1bfm0zjheY",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 28
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "11, Aurangabad, Paithan Gate, Sanmitra Colony, Nirala Bazar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.87959,
+                    "lng": 75.327662
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88097252989272,
+                        "lng": 75.32901182989272
+                    },
+                    "southwest": {
+                        "lat": 19.87827287010728,
+                        "lng": 75.32631217010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "1f6a535a81b8967b83f6a9dcd1b61ab1257bc2af",
+            "name": "Golden Aquarium",
+            "permanently_closed": true,
+            "place_id": "ChIJ8RDqCW2Y2zsRJedOsgUlDAQ",
+            "plus_code": {
+                "compound_code": "V8HH+R3 Nirala Bazar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HH+R3"
+            },
+            "rating": 3.5,
+            "reference": "ChIJ8RDqCW2Y2zsRJedOsgUlDAQ",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 13
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ulkanagari Mayfair, Khinvasara Park, Aurangabad, Maharashtra 431004, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8618551,
+                    "lng": 75.34225909999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86322117989272,
+                        "lng": 75.34361577989272
+                    },
+                    "southwest": {
+                        "lat": 19.86052152010728,
+                        "lng": 75.34091612010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "4ef5a36061af25cabf2b9c42dd588101f0d587d0",
+            "name": "FISH & FUN AQUARIUM SHOP",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114623341824612876439\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAjgv9gBj_n15-LYL7l6MWgrMTcxY72g0PZoNILtbaX5iKxPqC7Hioaonaw4-_tc7g-d5th5-l_F5LMHgCJYUe2dEC_fjO4QmTXmna5g8fpuFXTZ9fyzB1sVttNcgbv9KcEhDYstuhw5e8YEeI-jIqa90NGhSC6eXJYrmKPaS63McrnUu30c5DTA",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJabj8QIOZ2zsRo138O48erZQ",
+            "plus_code": {
+                "compound_code": "V86R+PW Aurangabad, Maharashtra",
+                "global_code": "7JFQV86R+PW"
+            },
+            "rating": 4.4,
+            "reference": "ChIJabj8QIOZ2zsRo138O48erZQ",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 29
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "N-6, Gulmohar Colony Road, Bajrang Chowk Rd, opp. Vidyasagar Coaching Classes, Sai Nagar, N-6, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.885703,
+                    "lng": 75.360473
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88706002989272,
+                        "lng": 75.36186027989272
+                    },
+                    "southwest": {
+                        "lat": 19.88436037010728,
+                        "lng": 75.35916062010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "2858b2062f0533b4dc4537b2655db0d930cdb0ab",
+            "name": "Manohar Fish Palace Aquarium & Love Birds NX",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1464,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101809438776350238007\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAscF6YvlZOEsr8M6gn0LvzUO138TFq82YtpEL8pvrpsKw3qw6QNbbPxS8aaQ3jVgiNLAJ2SZreq-sLZAL-zAQHkwdzuLQFxUiXPuSHNtpwP3CjASgWQs-0JMhj3nvOJbcEhDWM1vTBbA2j0Rn8K_UahABGhTgfNMnSzAKIqQK_Zdbzz8PTP9D4w",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ1XibI76i2zsRGCz6L1Ay4cQ",
+            "plus_code": {
+                "compound_code": "V9P6+75 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9P6+75"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ1XibI76i2zsRGCz6L1Ay4cQ",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 40
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Pratik Plaza Apartment Shop No 1, Opposite Ganpati Mandir, Khivansara Park, Garkheda, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8642501,
+                    "lng": 75.3419665
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86562517989272,
+                        "lng": 75.34327712989271
+                    },
+                    "southwest": {
+                        "lat": 19.86292552010728,
+                        "lng": 75.34057747010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "b97570309a91ee7a53f1990d6b5ac7ef84416d2b",
+            "name": "Manohar Fish Palace (Aquarium) \ud83d\udc20",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2336,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115074369543425872151\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAATSY9CgrmZjXz_QiWhSMQbWpbaWK4lb6-UsPJrFK9J9-udu4xESVLucapb5-BOdz4t2kfL17-2jUBJ9_NSOB6QNsRxeIH9hKf1UffxKESCLDepjRXteV22yV1_cELoPB8EhDzRL-F4iMwjQwZItAfZj39GhT5gP3sdoGxGyHUmDZ9BgkIFrkdSQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJY7xpoxWY2zsRZDEA_8XCFx4",
+            "plus_code": {
+                "compound_code": "V87R+PQ Garkheda, Aurangabad, Maharashtra",
+                "global_code": "7JFQV87R+PQ"
+            },
+            "rating": 5,
+            "reference": "ChIJY7xpoxWY2zsRZDEA_8XCFx4",
+            "types": [
+                "pet_store",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jijau chowk, redmi showroom building, beside Axis bank, T.V. Center, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9032399,
+                    "lng": 75.3553414
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90454317989272,
+                        "lng": 75.35667667989273
+                    },
+                    "southwest": {
+                        "lat": 19.90184352010727,
+                        "lng": 75.35397702010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "3f07d130ea5abc2a202a70318e3e5815be0e0e23",
+            "name": "Happy Fish Aquatics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110812194459303485086\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAV9WDOyFjTGNLLq_jEDNnf3ZF6q1lT8MUHrPHthmiOip7z3Pq6DDtX4bD0n2bha6-y4Ou1849nJYa63E1bG23mpQbcIqJf3mntkp86HyitePMgVKFX65-gMrVoXjcdlguEhBJbXFPj6fMoNA9wtiA9tM_GhSXcjHy7AV08vgf9br58g0A03hW7w",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJCzZwT2ij2zsRnPmQEYVjDuU",
+            "plus_code": {
+                "compound_code": "W934+74 Aurangabad, Maharashtra",
+                "global_code": "7JFQW934+74"
+            },
+            "rating": 4.9,
+            "reference": "ChIJCzZwT2ij2zsRnPmQEYVjDuU",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 36
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "12th Scheme, Sara Raaj Nagar, Garkheda, Aurangabad, Maharashtra 431007, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8537912,
+                    "lng": 75.3524834
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85513352989273,
+                        "lng": 75.35379812989272
+                    },
+                    "southwest": {
+                        "lat": 19.85243387010728,
+                        "lng": 75.35109847010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "54414fa7e3e4070820802bf4c50a02d679c5bc48",
+            "name": "Rainbow Aquarium",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 562,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116139113376323685605\">Raju Sable</a>"
+                    ],
+                    "photo_reference": "CmRaAAAADFRIJKyUOK9qgBKINNO_4paPKu64DS6k1LNxxMdRYWPUVhHcDZHwC9Ui71IL-Z_SoALLx6UmzmLaD_YCSpMIdWme8Qhy4L75rtdJjetrAVYbhoZo-dmfNEhvmJDYiAs0EhBopEC3neN704TSEr4zKv6TGhTaOom6OkaGaZT_tqtHIRFqHvLnDg",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJFW4Hf4Sj2zsRYvbzBIj7y74",
+            "plus_code": {
+                "compound_code": "V932+GX Garkheda, Aurangabad, Maharashtra",
+                "global_code": "7JFQV932+GX"
+            },
+            "rating": 4,
+            "reference": "ChIJFW4Hf4Sj2zsRYvbzBIj7y74",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shop No.12, Darsan Plaza, Kamghar Chowk-Jai Bhavani Rd, Near Lok Vikas Bank, Kamgar Chowk, Prabodhankar Thakare Nagar, N 2, Cidco, Aurangabad, Maharashtra 431007, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.867355,
+                    "lng": 75.36747
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86870807989272,
+                        "lng": 75.36885527989273
+                    },
+                    "southwest": {
+                        "lat": 19.86600842010728,
+                        "lng": 75.36615562010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "bbb4c789c6cfa022acd9107c8fa59714c69f2032",
+            "name": "Ajinkya Aquarium",
+            "permanently_closed": true,
+            "place_id": "ChIJMxd0YvSi2zsRHtktS5mtqFM",
+            "plus_code": {
+                "compound_code": "V988+WX Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV988+WX"
+            },
+            "rating": 0,
+            "reference": "ChIJMxd0YvSi2zsRHtktS5mtqFM",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Gajanan Colony, Chattrapati Nagar, Garkheda, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8653099,
+                    "lng": 75.3508335
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86666537989272,
+                        "lng": 75.35217142989272
+                    },
+                    "southwest": {
+                        "lat": 19.86396572010728,
+                        "lng": 75.34947177010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "0672d7745c575ae290ef320c2bf287a4ab751ac4",
+            "name": "\ud83d\udc20\ud83d\udc2c\ud83d\udc0b\ud83d\udc1f SRUSHTI Fish Apuarium & All Birds \ud83d\udc26\ud83d\udc24\ud83e\udd86",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108314322586630619759\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAoE6vbyXnid5QxqGC99PtzB_Kmdo157UKUtBMGIiyHz3N2UAqbVwFlNlcyM1DamXGbNe8rVpO43lMwehTNO94VpCDZl_6RWkPZFhzYWyVpEEmNK72NdDYvDX9Mu_0QrnjEhCvAHPV9GwXs-PIvtPSGvPKGhSaa_DWoZZutrkAou0OWRr8FiZSCg",
+                    "width": 3999
+                }
+            ],
+            "place_id": "ChIJLYhmQiqj2zsRBg4dqycY-E8",
+            "plus_code": {
+                "compound_code": "V982+48 Garkheda, Aurangabad, Maharashtra",
+                "global_code": "7JFQV982+48"
+            },
+            "rating": 5,
+            "reference": "ChIJLYhmQiqj2zsRBg4dqycY-E8",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Paithangate Rd, Near Roxy Corner, Jijamata Nagar, Sanmitra Colony, Nirala Bazar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.879855,
+                    "lng": 75.32884
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88119282989273,
+                        "lng": 75.33024267989272
+                    },
+                    "southwest": {
+                        "lat": 19.87849317010728,
+                        "lng": 75.32754302010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "fcb3248ec7f196d1f17ded12ed334ac793cf58ab",
+            "name": "Feathers N Fins",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114546149603502473901\">mahesh shedute</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgr-xbY21VFVaJ5fmWewYRbpstHL0i5mRB5Vqfn1GqsVJ-vHqJ8-ckOsVLhzDaqZLJ0YPRAfW-jIs5eDUW5J1-vbNMljTfUsfbfbTtaCU8F5QO6dVVB_GUafktl9-zRa_EhCPNahyAIkvQNOBx-N78oZYGhTRRrZRoQVk8MZMhpUck74t1l-GTA",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJsXfXeW2Y2zsRQxo8yfZ2Lfk",
+            "plus_code": {
+                "compound_code": "V8HH+WG Nirala Bazar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HH+WG"
+            },
+            "rating": 4,
+            "reference": "ChIJsXfXeW2Y2zsRQxo8yfZ2Lfk",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Rto Road, near Ram Mandir / Hanuman Mandir, Padampura, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8682831,
+                    "lng": 75.31241030000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86961922989272,
+                        "lng": 75.31375402989272
+                    },
+                    "southwest": {
+                        "lat": 19.86691957010728,
+                        "lng": 75.31105437010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "133ec8d3442dd96516f22d4b039637309ec4c9e3",
+            "name": "Betta Fish Store By Barwal Aquarium",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108782207472560124167\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAaA1Y438SWXFnxmxWFHkDtZQXhaHL_8d1-0EvAcGfVdvASqp9-y471gR94xe4CQQzMIhhHB9U3bBpjUWhGwLav8Jdmefb_nPOHJZNL969uV3uWx_rgzb1SJRRucMW3k1eEhA0dBLf4eQpvbtnUTNozbKYGhSgavhOzzMiJM_BWRHdHzE-TjGSwg",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJS-YoCkuZ2zsRHqi36OG4UwY",
+            "plus_code": {
+                "compound_code": "V896+8X Padampura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV896+8X"
+            },
+            "rating": 5,
+            "reference": "ChIJS-YoCkuZ2zsRHqi36OG4UwY",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "New Road Manzoorpura, Labar Colony, Naralibag, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.889457,
+                    "lng": 75.3348099
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89080187989272,
+                        "lng": 75.33621977989273
+                    },
+                    "southwest": {
+                        "lat": 19.88810222010728,
+                        "lng": 75.33352012010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "24fb51e701a3d6c576fcb022023b00f31089e492",
+            "name": "FISH PARADISE",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108425509955510285376\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyMDldTgAZakl_5uKK6TTnLFyrsTZ1IzovNKOnvSCKimmmwyBSsJtLbWur-6h46vr0Rj4LzGOvpp5Io-PVeKtnzhP12NORbi5w9KwgZSqAA-6iSz48aapmHwl3Mp63UFzEhBYL6Kzljk4JLQgHfDyVyzVGhSOULiAtZ7p9eBOXD1dThRzOdclVg",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJPzCxrw6Y2zsRoYgsln0qP9k",
+            "plus_code": {
+                "compound_code": "V8QM+QW Naralibag, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8QM+QW"
+            },
+            "rating": 3,
+            "reference": "ChIJPzCxrw6Y2zsRoYgsln0qP9k",
+            "types": [
+                "aquarium",
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nagar - Paithan Link Rd, \u0939\u093e\u0935\u0947 \u0928\u0935\u093f\u0928 \u092a\u0941\u0932, Aurangabad, Maharashtra 434603, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.818384,
+                    "lng": 75.2474514
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.81970382989272,
+                        "lng": 75.24879102989271
+                    },
+                    "southwest": {
+                        "lat": 19.81700417010727,
+                        "lng": 75.24609137010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "0ca2d5036cdf50473ee53c8839f03d50be194be9",
+            "name": "\u0917\u094b\u0926\u093e\u0935\u0930\u0940 \u092b\u093f\u0936 \u0936\u093e\u0945\u092a",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114239360808967981300\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAr3F6HM2ZthCGL-wtSHJLydaOf2iI5Cs2c2xWB-Y2JDPMYeFB_GGl92RJCa_sgkqLCCiDNRxJ7GXsPJ2yI8JbCoQGtEZNHqGhTAB2YkvpHhwLDSg4GFRv6BSFuobr4PuKEhB4MAOAlBLJEBgK1tvMhYxYGhTv4_502U4CJ1u5furQjomhlIuZsQ",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJZXrLY4x-2zsR0hRawiCr9oM",
+            "plus_code": {
+                "compound_code": "R69W+9X Aurangabad, Maharashtra",
+                "global_code": "7JFQR69W+9X"
+            },
+            "rating": 3.8,
+            "reference": "ChIJZXrLY4x-2zsR0hRawiCr9oM",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Central Bus Stand Road, Mhada, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8797045,
+                    "lng": 75.3151286
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88166612989272,
+                        "lng": 75.31658142989272
+                    },
+                    "southwest": {
+                        "lat": 19.87896647010728,
+                        "lng": 75.31388177010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "f1633947d6a8ddb5b4000972bb2acb67423b9fe1",
+            "name": "Siddharth Garden and Zoo",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104447566239514934943\">ritesh mishra</a>"
+                    ],
+                    "photo_reference": "CmRZAAAARnG8BnLEJeNmKCyGSbNBiezQPnsPU7VpzH6veqnM9iDVjl-aHM-qS5pDbDGRRejPQrYn8kpEaukhaC5Jb1QE0AiW4erSmb4Jm9Kc58qiV_pjNYbccrCQQLLeCpIiO183EhDP38EMLRz3OezNb8JZU610GhRT14MfG26j6JNDk8Vdb7xszYxYhQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJS7NX-UCY2zsR90dknaNvEFQ",
+            "plus_code": {
+                "compound_code": "V8H8+V3 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8H8+V3"
+            },
+            "rating": 3.9,
+            "reference": "ChIJS7NX-UCY2zsR90dknaNvEFQ",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9152
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Roshan Gate Rd, opp. Diamond Stone, Bari Colony, Kiradpura, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8877229,
+                    "lng": 75.345857
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88909717989273,
+                        "lng": 75.34721227989272
+                    },
+                    "southwest": {
+                        "lat": 19.88639752010728,
+                        "lng": 75.34451262010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "46e2556f1b9de4dd2f8600715287669298f7e1e3",
+            "name": "Pets CORNER",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116490685662162438129\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAoFBT9CLQHJoTbutHlN9sTUq4PWLsINhTkXPMVDC4pIOtYlp4cIUlznhHaBzwSvIc6vCKRvwHn_xcCMTf6cL4Hy75Shw5J2lcvT9b93_GxUzxBZl1M-oHgZuBbOCX-locEhBvDqeAyscsEndydEFbZBiYGhSN-HLejRZQbmGzfYopfeEkWq6T4Q",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJaT-4baGi2zsRqAgY3BHaUZg",
+            "plus_code": {
+                "compound_code": "V8QW+38 Kiradpura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8QW+38"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJaT-4baGi2zsRqAgY3BHaUZg",
+            "types": [
+                "pet_store",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 20
+        }
+    ],
+    "status": "OK"
+}

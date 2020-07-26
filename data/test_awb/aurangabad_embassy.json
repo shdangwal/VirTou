@@ -1,0 +1,99 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Swami Vivekanand College, near vivekananda college of Bcs, Samarth Nagar, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.875049,
+                    "lng": 75.322492
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87639017989272,
+                        "lng": 75.32391342989273
+                    },
+                    "southwest": {
+                        "lat": 19.87369052010728,
+                        "lng": 75.32121377010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "54dedd4dd4361cad20e03c4fa3fc062d3dc93cf2",
+            "name": "Hotel Embassy",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100251649324434227221\">Avinash Ghaytadak</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA05gc_7KV9sWgF7GLY199SzoLQv5xQDWoO5rRHrHwR-VvaKWZEK0KxiyTr4qAAqGeu5KiX3izB0pMzpRSAgvxtVrd1XMWGBYSOJks4rmuJmVYJzQ_NCMb2QFzcZybTyl2EhCLRqVBGp1FiCDU414rNGgaGhS5vdFEFzU9aAJ6H2n9RdZPmdUzmQ",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJ40x3QWmY2zsR_OGuGRW7jcQ",
+            "plus_code": {
+                "compound_code": "V8GC+2X Samarth Nagar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GC+2X"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ40x3QWmY2zsR_OGuGRW7jcQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 193
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ahinsa Bhavan, Jalna Road, Opp. Akashwani, Mahesh Nagar, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.876594,
+                    "lng": 75.3452109
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87786492989272,
+                        "lng": 75.34656852989272
+                    },
+                    "southwest": {
+                        "lat": 19.87516527010728,
+                        "lng": 75.34386887010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "9afd121aa3d9b8b3048ec035cb89a6223bd2f6fd",
+            "name": "Muthoot Forex Ltd.",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 383,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113432278590634232448\">Sadashiv Doifode</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAj4khc2rzdNe4fySxKQM74cS4yW4uzAkrBRxnCIzARXwk-RuPdoeYj4hlVc51MhCERDdUceWsjkndAmrEj310V0490_vk2eJi7YVUpkUr42ETj2wtRP6fSmBaExhpPo7KEhDB_13F0OTKMhn4HiwOWseHGhSoVbpsQrTr5vQrfCKAzEaObxINTA",
+                    "width": 384
+                }
+            ],
+            "place_id": "ChIJiSgEJrWj2zsR20MmnHTT_ug",
+            "plus_code": {
+                "compound_code": "V8GW+J3 Mondha, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GW+J3"
+            },
+            "rating": 5,
+            "reference": "ChIJiSgEJrWj2zsR20MmnHTT_ug",
+            "types": [
+                "embassy",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        }
+    ],
+    "status": "OK"
+}

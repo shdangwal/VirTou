@@ -1,0 +1,935 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_QAAAPCKfHzj6YK5GrKBmiFVItkaEyTw9ggTmBhbto_v6VMyCKjt_Is0aXEkyQJYsZBEroDgaJ-9KY7G5tHpcL3p6QrNauWrSWzEkjemM2Vsa9UrEwaOPPUkYGkzqwjSxJiGn6pwgWA_FSFdFD_ITneJj-XdudjPGwov9KEDn8SkX5ktVHBY3vGDqU0BbstIR4ZQIbbIoeMvJyHpZHiq6buJ_N0L6Z3H6bz3ID-iGXoqy7kw1QfDY4LkBCe9PVvvwMj6VWspxUKo64T2YsbMpuBnxiKNlcKEAGqh-uBf9Mx7kLhLLKqa9Qey-DAomVJXpy9JJ97dr-OBXOk4mG5Y6woqjQESEH4Pw9iqf7MdatmA9IcUn14aFFQmXGOTda6PGG44qDExICJcU9Ql",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "H 18/14, Ground Floor, Garud Marg Road, Malviya Nagar, New Delhi, Delhi 110017, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6578116,
+                    "lng": 77.1159227
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65919037989272,
+                        "lng": 77.11726947989273
+                    },
+                    "southwest": {
+                        "lat": 28.65649072010728,
+                        "lng": 77.11456982010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "9b6b470eccf99d8be56d19c4d6d6dce9dc665e1c",
+            "name": "Dhanaulti Camp",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117631890973851944960\">Ravinder Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAraI7EHIWJrS67RHU3PhRbak4A2_jW5hOyb_po93QkF9jivwd2_W4rScPzOMhJ0VTj2wMuxuBOKMT6YdlSn77S_C_G3sENssnh2RnHGlqlRRaD9U6eOWfdKi-Ohd8kL-2EhBuUhCnUomkK9jzkDKx7dCjGhSgR7bQoyeKHcq7xxA9jSjz2O0yuw",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJ5ecSuXcDDTkRAAjFNeHGPgA",
+            "plus_code": {
+                "compound_code": "M458+49 New Delhi, Delhi",
+                "global_code": "7JWVM458+49"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ5ecSuXcDDTkRAAjFNeHGPgA",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 42
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Plot No 2, A2 Block, Gali Number 7, Sant Nagar, Delhi, 110084, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7394996,
+                    "lng": 77.197279
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.74095627989272,
+                        "lng": 77.19862942989272
+                    },
+                    "southwest": {
+                        "lat": 28.73825662010728,
+                        "lng": 77.19592977010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "c2125810d067456bd74390f08ca3f1ed26633a8a",
+            "name": "Camping Near Delhi",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102652616077728639856\">Ajay Pandey</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-zU5tcvVNi7TMM_HEykCgksUWZHPVv131UxyHI0ODh6nMrK1P7duCeuh0fB-NyAskbaOq2y3oLj1ra8khIso2Sakea760Z_GLBi_cpj66aESUr4Zchqd9Y-PPKxlY3wLEhDo9Gubfdx6b1Dh7ze1f3u1GhSgwzguvAFN9vcndDWdM7akhcuptw",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJRRg_LVz_DDkRVhcSilVIKFo",
+            "plus_code": {
+                "compound_code": "P5QW+QW Delhi",
+                "global_code": "7JWVP5QW+QW"
+            },
+            "rating": 5,
+            "reference": "ChIJRRg_LVz_DDkRVhcSilVIKFo",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Street No 7, Block H, Raghu Nagar, Dabri, RZ-226, 2nd Floor, Opposite Janak Cinema, Pankha Road, Delhi, 110045, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.610245,
+                    "lng": 77.0888071
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61159352989273,
+                        "lng": 77.09011337989271
+                    },
+                    "southwest": {
+                        "lat": 28.60889387010728,
+                        "lng": 77.08741372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "e5e8bd0ef20ec425f3adfa011e6713f49c05410c",
+            "name": "Camping in Rishikesh",
+            "permanently_closed": true,
+            "place_id": "ChIJmbWxgYwbDTkRSPSFti3Z6I0",
+            "plus_code": {
+                "compound_code": "J36Q+3G Delhi",
+                "global_code": "7JWVJ36Q+3G"
+            },
+            "rating": 0,
+            "reference": "ChIJmbWxgYwbDTkRSPSFti3Z6I0",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "jamia ncc parade &campimg ground jamia millia islamia, Delhi, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5644019,
+                    "lng": 77.2846435
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56557282989272,
+                        "lng": 77.28609762989272
+                    },
+                    "southwest": {
+                        "lat": 28.56287317010728,
+                        "lng": 77.28339797010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "5a17e65e2e78de47c6ee33a31c767164f9ece669",
+            "name": "Jamia NCC Camping and Parade Ground",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 576,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112136397669986598573\">Abhishek Gupta</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9MagGNG0iY-G8ov7SZgzbg4x0u53WcWp1m3_XI6UvKqHtzA0zCa40vIYtjjgv591OpvhFSn75HTmntE7eP7-wj0pLqb60TEuQHJvI7LPB_thRZgPshSdDD1PJqxS0diKEhDQWcvu3B9E20-iXmOnPFYtGhRZugzwwV-CvpVfcSMNKAjQjLGQ5A",
+                    "width": 1152
+                }
+            ],
+            "place_id": "ChIJXbNoW4rjDDkR-QpSvTI1F7E",
+            "plus_code": {
+                "compound_code": "H77M+QV Okhla, New Delhi, Delhi",
+                "global_code": "7JWVH77M+QV"
+            },
+            "rating": 4.4,
+            "reference": "ChIJXbNoW4rjDDkR-QpSvTI1F7E",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 100
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "House no 36, Road no 75 Swastik Apartments, West Punjabi Bagh, New Delhi, Delhi 110026, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6628977,
+                    "lng": 77.12313089999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66429727989271,
+                        "lng": 77.12453077989271
+                    },
+                    "southwest": {
+                        "lat": 28.66159762010727,
+                        "lng": 77.12183112010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "ed23eb898f2c7e8a4331c2415588365c1153c54b",
+            "name": "Dhauj Camp",
+            "permanently_closed": true,
+            "place_id": "ChIJjdt1qp8DDTkRoXFcDFpccfQ",
+            "plus_code": {
+                "compound_code": "M47F+57 New Delhi, Delhi",
+                "global_code": "7JWVM47F+57"
+            },
+            "rating": 3.8,
+            "reference": "ChIJjdt1qp8DDTkRoXFcDFpccfQ",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "110007, Block F, Kamla Nagar, Delhi, 110007, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6799426,
+                    "lng": 77.20535339999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.68132432989271,
+                        "lng": 77.20670837989272
+                    },
+                    "southwest": {
+                        "lat": 28.67862467010727,
+                        "lng": 77.20400872010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "30da1bf4406a85765bfd90adbcf91a6f7799d94a",
+            "name": "CRS PG",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103917153809349177519\">SHYAM KUMAR SINGH</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJRxscyN_Sx4ksPr2ZrP_rD0GiQrKRTguTKVCEEszaE68t1YVfZa9qRXMRNMPtfmN8Ni_uXmA1QSFSwzQnhXhKg8P6-AtoftoNWHyUqbHjkLFzKyv-D8evFy__-gIIEJSEhCuGxtLQ_7qf7bEYQs99uheGhS0rx5ScPfw_7uiAVucDqre-uIp5Q",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJyScb-o_9DDkRQTjysts0Zhw",
+            "plus_code": {
+                "compound_code": "M6H4+X4 Kamla Nagar, New Delhi, Delhi",
+                "global_code": "7JWVM6H4+X4"
+            },
+            "rating": 3.2,
+            "reference": "ChIJyScb-o_9DDkRQTjysts0Zhw",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 86
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "L-2A, Kanchen House, Karampura Commercial Complex, New Delhi, Delhi 110015, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.66322,
+                    "lng": 77.1469084
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66456292989272,
+                        "lng": 77.14825822989272
+                    },
+                    "southwest": {
+                        "lat": 28.66186327010728,
+                        "lng": 77.14555857010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "e12240db10f8b925b1d0f3802002171d08df65a4",
+            "name": "Camp Wild Dhauj",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110553628688267028605\">Ritesh R</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA8FRzMB4hdQu_bPyFogXLM9-7NFCsdD-8_UsXyyv19yo3-f7kolwCnk1sjk237scGHJP4aTBZ9TD_KKCvpD9nghOMpicuUcP5yNE4Ics8Pr4KSufjbprzLe-Z4dGnTLJxEhCaws_NlWGcAnp2NLUiYyJ1GhS6knh0sC_dWhVxld0tgZSK45dPgg",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJx6R9_9kaDTkRIB0WIP3VBIQ",
+            "plus_code": {
+                "compound_code": "M47W+7Q New Delhi, Delhi",
+                "global_code": "7JWVM47W+7Q"
+            },
+            "rating": 3.6,
+            "reference": "ChIJx6R9_9kaDTkRIB0WIP3VBIQ",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Pocket A, Sector 17 Dwarka, Dwarka, Delhi, 110075, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6010948,
+                    "lng": 77.0237762
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.60244462989272,
+                        "lng": 77.02512602989272
+                    },
+                    "southwest": {
+                        "lat": 28.59974497010728,
+                        "lng": 77.02242637010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "3ce5730307a59fc225e409bda0eeb0d7435a5d22",
+            "name": "NLU Empty Land",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113517728588597328383\">SUNIL GUJJAR</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAdwWFRzHrER2mKF_OO7N-eVzBfiBIL9DCbJ_jByzufNM7vVeVqiOMvHq7rJYMi9l5EJ2wg6L4Jm21z1MeYwOfrckrsySHZyyQbp299QgB9PYUyQEDjMonlkSloUr0DG0lEhAgLPVuxZ5yH_A33_jVUkUQGhSAC7885rnTVqaTiAF6M1fOZQMGOw",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJv6ivsLEaDTkRyO4hCBuVhAw",
+            "plus_code": {
+                "compound_code": "J22F+CG Dwarka, New Delhi, Delhi",
+                "global_code": "7JWVJ22F+CG"
+            },
+            "rating": 3.4,
+            "reference": "ChIJv6ivsLEaDTkRyO4hCBuVhAw",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "aurelia km 102, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5694842,
+                    "lng": 77.2426921
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.57082087989272,
+                        "lng": 77.2440351798927
+                    },
+                    "southwest": {
+                        "lat": 28.56812122010727,
+                        "lng": 77.24133552010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "17790c30cdab391507939e0211c1bb0d234a11ad",
+            "name": "Europing Camping Village",
+            "permanently_closed": true,
+            "place_id": "ChIJldX-ca3jDDkRseJHaIgq9ds",
+            "plus_code": {
+                "compound_code": "H69V+Q3 Lajpat Nagar, New Delhi, Delhi",
+                "global_code": "7JWVH69V+Q3"
+            },
+            "rating": 5,
+            "reference": "ChIJldX-ca3jDDkRseJHaIgq9ds",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "B1 Block, Plot No.-22&232, Suite-104 UGF, Street-5, Rajapuri Rd, Uttam Nagar, New Delhi, Delhi 110059, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6087534,
+                    "lng": 77.05681059999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61010222989272,
+                        "lng": 77.05820632989273
+                    },
+                    "southwest": {
+                        "lat": 28.60740257010728,
+                        "lng": 77.05550667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "dac62433a80e6ef0449d904bd4977c99a7da1549",
+            "name": "Kareri Lake Trek",
+            "permanently_closed": true,
+            "place_id": "ChIJyXTJENsFDTkRfmSU-8ePpZE",
+            "plus_code": {
+                "compound_code": "J354+GP Uttam Nagar, Delhi",
+                "global_code": "7JWVJ354+GP"
+            },
+            "rating": 0,
+            "reference": "ChIJyXTJENsFDTkRfmSU-8ePpZE",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "APS Colony Rd, Sanjay Vihar, Jharera Village, Delhi Cantonment, New Delhi, Delhi 110010, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5782886,
+                    "lng": 77.1371546
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.57967632989273,
+                        "lng": 77.13851532989273
+                    },
+                    "southwest": {
+                        "lat": 28.57697667010728,
+                        "lng": 77.13581567010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "726242c78ffa67e3eef4c61ebb8b0e73ea81b191",
+            "name": "R R Camp",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115346856161972297457\">irfanbhai saiyad</a>"
+                    ],
+                    "photo_reference": "CmRaAAAABKw4IgwXVi2jqdVpCazEm47cRqSvIhqcmrZ9KL-xvOu9JlaNjTd8z1nxmKdc_AObu5MkTX3m0jlhfPRyPGXyzqKBZTXl4cxei0IecavSnb0YQtjtebdhydC-6VeApKXXEhD6_H5wmo5nZmwe_mYwWquKGhSQwc9UbsFJeYOBGch4-POCJyxf0g",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJD-ud4ZIdDTkRleYNv55zYbE",
+            "plus_code": {
+                "compound_code": "H4HP+8V Delhi Cantonment, New Delhi, Delhi",
+                "global_code": "7JWVH4HP+8V"
+            },
+            "rating": 0,
+            "reference": "ChIJD-ud4ZIdDTkRleYNv55zYbE",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "BSF Campus, Kapashera Najafgarh Road, Chhawla, New Delhi, Delhi 110072, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5511421,
+                    "lng": 77.0079374
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.55247227989272,
+                        "lng": 77.00923142989272
+                    },
+                    "southwest": {
+                        "lat": 28.54977262010728,
+                        "lng": 77.00653177010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "dfd9b32e2b49f275c95ff6010223df1debb3102e",
+            "name": "R K Wadhwa Parade Ground",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 864,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106215215001594410507\">Mahesh Panchal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAj8XZfX8d5iLiRpo1EAxso_mF8nQC2pijgs3vi0aIvd-VYnWc5NNvFIE9gCBfolzxoonjdnDEkM7yKLvgemiGZhlpaG8EgqGeRdFsAs25epGdI46T4o9YgwSaICACPa_WEhCfzFCGbFA8VC9o8D0OJDjDGhQz6N1r70h2mcD8vOQXUbnV8OqOWg",
+                    "width": 1152
+                }
+            ],
+            "place_id": "ChIJZTSSLoIQDTkRVZ7qqx56Gr4",
+            "plus_code": {
+                "compound_code": "H225+F5 Chhawla, New Delhi, Delhi",
+                "global_code": "7JWVH225+F5"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZTSSLoIQDTkRVZ7qqx56Gr4",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Plot 11, 12, Sagarpur Palam Rd, Maharshi Enclave, Sagarpur East, Sagar Pur, New Delhi, Delhi 110045, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5982424,
+                    "lng": 77.1021185
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.59977172989272,
+                        "lng": 77.10309502989273
+                    },
+                    "southwest": {
+                        "lat": 28.59707207010728,
+                        "lng": 77.10039537010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "592fd8724dc81bc775980188e348a42a80e96a2f",
+            "name": "DDA Ground Sagarpur",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101694812573088083817\">Ajay Aggarwal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkOmqA9jSQHG5YerzZA74ZgQQjs6MAsUoGBTh1QXKAv7sVp4ATB-Tifu_Zo5R7mdHNbu61DnqEB4LemJBGghDIXNfWzMftNMdLmAVTghuHY4t60ZnJhQidQMLew0h5XMsEhCsyLDsoyw--mqY6R7xvingGhTxPnhebWKHWOfNeJMRkSuW6YkdPQ",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJo1hlyTEbDTkRrwpsEqFZs5o",
+            "plus_code": {
+                "compound_code": "H4X2+7R Sagar Pur, New Delhi, Delhi",
+                "global_code": "7JWVH4X2+7R"
+            },
+            "rating": 3.3,
+            "reference": "ChIJo1hlyTEbDTkRrwpsEqFZs5o",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "National Camping-cum-Training Centre, The Bharat Scouts and Guides, B-1270, Delhi, New Ashok Nagar Rd, Block B, New Ashok Nagar, New Delhi, Uttar Pradesh 110096, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5892114,
+                    "lng": 77.3031468
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.59057372989272,
+                        "lng": 77.30449642989272
+                    },
+                    "southwest": {
+                        "lat": 28.58787407010728,
+                        "lng": 77.30179677010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "d735bc3728a76a3d586e566767ab69f1e9f72ecb",
+            "name": "Bharat Scouts & Guides",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112731879546544524513\">Shubham Giri</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAw1W0a72DEQDTZGzffCpE_EjYDsrFQLxyB5xb5zSXJ0NM1b-SxOQeik7VcdC7eKCgM5mDP9CrGohQNU0TtxI3H_AS1wxIBRyv4ftYPF_Z6PK0tp-IdRYdj-JdLtzoEnfFEhCpkcS670ztWKxx_NGyBLPmGhTrOo7fc3H81hTgU9Z0J-J44RiutQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJZ_5GaInkDDkRqjogUdZrsm0",
+            "rating": 3.6,
+            "reference": "ChIJZ_5GaInkDDkRqjogUdZrsm0",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 48
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Electrical Engineering Department, Delhi Technological University, Shahbad Daulatpur Village, Rohini, Delhi, 110042, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.74875489999999,
+                    "lng": 77.1166916
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.74999052989272,
+                        "lng": 77.11795022989271
+                    },
+                    "southwest": {
+                        "lat": 28.74729087010728,
+                        "lng": 77.11525057010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "d9f87b873803d9e79e8fe74f0c55b3fab1ffc1c4",
+            "name": "Depression Point",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117685901950923970940\">Yash Gupta</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASsDVwmR7KNSh8Cur8yoCUcsXrapuBYhdgUeQaOvbNG5F0Dp12IK4ivlg5V3yMFmNsdQSPxe4hbJCmPZnFj0KvUUw0BZfFkB9HvD13zja2jWXhakV8s2h-5hoGNOtiZUkEhCfWU5uqW_HItO-1YiWJg6oGhTr3o5hT-KDk6okEfE17KZbE_KiYQ",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJc11Hl28BDTkRmIE_mJSyZS8",
+            "plus_code": {
+                "compound_code": "P4X8+GM Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4X8+GM"
+            },
+            "rating": 5,
+            "reference": "ChIJc11Hl28BDTkRmIE_mJSyZS8",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "b157.sec-3 bawana d.s.l.l.d.c delhi_, 110039, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7821295,
+                    "lng": 77.0485193
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.78341282989272,
+                        "lng": 77.04980142989272
+                    },
+                    "southwest": {
+                        "lat": 28.78071317010728,
+                        "lng": 77.04710177010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "e6dcb961944d8c9e984ab00ca664491d6f38ec91",
+            "name": "V.R. Industries",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116861021971074293974\">singh rahul</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUa_LS_yoh9wVGpy53nEnngIcfvBCp1wMfnmuIO6ip1X4gFXqDKGxhGz5pqx2kc01brryYE3EcAFRtJHJG16LL2TRJGsRQCZZGdC3N51RA9a0_Ff_liwo3dsXEVM5OkxNEhDDlbntHWmKyjRSICDFpsqQGhR_jvXPkMGBMJhzBUQINYtCVjiGyQ",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJoapjV4QHDTkRwmCILmTtcIg",
+            "plus_code": {
+                "compound_code": "Q2JX+VC Bawana, New Delhi, Delhi",
+                "global_code": "7JWVQ2JX+VC"
+            },
+            "rating": 2.9,
+            "reference": "ChIJoapjV4QHDTkRwmCILmTtcIg",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "237/91, Goswami marg, Khichripur, Mayur Vihar, Gali Number 1, Khichripur, Mayur Vihar, Delhi, 110091, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6205422,
+                    "lng": 77.31592959999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62184897989272,
+                        "lng": 77.31715517989272
+                    },
+                    "southwest": {
+                        "lat": 28.61914932010728,
+                        "lng": 77.31445552010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "7a58d27ff0ef8014181e46956a765903a510e064",
+            "name": "Vrc Site",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113275172749825355747\">yogeswar garg</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAaTEboxd0gTjtjFtTcdoJpZg4P3xtANtOMn5j5-_mF76n6f20vrNjkFYW8VMX7CnaJ4J_OIKngGMEa5tPfFbZWwTE9mOPDe4J7XzjBeNa-57bUsvoT9ikoCnQY-W_Zh1DEhD4hGO4WL4U3K2xyerithIwGhRG35uq6SXZDAYKZM2MbX98Zo0b8g",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJVVVV5cXkDDkRUwRDjNUTnj8",
+            "plus_code": {
+                "compound_code": "J8C8+69 Mayur Vihar, New Delhi, Delhi",
+                "global_code": "7JWVJ8C8+69"
+            },
+            "rating": 3.3,
+            "reference": "ChIJVVVV5cXkDDkRUwRDjNUTnj8",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "g-16/38, Sector 15, Pocket 16, Sector 15G, Rohini, Delhi, 110089, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.729649,
+                    "lng": 77.12775599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73095472989272,
+                        "lng": 77.12906632989271
+                    },
+                    "southwest": {
+                        "lat": 28.72825507010728,
+                        "lng": 77.12636667010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "35f27820adf3add69fa741b49ac4a18846fb9045",
+            "name": "Dhanaulti incredible camp",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114450313634423243592\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2egb_QyXzVfNFvAg7b0f_8SSEPp2AcVka8GdHPnLc-siXzi0PPVqLpUYYW3p-d4L9AKmmQaYUHADL9nQZY2zXyYJ6YPm-KxqYfWAbDQTS77GatiLrb7EHp6jWLymb-SJEhDNlv71MsNGo4Ji7G3l7vYVGhSMi4kMxrssKfrGVfkNOC0lBmH74w",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJG9ganE4BDTkRaJpgeKH3kpU",
+            "plus_code": {
+                "compound_code": "P4HH+V4 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4HH+V4"
+            },
+            "rating": 4.4,
+            "reference": "ChIJG9ganE4BDTkRaJpgeKH3kpU",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sector 6 Dwarka, Dwarka, New Delhi, Delhi 110075, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5916424,
+                    "lng": 77.0663204
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.59291817989272,
+                        "lng": 77.06778767989272
+                    },
+                    "southwest": {
+                        "lat": 28.59021852010727,
+                        "lng": 77.06508802010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "4594af0b88a74805bba8e84b7576ea4deb93a9fe",
+            "name": "DDA Ground Sec 6 Dwarka",
+            "permanently_closed": true,
+            "place_id": "ChIJVT2yXKEbDTkRQqC7s_nKH8w",
+            "plus_code": {
+                "compound_code": "H3R8+MG Dwarka, New Delhi, Delhi",
+                "global_code": "7JWVH3R8+MG"
+            },
+            "rating": 3,
+            "reference": "ChIJVT2yXKEbDTkRQqC7s_nKH8w",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Pocket 8, Block B, Sector 19, Rohini, Delhi, 110089, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7320593,
+                    "lng": 77.139709
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73351117989272,
+                        "lng": 77.1410154298927
+                    },
+                    "southwest": {
+                        "lat": 28.73081152010727,
+                        "lng": 77.13831577010725
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "39aa34e75e82473e5db492690d832537769303bd",
+            "name": "Ncc Bhawan Rohini",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 864,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113009094246183920552\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmoBpLNhLNxnjiCVZw3h_Bx3MPcmAofGkJDabkXEO9okAjIPTu-dCWykEAOufRqIp9dmM0alw82fdSIrQbqIMOPfcwQUxYJH_wzp8BWlKnfIF0wLiVTxOCH7mu1f9_ZFoEhDGdChZg6pr9FYgVPZSw7ELGhQenbzXrn2hfOZu4HQjFidxgsrW9w",
+                    "width": 1152
+                }
+            ],
+            "place_id": "ChIJgxT4oakBDTkRtEoqdMthbcg",
+            "plus_code": {
+                "compound_code": "P4JQ+RV Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4JQ+RV"
+            },
+            "rating": 4.6,
+            "reference": "ChIJgxT4oakBDTkRtEoqdMthbcg",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 113
+        }
+    ],
+    "status": "OK"
+}

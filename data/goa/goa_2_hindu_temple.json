@@ -1,0 +1,906 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CqQDnQEAAJavJ5v1TYRd_mZ3CHy2WRT-k417LNqDjIB90xCYSr6BWtKW5tcUCSzeLewSwm4QMyzrWf5wVHeYgXLWOXsHRusBo7Y3CvKxWZh3sx9pTWYH5EMth8-K9pqCEDLQUsRrr7Rjkd50PuTd5jzdN8P9Ly2tuMN9xcLJl3wV2oKr6ARjy_brt5qnPMnRms6ZU4eEoWQ3dm6SBvsHDg6qgRsNDKIrUD7_BbbJibTADdUfksPu6ShSHUc0UY2yoh6o27ArqdlxIo2TWfNT6xVEsJD0DVYc2SWUhxqOu2aUJFrFrxi2CHx7CLUZqR_oaXx2oIyGi-8JpNLJnhy_lcofWOEQNP3p5oWTiQDwXqYFJbqRvsNdxfOvu2rlkGmGA_YeLPN8d4MT3569rEyJiOgY6PI64679vtq4gV4KnRr-H-cjxS79JjSmVIzF1CwZPOKEAki4bDOUSbU2Lj1w6H7GFmZBYmpF4qVYzM1cGPdOghWJ9F-U97S_J6zjAv8leu-CUYyHm0A7DH9ADFm8rkofWcxrXfXu7Sx324ow3oUttqJt0TG5EhBj-IdPGdg0f5zrtp_jPtJhGhTmRpmX1BhDnrcFT5aAOfxe3Q5nmA",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Chorao, Goa 403102, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5213846,
+                    "lng": 73.87080929999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.52276817989272,
+                        "lng": 73.87199122989273
+                    },
+                    "southwest": {
+                        "lat": 15.52006852010728,
+                        "lng": 73.86929157010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "550b6fa7b579cf463735d91423a5b713f01d4f31",
+            "name": "Temple Hanuman",
+            "permanently_closed": true,
+            "place_id": "ChIJnegXm7y_vzsR27Ko5RI0Wb8",
+            "plus_code": {
+                "compound_code": "GVCC+H8 Chorao, Goa",
+                "global_code": "7J7MGVCC+H8"
+            },
+            "rating": 5,
+            "reference": "ChIJnegXm7y_vzsR27Ko5RI0Wb8",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Chimbel, Goa 403006, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4908881,
+                    "lng": 73.8756293
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49222052989272,
+                        "lng": 73.87697352989272
+                    },
+                    "southwest": {
+                        "lat": 15.48952087010728,
+                        "lng": 73.87427387010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "cde4fc13f90178622c37187fe11cfbf74416a8af",
+            "name": "Devi Chimulkarin Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110273977302765970487\">soham satardekar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHlk6OKfcHPQLpojuWt37Y7i853_qxCSipG1AlOVY_yO7DUAt6yCN_hPYQm1U2t83VJ8Rr8iU5UZlJpuX5NqRV97a4FVmBv7RDVAx5nYagb7-9uSNEgERb8in98062pzZEhAcpT2TiSa9PgpLNTyPpE_TGhQ1h82bE04PcblbykV8lGn4aO1wdg",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJwcsSNhe_vzsRG9eYPKRzRtY",
+            "plus_code": {
+                "compound_code": "FVRG+97 Chimbel, Goa",
+                "global_code": "7J7MFVRG+97"
+            },
+            "rating": 4.4,
+            "reference": "ChIJwcsSNhe_vzsRG9eYPKRzRtY",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Cumbarjua, Goa 403107, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5173199,
+                    "lng": 73.9469227
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.51859612989272,
+                        "lng": 73.94821682989271
+                    },
+                    "southwest": {
+                        "lat": 15.51589647010728,
+                        "lng": 73.94551717010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "f736fe1238f02bbb53ac6113487556c021bd8a93",
+            "name": "Dattatreya Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103697774809925733568\">Suraj Raikar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAcBzRvk_XKtdhQs8Y9aUuWG6xKvtNYXpe-5gsICQQX7Tu34dvGhiWC-FsWdnKazP2dvUJBdNKngC64vi3FVeuxrLY9iP4BVN362kcFGJrFDakSYMlDYsXbiSTmJxXbCi7EhDUbhOKilxHWYZ0XWCXoy_1GhQDWiTXJsrSMLBXUW8p_qfE4ve74Q",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJe8vHb9K9vzsRh76Q0HOuGIg",
+            "plus_code": {
+                "compound_code": "GW8W+WQ Cumbarjua, Goa",
+                "global_code": "7J7MGW8W+WQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJe8vHb9K9vzsRh76Q0HOuGIg",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Golwada, Goa 403107, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5349835,
+                    "lng": 73.93319919999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.53629967989272,
+                        "lng": 73.93448352989272
+                    },
+                    "southwest": {
+                        "lat": 15.53360002010728,
+                        "lng": 73.93178387010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "33aa9096193b18e3272e4445ffa9103670bd2ab6",
+            "name": "Shri Pandurang Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117963654915998369143\">Urvi Onsker</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAvY842SH3GbTyWlNNii9Ke-jiU2ZH6ioGvmLenWOy96Geabf6KE4H8qy2b2L0OTKp9WxQkC7fe69qrqIgUVIoUzIUkt-oiCQjAq4aB2iiVeO9qfL3RQv7Xw2EyfdqjoaiEhC2WGO01z2FyuZNyqIHvgtCGhQkisaGDkweLPm6Z2y1dkLzNU4Zvw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ0b6GKXW-vzsRa0qfThUbrOk",
+            "plus_code": {
+                "compound_code": "GWMM+X7 Golwada, Goa",
+                "global_code": "7J7MGWMM+X7"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ0b6GKXW-vzsRa0qfThUbrOk",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Chimbel, Goa 403006, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4917437,
+                    "lng": 73.8751029
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49316192989272,
+                        "lng": 73.87649132989272
+                    },
+                    "southwest": {
+                        "lat": 15.49046227010728,
+                        "lng": 73.87379167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "12f822cc6bc38525aa84975703562edd7434c2c7",
+            "name": "Hanuman Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104523414918543378952\">Saeesh Kandolkar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4JMFVXbheKXlr4KXiQf_GrIg6OMR0hN-fpxxL7oIB2jtl9Fr1eJTbbbPFykjmwq1tldl2jqlViF6y1J0CGNM7NQKG5n6n9Nv_1byfOQddJdM4MFYd95FuZYdzpzsjunPEhChN85NkM5Q6cjdoc0J-3Q7GhT2ImXHDochOoZkOAZYkSjQhxN0Vw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJJVhPzhC_vzsR_AuVwriI3Bk",
+            "plus_code": {
+                "compound_code": "FVRG+M2 Chimbel, Goa",
+                "global_code": "7J7MFVRG+M2"
+            },
+            "rating": 3.9,
+            "reference": "ChIJJVhPzhC_vzsR_AuVwriI3Bk",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shri Gajanan Temple, local Wada, Goltim-Navelim, Diwaddi Goa, Navelim, Goa 403403, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5264729,
+                    "lng": 73.89769079999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.52781852989272,
+                        "lng": 73.89909082989271
+                    },
+                    "southwest": {
+                        "lat": 15.52511887010728,
+                        "lng": 73.89639117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "c117e61eb1940e79ad806607795c4eb77c97055a",
+            "name": "Shri Gajanan Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2581,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104664364271321386704\">Shyam Gaude</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA--ClZ_mpQ1vOof_-AglOA-IHnrZCVL48sQTkB_TJobk6F1Nn2DDsYWJgzphfn_U8hqxOFSsudoAulSwawURzXmUIiiUmsA9XNb7-z238cCvBF5T6Xw_ZMh-U7WYzZoLFEhD8oy9by2Qz9ZdI33LxqKbCGhRUr9sqZEBL01VmRCBN2lD93r5t0A",
+                    "width": 1714
+                }
+            ],
+            "place_id": "ChIJk3DJ106-vzsRANeoxWyUXFc",
+            "plus_code": {
+                "compound_code": "GVGX+H3 Navelim, Goa",
+                "global_code": "7J7MGVGX+H3"
+            },
+            "rating": 4.6,
+            "reference": "ChIJk3DJ106-vzsRANeoxWyUXFc",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "403107, Banastarim Bridge, Carambolim, Banastarim, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4895615,
+                    "lng": 73.9635414
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49094172989272,
+                        "lng": 73.96491112989271
+                    },
+                    "southwest": {
+                        "lat": 15.48824207010728,
+                        "lng": 73.96221147010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "2c8c8b6748618fe913599e329decb60e6e037baa",
+            "name": "Shri Betal Temple",
+            "permanently_closed": true,
+            "place_id": "ChIJDTf1S2q8vzsRYUjfc1-SPXM",
+            "plus_code": {
+                "compound_code": "FXQ7+RC Carambolim, Corlim, Goa",
+                "global_code": "7J7MFXQ7+RC"
+            },
+            "rating": 1,
+            "reference": "ChIJDTf1S2q8vzsRYUjfc1-SPXM",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Cumbarjua, Goa 403107, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5133906,
+                    "lng": 73.9448802
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.51495272989272,
+                        "lng": 73.94642107989272
+                    },
+                    "southwest": {
+                        "lat": 15.51225307010728,
+                        "lng": 73.94372142010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "34dc40deb4e556558b71075ff3defa39a425fdd5",
+            "name": "Shree Mahadev Temple",
+            "permanently_closed": true,
+            "place_id": "ChIJtQmVKi28vzsRtjtfFqVOpco",
+            "plus_code": {
+                "compound_code": "GW7V+9X Cumbarjua, Goa",
+                "global_code": "7J7MGW7V+9X"
+            },
+            "rating": 4.8,
+            "reference": "ChIJtQmVKi28vzsRtjtfFqVOpco",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Carambolim, Azossim, Goa 403104, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4669414,
+                    "lng": 73.92292599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.46828467989272,
+                        "lng": 73.92430577989273
+                    },
+                    "southwest": {
+                        "lat": 15.46558502010727,
+                        "lng": 73.92160612010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "8b1d41b05d01b686b6d4c05d2e2e130dc4dc3226",
+            "name": "Mahadev Temple",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108602455036098232337\">Raj marshelkar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAk79wHmsAe1gXXnvKLBZLmeRUq3eaKWA45TiKPC6YACRYYvGIqXmEkVb1aWTwJKLM_iTCnLIrNFlTr_QeabGFrVfybjKJObbu9VvPlR_K5bfN3dP-xKXH4EhkcgUBZClTEhBKTExQx4iXYo4HSTpsZqsMGhQl_Kinb1HKClm8risvyT0b5CX5mw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJm6mrt7K-vzsRCAApcfdEgd0",
+            "plus_code": {
+                "compound_code": "FW8F+Q5 Carambolim, Corlim, Goa",
+                "global_code": "7J7MFW8F+Q5"
+            },
+            "rating": 4,
+            "reference": "ChIJm6mrt7K-vzsRCAApcfdEgd0",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Carambolim, Boma, Goa 403115, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.47486,
+                    "lng": 73.96350610000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.47623322989272,
+                        "lng": 73.96505182989272
+                    },
+                    "southwest": {
+                        "lat": 15.47353357010728,
+                        "lng": 73.96235217010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "f371add96395195d952bbe28b5beae2b29c13db0",
+            "name": "Shiv Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117118784138564365937\">Anindya Sunder Sen</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUBZF1N_TWZ6KHXChKK-3FBSOfYq1ARag6-US_7t9Uu626QceXXSHTo_dZYxOc6ljfGBGNPS3If09HchNCSwkmGv08k5qIzq6VkCRuemq2JPIG38mg1lXiQmRBkg-iAehEhDDzQBEjdKC0nL1WfLQvI8lGhRIygc2Lit5WZ1NY4BaYh7zVSNPVw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJq0qbdnS8vzsRHLcn561E3QE",
+            "plus_code": {
+                "compound_code": "FXF7+WC Carambolim, Corlim, Goa",
+                "global_code": "7J7MFXF7+WC"
+            },
+            "rating": 5,
+            "reference": "ChIJq0qbdnS8vzsRHLcn561E3QE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Tiswadi, Goa 403006, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4861676,
+                    "lng": 73.872423
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.48756802989272,
+                        "lng": 73.87384547989272
+                    },
+                    "southwest": {
+                        "lat": 15.48486837010728,
+                        "lng": 73.87114582010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "ffee15d65bb6fddbe97f382dd6156777e1e1596f",
+            "name": "Mahadev Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111780580737389069220\">Manjunath Bhat</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKJwBE5VffaqzQ1o5xwl90_-3U6xWe20sNE4QxlvgLT6GMkIw6EB2AGzUZQZXc27tXzNPkCz8sUoxPYI07kfX4fpQvq1aBn9Jh6uDMezT-wQ0TISr1N9cBy8qNLuZhlMLEhChtyAhleQ55GFLHHWMpx0WGhTtIyucTTAvrTWKIwcpwG7gW3CIQg",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJL4tKFxa_vzsRI0v6h-fkvzM",
+            "plus_code": {
+                "compound_code": "FVPC+FX Tiswadi, Goa",
+                "global_code": "7J7MFVPC+FX"
+            },
+            "rating": 4.6,
+            "reference": "ChIJL4tKFxa_vzsRI0v6h-fkvzM",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "moula Gancim, Maina, Goa 403108, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4637097,
+                    "lng": 73.8985994
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.46509227989272,
+                        "lng": 73.89991187989271
+                    },
+                    "southwest": {
+                        "lat": 15.46239262010728,
+                        "lng": 73.89721222010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "7bde5a92be7f4819dedf792423a7f39142d16073",
+            "name": "Shri Sateri Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108913217024076254809\">Paresh Naik</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwaiVKf4qpKbXXq4WDJARQIkhQC6wwFdI73GLbW6lrRSpLYypliNNcTkWstSyE9G4mEeC9kWKNjl-8WYhkCB5O70gpgmVSSABVAMb3bMkscY6m1_IIOzK58URy-Q-69GsEhBrpAMp2qQL3CFdCbp4f8FPGhS9pKVz7s41ZfZbjalkZxCorfSMVw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJtxHgOi25vzsRMCW5PfD41QA",
+            "plus_code": {
+                "compound_code": "FV7X+FC Maina, Goa",
+                "global_code": "7J7MFV7X+FC"
+            },
+            "rating": 4.5,
+            "reference": "ChIJtxHgOi25vzsRMCW5PfD41QA",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Chorao, Goa 403102, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5269419,
+                    "lng": 73.88080529999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.52823622989272,
+                        "lng": 73.88218987989272
+                    },
+                    "southwest": {
+                        "lat": 15.52553657010728,
+                        "lng": 73.87949022010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "35307bb0fd6716aea07b4502076be32d3656a8b1",
+            "name": "Sai Baba Temple",
+            "permanently_closed": true,
+            "place_id": "ChIJT_DG3La_vzsRCEDYcJIl-wA",
+            "plus_code": {
+                "compound_code": "GVGJ+Q8 Chorao, Goa",
+                "global_code": "7J7MGVGJ+Q8"
+            },
+            "rating": 4.8,
+            "reference": "ChIJT_DG3La_vzsRCEDYcJIl-wA",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shivaji Nagar, Curca, Goa 403108, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4680643,
+                    "lng": 73.87552
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.46940852989272,
+                        "lng": 73.87691337989273
+                    },
+                    "southwest": {
+                        "lat": 15.46670887010727,
+                        "lng": 73.87421372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "7dbe41ca677552c9f52b4fe1948c72399448d1ab",
+            "name": "Shiva Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101547081661425975847\">Swapnesh Mangaonkar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAN9JaIB4EBI_HGXWYo19o_ObCILAKqIhp76dL06eXoGN9J9LmhEm_oQ4Q3l_H3r62VYUbai4VFExMMvBzSLsrQMBQQJGmoD3SQP9mwP4Eb0HzGr6_2ui3aeWzUt98pjYnEhCB1xsL1TPmm0fMlUvQb7kVGhQeKEJIQ2OeQpgq3-As9Z67Bp3rSQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE7etIzK_vzsRi_SSyYPsxlU",
+            "plus_code": {
+                "compound_code": "FV9G+66 Shivaji Nagar, Curca, Goa",
+                "global_code": "7J7MFV9G+66"
+            },
+            "rating": 4.5,
+            "reference": "ChIJE7etIzK_vzsRi_SSyYPsxlU",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Cumbarjua, Goa 403107, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5173962,
+                    "lng": 73.947653
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.51875342989272,
+                        "lng": 73.94900732989271
+                    },
+                    "southwest": {
+                        "lat": 15.51605377010728,
+                        "lng": 73.94630767010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "44c947d7145e15fcce1ba52c77876e53ccb16ee6",
+            "name": "Vithoba Temple",
+            "permanently_closed": true,
+            "place_id": "ChIJiZTJd9K9vzsR8MNpFMRwkWE",
+            "plus_code": {
+                "compound_code": "GW8X+X3 Cumbarjua, Goa",
+                "global_code": "7J7MGW8X+X3"
+            },
+            "rating": 5,
+            "reference": "ChIJiZTJd9K9vzsR8MNpFMRwkWE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Rd to Divar (North) Ferry Terminal, Navelim, Goa 403403, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5211622,
+                    "lng": 73.8985447
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.52251832989272,
+                        "lng": 73.89991977989271
+                    },
+                    "southwest": {
+                        "lat": 15.51981867010728,
+                        "lng": 73.89722012010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "924970ba28c4dc719bf68f604716aced3926dabd",
+            "name": "Mahalakshmi Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116474225247347583680\">katik praboo</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAr2SFibgFV5PMgFZIgHDRrRCqfdx8R_VfGEV7fTNSNt_R2AFGCuZDudYDKtzACcIBM-WknklvD0gssZ73xPGMKKEvnQFC9IdDNZw4eY4S9Ot6d5E21HDPBpKsLVnbz3P8EhB7PxkmHgxTHPKy1Rv8VUzVGhRrca8zm1xhMk8QncGAzKVOmUYVUA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJIXxEJlC-vzsRn9yhzzgtem0",
+            "plus_code": {
+                "compound_code": "GVCX+FC Navelim, Goa",
+                "global_code": "7J7MGVCX+FC"
+            },
+            "rating": 4.3,
+            "reference": "ChIJIXxEJlC-vzsRn9yhzzgtem0",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Tiswadi, Goa 403006, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4874749,
+                    "lng": 73.8580611
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.48881332989272,
+                        "lng": 73.85937467989272
+                    },
+                    "southwest": {
+                        "lat": 15.48611367010728,
+                        "lng": 73.85667502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "78ac2bfbf072f1db87f49faa6a381d46c7104c6c",
+            "name": "Hanuman Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113993771881633760358\">Gokul Kanapally</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAD1FcfvvJhGUzReQ_crzNQ-0kwelikKoKhn5PY4P5Kh8FLsl91BREbaWYQqaz7rq3I1-OiCErl347eQD4Rastre7p1bRJMRtyWzb195eT67wsgdtU6v_eB-qngq7nOaFBEhBm7DXVwFoG782jQeTAsSQbGhQnauML-nSgGtm1DJqiGFECslxb6A",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ5exTC2m_vzsRJja_egpSDps",
+            "plus_code": {
+                "compound_code": "FVP5+X6 Tiswadi, Goa",
+                "global_code": "7J7MFVP5+X6"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ5exTC2m_vzsRJja_egpSDps",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Akhada, St Estevam, Tiswadi, Goa 403106, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5356845,
+                    "lng": 73.9326705
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.53699972989272,
+                        "lng": 73.93398647989272
+                    },
+                    "southwest": {
+                        "lat": 15.53430007010728,
+                        "lng": 73.93128682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "dac2feed646f07cbf0c30e719b88862895161d61",
+            "name": "Satya Narayan Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114185358447849504830\">devesh tari</a>"
+                    ],
+                    "photo_reference": "CmRaAAAApfdaYNhI7ucrRar0wzR_3bQzSkkZZWT4rTmANNakKSSilv1UiyUNBIazNQI_SYdAnX9uC9digzWp_R8WhdzBiLxk4mIxqn8gYUc6TXbyuaFih1oayAidfWn_mWqks18lEhDjF-cn3R7A_tffhlkA8g1FGhSxHELFrRzA8emwHxHwYTQrCOLtfQ",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJnSGrLgu-vzsRX7sRRaZTwGE",
+            "plus_code": {
+                "compound_code": "GWPM+73 St Estevam, St Estevam Island, Goa",
+                "global_code": "7J7MGWPM+73"
+            },
+            "rating": 4.2,
+            "reference": "ChIJnSGrLgu-vzsRX7sRRaZTwGE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Pilar, Goa 403402, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4414132,
+                    "lng": 73.8906439
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.44284362989272,
+                        "lng": 73.89172427989271
+                    },
+                    "southwest": {
+                        "lat": 15.44014397010728,
+                        "lng": 73.88902462010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "a1b82ef95c67dbe82b4e12ef83c5ecdc79127e59",
+            "name": "Shri Mahadev Temple",
+            "permanently_closed": true,
+            "place_id": "ChIJNwvwICC5vzsRWCAKz1RIQV8",
+            "plus_code": {
+                "compound_code": "CVRR+H7 Pilar, Goa",
+                "global_code": "7J7MCVRR+H7"
+            },
+            "rating": 3,
+            "reference": "ChIJNwvwICC5vzsRWCAKz1RIQV8",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mangaddo, Gandaulim, Goa 403110, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4952066,
+                    "lng": 73.946084
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49654022989272,
+                        "lng": 73.94737952989273
+                    },
+                    "southwest": {
+                        "lat": 15.49384057010728,
+                        "lng": 73.94467987010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "b87261118d9336bc9c4aa74a9f195aca7869c063",
+            "name": "Shri Sateri Temple Dhulapi Corlim",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106703144262272983043\">NIVEDITA NAIK</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtXpvNr1b4c-cxJB4ro1FDsD4EYuZ28i6a6lziLR5QdMbtcYNi7AFChLkhDVS35fiC8QizIRPWX6u3ICqqroiZLERSR8pnfA8IXo-1jMQ1oQklk3YxjwkDMbe1YKri38nEhCzraI_7O_pj6hgN3jG30QOGhSs1KJTTz5afeUv-d7PfJ3lpSFARg",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ2SgeayO8vzsRbyAlCIYDEmU",
+            "plus_code": {
+                "compound_code": "FWWW+3C Mangaddo, Gandaulim, Goa",
+                "global_code": "7J7MFWWW+3C"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ2SgeayO8vzsRbyAlCIYDEmU",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,900 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "dada colony smashan maroti road, Lane Number 3, Kailash Nagar, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.879762,
+                    "lng": 75.341871
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88109752989272,
+                        "lng": 75.34322352989271
+                    },
+                    "southwest": {
+                        "lat": 19.87839787010727,
+                        "lng": 75.34052387010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "37d3fab356bfa4e512f7acc4765ddabf22ab86b4",
+            "name": "shree tours & travels",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104115497724661742146\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACPRRNFTYtAjKCc8gLy8DV0-YAXt6ug7bhnOFBxJiDWdR21sen0Bn0r6iotxRT_bmZ9E6EMUX3jCJVAjWqNBCV2fyMnsHyU-l2xmfUvueryPpfFVwVOIg1HJSz9hsn1-_EhD8tfNarMgHOBXsrfzSl9TLGhQHjPhjczchorA0TZANiUoCC35bYA",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJlxbDJJ6i2zsR2478hkA66h8",
+            "plus_code": {
+                "compound_code": "V8HR+WP Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HR+WP"
+            },
+            "rating": 0,
+            "reference": "ChIJlxbDJJ6i2zsR2478hkA66h8",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Synagogue Ln, Jew Town, Kappalandimukku, Mattancherry, Kochi, Kerala 682002, India",
+            "geometry": {
+                "location": {
+                    "lat": 9.957478499999999,
+                    "lng": 76.25938049999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.95881712989272,
+                        "lng": 76.26078347989271
+                    },
+                    "southwest": {
+                        "lat": 9.956117470107277,
+                        "lng": 76.25808382010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "12acc011315f6a1f52815a96272121483c3efa12",
+            "name": "Paradesi Synagogue",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107759036875700020904\">chaykeller</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA5S2aVEGLB-0OuxKuwjPGA5rwZ-ucDQu490SslfWCjKWZJpiFrh7MbHQGwuQ4L7LRlOD8jVGB91JoNsCxlZoPKgdAoo9vWC3bVHLmS2OiUp0c-zdDVw06KHtwAnAHI2ipEhCQYs37HMhMJBNb67s8MjKpGhTX7QCgYJy8qPOnJrs2tbujNLnFNA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ4WbbykRtCDsRKb7-iZ5J7Ng",
+            "plus_code": {
+                "compound_code": "X745+XQ Mattancherry, Kochi, Kerala",
+                "global_code": "6JXRX745+XQ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ4WbbykRtCDsRKb7-iZ5J7Ng",
+            "types": [
+                "synagogue",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3556
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Blossoms, Market Rd, Shenoys, Kochi, Kerala 682031, India",
+            "geometry": {
+                "location": {
+                    "lat": 9.980108699999999,
+                    "lng": 76.2781777
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.98147987989272,
+                        "lng": 76.27967302989273
+                    },
+                    "southwest": {
+                        "lat": 9.978780220107277,
+                        "lng": 76.27697337010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "ad45cced5cc5b2ca3ec78dff6400a3a94db66c1e",
+            "name": "Kadavumbagam Synagogue",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 638,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107674463544653928771\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAA-hIof_zkkijf8sPNZmOtRLSU0vlV_8QtTkN0W5lim7c_FZBb8MdGREa6-SgEu3XAPhTnVwo8n8Jm6SO1m7ZFujGgAX6JwrleB9IqcYkJnMrWd4hV_c582oiNikxz0RsEhBf2A54NPrplYxhpmv5MqbuGhRsdq6gBgjU8TuKvkIqbgb_IWy5fw",
+                    "width": 1138
+                }
+            ],
+            "place_id": "ChIJ1WODLVENCDsRLcYKebFE96Q",
+            "plus_code": {
+                "compound_code": "X7JH+27 Kochi, Kerala",
+                "global_code": "6JXRX7JH+27"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ1WODLVENCDsRLcYKebFE96Q",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 212
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Synagogue Street, Modi Colony, Pune, Maharashtra 411001, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.5177112,
+                    "lng": 73.87455709999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.51907692989272,
+                        "lng": 73.87594477989272
+                    },
+                    "southwest": {
+                        "lat": 18.51637727010728,
+                        "lng": 73.87324512010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "12f890ac596ac7f7d8b1156d9a86a9f841ab5669",
+            "name": "Jesus Calls Prayer Center",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116002702597200774991\">blessy julie</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyYwJSGiqsiJOOEUxye7T7lb2ZfVrpLAVaLRFH45OcI0mAMux8c_O2UKtHfyg4vp85lD6ZKVNYvHg8k071OsW9Ak-aX7YF-MrIh0rZtR8IQMeBW0Gq6Iwh5Rh4tKZqgnpEhDfCmyiZpDAl9B7BbukQlEaGhRCgPj7lOb1rJwOH2TUIrIGHenxBg",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJu-pPA0XAwjsRfp3sx12Tm08",
+            "plus_code": {
+                "compound_code": "GV9F+3R Pune, Maharashtra",
+                "global_code": "7JCMGV9F+3R"
+            },
+            "rating": 4.5,
+            "reference": "ChIJu-pPA0XAwjsRfp3sx12Tm08",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 61
+        },
+        {
+            "formatted_address": "Maharashtra, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.7514798,
+                    "lng": 75.7138884
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.028441,
+                        "lng": 80.890924
+                    },
+                    "southwest": {
+                        "lat": 15.6024121,
+                        "lng": 72.659363
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "66df3fd7e400eb31efd3ac935036aab2c02b03f0",
+            "name": "Maharashtra",
+            "photos": [
+                {
+                    "height": 484,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117879520629174282923\">Bharat Bhagat</a>"
+                    ],
+                    "photo_reference": "CmRaAAAApjy2-MtUAjNPQ7oz9mLQV67vBmE5uf1TKc8g2QEFayR6plbNkoL7qlfrZkUaNZECk3JwSbiKqZr9Z89rUGuma52N05CAzM20hOYVl_H082oBVX5Jyhsqf6stpLUH-iCTEhAyi1F42BxnzkzkHWnseTnOGhRQA-EHA7sr2sOIOTfM2rsURIYlIg",
+                    "width": 791
+                }
+            ],
+            "place_id": "ChIJ-dacnB7EzzsRtk_gS5IiLxs",
+            "reference": "ChIJ-dacnB7EzzsRtk_gS5IiLxs",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ellora Cave Rd, Ellora, Maharashtra 431102, India",
+            "geometry": {
+                "location": {
+                    "lat": 20.025817,
+                    "lng": 75.1779975
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.02709612989272,
+                        "lng": 75.17921107989272
+                    },
+                    "southwest": {
+                        "lat": 20.02439647010728,
+                        "lng": 75.17651142010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "66bbb1b2c8025bc2bdb93edf171b3e4bc255c412",
+            "name": "Ellora Caves",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 533,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112023776705256157793\">AndresRafael StefaniSucre</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAEvgFVclHdMokvG-ZDVPfXUdroeebUjpAQSzfXV5SS5hPPN9TtKzwC4JH52SUBKeyD4JNmICwURW0o6AE78Oqa75j5TbD-3ncDzg5JIJ3Z0O8pZLDU-Xsz1Qr9Y0DQb7PEhAssZVyd1-TAqZjg-WqHzdmGhTvpS_noL2Eqye9loeJYlm10AzXGg",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJveSKE72T2zsRz4kLz4JkTFc",
+            "plus_code": {
+                "compound_code": "25GH+85 Ellora, Maharashtra",
+                "global_code": "7JGQ25GH+85"
+            },
+            "rating": 4.6,
+            "reference": "ChIJveSKE72T2zsRz4kLz4JkTFc",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25067
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Lakdi Pulia, Near Police Chowki, Mahal, Nagpur, Maharashtra 440032, India",
+            "geometry": {
+                "location": {
+                    "lat": 21.1480343,
+                    "lng": 79.1122765
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.14941597989272,
+                        "lng": 79.11371737989272
+                    },
+                    "southwest": {
+                        "lat": 21.14671632010728,
+                        "lng": 79.11101772010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "337d6454354a0b5140c577a4f69f98f5451f7f37",
+            "name": "Mothe Ayachit Mandir - Shri Balaji Devasthan",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109966513055577111955\">Rajesh Kulkarni</a>"
+                    ],
+                    "photo_reference": "CmRZAAAADCX2h0m-CVJoDddEt6z4hgUR7gunNsTQ1MRFKVkbl8yITt7sbg7JOKghNWXvb2ed7qfmN3OIi-nfWwa2NjinbhMPFIBicEbpnAIRJFJdq7iudcha5tA-KN7rUxEo575GEhD0XpyFysj3emzGBNv2zSCDGhRJcCE_Mivkh5uvIssxDll-HZIjUg",
+                    "width": 2250
+                }
+            ],
+            "place_id": "ChIJ6_i1dDXH1DsR4rurRqBa8Qs",
+            "plus_code": {
+                "compound_code": "44X6+6W Mahal, Nagpur, Maharashtra",
+                "global_code": "7JHX44X6+6W"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ6_i1dDXH1DsR4rurRqBa8Qs",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 69
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Szeroka 16, 33-332 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.05230719999999,
+                    "lng": 19.9484256
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.05342887989271,
+                        "lng": 19.94969052989272
+                    },
+                    "southwest": {
+                        "lat": 50.05072922010727,
+                        "lng": 19.94699087010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "eb565bfede4e5f977ff51a0c56e0426b13b39384",
+            "name": "Popper Synagogue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3785,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114886647463097170813\">Petr Vl\u010dek</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA0dMOF2hNoOSeslywYRheWInQ6Vsc4AF-HctkwsLZYxgMhqYW3KNXUN7rC9QZBBkdMTj5XTeIF-ZmsffHT7sq_cGMFPSN0SK3sFLimWYgybb-S2AP1RxUWbmjj91HJ-QvEhAKGspW_QzFoq0bZZYczFdtGhRtV8eWgl_lrtuFMbs0_NxdanUf1g",
+                    "width": 5682
+                }
+            ],
+            "place_id": "ChIJ_3X_L0BbFkcRZ6I-lQO9uiY",
+            "plus_code": {
+                "compound_code": "3W2X+W9 Krak\u00f3w, Poland",
+                "global_code": "9F2X3W2X+W9"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ_3X_L0BbFkcRZ6I-lQO9uiY",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 54
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "siddhakala nagar, Ahmed Nagar, Manmad, Maharashtra 423104, India",
+            "geometry": {
+                "location": {
+                    "lat": 20.2507881,
+                    "lng": 74.4392915
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.25224912989272,
+                        "lng": 74.44060947989271
+                    },
+                    "southwest": {
+                        "lat": 20.24954947010727,
+                        "lng": 74.43790982010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/train-71.png",
+            "id": "4f1e9e96a62ad998c27599214593b8782f7f16bf",
+            "name": "Manmad Junction",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 6944,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100492533321625514482\">Dinakaran Naidu</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJnkXAKDg9EwrshvVF7UtOmiS8Wduqgv7Y8olgWmApdkmXerNcU-R8H2jf4qWdDwYrRTDofz3TTPRLHT5pEYoH_xDtw5pkicsDaTJOKvUJqFQGSGb_XIymNQEF2QTT8HDEhAoWafFLDtgJZQxd2e5jR-MGhTw6saJbM8DpNOzEvuHxheTLNaf-A",
+                    "width": 9248
+                }
+            ],
+            "place_id": "ChIJg3kMWqYl3DsRREsvJRiOCcA",
+            "plus_code": {
+                "compound_code": "7C2Q+8P Manmad, Maharashtra",
+                "global_code": "7JGP7C2Q+8P"
+            },
+            "rating": 3.5,
+            "reference": "ChIJg3kMWqYl3DsRREsvJRiOCcA",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 989
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "930, Synagogue St, Gawaliwada, Modi Colony, Pune, Maharashtra 411001, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.5174967,
+                    "lng": 73.8747882
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.51883662989272,
+                        "lng": 73.87610357989271
+                    },
+                    "southwest": {
+                        "lat": 18.51613697010728,
+                        "lng": 73.87340392010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "8f851aaa40d5325afe2901c598c653f189309756",
+            "name": "THORO BUILDCARE",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 734,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101942636249634414709\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA5N-gv4spzl-GlVDQH0AZF9UJV_u4G4hOv3XvE4BYDxTY7JHkEMckq6MfTNIMURJ3xBPFfhECOCFwZJ-lDfTUvGySakm97wt1c5g1Y9OqCHvYnbJy9HAm_nAt8TCie7doEhAPDMuIyOuuTV-X3BjLpr69GhTiKRNKgkBOJ7loX09h_9DHB6HUOQ",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJa65DBEXAwjsRokg-a2TNc44",
+            "plus_code": {
+                "compound_code": "GV8F+XW Modi Colony, Pune, Maharashtra",
+                "global_code": "7JCMGV8F+XW"
+            },
+            "rating": 4,
+            "reference": "ChIJa65DBEXAwjsRokg-a2TNc44",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Apollo Bandar, Colaba, Mumbai, Maharashtra 400001, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.9219841,
+                    "lng": 72.8346543
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.92346332989272,
+                        "lng": 72.83550377989272
+                    },
+                    "southwest": {
+                        "lat": 18.92076367010728,
+                        "lng": 72.83280412010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "37b3c9034b748a2981e66299a22c8af6b95d4df7",
+            "name": "Gateway Of India Mumbai",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 671,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105303505373661530610\">Hauser Quaid Zzyzx</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAo0yOKDJctIgD29a84w5FUcBR307xpGBvdqVPVWltRUcpjjmsImlWD0FNit0tJOOpQ-NPYfhYlTmeNKiNv6T0_3nB_AYUKw7jCcjTcZgj8ximamFwN0jNUQ-GH96FLSxAEhCf1op95Jila7Lyb8JYNML9GhSUhuv8MurCWOXvIf97JzdZ-PNq8Q",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJrVwNOsfR5zsRPHOcIKclCsc",
+            "plus_code": {
+                "compound_code": "WRCM+QV Mumbai, Maharashtra",
+                "global_code": "7JCJWRCM+QV"
+            },
+            "rating": 4.6,
+            "reference": "ChIJrVwNOsfR5zsRPHOcIKclCsc",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 229130
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dadupura, Fatehpur Sikri, Uttar Pradesh 283110, India",
+            "geometry": {
+                "location": {
+                    "lat": 27.0948978,
+                    "lng": 77.6619954
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.09638002989272,
+                        "lng": 77.66318732989271
+                    },
+                    "southwest": {
+                        "lat": 27.09368037010728,
+                        "lng": 77.66048767010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "1111008b9d30a8c960ef6cf9a31e7320d7d46f06",
+            "name": "Jama Masjid",
+            "photos": [
+                {
+                    "height": 3864,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115980414259979366775\">Malte Scholz</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA6qnKUA6Fo79ltEVgNSxxY_82KT8H2gew0jxL_VjIX_gD_CYXK0FpM1rJs1Ardl3E9F20eS6i-XDNeX8HCSrjKScJtbYdkpgqpvtYIEXhS3SgrjdOeLO3bxI6ZoRWkR9IEhBTU8p2-u-Mq6yAvBkxv8FLGhQ93jQDIgKabHeD1OfWLaFqPum_fQ",
+                    "width": 5152
+                }
+            ],
+            "place_id": "ChIJAQAAAOOTczkRqtYS-ONRGxo",
+            "plus_code": {
+                "compound_code": "3MV6+XQ Dadupura, Fatehpur Sikri, Uttar Pradesh",
+                "global_code": "7JVV3MV6+XQ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJAQAAAOOTczkRqtYS-ONRGxo",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 200
+        },
+        {
+            "formatted_address": "India",
+            "geometry": {
+                "location": {
+                    "lat": 20.593684,
+                    "lng": 78.96288
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.513327,
+                        "lng": 97.39535869999999
+                    },
+                    "southwest": {
+                        "lat": 6.4626999,
+                        "lng": 68.1097
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "75782fd959cc6020c07bd2ab8e76dbafab8491d1",
+            "name": "India",
+            "photos": [
+                {
+                    "height": 400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104494000466617447205\">Manju Gupta</a>"
+                    ],
+                    "photo_reference": "CmRaAAAArCRkBS5eAp7iJMEOJWIBqM8cXylZcSC9r9zxBLWW4glQrT1Df5mGJIQlS1_PNxXUlfXDiEZ2hNsnY1jPbmjlApSNRD0D05KPukgmMuQJPLBj-nyZSPFtk14-EmW1uFg2EhCO87q9CQei_bObSC2YTqdRGhSpanf0SBrhjf1QkZiKbU8RShm-mA",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJkbeSa_BfYzARphNChaFPjNc",
+            "reference": "ChIJkbeSa_BfYzARphNChaFPjNc",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "C/o AIBTM, 30/25, Knowledge Park III, Greater Noida, Uttar Pradesh 201306, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.4710079,
+                    "lng": 77.47844529999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47252127989272,
+                        "lng": 77.47966457989273
+                    },
+                    "southwest": {
+                        "lat": 28.46982162010728,
+                        "lng": 77.47696492010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "31db7e2a48e1e908d658c3f5e8a31b8faeb1048e",
+            "name": "IFIBCA",
+            "permanently_closed": true,
+            "place_id": "ChIJQX5_pgTqDDkRzX5erCMASdk",
+            "plus_code": {
+                "compound_code": "FFCH+C9 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFFCH+C9"
+            },
+            "rating": 4.3,
+            "reference": "ChIJQX5_pgTqDDkRzX5erCMASdk",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "25 Bellevue Ave, Toronto, ON M5T 2N5, Canada",
+            "geometry": {
+                "location": {
+                    "lat": 43.6538637,
+                    "lng": -79.40305959999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 43.65520112989272,
+                        "lng": -79.40176782010727
+                    },
+                    "southwest": {
+                        "lat": 43.65250147010727,
+                        "lng": -79.40446747989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "53ba46888862f2c13f8f23d70cb566849b3de680",
+            "name": "The Kiever Shul",
+            "photos": [
+                {
+                    "height": 6048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111688945165591346095\">mjm15@sympatico.ca</a>"
+                    ],
+                    "photo_reference": "CmRaAAAALETk5ChmxX-0QYp46-dNiWJk_-6qt5N1u1DX0_cMV6Z4OLEZhOwHn9hbDAxVztckTkm-koZRh1DHO89_CyuG1-2_m10-MszmrESYSkkkvMYXY9XA6BZndYagmHBafcEaEhCp1vxLGAJ5k9B5Wv07IoWBGhS8EOEDNz73wZk-bot4hvH1Bhnkfw",
+                    "width": 8064
+                }
+            ],
+            "place_id": "ChIJSbuI1uk0K4gRq1Iwvgq98fg",
+            "plus_code": {
+                "compound_code": "MH3W+GQ Toronto, Ontario, Canada",
+                "global_code": "87M2MH3W+GQ"
+            },
+            "rating": 4.8,
+            "reference": "ChIJSbuI1uk0K4gRq1Iwvgq98fg",
+            "types": [
+                "synagogue",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2116 Krystal Gade, Charlotte Amalie, St Thomas, 00802, US Virgin Islands",
+            "geometry": {
+                "location": {
+                    "lat": 18.3428147,
+                    "lng": -64.932611
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.34408522989272,
+                        "lng": -64.93123372010727
+                    },
+                    "southwest": {
+                        "lat": 18.34138557010728,
+                        "lng": -64.93393337989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "e46c1e154ba9d418c57a5a63e742d9336cbf6541",
+            "name": "Hebrew Congregation of St. Thomas",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103071907576775172646\">Monica DeWane</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJz6FU3nZ4p4fP-vYhbGUStNSl_VwGRoOw03YVDON130zEPErUb1W2TZNTiqYQC4Dpc61z-axcDQ0uDOcazHhtWUtHMjHWjx2XyMKeDgDJAHCQ-a4exIsm7YmropkSkyGEhD53OzEhNf0jEvLSjF_y8XUGhRomgYQMeajV13vAp9UDKRhsq4hTA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJX02nYvIaBYwRGz_qBTizYPw",
+            "plus_code": {
+                "compound_code": "83V8+4X Charlotte Amalie, St Thomas, US Virgin Islands",
+                "global_code": "77CQ83V8+4X"
+            },
+            "rating": 4.7,
+            "reference": "ChIJX02nYvIaBYwRGz_qBTizYPw",
+            "types": [
+                "synagogue",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 66
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Airport Rd, Kochi, Kerala 683111, India",
+            "geometry": {
+                "location": {
+                    "lat": 10.1517834,
+                    "lng": 76.392958
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.16360055,
+                        "lng": 76.39434879999999
+                    },
+                    "southwest": {
+                        "lat": 10.14784435,
+                        "lng": 76.3887856
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+            "id": "992790e1428fbdd04239f03af4ab5dccfde12cc3",
+            "name": "Cochin International Airport",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113871322897773403970\">Safiur Rahman</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAg-fR-1_jO7TICfm2AsrGq_9jBq3sBzGdFuyl2BhcOlHtMVfBOfhCSh5aSq_5Vwd8C2mTWTD5z_QTJ2qvzhElVclXeYsO8mFtUEE2axHSYiRiZIm2oVjKImWKMPn0qQzCEhD46S4w4qSR3gR-YpZi0vPTGhSEq0yWZWUA-Mgt3ubLaH6a7KwEwg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJb0qPdIIICDsRWISWXeTrsjA",
+            "plus_code": {
+                "compound_code": "592V+P5 Kochi, Kerala",
+                "global_code": "7J2R592V+P5"
+            },
+            "rating": 4.4,
+            "reference": "ChIJb0qPdIIICDsRWISWXeTrsjA",
+            "types": [
+                "airport",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8382
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No 429, Upper Floor. Dwarka Mor Metro Station, Opp. Pillar No 795. Najafgarh Road, New Delhi, Delhi 110078, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.619061,
+                    "lng": 77.02875399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62043157989272,
+                        "lng": 77.03010537989273
+                    },
+                    "southwest": {
+                        "lat": 28.61773192010728,
+                        "lng": 77.02740572010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "aed950c470fd87e97d9f1ba479f549e8b9c57961",
+            "name": "FareHawker - An Aviation Portal",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104827275525607742719\">FareHawker An Aviation Portal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAj8bXx7Qy4-RKoCMRoEUtRu0yBQsIuxerAIzfiC1VQXGbH--Y2zd1NG0ey9EpTB6C2vUP5zoCiW-YaapZc81v16ZEnkS3TDe6e_c7j6Q8Z7V5losOhC_HK0l0jIwe93Z3EhDDDsUy9Zt2Y1CE5nSP4uWmGhRNz_24x_77Z4_2BC7WfRKwe07aHw",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ3RUoe0YFDTkR7p3OiLpbpwU",
+            "plus_code": {
+                "compound_code": "J29H+JG Dwarka, New Delhi, Delhi",
+                "global_code": "7JWVJ29H+JG"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ3RUoe0YFDTkR7p3OiLpbpwU",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1232 Arrowhead Ave, Livermore, CA 94551, United States",
+            "geometry": {
+                "location": {
+                    "lat": 37.713207,
+                    "lng": -121.7324058
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.71464197989273,
+                        "lng": -121.7306283701073
+                    },
+                    "southwest": {
+                        "lat": 37.71194232010728,
+                        "lng": -121.7333280298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "68f1bcfa1ca96b5eff04a8abba692228fa52151d",
+            "name": "Shiva-Vishnu Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2161,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113594250734201376785\">Sakin Shrestha</a>"
+                    ],
+                    "photo_reference": "CmRaAAAALOlZZtH6et3m9SsAVxSdnW4Y8AFUakLo0fjmkmxPRREQ2MFN4zjhRES20Lm9HnOlKPbr7bXPBijziM93fFylmX2NoQy5O7hmwjOl5LebOsi8-1JkX-2Jj90902PlW7tiEhBs1WU_LrpRoP-PZisv8QuqGhTntkC2C9Fe789VCed6BksSKsbRTg",
+                    "width": 3491
+                }
+            ],
+            "place_id": "ChIJ5fknCdjmj4ARjIcU6VvTJ6g",
+            "plus_code": {
+                "compound_code": "P779+72 Livermore, California, United States",
+                "global_code": "849WP779+72"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ5fknCdjmj4ARjIcU6VvTJ6g",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2138
+        }
+    ],
+    "status": "OK"
+}

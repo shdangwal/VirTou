@@ -1,0 +1,919 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCAQEAABRvSBrj833rennUWohLddLW5R5Dz92zYadOgm36GV7FI-xyIyYk61KoRdzQ5f1bzmot1gWxWk7MlpzZF7__pAfgleqGlgy8s58vVdVOlvcY4YTzLPjzUofiMiieKIF3yPfAu_Mx6eHf-_spDPO6oTDkEggyMkKbgmyiTpGyTPtrUPR8J4PRQly_GdLagdwy4PSLUTa31j6nRP_60Qz_ersOf1G0ItyzL7D6lDE7xGAlH6ZolWXcg8UbfdfMXFcXSWKXXW_ieI9HnoTcF5BVwOMT2JTmwi9wWM6Y3TIBjJ0q9rgPuVfEetWY1wTmdnXLCknQxBDGYAXdVerksoV9Calx-dCkWSYy_m28-ZqS9Zf3EhAPBYM9Y79wswxg_On6Z2HOGhQ8en_Luo8KJ2y7iaJ5GOtmR8qV-Q",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Opposite Rithala Metro Station, Sector 10, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7237007,
+                    "lng": 77.1140798
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72500747989272,
+                        "lng": 77.11484405
+                    },
+                    "southwest": {
+                        "lat": 28.72230782010728,
+                        "lng": 77.11178704999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8b3f1fef16b8e43638a08aeeea0b972d4f524c60",
+            "name": "Adventure Island",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4928,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104613025305786982808\">Adventure Island</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgkaAs1IBZi7jO_PAWAMXkbWkLtqdvQYPqNAFX8C_Eh3s1uMdsNo7p6EnH2q2iWyDisEyhJlCytmGhoJvUgf_AWIytIGpKA9NO4Xm8AVAWg-dnXVelpFaMgkXJEnQSUfWEhBDFG3hKUVyW38FqaVrLpwbGhRHOIRZic9Kqe1VLTBS4x0yUOYFQw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJq6qqmkABDTkREBpp5hT5OSo",
+            "plus_code": {
+                "compound_code": "P4F7+FJ Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4F7+FJ"
+            },
+            "rating": 4,
+            "reference": "ChIJq6qqmkABDTkREBpp5hT5OSo",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13458
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Adventure Island Sector 10, Rohini, rithla metro station, Delhi 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7254742,
+                    "lng": 77.1157327
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72705802989272,
+                        "lng": 77.11728542989272
+                    },
+                    "southwest": {
+                        "lat": 28.72435837010728,
+                        "lng": 77.11458577010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1e442f7e4b30a9dea58fe987d32c2618fadf5cc0",
+            "name": "Derby Devils",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110707271841099217638\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAApKuCjkFMcIBL5fjvufWwREEdGcWpFvWCkjxZ1tocRWw51ScU3ay2FJqsUdZao0CLPZ84fSsF3sLkFvxIjhSuMCzLYyuXBH9_6wSx2_6KUyY2GjgR4_w9z5q4oJ3mlQaVEhDCLLSPpIuM-8eOaHy05d1CGhTafkfWVvDDqnShJe3GpXIai6t11Q",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJt-m9tEcBDTkRZttfCCHMkb0",
+            "plus_code": {
+                "compound_code": "P4G8+57 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4G8+57"
+            },
+            "rating": 3.9,
+            "reference": "ChIJt-m9tEcBDTkRZttfCCHMkb0",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "15, Pandit Pant Marg, Baba Kharak Singh Marg Area, New Delhi, Delhi 110001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6222724,
+                    "lng": 77.2058064
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62360277989272,
+                        "lng": 77.20742007989271
+                    },
+                    "southwest": {
+                        "lat": 28.62090312010728,
+                        "lng": 77.20472042010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "88bf0f78fe7a7c6bd6d91a70358b52936feac9d5",
+            "name": "Amusement Arena",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116689940174298618757\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAK2Z-v0lTBOh71yZwURkoLh27LZrVw4BEP1Ug2nYnToxOJbtmgU7kgg6oGl2uHnehG5uDS-KHhZFVrBDoJQEyAFWJLQB9h06QrcC5yOBfurVDY3Fap0gPZTOb3-5QUW4gEhDPsuFyScAAyaqTJE8AyeFcGhSvBxtKWxI1_NiUs2HXsTbf_hqFnw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJxSpXVa3iDDkR3PJvV2gu_m8",
+            "plus_code": {
+                "compound_code": "J6C4+W8 New Delhi, Delhi",
+                "global_code": "7JWVJ6C4+W8"
+            },
+            "rating": 4.2,
+            "reference": "ChIJxSpXVa3iDDkR3PJvV2gu_m8",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 58
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Adventure Island, Near Rithala Metro Station, Sector 10, Rohini, New Delhi, Delhi 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7253274,
+                    "lng": 77.1152923
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72705077989272,
+                        "lng": 77.11696602989271
+                    },
+                    "southwest": {
+                        "lat": 28.72435112010728,
+                        "lng": 77.11426637010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "98701c6d27a3d3806e16145e1164b14513b8ebc7",
+            "name": "Wild Wheels Ride",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1944,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106620274085760675818\">Mohd Khalid - Official</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAvrRR_JtHInEoojD5mIX4Q2rEkNvcoKNWCW6UvDBoKfcDBvBY22vzdsC68dg7lrMoSTA_D8RNVHww25fLKpJ7tp5X7pExSJ0YyVzr8k2ssZrNNei9yNHf8XgFgYFyR9T-EhAm3-1CDI8pQyZl-4p-QLNOGhQnaYryy-SGO8lCJOBnCU8ElUcTpw",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJ56ZIzEcBDTkRterofMRxXkk",
+            "plus_code": {
+                "compound_code": "P4G8+44 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4G8+44"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ56ZIzEcBDTkRterofMRxXkk",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 51
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Gate, Street Number 11, near The Great India Place Mall, Sector 38, Noida, Uttar Pradesh 201301, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5647843,
+                    "lng": 77.3220308
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56587722989272,
+                        "lng": 77.32373727989273
+                    },
+                    "southwest": {
+                        "lat": 28.56317757010728,
+                        "lng": 77.32103762010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d2a1a22746e3f6c61a9831e1f6c1c1caa538d76b",
+            "name": "KidZania Delhi NCR",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115631453817587030176\">Kuber Anand</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAB_pnS7FHkTw0sQMZcptrgMFpxVplpmo_F7Rb35wid4ekaq940AneJghmBHXCBYAzTj7hQmtgctkZejiFsskwQ9wCSJPGXnkK3ssdBMRkYAB1ZJPNJGrNhNHiwUUkUvULEhDRUFxaofMFQW26JFN-jzTWGhSYLhdbyPnaw_w-FlxnS86Wb4hB_Q",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJLYnh10nkDDkRv2LExXyW29k",
+            "plus_code": {
+                "compound_code": "H87C+WR Sector 38, Noida, Uttar Pradesh",
+                "global_code": "7JWVH87C+WR"
+            },
+            "rating": 4.5,
+            "reference": "ChIJLYnh10nkDDkRv2LExXyW29k",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6377
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "2nd Floor, West Gate Mall, Rajouri Garden, New Delhi-110027, Raja Garden, Rajouri Garden, New Delhi, Delhi 110018, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6535362,
+                    "lng": 77.12306050000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65478947989272,
+                        "lng": 77.12427532989273
+                    },
+                    "southwest": {
+                        "lat": 28.65208982010728,
+                        "lng": 77.12157567010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e33a56069b48e9949811577f30867e779290b73a",
+            "name": "Fun Villa",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1952,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113884713100966930002\">anshul kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAuGdpJFq0Z4w-3IsosLTe-pFafYG6XEt9wNbxYgQJfxkKbLDGtA4AlRK4oUbqzn3ji-rlq7wDlQxDNfyUKeUVvdclhDSq6a6_bAsbZajfTg1hU3xosf1_8OrlEiSgZBe4EhCdxhajpDobLPzkUuas4iCcGhRKL96gyqVOtXlO0PfUbWBFVxdBUA",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJZZcjcXMDDTkRYDQRhM7xF70",
+            "plus_code": {
+                "compound_code": "M43F+C6 Rajouri Garden, New Delhi, Delhi",
+                "global_code": "7JWVM43F+C6"
+            },
+            "rating": 3.9,
+            "reference": "ChIJZZcjcXMDDTkRYDQRhM7xF70",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 51
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Adventure Island, Sector 12, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7265879,
+                    "lng": 77.1147698
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72802232989272,
+                        "lng": 77.11619297989272
+                    },
+                    "southwest": {
+                        "lat": 28.72532267010727,
+                        "lng": 77.11349332010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3c750e83599bf1c21ed858ceac523a4f0a178363",
+            "name": "Splash Down Ride",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 415,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105189840931609763977\">Ayansh Jaiswal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA42hYEeu6UvCfnKcoBVykDDYUSqJMmmx8dqEinSwnbXR50qmHoSu8q7Qyo3SqufUA7Fr5frJ_uWBY30lpNqfQ2Gj4OyqZaOBmz-lYomldlGPynufEt8hcGg5Uwe8FOdTcEhDXTWBITKmlWYo_2RUuyN-UGhQCDtWxbOuiYINMULtlzoLqHtbPGQ",
+                    "width": 739
+                }
+            ],
+            "place_id": "ChIJu-7awkcBDTkRom5HYMu8v1k",
+            "plus_code": {
+                "compound_code": "P4G7+JW Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4G7+JW"
+            },
+            "rating": 4.3,
+            "reference": "ChIJu-7awkcBDTkRom5HYMu8v1k",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 114
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "240, Khayala, Vishnu Garden, New Delhi, Delhi 110018, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.65510969999999,
+                    "lng": 77.1024296
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65646282989272,
+                        "lng": 77.10369897989273
+                    },
+                    "southwest": {
+                        "lat": 28.65376317010727,
+                        "lng": 77.10099932010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1f13c85a97f3840f73be6db59fb704299a315e3a",
+            "name": "Mastiii Trampoline Adventure Park",
+            "permanently_closed": true,
+            "place_id": "ChIJZTfKhO8FDTkRqlMn9BuHS-E",
+            "plus_code": {
+                "compound_code": "M442+2X Vishnu Garden, Delhi",
+                "global_code": "7JWVM442+2X"
+            },
+            "rating": 2.7,
+            "reference": "ChIJZTfKhO8FDTkRqlMn9BuHS-E",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Swarn Jayanti Park, Sector 10, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7242083,
+                    "lng": 77.1144321
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72555812989271,
+                        "lng": 77.11578192989272
+                    },
+                    "southwest": {
+                        "lat": 28.72285847010727,
+                        "lng": 77.11308227010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c1cf3d7c39ef2bca4f560215616133c2da45fd3e",
+            "name": "paris bridge",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103783366494525623178\">Sahib Khan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAjWPfyOudFsYE54qZrJeAXwvfpOuc2HGEuV3bj9uQkZSL8s2DMsyra_rtpUxfG3zARsvkRBQE9SYB6pbS3FRNgBtWyx5o9JINvZNduajTCG1piHF8CcT2ts2dMfmSX2CTEhADvTSgFE-_UttDaC2p1NYgGhThLmHSDp0MCDN0HvPwG4EaEFkKNA",
+                    "width": 2352
+                }
+            ],
+            "place_id": "ChIJye0Yoo4BDTkROCegusbCv-U",
+            "plus_code": {
+                "compound_code": "P4F7+MQ Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4F7+MQ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJye0Yoo4BDTkROCegusbCv-U",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Adventure Island, Sector 12, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.725247,
+                    "lng": 77.115583
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72693447989272,
+                        "lng": 77.11722557989273
+                    },
+                    "southwest": {
+                        "lat": 28.72423482010727,
+                        "lng": 77.11452592010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cd2f1ac8a6e7f1370e7af4e99ff7256a6c499008",
+            "name": "Bumper Cars Ride",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102783185203169470516\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAABKHKI58BHbVSJdf-_T3bIBX4bg-q7qtUeZemmV3FugcFGGPZ155t6LmpTzmyE6KZWhBDdqZigHo7GCmQgF9_uUtU3Rnhey08p6JL4E5KspenyP6E-bDYD30yIFi2waC2EhBrZDYN-_4IF2Y5hiWVNH9EGhTU7pUB373-7kVn_ZAVflKmYX__xg",
+                    "width": 540
+                }
+            ],
+            "place_id": "ChIJkdNcSkYBDTkRcSQ0TomQWO8",
+            "plus_code": {
+                "compound_code": "P4G8+36 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4G8+36"
+            },
+            "rating": 4.3,
+            "reference": "ChIJkdNcSkYBDTkRcSQ0TomQWO8",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "D Block, Samalka, New Delhi, Delhi 110037, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5317325,
+                    "lng": 77.09790989999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.53314222989272,
+                        "lng": 77.09926082989271
+                    },
+                    "southwest": {
+                        "lat": 28.53044257010728,
+                        "lng": 77.09656117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "469c275074e188152e9109d9ef73b65ac8d8f823",
+            "name": "Divya Inflatables",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113676239612901129952\">Sam K</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgfG7Msvd_-5G0VrzN3N68xbdpGakcIX3FJ3VRi7xwnvNx7n3ajnmu-ZC9mHbshu36wxuQ1iM59NPkpebr1Ucon_LCd3Rk4QRNPVDtp5ST_rB6IGsy3xkWoDPXEEAhEFqEhCqxf4vJpd408W4AhXkcrUiGhSWn5wCI-8qKVuxejhw1KR9ZGhKgA",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJ49xJo50bDTkRDnFsczGsjIs",
+            "plus_code": {
+                "compound_code": "G3JX+M5 Samalka, New Delhi, Delhi",
+                "global_code": "7JWVG3JX+M5"
+            },
+            "rating": 5,
+            "reference": "ChIJ49xJo50bDTkRDnFsczGsjIs",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Building 13C, \u0915\u094d\u0932\u092c \u092e\u093e\u0930\u094d\u0917, N W Ave Rd, Punjabi Bagh, New Delhi, Delhi 110026, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6665104,
+                    "lng": 77.1259582
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66773622989272,
+                        "lng": 77.12729082989273
+                    },
+                    "southwest": {
+                        "lat": 28.66503657010728,
+                        "lng": 77.12459117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "77215ce2bb28c3aa4c4e03e5ac6c423ff3ba16b8",
+            "name": "X Pins Down",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 6322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113001576033387718222\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUDC745l8nJQaICcQASRRAYkXQPC7wUQNSIPWaHXae9NWc8mc1vAMGRBlVWZgH9nAvy27inyCdnRd9x1malG2TpH70HMHfUvhuD1ZWHYY6C1wtqam3uWQiZL0drZ2vyrlEhBfuB90B0kL-6K33JPoPyNhGhQUf50Tgh9hhLrIocH7RIvIr1fCDA",
+                    "width": 14371
+                }
+            ],
+            "place_id": "ChIJjbXjtGwDDTkRYCv5tV2JXf8",
+            "plus_code": {
+                "compound_code": "M48G+J9 Punjabi Bagh, New Delhi, Delhi",
+                "global_code": "7JWVM48G+J9"
+            },
+            "rating": 4.1,
+            "reference": "ChIJjbXjtGwDDTkRYCv5tV2JXf8",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 277
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dr KN Katju Marg, Pocket 2, Sector 11C, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7310424,
+                    "lng": 77.1187522
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73251647989273,
+                        "lng": 77.11998932989272
+                    },
+                    "southwest": {
+                        "lat": 28.72981682010728,
+                        "lng": 77.11728967010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "25c10f18239224daff209086fc95fbb81899e3de",
+            "name": "Shree Ramleela Commitee",
+            "permanently_closed": true,
+            "place_id": "ChIJS4KakfoBDTkRqnQL0xHCSKM",
+            "plus_code": {
+                "compound_code": "P4J9+CG Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4J9+CG"
+            },
+            "rating": 0,
+            "reference": "ChIJS4KakfoBDTkRqnQL0xHCSKM",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Adventure Island, Opposite Rithala Metro Station, Sector 10, Rohini, New Delhi, Delhi 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7210643,
+                    "lng": 77.1154368
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72241412989272,
+                        "lng": 77.11678662989273
+                    },
+                    "southwest": {
+                        "lat": 28.71971447010727,
+                        "lng": 77.11408697010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f78b64496c77853bc9fd876b9a511db1e884fd30",
+            "name": "Sky Jumper Trampoline Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 358,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101850462907180648716\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2_aJGKAoMHoWDBwgPvgUBFdGnq4K_9WKv_S-y-YqZfdKiB1-Q9DKllkxRZyJ1nXI4UM5Giwzw2LtZclw7aGZSXLCNAWFy5BbL901N2XB_GJoNg3NHTjKLD46zNj6lZG_EhAQ1fPuF50XqDuuz3Mq142zGhSFz7iHKRhuKqzSH2MJXZEnZTZeww",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJrXzLnvQBDTkRj1oKSRWKxfY",
+            "plus_code": {
+                "compound_code": "P4C8+C5 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4C8+C5"
+            },
+            "rating": 4,
+            "reference": "ChIJrXzLnvQBDTkRj1oKSRWKxfY",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Pocket E, Block A, GTB Enclave, Dilshad Garden, Delhi, 110093, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6893821,
+                    "lng": 77.3086637
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69046497989272,
+                        "lng": 77.31019497989271
+                    },
+                    "southwest": {
+                        "lat": 28.68776532010728,
+                        "lng": 77.30749532010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1e16b18f39c26431d17527b5a2a28d37f14b6957",
+            "name": "Shri Ram Leela ground",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111672481004728837082\">Vishal Kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAi6yzazZF1SD3MSXbB2i5XIkFc6vV_4h4jptzm-l0TU_lKDaJi8jQ0eRKNK8jId-wqbGVPmRYrReLP_MaQo-ipHoaGd_tJME8FJ8RPHwrZ-O-8WIiGkLZAvJYzwHl8yZHEhA0SDWhPpOxuQaEgsBDuGZMGhTZDvx29Y3SjnL9U94sd7A83FAWRA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJYXHGPoD7DDkR3tZbfTq4om0",
+            "plus_code": {
+                "compound_code": "M8Q5+QF Dilshad Garden, New Delhi, Delhi",
+                "global_code": "7JWVM8Q5+QF"
+            },
+            "rating": 5,
+            "reference": "ChIJYXHGPoD7DDkR3tZbfTq4om0",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Adventure Island, Sector 12, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.725047,
+                    "lng": 77.1151479
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72688972989272,
+                        "lng": 77.11692512989272
+                    },
+                    "southwest": {
+                        "lat": 28.72419007010728,
+                        "lng": 77.11422547010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0471d840740b212040009d202ac90d697569589a",
+            "name": "Tiny Tv Transit Ride",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113575671890377166190\">Yogesh Kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUtoF_bzk-sxFMTtTawJ6TnbJ6n1dVW-VgSi83pGxZteLOmT_G7EpxWP-ONL6SaPdwQe1QHnlngvIY8dEE7E4c7_mvBJLGTE5AhqyMtrzWyVegTemQv4eOzlAnq71icnKEhBWqW-cFfYn8UPMozRQPK0mGhT3kab8c2wfn-x4G8d9GoCgLn1LEQ",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJzdMpNEYBDTkReB0ZeV3zj8k",
+            "plus_code": {
+                "compound_code": "P4G8+23 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4G8+23"
+            },
+            "rating": 4.1,
+            "reference": "ChIJzdMpNEYBDTkReB0ZeV3zj8k",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "22, Pocket 2, Sector 11, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7295527,
+                    "lng": 77.1174782
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73063462989272,
+                        "lng": 77.11858472989272
+                    },
+                    "southwest": {
+                        "lat": 28.72793497010728,
+                        "lng": 77.11588507010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8322fd5f6546cba40137583a9c0f7be509927df2",
+            "name": "Shree Keshav Ramleela",
+            "permanently_closed": true,
+            "place_id": "ChIJ4-YrB2IBDTkRQLYC_djisAk",
+            "plus_code": {
+                "compound_code": "P4H8+RX Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP4H8+RX"
+            },
+            "rating": 0,
+            "reference": "ChIJ4-YrB2IBDTkRQLYC_djisAk",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "C/o Fun N Food Village, Old Delhi Gurgaon Road, Kapshera, New Delhi, Delhi 110097, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5243742,
+                    "lng": 77.0834149
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52567422989272,
+                        "lng": 77.08485982989272
+                    },
+                    "southwest": {
+                        "lat": 28.52297457010728,
+                        "lng": 77.08216017010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cf29cc04f09313b45d746c565f0148a2298844c1",
+            "name": "Polo Amusement Park Limited",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 462,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106400045708546836320\">Vikash Thakur</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAn19bem74h4BqtxkMq0Rau4yhbamg0JX1UKmLo31bmWlF43H9qRLhgUiS-xGBmBbWrPsMa4FqLHuusYgV8QEZVU2fXkSOR1v9qLPN-ESMQrFwI1s2qoPUNFpM4XdzGdmvEhAOUGTShxumduV5N-Sgj7w5GhSbxlOjIeid4-UrLg3JSY5BIgeqZQ",
+                    "width": 750
+                }
+            ],
+            "place_id": "ChIJRR9jM-EbDTkRipvyOUuhsgw",
+            "plus_code": {
+                "compound_code": "G3FM+P9 New Delhi, Delhi",
+                "global_code": "7JWVG3FM+P9"
+            },
+            "rating": 2.8,
+            "reference": "ChIJRR9jM-EbDTkRipvyOUuhsgw",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Plot No A2, Sector 38-A, Noida, Uttar Pradesh 201301, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5640223,
+                    "lng": 77.32470239999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56507277989272,
+                        "lng": 77.32549757989271
+                    },
+                    "southwest": {
+                        "lat": 28.56237312010727,
+                        "lng": 77.32279792010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3f731d0a909363245dde80c41d938c0587d417a1",
+            "name": "The Great India Place Theme Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 430,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113686975234485794947\">animesh das</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAR45ms82ts4H0NQ-zjVRMMhmAAGd2DrQ0c7GoRsj2bN5aBhAGnBfLCfPlpyf3VRzkYYyKKwk2kqpqvdziINGw5UDQs32h_20Dkb3II-0j2vZFExuZEjk-jDanNELgw2woEhApQwZXoNThL8WFByWpv1NmGhSU5ft59dwHS-jnOG188QDZN1Rc3g",
+                    "width": 650
+                }
+            ],
+            "place_id": "ChIJxyQsJTbkDDkR-UgVZJArWzY",
+            "plus_code": {
+                "compound_code": "H87F+JV Noida, Uttar Pradesh",
+                "global_code": "7JWVH87F+JV"
+            },
+            "rating": 4.3,
+            "reference": "ChIJxyQsJTbkDDkR-UgVZJArWzY",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 783
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "I & J Block 2000 Wala, Road, Jahangirpuri, Delhi, 110033, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7335546,
+                    "lng": 77.16055039999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73463242989272,
+                        "lng": 77.16142447989272
+                    },
+                    "southwest": {
+                        "lat": 28.73193277010728,
+                        "lng": 77.15872482010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "012ed9f05f91d9e9dd429fcc2e76be43c81236f3",
+            "name": "Shree Chhat Ghat Jheel Wala DDA Park Jahangir Puri Delhi",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114738390737705226813\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZYm8VQ-QkZgL95386w1yiSFjjqrC8vQA-x9UL3VxhXxdY4EcIL40aBeDzcw4BNmfCe6nbS4XPL6tNm5liRDbiPSWKj6qkPS0Q7G7HUTOaiBwfTRX3j8sdVL9WyegW9EIEhBG2Fz9gqpS8Pb9Epd-czdSGhRLCE-KltHlcbUOWCq64m43rWeVxA",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJZSzW-BoBDTkRaIjgtHZJ7fw",
+            "plus_code": {
+                "compound_code": "P5M6+C6 Jahangirpuri, New Delhi, Delhi",
+                "global_code": "7JWVP5M6+C6"
+            },
+            "rating": 5,
+            "reference": "ChIJZSzW-BoBDTkRaIjgtHZJ7fw",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        }
+    ],
+    "status": "OK"
+}

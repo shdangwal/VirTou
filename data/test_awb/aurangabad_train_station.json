@@ -1,0 +1,53 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Silk Mill Colony, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8597859,
+                    "lng": 75.3113829
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86130722989272,
+                        "lng": 75.31278652989272
+                    },
+                    "southwest": {
+                        "lat": 19.85860757010728,
+                        "lng": 75.31008687010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/train-71.png",
+            "id": "807c9c1cfec478558840ea3278bd56a780b2c705",
+            "name": "Aurangabad",
+            "photos": [
+                {
+                    "height": 3480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103400995433202543665\">Fazeel Usmani</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAg6j7eeiHBk5xabiMqy_COvDi6xvMaXbF1KfNpBsZw4m0sCBNLKIIzS_kckQlQH_cQMu5yRxGeD2zyyPqKsGc5jnL-82oXV-DMDbRr6wqzIoiJJZYZtnmPb9tRbaxSl3sEhCW_AMZWHzjuIurnyH7jbU1GhRYF5KCSm_asCs4F4IVK6EbFlfrug",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJBYxQxliY2zsRvcw25S93Bus",
+            "plus_code": {
+                "compound_code": "V856+WH Aurangabad, Maharashtra",
+                "global_code": "7JFQV856+WH"
+            },
+            "rating": 4,
+            "reference": "ChIJBYxQxliY2zsRvcw25S93Bus",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9334
+        }
+    ],
+    "status": "OK"
+}

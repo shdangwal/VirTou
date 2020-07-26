@@ -1,0 +1,975 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CqQDmgEAADBse-j11ucYalCuLh87WBoA5_IHfk7wcguFxlgzaCtKZWiqq6XrDX74Ny2IdDOeHk15lRoaE1wQ5Kcp7yE5kSUSDuH95a03U_ZWUSHswOuQdFkrw4JejJWmnZ-X_-vC_9qOasFeDJWmO-AXMSmkrtgYpTnEYljDM1TNgYazANXtw6NCK2qefBdUbFd6U7F-qFlgTsUXqdrkyFufZJ0YwjEPTYZDWRroFH6iO1esuVrVImNHe1hViBY-FULypKpejfgOLCL1TEjf1JALk0EQwcfUsfP7otWDFNwIKG1fd-tRryS6gQf31Cg64RJTHL31rIvza0D_9b89ScHiX-FbnudT94ffDp8kNV4GAmqpDcLK-VOFB_vshj-qY3R0pdx8CLPfjcKC6_8TPNyghKEEH8TK7Mr68P353HPZnITredwsm-EN3Ep3PIE8IDFRUfXsQOnmHw29hUNlXUB9Hj6K4BXfFnql4VOIfdJI_4AS_mZkd7WocROBhaJVOyVH57JuCjnfb_OPsI3tADCndYfSm1toFZH4ALolOkDNW2aK1zfYEhAdjWqJc2DQEqLFR4aEMh2vGhSqlzK2qUp-DAyQs4gjVy6oNo3RvA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Edapally - Panvel Hwy, opp. Goa Medical College and Hospital, Bambolim, Goa 403202, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4644281,
+                    "lng": 73.8558899
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.46579132989272,
+                        "lng": 73.85727112989272
+                    },
+                    "southwest": {
+                        "lat": 15.46309167010728,
+                        "lng": 73.85457147010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "fe787dd699e2c1ade580f5b6357a91054882ef46",
+            "name": "Renuka Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2610,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107749948108612564479\">Vishal Phadte</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAqVgLul7cAun92XQqXGnpa1gGRSnZbygGgyUIiFo4POOpgpM7gynsvUMy6RaPVlJ-aS6G5Kt-GcEj2wXBsEt2McW_MRcE4LyW_viLZh0wgU-KE9zjSqepQXUPnnj9vErxEhDqfWyWJY1PoW-Vs4S1TayyGhQiXdmwkjhj8rZfa9FRK97iEX0YjA",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJc19-qE2_vzsRz0woVArXrE4",
+            "plus_code": {
+                "compound_code": "FV74+Q9 Bambolim, Goa",
+                "global_code": "7J7MFV74+Q9"
+            },
+            "rating": 3.8,
+            "reference": "ChIJc19-qE2_vzsRz0woVArXrE4",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 146
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Fatorda, Margao, Goa 403602, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.2930973,
+                    "lng": 73.9666858
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.29439272989272,
+                        "lng": 73.96801927989272
+                    },
+                    "southwest": {
+                        "lat": 15.29169307010728,
+                        "lng": 73.96531962010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "6833af1cb8ebc9275a2c0c849415ac8113a7e4ef",
+            "name": "Sincro Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107052005080132214435\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtPPQkWKzf-C8t6_3-O3dnjz98J_1BqGN0-nSwzyv8fED56rjzdG7sz9Be31UZR2r507Z1QidmPQKfYaUSMDNYeyzSIh5DorluFbieDZR1-IOacz94yGCdaRwvopMVAmYEhDQpM-76ZbEC8z1UKpzsz1VGhTsllbsBLl1KAp_eMwNd6EocwOx_A",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJK8RSl2yxvzsRZK0XmkGEaZ8",
+            "plus_code": {
+                "compound_code": "7XV8+6M Fatorda, Goa",
+                "global_code": "7J7M7XV8+6M"
+            },
+            "rating": 3.7,
+            "reference": "ChIJK8RSl2yxvzsRZK0XmkGEaZ8",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 65
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Colva 4 Cross Road, Near To Lion's Club, Sernabatim, Rd, Colva, Goa 403708, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.2753684,
+                    "lng": 73.92141289999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.27673057989272,
+                        "lng": 73.92291907989274
+                    },
+                    "southwest": {
+                        "lat": 15.27403092010728,
+                        "lng": 73.92021942010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "950ec000c3b98ff92a6fe38c251335ec631a716f",
+            "name": "Viva Goa Restaurant & Bar",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116487421063816099605\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAvMdZ0LIZn7zjtqCusFbFoWsD0dcK7pQrmahKW7XWx4DHgUYti_RPA3K9DxNIM8e39oEc8IE1cwEBf5OlOk9yNTrWcFTry7bOS2h_aNhvLcDqrO91AHH1d3HSsyiFLgKsEhC85UqGmXmcraybklEZYQm3GhSoi3nuUwAu_ydnfRVD3drpZv7lvA",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJMVGP9xq0vzsRzUdynuZIrnk",
+            "plus_code": {
+                "compound_code": "7WGC+4H Colva, Goa",
+                "global_code": "7J7M7WGC+4H"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJMVGP9xq0vzsRzUdynuZIrnk",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 521
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "near brits palace, Mercurim, Aga\u00e7aim, Goa 403104, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.425641,
+                    "lng": 73.8996563
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.42693612989272,
+                        "lng": 73.90093182989271
+                    },
+                    "southwest": {
+                        "lat": 15.42423647010728,
+                        "lng": 73.89823217010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "07311a50639484b92d324528498ce5d8a1062c08",
+            "name": "Manglorian Valanca Restraunt",
+            "place_id": "ChIJmR1a7wW5vzsRqf9inu2p_QQ",
+            "plus_code": {
+                "compound_code": "CVGX+7V Aga\u00e7aim, Goa",
+                "global_code": "7J7MCVGX+7V"
+            },
+            "rating": 4,
+            "reference": "ChIJmR1a7wW5vzsRqf9inu2p_QQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Chapora, Chapora Main St, Dabhol Wada, Vagator, Goa 403509, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.6031332,
+                    "lng": 73.74061619999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.60464987989272,
+                        "lng": 73.74199332989272
+                    },
+                    "southwest": {
+                        "lat": 15.60195022010728,
+                        "lng": 73.73929367010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "8286675adf74018f54dbc67821a23471e064143b",
+            "name": "Oppa's Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103653999430408588654\">mro@michelrochette.com</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAsPieC9-9nWXBAH0soJKBoLoJdQxhB2G_IZdlhBGtbT2fZTBrrvNKIhWWZP09b1Z6ck1kPskjCFdTtARCm6_0n2m7X1Lqi_o5JNQHLgU9LGZO9b0bFVuerkp-8i0Tg05BEhDhGpcLOuQ7CtjbKnjMm9vaGhRtXG3YUUd0haR45EYD4VKOB_VaEQ",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJn_Gqi2TpvzsR_08agKO7Z1Q",
+            "plus_code": {
+                "compound_code": "JP3R+76 Vagator, Goa",
+                "global_code": "7J7MJP3R+76"
+            },
+            "rating": 4.8,
+            "reference": "ChIJn_Gqi2TpvzsR_08agKO7Z1Q",
+            "types": [
+                "finance",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 123
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "9/49, Porobus waddo, Cuncolim, Goa 403703, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.1797911,
+                    "lng": 73.9992868
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.18109582989272,
+                        "lng": 74.00066932989272
+                    },
+                    "southwest": {
+                        "lat": 15.17839617010728,
+                        "lng": 73.99796967010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "b817551de05746e63b65989af463150016a47f86",
+            "name": "Achi Corner Restaurant 'N' Catering",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103306767507893641565\">Anisha Naik</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1L0_FPA-hMDk6Ievv_A5EnaTdcv01Pn9twI_4g5PLjgxkhPDOQK9w4GFeK_y19z_DydOhrCflMXAz3Uh8fd_uvSfvThqh3E_IFPKd7NcSBzLumCbYAIdZdpHR5ZDRzYxEhAg0zWaLQ8XGeZXD1m4-NuxGhSURAgEiARJ6C9iuhsJzLuJgWWb9g",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJCf1JNTxNvjsRmWFRbVwyPGQ",
+            "plus_code": {
+                "compound_code": "5XHX+WP Cuncolim, Goa",
+                "global_code": "7J7M5XHX+WP"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJCf1JNTxNvjsRmWFRbVwyPGQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 127
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Opposite Hotel Alila Diwa Goa ,Salcette Hotel, Majorda, Goa 403713, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.3065185,
+                    "lng": 73.9122086
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.30787987989272,
+                        "lng": 73.91356977989271
+                    },
+                    "southwest": {
+                        "lat": 15.30518022010728,
+                        "lng": 73.91087012010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "ec77febeb1ae6c55f6bbc93639c31e4306b6d04a",
+            "name": "The Camron Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115430872827097179853\">Alfons von Edelsberg</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtQ0LkHvMa3yp7JvH2MU1n2jBTC0Y5nksQnCwUchbYn4M0FHWKtrZ3wYOZAmBsEdf-78IB45Onvpq-dYesEOHGuGnbuYS_KTGFVRnszI-QPZOqOh5AHpb3AzCrj2yVZQFEhCZS7l63QoBQeeLvujT4TKXGhQrRL7WZB5yZH6K3ugjAbGECGwKIA",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJkTtBqeq2vzsRes8kwy7pVSk",
+            "plus_code": {
+                "compound_code": "8W46+JV Majorda, Goa",
+                "global_code": "7J7M8W46+JV"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJkTtBqeq2vzsRes8kwy7pVSk",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 564
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dando Beach, beside Santana Beach Resort, Candolim, Goa 403515, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5061592,
+                    "lng": 73.766731
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50746267989272,
+                        "lng": 73.7681278298927
+                    },
+                    "southwest": {
+                        "lat": 15.50476302010728,
+                        "lng": 73.76542817010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "f1375c6c333f220505cbbde7bdafe673ef80cd2c",
+            "name": "Calamari Bathe & Binge",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1068,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113528189891900763069\">Calamari Beach Shack</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAH3r-2qOcUWkQ3kLWSL2VsGDQIr_7f2wSeyDPlg9lhNDWU6bh4MRw2rF7PVws3nAeXpxEa-Yr2rxTuh_b1dg5FJNmxz8yqGKlotyyx42rR7P-TrdViTXTDqotGXl6xiMDEhD7hjVJZK3rW5fQfL6e6nQQGhRfDV-sntNmYr2Eyk4j91bQu51nHQ",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJr-ewUJ7BvzsRkZfHne3HAyw",
+            "plus_code": {
+                "compound_code": "GQ48+FM Candolim, Goa",
+                "global_code": "7J7MGQ48+FM"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJr-ewUJ7BvzsRkZfHne3HAyw",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4658
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bazaarwado, Sanguem, Goa 403704, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.2302417,
+                    "lng": 74.15040479999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.23162342989272,
+                        "lng": 74.15159392989273
+                    },
+                    "southwest": {
+                        "lat": 15.22892377010728,
+                        "lng": 74.14889427010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "73e7e1c62ad1add7e1f8fccad7ab294501797d79",
+            "name": "Shantadurga Veg And Non Veg Restaurant",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108045122173878136498\">fedric rodrigues</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAqxvudvAqCfn7RxQKEeeqR5sW-c9m3-0N92r3grY1y5h4sfNb0EoOTCsrYO5TgPHRLC3VtKU9JHsQupYTHhIHKmBkVq9YeTjFsFGVG99fTr5n5veUSSH3gCo-M1zv4_SyEhDLS1aigluXEiBeOsRqNXRBGhQ_GR--NKEnC5NyzNWK_ccOMTAdBA",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJAQAAAD-rvzsRLZy3B-FG4Cw",
+            "plus_code": {
+                "compound_code": "65J2+35 Sanguem, Goa",
+                "global_code": "7J7P65J2+35"
+            },
+            "rating": 4.6,
+            "reference": "ChIJAQAAAD-rvzsRLZy3B-FG4Cw",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bhatti Waddo, Nerul, Goa 403114, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5152204,
+                    "lng": 73.7871838
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.51655617989272,
+                        "lng": 73.78856567989271
+                    },
+                    "southwest": {
+                        "lat": 15.51385652010728,
+                        "lng": 73.78586602010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "02051aca76061df7e8940f2b64ecc5a6b69d2a9a",
+            "name": "Bhatti Village Family Bar & Restaurant",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117894120730447610597\">Suneel Pednekar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA8Ho4WLp2Z0rfEaXhB3QSgamSL6L6iDqy7KsYiLdoMB_9XDA86wpagHQ74bV7gjlZXpKuYWIIe4j0J_zzF_yNsVU_jvMopeUg1LLDAemM0H4P1djZznvzmrNAe47r-Ap0EhAThIMlD07kmV_KwLTFWpz4GhRV_ndTuoRyoD86LfsoKUC4DYz9RA",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJbdnGvLHBvzsR3x_kSzqU2yE",
+            "plus_code": {
+                "compound_code": "GQ8P+3V Nerul, Goa",
+                "global_code": "7J7MGQ8P+3V"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJbdnGvLHBvzsR3x_kSzqU2yE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 486
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Agonda Beach Rd, Agonda, Goa 403702, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.0380965,
+                    "lng": 73.98888989999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.03949427989272,
+                        "lng": 73.9904703298927
+                    },
+                    "southwest": {
+                        "lat": 15.03679462010728,
+                        "lng": 73.98777067010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "5222db65e23e11fbffbbe5cb2d34beed31934a8f",
+            "name": "Green Valley Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117730601329238376945\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASLuvYvRZf_1bO_8jJcMydzNA5KMPiHRIqmJ-RfTpLY826Eg9glUrtRWIYTekKIbNpap-UnfNMjzxzrLinvoHq3Gg5opeRzz8_8lP7-nR9rw3NwJ40xpNnwv-eQ0OMytHEhCqI1--_JvngbKdZ-W-1XW-GhSGgaOcytSsDrqEx55dEikubLzYqA",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJh4ayzJhPvjsR_Rdc4-OsP9U",
+            "plus_code": {
+                "compound_code": "2XQQ+6H Agonda, Goa",
+                "global_code": "7J7M2XQQ+6H"
+            },
+            "rating": 4.6,
+            "reference": "ChIJh4ayzJhPvjsR_Rdc4-OsP9U",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "House 78, Mae De Deus Vaddo, Chogm Rd, Sangolda, Goa 403511, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5456829,
+                    "lng": 73.8059507
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.54679452989272,
+                        "lng": 73.80710987989272
+                    },
+                    "southwest": {
+                        "lat": 15.54409487010728,
+                        "lng": 73.80441022010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "79f3b2fe55c71dcb22ca1e0e22b9880e9d51a1bf",
+            "name": "Ping's Bia Hoi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106715601181845767380\">Akshay Naik</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_m1HmK3MlzTibyA66KTwo8BMG064Cyc3BgTjuTg7tEvT4zRgg3jkY9zjIUUQH8WvR1PDGyKiIJxBxUi9AsSm8ApqqZri4UkkX50nRNcpzz7W16DDty00vtEhNPyL2ELKEhD9nRTbtF5r5qd65tVxEF2rGhTgGym8SlHC_lEYzO9DELKGyM_wRw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJBQGh8Y7BvzsRxbSGm-CBnqY",
+            "plus_code": {
+                "compound_code": "GRW4+79 Sangolda, Goa",
+                "global_code": "7J7MGRW4+79"
+            },
+            "rating": 4.5,
+            "reference": "ChIJBQGh8Y7BvzsRxbSGm-CBnqY",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 180
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "NH 66, Defence Colony, Porvorim, Penha de Fran\u00e7a, Goa 403501, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.532566,
+                    "lng": 73.8245282
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.53391657989272,
+                        "lng": 73.82588037989271
+                    },
+                    "southwest": {
+                        "lat": 15.53121692010728,
+                        "lng": 73.82318072010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "377ceae16d9d7566ed14e272e3ce0d28103a9c89",
+            "name": "Omg Restraunt",
+            "place_id": "ChIJcZ3h4EDBvzsR-_b0QypG_Ug",
+            "plus_code": {
+                "compound_code": "GRMF+2R Porvorim, Aradi Socorro, Goa",
+                "global_code": "7J7MGRMF+2R"
+            },
+            "rating": 0,
+            "reference": "ChIJcZ3h4EDBvzsR-_b0QypG_Ug",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mapusa \u2013 Anjuna - Road Near Petrol Pump, Zor Vaddo,H.No-219, Anjuna, Goa 403509, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.6004737,
+                    "lng": 73.7524339
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.60184867989272,
+                        "lng": 73.75382367989272
+                    },
+                    "southwest": {
+                        "lat": 15.59914902010728,
+                        "lng": 73.75112402010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "2e9ab47519b3d5d86a7f43eb1bab18debfa34116",
+            "name": "Teja Sea food Restaurant & Bike Rental service",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108854338116680808751\">antarjot singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQochqm8tVO8HwENr0oUwO4EpWENH8pufk_OSWmuLtyUuCG92tGhEbASQc9sTnYk2dm4XGZKDs60DPbNgdm0H4C3CvjhqoWFdJmk-ih20-tBK8kEIRs1EjZT4ST4BcK8IEhBt0WM0sZQJG6ODaBgjjXaXGhTjQ6GBHjN79qLR7q4a5GEm4BnUmA",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJETKvQ9frvzsRa2oR5dWDkYc",
+            "plus_code": {
+                "compound_code": "JQ22+5X Anjuna, Goa",
+                "global_code": "7J7MJQ22+5X"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJETKvQ9frvzsRa2oR5dWDkYc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 131
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Baga Anjuna road,sim vaddo ,near park Regis hotel, Arpora, near ram mandir, Baga, Goa 403516, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5748734,
+                    "lng": 73.7595133
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.57661337989272,
+                        "lng": 73.7610190798927
+                    },
+                    "southwest": {
+                        "lat": 15.57391372010728,
+                        "lng": 73.75831942010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1c0a9d222716485634033e97f402d4bd89268301",
+            "name": "Drunken hut bar and restaurant",
+            "photos": [
+                {
+                    "height": 640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118437438981347660322\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAArWMe7ko7AZZZg6_YMxGG_AhqYjbv18Z0FUZUMKWpAemt8dJwF-DZdkNd9AWn-mP5PkvjDvlS6fhNTAn4rtEpgzb0q1AdtgFnBr6yitXNiqTiummPJy7vncPzp5eCzQ52EhDI065Sciaiai_KYoALt8dRGhTWD0QBEnXZvmiA4TFgV14BQTBB5Q",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJkdrmQJ7rvzsR2_ovMJK4Dxc",
+            "plus_code": {
+                "compound_code": "HQF5+WR Baga, Goa",
+                "global_code": "7J7MHQF5+WR"
+            },
+            "rating": 4.8,
+            "reference": "ChIJkdrmQJ7rvzsR2_ovMJK4Dxc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 66
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "260, Main Road, Palolem Beach, Canacona, Goa 403702, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.01261,
+                    "lng": 74.0222168
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.01399037989272,
+                        "lng": 74.02350512989271
+                    },
+                    "southwest": {
+                        "lat": 15.01129072010728,
+                        "lng": 74.02080547010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "687a4f3799d8194f6d0ded8b5735d024087076a6",
+            "name": "Magic Italy Authentic Italian Restaurant & Pizzeria",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100192041980249435566\">Rahul Dabir</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhu00N8OB6gP4wIWrhIqNBYzbh40u7MUVi336d3SWMxKY18HP_YvRuyw0GsJzx2GknRXW-mvGTiXPHpqj4NJKgBMOgHwxD8SfDsZEDVpmjps8TYYScEUZkpmA7BtqaaBXEhDHWORPTASvuaPKP_WcIJhFGhQLJCqmXihKOu5Bx6kX0ivzIvUyUA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJPY_cF1FFvjsRIplAUIzFCQo",
+            "plus_code": {
+                "compound_code": "227C+2V Canacona, Goa",
+                "global_code": "7J7P227C+2V"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJPY_cF1FFvjsRIplAUIzFCQo",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 860
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Orel, Assolna, Goa, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.1824673,
+                    "lng": 73.9714867
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.18377942989272,
+                        "lng": 73.97284047989271
+                    },
+                    "southwest": {
+                        "lat": 15.18107977010728,
+                        "lng": 73.97014082010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "cd128174f4167a61d73659ce5cd3c0049c8b614c",
+            "name": "Paes Pearl Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJWwFpMttMvjsRkUSyjECs210",
+            "plus_code": {
+                "compound_code": "5XJC+XH Assolna, Goa",
+                "global_code": "7J7M5XJC+XH"
+            },
+            "rating": 4.5,
+            "reference": "ChIJWwFpMttMvjsRkUSyjECs210",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Pintos Vaddo, Candolim, Goa 403515, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.51961,
+                    "lng": 73.767973
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.52099037989272,
+                        "lng": 73.76931957989272
+                    },
+                    "southwest": {
+                        "lat": 15.51829072010728,
+                        "lng": 73.76661992010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "f3a469320e452039c34e2ad2cca25624e42581e8",
+            "name": "SHAMEES",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116977958779993067572\">Shivam Bagga</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAnabJzUpbsqXWSraIAggesoxzZ0g5VNKBzJGbRyY7ZzPQNZk8GQ9-FVyDZH_bG6unkrdoYalhYTEAWK_w838-vqyKQqVsFpCAuv-8wnOmXYK2NYvbtJtBxiwl2OY1rM_kEhB3SQeQXxHbEACasnc0zqHUGhQ0CnXbgGAQpDVPy5B6IDzXcCFsWg",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJoeSEUZTBvzsR52qP0L5t4kQ",
+            "plus_code": {
+                "compound_code": "GQ99+R5 Candolim, Goa",
+                "global_code": "7J7MGQ99+R5"
+            },
+            "rating": 4.3,
+            "reference": "ChIJoeSEUZTBvzsR52qP0L5t4kQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "259/2 A , Near Baga Bridge Baga, Arpora, Goa 403516, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.565352,
+                    "lng": 73.750042
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.56668037989273,
+                        "lng": 73.7514194798927
+                    },
+                    "southwest": {
+                        "lat": 15.56398072010728,
+                        "lng": 73.74871982010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "0e9589288ceea2f4d6f3690766ac7c745960c62b",
+            "name": "Jamies Restaurant",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 918,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106047653277115392558\">Terrence Fernandes</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAdlkKJgO2VaV8ZH_7koAbRpQhtubP-W7hxqLt6DZ4IldSUeZXQ9b2Or9v0MI37RKGlAAt4iGSieW9mVg9pYHa-lEAvcEb4080OBv6RIlE-gDZXCKJmbqNnXp1UEbRt9-dEhAEiqwhfWQAaXoVWjC92qkAGhTno75cRbF5Cofrd3OyBdEDp145nw",
+                    "width": 1224
+                }
+            ],
+            "place_id": "ChIJ-UOqKBzqvzsRNWCenG2ynyQ",
+            "plus_code": {
+                "compound_code": "HQ82+42 Arpora, Goa",
+                "global_code": "7J7MHQ82+42"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJ-UOqKBzqvzsRNWCenG2ynyQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 239
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rua de Our\u00e9m, Fontainhas (quarter), Mala, Panaji, Goa 403001, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4954195,
+                    "lng": 73.8318036
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.49677052989272,
+                        "lng": 73.83316892989271
+                    },
+                    "southwest": {
+                        "lat": 15.49407087010728,
+                        "lng": 73.83046927010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "c458c05609e7b10fdc94525d671317c188d6c1a1",
+            "name": "Sitara Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117896283635566449910\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA0aZI_HYRsXOdA0vyYD-1uAcJUhialmbX_LwwdsBFMkAW8QZOWaZjauRdaq942QwfweFZcYG5yqBZqbL6TlduAm68TyIDwe2VbXZOOr15Ed_-ZRI-HTDfghsHPUtTfVXNEhC3oRKMTewNdjCRnkbRA2QzGhRP1I73I7pa6dXCQ8YCDSDn_C41cg",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJITetbIXAvzsR4fr12Kco0lA",
+            "plus_code": {
+                "compound_code": "FRWJ+5P Mala, Panaji, Goa",
+                "global_code": "7J7MFRWJ+5P"
+            },
+            "price_level": 2,
+            "rating": 3.7,
+            "reference": "ChIJITetbIXAvzsR4fr12Kco0lA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 169
+        }
+    ],
+    "status": "OK"
+}

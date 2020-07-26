@@ -1,0 +1,959 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CrQDpQEAAHlM2Z2GTW0sP-kOAEr-AiowMuA-Nq8DI585nxLwRyJYVpraqIW5dq1Mw5W2EzSQVrTS9juCZ6qVL4bbt-5IgLEALV0KL5IT1vazcUrQht5ScjW89v6erX4cFqnEt5MFbEUJz375S3Sc7l4eazEoHzD4WX7foV7tz-aQHcF86Du0YGZtcF-CZ7LHV5Bn6RkQBnLkveDLWgaG1ZKXHC4RMn1g-CFtDA0oFZyBhgCRidKbqLgi9ruaVUAorvTyBHAdE3nEf0115PE31m4v9niF1z9fKC3uZRyBEmLlQp0VUkUku2AvL3fWV0KcpyZTK049lMfUyMguiVIPWzzjw_tb559xFX1zWS5zWqAGcCwfWSdJPHzbSg7KBLhKSUGUbDaEqBXJ9XRBGUhtMm3kY7yEiaqoxaosMlTxzm7ZscFFPco1FmmV4jvXChdFTLb4neCO9pvxoCU3OS6beSBAiFkj7D5uDZQKyeFZq10uwDeCjlDkGlB_01_tIBENG96bgQQk0z_eHlWlMb2PzeJcHc8BoTgzZwljTMh_9Tq0hKl-2A9BwYkOgvitwfsgsH8v1Z3VwxIQLLwcswNDemFjL9GVjWZpIBoUHpg-tSAjCcu8LerPgGLIx7E0uHE",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nizamuddin E Ln, Nizamuddin, Nizammudin West Slum, Slum, Nizamuddin West, New Delhi, Delhi 110013, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.591234,
+                    "lng": 77.24301659999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.59259662989272,
+                        "lng": 77.24422477989272
+                    },
+                    "southwest": {
+                        "lat": 28.58989697010728,
+                        "lng": 77.24152512010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c0bbf95ac223830803717c0ba0205a16f0b2ddaa",
+            "name": "Chausath Khamba nizamuddin new delhi",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1433,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102811026065249847159\">Madhulika Liddle</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAamQGTSJrCLKwnmxfDnMRzx3k2BQ4X4V1Uv6DkuSFdo1sL49fxMTZlK9h92Ce0Wn0gay3MVynHYVCND754k1ZLkRuRbviSSuA255_z2YYy_AlHrSYTaNm6YVl1XoqovD8EhA_J7D-jHn2pvMEn1XIFunLGhS8HQKb06NHuBAPV-8dmn2TnspSGg",
+                    "width": 1992
+                }
+            ],
+            "place_id": "ChIJU01j0wLjDDkRFuPJhOqlh-E",
+            "plus_code": {
+                "compound_code": "H6RV+F6 Nizamuddin West, New Delhi, Delhi",
+                "global_code": "7JWVH6RV+F6"
+            },
+            "rating": 4.3,
+            "reference": "ChIJU01j0wLjDDkRFuPJhOqlh-E",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 114
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Anuvrat Marg Opposite Qutub Minar Metro Station, Mehrauli, New Delhi, Delhi 110030, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5202041,
+                    "lng": 77.187679
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52155392989271,
+                        "lng": 77.18902882989272
+                    },
+                    "southwest": {
+                        "lat": 28.51885427010727,
+                        "lng": 77.18632917010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "baf7b8c6f37bae21eed89314d61f9dde6fcc549e",
+            "name": "Mehrauli Archaeological Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1261,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108426689810116959125\">sachin gupta</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA0V8cmTJv_GDgMEvEq583dlpHk33bNxyeYhisA51eHOwUrSruLjb7P5YPvycwNqjWFI7k6rED9KzoUnTIJruAU_wFIP7bwu_iOz2PLa6mgKopErH4N6dbdehPHz8SLaxnEhCZBJglyBtvYuNJI_wHiF7IGhRVsguS2a3a91lZOrFZZ_IyojGD_w",
+                    "width": 2027
+                }
+            ],
+            "place_id": "ChIJI85HXAMeDTkRUnfV6u6dkSw",
+            "plus_code": {
+                "compound_code": "G5CQ+33 Mehrauli, New Delhi, Delhi",
+                "global_code": "7JWVG5CQ+33"
+            },
+            "rating": 4.3,
+            "reference": "ChIJI85HXAMeDTkRUnfV6u6dkSw",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1901
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "61A, Khan Market, Rabindra Nagar, New Delhi, Delhi 110003, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6001554,
+                    "lng": 77.22695879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.60132722989272,
+                        "lng": 77.22844637989272
+                    },
+                    "southwest": {
+                        "lat": 28.59862757010728,
+                        "lng": 77.22574672010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "b00d86c353ed8fdef76f40e2f32158c70f31d36a",
+            "name": "Khan Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102320003889151287681\">YOSIAKI</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA0tHumjLI6nlSVx8fM-_1akjmoV3gvr3ZBrvOtF1nlzwT3PEDnneOsJdk9eO3JrTVDwLKVMPRrr-TZij7rn0mgdaQzWLQChOL4BjzYlU_7FM0PGjyRHT8rhXEuxclilPjEhC1H-McAd6kPK4uIItP9TiIGhTVUVk-6oS1ECQR1HDUnIfTpD__xQ",
+                    "width": 3200
+                }
+            ],
+            "place_id": "ChIJf5K8OujiDDkRmDgq5f30AWY",
+            "plus_code": {
+                "compound_code": "J62G+3Q Rabindra Nagar, New Delhi, Delhi",
+                "global_code": "7JWVJ62G+3Q"
+            },
+            "rating": 4.4,
+            "reference": "ChIJf5K8OujiDDkRmDgq5f30AWY",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29000
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Infront of National Defence College, 5, Tees January Marg Near Birla House, New Delhi, Delhi 110001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6018839,
+                    "lng": 77.2144057
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.60316197989272,
+                        "lng": 77.21588292989273
+                    },
+                    "southwest": {
+                        "lat": 28.60046232010728,
+                        "lng": 77.21318327010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "482e0b7fefc3d617475bcf8ff96012e13a10ab8f",
+            "name": "Gandhi Smriti",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111409858142368691550\">Thamaraikkannan B</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxZdda9k8808JXsBbdz8uVlnrE0NxP2zGo0mmit3D2A-SuXLWFjJccDe2HunD4W9JsnXZUbBoQBys7tz359zr_Vb0ZAHLtxcak8H2e7NWx9gbf7y9kG2v3eSTIdD2AKMbEhCKI0IX6qB3qVJokNfYHuriGhQlRXk7yZEF_dB8uaO2y0fUSDMwIQ",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJl2oDyr_iDDkRCrThtJ7RdPA",
+            "plus_code": {
+                "compound_code": "J627+QQ New Delhi, Delhi",
+                "global_code": "7JWVJ627+QQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJl2oDyr_iDDkRCrThtJ7RdPA",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3608
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bhairon Marg, Pragati Maidan, New Delhi, Delhi 110001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6136111,
+                    "lng": 77.24249999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61453857989271,
+                        "lng": 77.24383787989271
+                    },
+                    "southwest": {
+                        "lat": 28.61183892010727,
+                        "lng": 77.24113822010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "b20a73894f4419950f2c2ea752fd366be715c6db",
+            "name": "National Crafts Museum & Hastkala Academy",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106992183917526661633\">Dyuman Pandya</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAypkJydL6-z9iNgqFAKedDIAeP7jVdvcivu9oRnBVYNtdQMKIIt54IEifsxuiJKwhtwcTurWO7S4_8B6eBP2meRS0-WRkBvRMOa43APhwoWBQnSIWLlFSBgfe5zR62xusEhB5LRRXvraExiqMNmx3HrhcGhTSwpspkb_RurLfeJqZNhTORc9uag",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJt4Az2yfjDDkRAhrZG8VaoQA",
+            "plus_code": {
+                "compound_code": "J67V+C2 Pragati Maidan, New Delhi, Delhi",
+                "global_code": "7JWVJ67V+C2"
+            },
+            "rating": 4.5,
+            "reference": "ChIJt4Az2yfjDDkRAhrZG8VaoQA",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3119
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sulabh Bhawan, RZ-83, Palam - Dabri Marg, Mahavir Enclave, New Delhi, Delhi 110045, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5966393,
+                    "lng": 77.08082449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.59797457989272,
+                        "lng": 77.08222282989271
+                    },
+                    "southwest": {
+                        "lat": 28.59527492010728,
+                        "lng": 77.07952317010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "ffa85c7c831dc3a0f29cbaa969c3937a48af724e",
+            "name": "Sulabh International Museum Of Toilets",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115402833556610122147\">Tye Morris</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAL9nIhNYU8dExx9LWg7MDEe7XL2oL6nCz70wz51KM98S04o3Shb9TCGUqCrTwzqiuAANZt6Me7TmuyfBY4R1rBL8lFG79t_FA6ORjjtGaQjCQxXe8iP4t7_Wc2eMAVQ7GEhCqrZ_P49yqIRrQaxSN3yJeGhTFAxQEdlvFVDNZcX9MbENubGcjcA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJkZedEMjiDDkRVhjwHQrxYxc",
+            "plus_code": {
+                "compound_code": "H3WJ+M8 Mahavir Enclave, New Delhi, Delhi",
+                "global_code": "7JWVH3WJ+M8"
+            },
+            "rating": 4.2,
+            "reference": "ChIJkZedEMjiDDkRVhjwHQrxYxc",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5632
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Lotus Temple Rd, Bahapur, Shambhu Dayal Bagh, Kalkaji, New Delhi, Delhi 110019, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.553492,
+                    "lng": 77.25882639999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.55465827989272,
+                        "lng": 77.26295154999998
+                    },
+                    "southwest": {
+                        "lat": 28.55195862010728,
+                        "lng": 77.25745135
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "74848bb4f36ba59c3cb436e2ea28254809a3eb4f",
+            "name": "Baha'i Lotus Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101595341769265333220\">rupali garg</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4T5ndiKTpvEdovyydR9fFvWIs5IY0TL-Glnzgw9URZNC3fiGjWOo7ca4qoumkvUUN4ktnUtpx5w5S2kPXzhab_FtayXaJPlUItpt-1wkRH-CKjiaQS-D7IWeiYBgbaFIEhDoDjKwFvkFaeK6b1tb3UppGhRPqbVedADDi14zqIsKgvfWpipIKQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ0YwCbsHjDDkResZe6B7rO2U",
+            "plus_code": {
+                "compound_code": "H735+9G Kalkaji, New Delhi, Delhi",
+                "global_code": "7JWVH735+9G"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ0YwCbsHjDDkResZe6B7rO2U",
+            "types": [
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38108
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Balmiki Basti, Vikram Nagar, New Delhi, Delhi 110002, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.634963,
+                    "lng": 77.2426934
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63631222989272,
+                        "lng": 77.24404777989272
+                    },
+                    "southwest": {
+                        "lat": 28.63361257010728,
+                        "lng": 77.24134812010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f03d2c40233dc6c64cb033335e3b4c2b5c9d8d72",
+            "name": "Feroz Shah Kotla",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107827809198876473187\">amit negi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMrdR-djDrbTdctQHvPOidf6omro33vLIXN2JghEwFgrdrSftRrIj9B2PHLgoJh-_lbF8HsJWmNFUNKffHX_TwkjuetB4DVFLe2NB0WpNYd8MLg865Jym87a3GWyZMLrQEhCBX66X-Im-N3A5LyI1aCW-GhS4cqQCFbGBUCNh-j9x1lJVy7s5jQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJW5uXItf8DDkR-NoAKxvTCng",
+            "plus_code": {
+                "compound_code": "J6MV+X3 Vikram Nagar, New Delhi, Delhi",
+                "global_code": "7JWVJ6MV+X3"
+            },
+            "rating": 4.2,
+            "reference": "ChIJW5uXItf8DDkR-NoAKxvTCng",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6148
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jawaharlal Nehru Marg, Feroze Shah Kotla, Raj Ghat, New Delhi, Delhi 110002, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.637923,
+                    "lng": 77.2431735
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63971502989272,
+                        "lng": 77.24447437989271
+                    },
+                    "southwest": {
+                        "lat": 28.63701537010728,
+                        "lng": 77.24177472010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5846568ec2077202d0a17096655f48c5165418b8",
+            "name": "Feroz Shah Kotla Stadium",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2368,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106312939187793982355\">Manvendra Pratap Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACy0rJjtIpwGqoQnHUckOV_ImR2chJXcrpQGHhX0KsEXB2HYsUXo6dQj1r3nmSjOvfeDrnwIYM9Fm8sz4Mkuba2jV5C8FJVwTQYO5wmqNDDBVUN9qn8QEkl1KRO4vpZJFEhDZpjZyrEOsGMjT-mZBOGN9GhRL-fnRj_C3z86xhYVQTOKNnQjRLg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJR1eqLNj8DDkRQ-flSee5t54",
+            "plus_code": {
+                "compound_code": "J6QV+57 Raj Ghat, New Delhi, Delhi",
+                "global_code": "7JWVJ6QV+57"
+            },
+            "rating": 4.3,
+            "reference": "ChIJR1eqLNj8DDkRQ-flSee5t54",
+            "types": [
+                "stadium",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17348
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "50 DSIDC Complex, Mata Sundari Road, Mata Sundari Ln, Mata Sundri Women's College, Mandi House, New Delhi, Delhi 110002, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6352364,
+                    "lng": 77.23217559999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63661322989272,
+                        "lng": 77.23352967989271
+                    },
+                    "southwest": {
+                        "lat": 28.63391357010727,
+                        "lng": 77.23083002010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3ddf8a249d01286574b03c0009c06cede4842568",
+            "name": "Delhi Sightseeing",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 449,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106753710373318024166\">Delhi sightseeing</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUh0PyFDn4VoOim1x-PI7ATktxozxVKypcr5OVvdjARX5HZeMPM1soUcib3lCGl3hS9Gf_uqi8BNicRA47QB90gfrxYff6nNw3lSIhS_IL0D0zM5b80oG6Zk0QilxmyaVEhDPbwm5yqFncGCoV5hfOMkRGhRXkjq0Sv5WLG6yAg_WNR-ppk3Mlw",
+                    "width": 700
+                }
+            ],
+            "place_id": "ChIJ1UJ_1S79DDkRDHUdYs3SDXE",
+            "plus_code": {
+                "compound_code": "J6PJ+3V Mandi House, New Delhi, Delhi",
+                "global_code": "7JWVJ6PJ+3V"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ1UJ_1S79DDkRDHUdYs3SDXE",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 42
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "New Delhi, Delhi 110037, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5561624,
+                    "lng": 77.0999578
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.569026,
+                        "lng": 77.14199880000001
+                    },
+                    "southwest": {
+                        "lat": 28.547428,
+                        "lng": 77.0674992
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+            "id": "f8c62b9a0d5c2c469e47ab292585a65b2ec6c3ba",
+            "name": "Indira Gandhi International Airport",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112753696096839902305\">dipak rathod</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQ1qLjBmOKxnP8630asT9rdkwAgTNUDsDK2MlqTg-187yqGALeNvUEe_9UN-FY006MlIjS1mutiIUHSb6aBYkALplKrNCkCN-D3hGpZ4lnRsquh--qroeGzId9plNisJkEhAmaCRsOtK4YiGQOxa63k7XGhTjEilkFMbACCm9R2aMfd5_QmaX3g",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJiS0q_IUbDTkRne1DLBh2874",
+            "plus_code": {
+                "compound_code": "H34X+FX New Delhi, Delhi",
+                "global_code": "7JWVH34X+FX"
+            },
+            "rating": 4.4,
+            "reference": "ChIJiS0q_IUbDTkRne1DLBh2874",
+            "types": [
+                "airport",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27960
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "B-471, Ashok Vihar II, Pocket B 3, Phase 2, Ashok Vihar, New Delhi, Delhi 110052, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6933619,
+                    "lng": 77.17374199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69477617989272,
+                        "lng": 77.17517762989272
+                    },
+                    "southwest": {
+                        "lat": 28.69207652010728,
+                        "lng": 77.17247797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f772b474f5b6546bdf483b5c48dd0e60a80202b9",
+            "name": "travelddict",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2490,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103987345283169875982\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA5gEYzLGSfNRyP3lBwn6FueesUthLKqWTaDNvuzmTVEnI15CxvLMGtf75TW0CmkGbZ0rkWQMOj-mO8A0otDl9JfSf_reYGUE3aEiwouaURWipfDTmFt-e27AM3fsBT0otEhA-rbkRTCcXwE3zBmTehkjRGhS8fPD33JX5PWFWspxa15oVR4IJBg",
+                    "width": 1762
+                }
+            ],
+            "place_id": "ChIJnUzP9gYDDTkR6yg0rPhognI",
+            "plus_code": {
+                "compound_code": "M5VF+8F Ashok Vihar, New Delhi, Delhi",
+                "global_code": "7JWVM5VF+8F"
+            },
+            "rating": 4,
+            "reference": "ChIJnUzP9gYDDTkR6yg0rPhognI",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "A- 165/166 baljeet vihar, Nithari, delhi 86, New Delhi, Delhi 110086, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7065547,
+                    "lng": 77.0548819
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70798652989272,
+                        "lng": 77.05623577989272
+                    },
+                    "southwest": {
+                        "lat": 28.70528687010728,
+                        "lng": 77.05353612010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f3ab6431e3ccc9d4c89d7d4d66976865b9af59ee",
+            "name": "theuttrakhandguy",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105427125558650742387\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAASjF6E35gYzHWJjbjZ8EM4202FdX0a9XwRBvPud2owefBiVMOGy_oWqfdKWwuIJZhQBUAADn2TI1lz0DS798EAHSb_E27DIEG8vwaBbWHFHmeGkwLxbs0RkEPRsuPhMkEhCbZWFXtbn_nxt_go9msz2OGhThe63CcAHGni73kwg4ohM_gk-oHQ",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJK4RJ0ZgHDTkRSTVH4gIV2B0",
+            "plus_code": {
+                "compound_code": "P343+JX Baljit Vihar, Delhi",
+                "global_code": "7JWVP343+JX"
+            },
+            "rating": 5,
+            "reference": "ChIJK4RJ0ZgHDTkRSTVH4gIV2B0",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mathura Road, Humayun's Tomb complex, New Delhi, Delhi 110044, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.592289,
+                    "lng": 77.246214
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.59363882989272,
+                        "lng": 77.24756382989271
+                    },
+                    "southwest": {
+                        "lat": 28.59093917010728,
+                        "lng": 77.24486417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a531d49fd5bac39da7fe74bfd57c493b7838b4d4",
+            "name": "Isa Khan's Tomb",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118380029640620157335\">prince verma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkneoP8mqB57KmeHg0qcLIXKWb00NoDeymjjXE-M0ff5mWXqV9QuLbNJa92LLNRBWkgRbSat4a8rA0Pnmfsi3zNvxUKLhjac7ydrDKCEbS6yahGsH7F_TnG3bH8VGyxlBEhDYfng7ua5tDilbFfE50FMTGhTLCwT9yyu4POoE-dCSQdIuPgSdWQ",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ78jNqRzjDDkRSG0_C4JXrfE",
+            "plus_code": {
+                "compound_code": "H6RW+WF New Delhi, Delhi",
+                "global_code": "7JWVH6RW+WF"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ78jNqRzjDDkRSG0_C4JXrfE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2411
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "National Highway 10, Tikri Kalan, Delhi, 110041, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6865824,
+                    "lng": 76.98139929999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.68789772989271,
+                        "lng": 76.98274512989272
+                    },
+                    "southwest": {
+                        "lat": 28.68519807010727,
+                        "lng": 76.98004547010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9375c87543f59339da0647e079064c57ed3980f1",
+            "name": "Azad Hind Gram",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 450,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110468387540783963932\">Debabrata Ghosh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA96-OfcCC9IVY6fw5_0Ms88h7EAJtFlXcNRO-In5JhyBN5PWYPn2zGn9aK1hvx50kxu453DS2KTnsX7SH9jUIzMLlK2VSE_Rp_2ndplUrycQo6fLhmycfh8Q1KSJW7FgNEhBAghI1UNwIHj16clugfo4NGhRzcDFdfP-qFENZ2hI-u_4swjdzRQ",
+                    "width": 337
+                }
+            ],
+            "place_id": "ChIJdTDy-TMPDTkRv-hdSV1Gc8Y",
+            "plus_code": {
+                "compound_code": "MXPJ+JH Delhi",
+                "global_code": "7JWRMXPJ+JH"
+            },
+            "rating": 4.2,
+            "reference": "ChIJdTDy-TMPDTkRv-hdSV1Gc8Y",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 338
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Number 17, Lodhi Rd, Lutyens' Delhi, Rajpath Area, Central Secretariat, New Delhi, Delhi 110003, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5909481,
+                    "lng": 77.2279422
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.59226667989272,
+                        "lng": 77.22929627989272
+                    },
+                    "southwest": {
+                        "lat": 28.58956702010728,
+                        "lng": 77.22659662010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "04616672b9c36649eb810645914d08b779568a8d",
+            "name": "Tourist Attraction",
+            "place_id": "ChIJAVW17u_iDDkRn16DXZbAgcs",
+            "plus_code": {
+                "compound_code": "H6RH+95 Central Secretariat, New Delhi, Delhi",
+                "global_code": "7JWVH6RH+95"
+            },
+            "rating": 0,
+            "reference": "ChIJAVW17u_iDDkRn16DXZbAgcs",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "28\u00b039'43. 77\u00b014'04., 4, 4th West, Myton, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6623205,
+                    "lng": 77.2341352
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66370732989272,
+                        "lng": 77.23550912989272
+                    },
+                    "southwest": {
+                        "lat": 28.66100767010728,
+                        "lng": 77.23280947010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "21f47ca1998501a99b5aa91a1ce1032ee7412a66",
+            "name": "Telegraph Memorial (near British Magazine)",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109305084305440317621\">somkant gautam</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA8P9zeMdfVWlIjjKVDIiuJMRlcRhaJxpg44K7LuJhM5V3ImussVDCRNtJwIkZyCmFlJFGzFiR-v6Nss8UGfMNgHNPe8FrFGuUZniye93pM0v4Gfkuqgaf2BZ9SvLjihV9EhAUQX-_nQ_C34ukTjB9tccyGhROhJRKVvOqNaw2Vb5ZgQt7rfL2Gg",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJy7kFgQT9DDkRFzEn1E6I08Q",
+            "plus_code": {
+                "compound_code": "M66M+WM Old Delhi, New Delhi, Delhi",
+                "global_code": "7JWVM66M+WM"
+            },
+            "rating": 4.8,
+            "reference": "ChIJy7kFgQT9DDkRFzEn1E6I08Q",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shop no, 11, Main Market Rd, Begampur, Sector 18, Rohini, New Delhi, Delhi 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7232935,
+                    "lng": 77.06465159999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72464402989272,
+                        "lng": 77.06596552989271
+                    },
+                    "southwest": {
+                        "lat": 28.72194437010727,
+                        "lng": 77.06326587010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a32b745411c7fff3fc838ff7c90e17cbd5129788",
+            "name": "My Tempo Traveller Rs.14 Per km - Car Rental in Delhi",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 297,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108693939958406296146\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHXcPhBkbbQfYIpl3lLbAwviempAk0Ff9lE_lfJ8Ext0UEZIN8HubcHhaKB7xvS-JARF2lbm3eWEbAxqMdNpNvmPh7gNNYLFJiymmrI-NvVe75Uv4B5-ZCv5riRHLhAw4EhAK4hkHZSEL0VD6odswNW9XGhTZhlCcAtG59fZZNwBqGDaI4nW_MA",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJC30QWQsHDTkRKF4a64r2WyY",
+            "plus_code": {
+                "compound_code": "P3F7+8V Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP3F7+8V"
+            },
+            "rating": 0,
+            "reference": "ChIJC30QWQsHDTkRKF4a64r2WyY",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Teen Murti Bhavan, Teen Murti Marg, Teen Murti Marg Area, New Delhi, Delhi 110011, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6026399,
+                    "lng": 77.1987706
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.60405337989272,
+                        "lng": 77.20012457989272
+                    },
+                    "southwest": {
+                        "lat": 28.60135372010728,
+                        "lng": 77.19742492010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "96963b3aa1070e724679bd0d600ae0ce390f5ce8",
+            "name": "Nehru Memorial Museum & Library",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2704,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117004471832590876139\">Anand Kumar Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtvoSZGIASu4xl4_vc8CHa38mcnEF8UQbQuW7idvT08DVTmfbtGMfAxWFdPKmzZTCoFH63So0FH9WmR1IN_GUFSpafycQdxVGsjqkh_15E6GyEXEmtIMcjjk2YldTOFjtEhAlGNh3GAcGL9lmCiOI-XudGhSfmM7ufLX6NKChpCos8QS2qZJIRw",
+                    "width": 3641
+                }
+            ],
+            "place_id": "ChIJ2dFGFaHiDDkRbc3o8bj_tCc",
+            "plus_code": {
+                "compound_code": "J53X+3G New Delhi, Delhi",
+                "global_code": "7JWVJ53X+3G"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ2dFGFaHiDDkRbc3o8bj_tCc",
+            "types": [
+                "museum",
+                "library",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 374
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "1, Safdarjung Rd, Near, Delhi Gymkhana Club, New Delhi, Delhi 110011, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5999403,
+                    "lng": 77.206214
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.60125747989272,
+                        "lng": 77.20747777989273
+                    },
+                    "southwest": {
+                        "lat": 28.59855782010728,
+                        "lng": 77.20477812010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "1713d54ede6642f47fea456d1f084ed47645e7ad",
+            "name": "Indira Gandhi Memorial Museum",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105531539532163061501\">V BloG</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAnr0xfcv5Xsx3udUBVGKtq1iZ0M8dHpFrcURGPaq9J-rVn9-KDf2j_6Klb3YTKjqWcH007z16SbAhEdhuHznMli6K2ZRssklsn5Y7gIT2mDRECTB7zXCwVfmsJjuGl3SMEhD1EPCmB7amRUXKGY7iy3lpGhT9KtVASy2Ya1tKrVkOoOfwY5JCtQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJHwdPU73iDDkRJyADQJ4YfH0",
+            "plus_code": {
+                "compound_code": "H6X4+XF Delhi Gymkhana Club, New Delhi, Delhi",
+                "global_code": "7JWVH6X4+XF"
+            },
+            "rating": 4.4,
+            "reference": "ChIJHwdPU73iDDkRJyADQJ4YfH0",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9051
+        }
+    ],
+    "status": "OK"
+}

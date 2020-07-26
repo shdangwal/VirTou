@@ -1,0 +1,154 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dr Pundlik Gaitonde Rd, Palolem, Canacona, Goa 403702, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.0130198,
+                    "lng": 74.02420390000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.01441882989272,
+                        "lng": 74.02545752989272
+                    },
+                    "southwest": {
+                        "lat": 15.01171917010728,
+                        "lng": 74.02275787010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "af9896fc7dd12cc9f1cb560541f537f2c43068b3",
+            "name": "Chabad House Palolem",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104246025225945110917\">neta marili</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAEX440_99r4QXjG523Occ3XIeYjO4IHv94VpF_cNw8V-CeJviOTXFyVqmC6B2fSfYr-X3l-nNctGSRIXbrX0F002nyVjS4_zU4SYEZS_CtckdnjE0RJ4bjQj8N1jjvvhWEhA2T3NFkidDJJf_70z6hLrSGhQzCkPP_gNz8IUL6mdsSbRv7f1Nrg",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJDRzV31NFvjsRw1k5w-prICk",
+            "plus_code": {
+                "compound_code": "227F+6M Palolem, Canacona, Goa",
+                "global_code": "7J7P227F+6M"
+            },
+            "rating": 4.6,
+            "reference": "ChIJDRzV31NFvjsRw1k5w-prICk",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 58
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Old Goa Rd, Bainguinim, Goa 403402, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5008938,
+                    "lng": 73.9116272
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50260592989272,
+                        "lng": 73.91289957989272
+                    },
+                    "southwest": {
+                        "lat": 15.49990627010728,
+                        "lng": 73.91019992010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "b9f14db47880efeeeb2bf2bfce9cfbfe4dd5bd88",
+            "name": "Basilica of Bom Jesus",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3850,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106221594336222679473\">Kallol Sarkar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAU0r4TD0Ry97SOO1uG2CySYth79gVSRxKJrR7-wJ3c490rL7qOZ-c6wuwT2CkYfvb00LBRs-n04MuMEzBIRQwryfxtGQkEJCxCAnX2_7ksnpBHvlit16EkKjGCnkN7MsSEhCZ2DhXFArbsLOGKSMHJNcsGhQGpcfe_ysmUGnV8TFLu2bzzRu0yg",
+                    "width": 5775
+                }
+            ],
+            "place_id": "ChIJiQKbufK-vzsRuKcVn2hWgB4",
+            "plus_code": {
+                "compound_code": "GW26+9M Bainguinim, Goa",
+                "global_code": "7J7MGW26+9M"
+            },
+            "rating": 4.5,
+            "reference": "ChIJiQKbufK-vzsRuKcVn2hWgB4",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30674
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Near Bhagwan Mahaveer Wildlife Sanctury, Sanguem, Surla, Goa 403406, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4390499,
+                    "lng": 74.25255709999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.44039972989272,
+                        "lng": 74.25390692989272
+                    },
+                    "southwest": {
+                        "lat": 15.43770007010728,
+                        "lng": 74.25120727010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "f4a4340be63d1ac52f1a648fa42fc16847ba40ad",
+            "name": "Mahadeva Temple, Tambdi Surla",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105383341615580828120\">Monali Chim</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkhzay4Ah-8VQsAnieBZvzar2ScPKk_kaUmfbTjaJltD0635EOND8UoXBiBQzONd37bGbgQaYEm4-0dNGQNlj6EnEjjzOXWt11UsLf0jM5xM0_aqo8gMdsJgf-BbtiMnNEhDeVL4J0XhzTnjTxP1iB3AeGhR-gp8twCE0bZx9c0g5CwySYNxMUA",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJKTeIBk4IvzsRekHQksfEKkk",
+            "plus_code": {
+                "compound_code": "C7Q3+J2 Surla, Goa",
+                "global_code": "7J7PC7Q3+J2"
+            },
+            "rating": 4.7,
+            "reference": "ChIJKTeIBk4IvzsRekHQksfEKkk",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1432
+        }
+    ],
+    "status": "OK"
+}

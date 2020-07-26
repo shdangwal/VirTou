@@ -1,0 +1,857 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQCAAEAAKpRfKMWS12gJkdwamsT_XILWUkQX1lEsttjpwMijZ9R1aNa5R8bwR3_ZRUqL6K7XH4Ye9x52IUaQO3WFbVBPMKsV9uRdIIvyPPFTw-vOd7o8dyWmAfpgkn51FN4i0CFoLu9yXZpSWrRRx4ChWBGIbqySBEgRuYE-CgnRuWDcok2SINt0llIpBRyx8sAFUOqCRqemSQrv3i6hjMeNcDxFJZLxAwNAYGxTes5bG22Q4BicCRIDdnqBAOyZlnE5hxhuPlvwbo7LdTdJ7Pni945mBjZwRbXseyisUr48Hja9GfiQ9hTPtp6HwA_wmJxGTvXwhL3RPFkmUf5YDLZx4KR-KgSEJHQbzU_IEIu6riK7XIaavMaFAusgwpc4xFjrX6ArXy3CiU4kITC",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Birla Mandir, Jawahar Lal Nehru Marg, Tilak Nagar, Jaipur, Rajasthan 302022, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8921959,
+                    "lng": 75.8153921
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.89371657989271,
+                        "lng": 75.8167583298927
+                    },
+                    "southwest": {
+                        "lat": 26.89101692010727,
+                        "lng": 75.81405867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6249c6ba95bb56dd9eb13dc82bdf4c7d6fb647be",
+            "name": "GEMS AND JEWELRY",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3615,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101519490984330527752\">sushant saurabh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAutIiR_4NTU1JgV2Nfjka-lLc-r-HX8L7d8hprAewIQ2IgkomNuZFbXc7hiCpzURXfTrsEsmjBu6BTHAw4rLBmloD9CU4Y6JgwIuYzjLFh4O_bzELgJMWQJg6rC3b9MC4EhB3JWCjWwOuxpl4eDGnms0QGhSNCZKkwFcg4h9Kl9MoaVu7Fc42WQ",
+                    "width": 5423
+                }
+            ],
+            "place_id": "ChIJr6cur5m2bTkRWIDcK9acl30",
+            "plus_code": {
+                "compound_code": "VRR8+V5 Jaipur, Rajasthan",
+                "global_code": "7JRQVRR8+V5"
+            },
+            "rating": 4.7,
+            "reference": "ChIJr6cur5m2bTkRWIDcK9acl30",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21310
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Lalkoth, Tonk Rd, Jaipur, Rajasthan 302004, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8915422,
+                    "lng": 75.8055262
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.89284037989272,
+                        "lng": 75.80695452989272
+                    },
+                    "southwest": {
+                        "lat": 26.89014072010728,
+                        "lng": 75.80425487010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "96c6fc612fc58a474a3889a756fd3f5b76ceb016",
+            "name": "Visawanath Shiv Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114601952523549041901\">Divaksh Jain</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUAqziBV0uTIbGtU1l7KsuKAl7Ax1IxX1YmDSo0Jkv13X2dzxmix6pbdbORc_kj_GO1-GE1wfQbspCmmlmvNuNLw7wQUtm8fP7HDY9OvpTbr2a66rl9JCeKUQ_EQ5VGe9EhCsNfzTkWPc1CONRANagGvsGhT2_DGzaHh_-rCcNdOAYfmtt5oliA",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJoVrJtyC0bTkRvFre4M3WZ0c",
+            "plus_code": {
+                "compound_code": "VRR4+J6 Jaipur, Rajasthan",
+                "global_code": "7JRQVRR4+J6"
+            },
+            "rating": 1,
+            "reference": "ChIJoVrJtyC0bTkRvFre4M3WZ0c",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Narayan Vihar, Jaipur, Rajasthan 302026, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8700173,
+                    "lng": 75.7076441
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.87149432989272,
+                        "lng": 75.7089830798927
+                    },
+                    "southwest": {
+                        "lat": 26.86879467010727,
+                        "lng": 75.70628342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "aa04619e6e4987b0bb4e55e4a42d0e0e99aa9f4b",
+            "name": "Narsingh temple",
+            "permanently_closed": true,
+            "place_id": "ChIJJd7RF-VLbDkRTHCMmCf_bz0",
+            "plus_code": {
+                "compound_code": "VPC5+23 Narayan Vihar, Jaipur, Rajasthan",
+                "global_code": "7JRQVPC5+23"
+            },
+            "rating": 0,
+            "reference": "ChIJJd7RF-VLbDkRTHCMmCf_bz0",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jalebi Chowk, Jai Niwas Garden, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9288341,
+                    "lng": 75.8240701
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93018392989272,
+                        "lng": 75.82541992989272
+                    },
+                    "southwest": {
+                        "lat": 26.92748427010728,
+                        "lng": 75.82272027010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "ba605d2c475a35739711ec1fdc6a5a68714d0db7",
+            "name": "Thikana Mandir Shri Govinddevji Maharaj",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 636,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107663474752485679699\">Ankit Verma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkakfzyuKPvSB289VKIT2ChwO9IWlg5fMflrF_dXqyXJ_6bFqK0awR4FguYCgpdLhacdiscyaXTuuPK2s7KfGIyVUGsKuhvan0U_ZLRjgBo0PGOQL489b1qn9ReOzIzbxEhAv984wis093czx6JRZXebYGhTE0RghzB9VxJIxOUYrVTn8ELWYVA",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJl6ftTjK0bTkRXGBe1TzRYCI",
+            "plus_code": {
+                "compound_code": "WRHF+GJ Jaipur, Rajasthan",
+                "global_code": "7JRQWRHF+GJ"
+            },
+            "rating": 4.8,
+            "reference": "ChIJl6ftTjK0bTkRXGBe1TzRYCI",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6554
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ganpati Nagar, Jaipur, Rajasthan 303902, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9124336,
+                    "lng": 75.7872709
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91376437989272,
+                        "lng": 75.78863007989271
+                    },
+                    "southwest": {
+                        "lat": 26.91106472010728,
+                        "lng": 75.78593042010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "d0ce4fa5351f1878390e3838a8f6f0068e821f26",
+            "name": "Shiv Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJE8vMQ9W1bTkRBDwehb1q9Yw",
+            "plus_code": {
+                "compound_code": "WQ6P+XW Ganpati Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWQ6P+XW"
+            },
+            "rating": 0,
+            "reference": "ChIJE8vMQ9W1bTkRBDwehb1q9Yw",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Johari Bazar Rd, Badi Choupad, Badi Chaupar, Jaipur, Rajasthan 302003, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9216921,
+                    "lng": 75.8273095
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92311752989272,
+                        "lng": 75.82828002989272
+                    },
+                    "southwest": {
+                        "lat": 26.92041787010728,
+                        "lng": 75.82558037010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "b4e867749695ee26bdce3c4b5447b4c7eeb2ba98",
+            "name": "Mahadev Ji Ka Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJjUYaKrW2bTkRszrhk6qYru8",
+            "plus_code": {
+                "compound_code": "WRCG+MW Badi Chaupar, Jaipur, Rajasthan",
+                "global_code": "7JRQWRCG+MW"
+            },
+            "rating": 5,
+            "reference": "ChIJjUYaKrW2bTkRszrhk6qYru8",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jayanti Market, Pink City, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9181979,
+                    "lng": 75.80688549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91956877989272,
+                        "lng": 75.80813192989272
+                    },
+                    "southwest": {
+                        "lat": 26.91686912010728,
+                        "lng": 75.80543227010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "1db5fb1e208e645f221f39c5741ca4e0fcda7884",
+            "name": "Amar Hanuman temple",
+            "permanently_closed": true,
+            "place_id": "ChIJ3RCNIAC0bTkRRsUOA1Iemjk",
+            "plus_code": {
+                "compound_code": "WR94+7Q Pink City, Jaipur, Rajasthan",
+                "global_code": "7JRQWR94+7Q"
+            },
+            "rating": 3,
+            "reference": "ChIJ3RCNIAC0bTkRRsUOA1Iemjk",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Inside Mandir Shri Ramchandra Ji, Chandpole, Pink City, Jaipur, Rajasthan, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9246243,
+                    "lng": 75.8109209
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92596762989272,
+                        "lng": 75.81226887989273
+                    },
+                    "southwest": {
+                        "lat": 26.92326797010728,
+                        "lng": 75.80956922010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "5c654247debd02fa0527aec55511ede86e833dc9",
+            "name": "Gulabeshwar Mahadev, Chandpole, Jaipur",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111466444312062278364\">Kaushal Maheshwari</a>"
+                    ],
+                    "photo_reference": "CmRaAAAApWkvMxEkvcht670mVwEWN9nP2fFk2MQMxNIN4RLchMfUR2JjBlUwZ9a96QBGvR2PCk_pqOUGh_ElwSI0Blkw-rO1XOvgxWoaPaVXoa83imcpBTLD0P-gGNYIzKdMHqkBEhBoftbVFjB2TRcVI7yTzVooGhQ9YNXrExWNFJlwO1uGvnfpsVv2Nw",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJxUNVCtmxbTkRfnP2Stado7Y",
+            "plus_code": {
+                "compound_code": "WRF6+R9 Pink City, Jaipur, Rajasthan",
+                "global_code": "7JRQWRF6+R9"
+            },
+            "rating": 5,
+            "reference": "ChIJxUNVCtmxbTkRfnP2Stado7Y",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shree Ram Mandir Awadhpuri colony, Tonk Rd, Lalkothi, Jaipur, Rajasthan 302015, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8882404,
+                    "lng": 75.8008254
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.88961657989272,
+                        "lng": 75.8021155298927
+                    },
+                    "southwest": {
+                        "lat": 26.88691692010728,
+                        "lng": 75.79941587010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "19615eef90fd31e36e0561c9922193bf7a10d730",
+            "name": "Hindu temple",
+            "permanently_closed": true,
+            "place_id": "ChIJPQyi3vW1bTkRPpTYtdyr42M",
+            "plus_code": {
+                "compound_code": "VRQ2+78 Lalkothi, Jaipur, Rajasthan",
+                "global_code": "7JRQVRQ2+78"
+            },
+            "rating": 0,
+            "reference": "ChIJPQyi3vW1bTkRPpTYtdyr42M",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Moti Doongri Rd, Tilak Nagar, Jaipur, Rajasthan 302006, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8946451,
+                    "lng": 75.8166882
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.89606167989272,
+                        "lng": 75.81797732989273
+                    },
+                    "southwest": {
+                        "lat": 26.89336202010728,
+                        "lng": 75.81527767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "bf8efcfd188dd9779621ec71a5ccb25738c4f5d1",
+            "name": "Moti Dungri Ganesh Ji Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 723,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114516383619841300160\">JAI SHARMA</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwfQezPdKVQjRnvYpdL47WNP_A458WalMpj7ljn9qX0akOs5n84Vw5e4ed3Mpb3eEn5OEawsTlGoCO9THl2GCNPAV3tBgzhODjJgzc6IrKqmdhNvHp8NYo4dEsnuIbWuUEhB3Bro3dOBBX_DpecIMoj0GGhTRN18W0ZPv4RSeZOwUJyAWYPUmqA",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJE_whhgu0bTkR-sdGzxFxZBI",
+            "plus_code": {
+                "compound_code": "VRV8+VM Tilak Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQVRV8+VM"
+            },
+            "rating": 4.8,
+            "reference": "ChIJE_whhgu0bTkR-sdGzxFxZBI",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18628
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ganpati Nagar, Jaipur, Rajasthan 302006, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9133312,
+                    "lng": 75.78712159999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91470177989272,
+                        "lng": 75.78846037989271
+                    },
+                    "southwest": {
+                        "lat": 26.91200212010727,
+                        "lng": 75.78576072010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "f77c0fd94f175eedebee8a5a600a810d43965f4f",
+            "name": "Hanuman Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100145234657335997868\">Sanjeet Mankash</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWU8zi2lRBbnwdXhmidiqmrxNn0C-7qdLk08IhGz8X-H7TTazzTZ-iFZ1NXAyZMsfEKcUEiAaN6pg8mbpZrS6mJKPC4MuYMSs8dakxUc-zHSMwJlTvNC2BciNB3jpf1cGEhABn357tKmJMRx27UEs_aKWGhRLIz28G9fvt2UPXugWYZLM0E-l4A",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJxRB4mQu0bTkRDOG7FPwCaLw",
+            "plus_code": {
+                "compound_code": "WQ7P+8R Ganpati Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWQ7P+8R"
+            },
+            "rating": 4.6,
+            "reference": "ChIJxRB4mQu0bTkRDOG7FPwCaLw",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Gangawal Park, Adarsh Nagar, Jaipur, Rajasthan 302004, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9008141,
+                    "lng": 75.8179298
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.90211027989272,
+                        "lng": 75.81926612989272
+                    },
+                    "southwest": {
+                        "lat": 26.89941062010728,
+                        "lng": 75.81656647010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "f720e0c824c123043d1796939c039305cbe2cf49",
+            "name": "Babaji Maharaj Temple, Jaipur",
+            "permanently_closed": true,
+            "place_id": "ChIJQwbI16K2bTkRmFeJ_5Ur6ww",
+            "plus_code": {
+                "compound_code": "WR29+85 Adarsh Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWR29+85"
+            },
+            "rating": 3,
+            "reference": "ChIJQwbI16K2bTkRmFeJ_5Ur6ww",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "C-12, Subash Nagar, Shastri Nagar, Jaipur, Rajasthan 302016, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9355053,
+                    "lng": 75.7961564
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93686637989272,
+                        "lng": 75.79748657989272
+                    },
+                    "southwest": {
+                        "lat": 26.93416672010728,
+                        "lng": 75.79478692010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "ee1f570e080ae2f57b6cc4e0f6df31799d784d98",
+            "name": "Mahakaleshwar Mandir Subhash Nagar Jaipur",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108765358155039804387\">Gopesh Basniwal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_00azrVPeXcNoykFRaUKgFBmNLeAN8EaUg4Qnj8RHS0s9YFRVwhbQ4nm_L2MeP6ked5ae1Z4GaPXlAbMyJPplYFcVzLCKXgYEheDbjUCmro728Xv8lN1k0WVVqRUNxnPEhCkILBSalA1GGxAJj-x53EpGhSw2WZducn_T8jOJZTJ5TuYmdutPg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJDfGGz_azbTkRI4WlNVoD_Sc",
+            "plus_code": {
+                "compound_code": "WQPW+6F Shastri Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWQPW+6F"
+            },
+            "rating": 0,
+            "reference": "ChIJDfGGz_azbTkRI4WlNVoD_Sc",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Civil Lines, Jaipur, Rajasthan 302007, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9124336,
+                    "lng": 75.7872709
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91376437989272,
+                        "lng": 75.78863007989271
+                    },
+                    "southwest": {
+                        "lat": 26.91106472010728,
+                        "lng": 75.78593042010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "62c16637a7dc62f6f2a4a3b1ccf1d688ad01cee7",
+            "name": "Durga Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJE_whhgu0bTkR57M5v9Y0u_k",
+            "rating": 0,
+            "reference": "ChIJE_whhgu0bTkR57M5v9Y0u_k",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9082703,
+                    "lng": 75.79401589999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.90959052989272,
+                        "lng": 75.79542967989272
+                    },
+                    "southwest": {
+                        "lat": 26.90689087010728,
+                        "lng": 75.79273002010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "500c6df0d977902275997a25894ff002408c7514",
+            "name": "Shiva Temple",
+            "permanently_closed": true,
+            "place_id": "ChIJMyW16w-0bTkRWBc6Pa-CCI8",
+            "plus_code": {
+                "compound_code": "WQ5V+8J Jaipur, Rajasthan",
+                "global_code": "7JRQWQ5V+8J"
+            },
+            "rating": 3.7,
+            "reference": "ChIJMyW16w-0bTkRWBc6Pa-CCI8",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "190, Shri Ram Marg, Gopalbari, Jaipur, Rajasthan 302016, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9236417,
+                    "lng": 75.79075569999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92499822989272,
+                        "lng": 75.79214672989272
+                    },
+                    "southwest": {
+                        "lat": 26.92229857010727,
+                        "lng": 75.78944707010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "00a0ca50e26ce52e730ddc1a30186e095c869cf7",
+            "name": "Khade Wale Balaji Mandir...",
+            "permanently_closed": true,
+            "place_id": "ChIJcdR8tvazbTkRP8xWFtSeEQQ",
+            "plus_code": {
+                "compound_code": "WQFR+F8 Gopalbari, Jaipur, Rajasthan",
+                "global_code": "7JRQWQFR+F8"
+            },
+            "rating": 0,
+            "reference": "ChIJcdR8tvazbTkRP8xWFtSeEQQ",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Agra Rd, Near Ankur Cinema Hall, Amratpuri, Transport Nagar, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9105141,
+                    "lng": 75.8370425
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91183637989272,
+                        "lng": 75.83835282989271
+                    },
+                    "southwest": {
+                        "lat": 26.90913672010728,
+                        "lng": 75.83565317010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "d938688724f855ab0e7458ebc4947658d0a96f26",
+            "name": "Magaleshwar Mahadev Mandir",
+            "permanently_closed": true,
+            "place_id": "ChIJtYej7sW2bTkR2mCkRapBxIo",
+            "plus_code": {
+                "compound_code": "WR6P+6R Transport Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWR6P+6R"
+            },
+            "rating": 0,
+            "reference": "ChIJtYej7sW2bTkR2mCkRapBxIo",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jadon Nagar, Prithviraj Nagar, Arjun Nagar, Jaipur, Rajasthan 302020, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8535129,
+                    "lng": 75.7819265
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.85486797989272,
+                        "lng": 75.78323132989273
+                    },
+                    "southwest": {
+                        "lat": 26.85216832010727,
+                        "lng": 75.78053167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "1c83bedc51377416769627412ec04496e8632895",
+            "name": "balaji temple",
+            "place_id": "ChIJbYrBNr-1bTkRJ8TxcWs7Y_Y",
+            "plus_code": {
+                "compound_code": "VQ3J+CQ Arjun Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQVQ3J+CQ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJbYrBNr-1bTkRJ8TxcWs7Y_Y",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "2, Jacob Rd, Madrampur, Civil Lines, Jaipur, Rajasthan 302006, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9191678,
+                    "lng": 75.7858335
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92056267989273,
+                        "lng": 75.78732477989271
+                    },
+                    "southwest": {
+                        "lat": 26.91786302010728,
+                        "lng": 75.78462512010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "d90ad42ab6f0e180cc0954d33d4dc3e6acff07fa",
+            "name": "\u092e\u0939\u093e\u0926\u0947\u0935 \u092e\u0902\u0926\u093f\u0930 IOW Office OLD GM Office",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101528434825235806995\">Bhagwan Sahay Meena</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAAgG7E6hLXzirBV9zbmk9evxgDmLQoSzlYWTdH4vYG25DZHW45ViXMYk3mkj2oo8lO9t7Gbltwf_JpJNvNZ47R7IXs-70rBo9wTqJF9SheHZxKZkcdkboUCAMSwVAGHnCEhD5FekvAqeccBerbEMZNSt3GhSSdJCeHukglvGPeLLoPboPciPerA",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJjT0jke6zbTkR1OtgHAStGZo",
+            "plus_code": {
+                "compound_code": "WQ9P+M8 Civil Lines, Jaipur, Rajasthan",
+                "global_code": "7JRQWQ9P+M8"
+            },
+            "rating": 0,
+            "reference": "ChIJjT0jke6zbTkR1OtgHAStGZo",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kamala Nehru Nagar, Kamala Nagar, Hasanpura, Jaipur, Rajasthan 302006, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9129599,
+                    "lng": 75.7806353
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91431087989272,
+                        "lng": 75.78193042989272
+                    },
+                    "southwest": {
+                        "lat": 26.91161122010728,
+                        "lng": 75.77923077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "44ec4760f70e79cc228fbc3de6fd8df04e56bccb",
+            "name": "Hasanpura - Mandir",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115087508622801925140\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxFOqkGEFS6sF-cBMInOtZHnwEXZc-y1zxhC9yJHINIqxMtzxabHHdZHEkmS9UL9epqbUW8iPg1DeCW5a8qgseeUh-JzuX_h5b8IEM6WkI1ZrlI3hvzHpLIy8lPKjFdjREhAmwyc36pFM8cRnwLGtlMwlGhQkHO7hwmwPb58DCuoYVJp59c-xyw",
+                    "width": 864
+                }
+            ],
+            "place_id": "ChIJU5zbX3S0bTkR02fZbxzN2WQ",
+            "plus_code": {
+                "compound_code": "WQ7J+57 Hasanpura, Jaipur, Rajasthan",
+                "global_code": "7JRQWQ7J+57"
+            },
+            "rating": 3.1,
+            "reference": "ChIJU5zbX3S0bTkR02fZbxzN2WQ",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        }
+    ],
+    "status": "OK"
+}

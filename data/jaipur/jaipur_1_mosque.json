@@ -1,0 +1,955 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-gAAAO2m1dfAFBYhtoQHqTVUem9gwpxBloHfTsREdx33tW0uff-khcKMkLM1czcKwr8TFAtGEc_F4oOXZsm1_QCBCJV-ZDLA-l7PzhX2zPp5VIkP79p0-bqh3DGqxxpHziqg7NNRMvnVyTCofqP3mdCxvabxU9J2r1qFiVtyqnO4Y9W-DxzYHoo7feu1DR5zE09539Cs4uUYazQLEy8RcILfpPrZYyVr2DRjXQ3TP5RXbf3TwH-M8zbufFZQShtr_7TCZWYrBTRYYg8y0LtfSIxUV5_7NONWoQ7_3pnA8s3460uAJAQc1yKL1Iqe-JOVJIocOGXjjxvHWTtUiy2bf3vF_Q4SEONl-euWZKxYLHCBUdub4m4aFJahRPUX4TYi1CzTq0IMvNNipNMR",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Johri bazar near jama masjid shop no 167 Johri bazar near jama masjid shop no167, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9218754,
+                    "lng": 75.82617119999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92331487989272,
+                        "lng": 75.82754957989272
+                    },
+                    "southwest": {
+                        "lat": 26.92061522010728,
+                        "lng": 75.82484992010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "46446f8b2c76c6726a8ef9096085c3c3062b9510",
+            "name": "Jaipur Handicraft",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108234478397894863876\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASl8wja6V_foRfd5A7-IV1SnBjaYXiR8iaH_Cmmk5jQyXLFO0Cc3lEGX0VtXofnass9zTVHc0KYgcSvxRBQkqSEgHV3n3hkutUzwYTKmMxyj9apbgd71AK8D7rqF37NkNEhBAAqcLP7EsIMCl264bOKMRGhRSz3ScyODKbUHsRmcXk2yO-P7zWQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJbZhjzLS2bTkRBNlUtpn-9-0",
+            "plus_code": {
+                "compound_code": "WRCG+QF Jaipur, Rajasthan",
+                "global_code": "7JRQWRCG+QF"
+            },
+            "rating": 4.2,
+            "reference": "ChIJbZhjzLS2bTkRBNlUtpn-9-0",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 500
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Packers And Movers, Packers And Movers In Sanganer Packers And Movers Sanganer Packers And Movers In, Pratap Nagar, Jaipur, Rajasthan 302029, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8193172,
+                    "lng": 75.76547889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.82068087989272,
+                        "lng": 75.76683377989272
+                    },
+                    "southwest": {
+                        "lat": 26.81798122010728,
+                        "lng": 75.76413412010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "122e56610fb1a18c3a9fdb77430e43ccb941ef40",
+            "name": "Pacckers and Mo\u0475ers \ud835\udfe1\ud835\udfde\ud835\udfdf\ud835\udfda\ud835\udfdc \ud835\udfdc\ud835\udfda\ud835\udfde\ud835\udfdb\ud835\udfe0",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118325875989323481395\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtSq-8gBef1w6dGD8GJAEGI5dwaTrxf2sa_KbKm8TpbTo6xxLTfyzdAin_Gy8jg8ddBwmr9_7DfZt7FLjfr2Zz9VjQ1NXd9PEw8Mv4J7J-hn3vwdTvkOjls-NPqFIwx3AEhCOYJZDeS_kTD1zzJrwLNsVGhR2L5g8Jd5MWv8BF16lmNwzZPMjnA",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJXero4hLKbTkRHLnK5YC2IiQ",
+            "plus_code": {
+                "compound_code": "RQ98+P5 Pratap Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQRQ98+P5"
+            },
+            "rating": 4.2,
+            "reference": "ChIJXero4hLKbTkRHLnK5YC2IiQ",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 142
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jawahar Nagar, Bajaj Nagar, Jaipur, Rajasthan 302015, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8752128,
+                    "lng": 75.79804109999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.87658122989272,
+                        "lng": 75.79924732989272
+                    },
+                    "southwest": {
+                        "lat": 26.87388157010728,
+                        "lng": 75.79654767010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "94ad98bfb7ee46e7c8eca782098940d249c569be",
+            "name": "Mosque",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105882929530109688758\">Fasihuddin Danish</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA8f-xf-XmFfzZwdaWJFujQcZ0Q2L_Uh60DjGSYh22Gwv0agSVbJImkIy9Z-TY7v8-jMJWlFrqK1j8HqYLZ46s2dhRz_gdpkbMHqUo_aUNysqS4EuGNbij7NSnd6i9vKYkEhBvAmZqbjwR4lgzboLRhklpGhQ3YlFqX_Gty-mXEzWU_Pa8cmbMQA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJQxLkAi20bTkROVD_zHIOhHE",
+            "plus_code": {
+                "compound_code": "VQGX+36 Bajaj Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQVQGX+36"
+            },
+            "rating": 4.8,
+            "reference": "ChIJQxLkAi20bTkROVD_zHIOhHE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9056401,
+                    "lng": 75.79451279999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.90698097989272,
+                        "lng": 75.79589802989271
+                    },
+                    "southwest": {
+                        "lat": 26.90428132010728,
+                        "lng": 75.79319837010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "53d24f10149a9e667abab577f04cb79a6397dbcc",
+            "name": "Raiyan Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105704625437892219148\">Bunty</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAibTPekvWbODxsrO3RAQ6tK4veS3O8TanzuCXABCWeo8RQl-WUfmIrQmpSs4puUfkCv9p1T8V88yd0MmgJvp_iHW0lAvB-f54pv3hJnONoXDMUVIyqCozcdOOzUqtUkB3EhDliXOHM3BwsnVZYBTDDg3mGhTKYOAG1LatECjdGPo5X0iO4IKSjA",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJo-XJbBC0bTkRlvU8RYP3N2w",
+            "plus_code": {
+                "compound_code": "WQ4V+7R Ashok Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWQ4V+7R"
+            },
+            "rating": 4.5,
+            "reference": "ChIJo-XJbBC0bTkRlvU8RYP3N2w",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 121
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Hawa Mahal Rd, Kamal Gatta Colony, Kanwar Nagar, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.928597,
+                    "lng": 75.8282797
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92994617989272,
+                        "lng": 75.82963217989271
+                    },
+                    "southwest": {
+                        "lat": 26.92724652010728,
+                        "lng": 75.82693252010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "8c8119af17ba447532516fde97ef0a3365f4c4c3",
+            "name": "Masjid Gudajgaran Jaipur",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106264104345338071016\">muslim ahmed Farooqi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWZuYtCzUf61g-CBehKStY8drDK6YD7z1fnvosRVJKGODB-oUxMYGiYLpINACWD3HUNNaoF3J5BqMK8Dh6vhD2hymU35SGf9Y6xdogOsNtChv1C2QWr45lPzUiRZZYWAsEhAF8iOKQUsj4FCyUP96jwllGhSCBkIQgwtz8XEG875S1tG2s2y-Pw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJs4AdjkmxbTkRt7GSdrayBxQ",
+            "plus_code": {
+                "compound_code": "WRHH+C8 Kanwar Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWRHH+C8"
+            },
+            "rating": 4.1,
+            "reference": "ChIJs4AdjkmxbTkRt7GSdrayBxQ",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mansarovar Sector 3, Mansarovar, Jaipur, Rajasthan 302020, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8687895,
+                    "lng": 75.75815440000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.87015272989272,
+                        "lng": 75.75954137989272
+                    },
+                    "southwest": {
+                        "lat": 26.86745307010727,
+                        "lng": 75.75684172010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "b81375a6286d520ab399cd8af3fcd300659915df",
+            "name": "Mansarover Mosque",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110536002741361630821\">Azharuddin Khan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgRGe2cWg0QKHyNiaLePKdB0m5ALkRE3WBuvqw9PnvN4UrxvtuUvi9jS0vtz5Uuxjv78MHyifftBvU7ycmB8wjb5Ir2f8otBdlNeAG0F9v-n3Quy2NXNfI-sHYGi45EfvEhCxAsfJv3Wyi4CzaQx6YL7IGhTY_dweli3-ZPZhdaGy5l_fYkJ0mA",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJF26hKQC1bTkRUPpuHFxTrwY",
+            "plus_code": {
+                "compound_code": "VQ95+G7 Mansarovar, Jaipur, Rajasthan",
+                "global_code": "7JRQVQ95+G7"
+            },
+            "rating": 4.3,
+            "reference": "ChIJF26hKQC1bTkRUPpuHFxTrwY",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 174
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jalupura Main Road, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9210206,
+                    "lng": 75.80753589999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92239432989272,
+                        "lng": 75.80889092989273
+                    },
+                    "southwest": {
+                        "lat": 26.91969467010728,
+                        "lng": 75.80619127010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "02d2a88679cdf8f530ae4cdf0eff1a6d02424c01",
+            "name": "Noorani Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 900,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115313064586261598905\">Rashid Raza</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAf2Bcg15n_UdITRZi4vxjTs2043sPdWDO8mv3HNPp4_Ods3dq2dPmC60tUs27pX7Pbh3VWGxgILDwYyC1BUWKYDf_88mrLT2C15MQvj6HlifswrT3aNzZIGSJn2BahilvEhCDJV3vnB2MwkT4JBb__8sGGhTWMUWUc6mEPbsfLO_b7vv-zCA5IQ",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJR_ZiW1WxbTkRNEbGSKoVnoQ",
+            "plus_code": {
+                "compound_code": "WRC5+C2 Jaipur, Rajasthan",
+                "global_code": "7JRQWRC5+C2"
+            },
+            "rating": 4.5,
+            "reference": "ChIJR_ZiW1WxbTkRNEbGSKoVnoQ",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 82
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "89, Lane Number 4, Hawa Sadak, Geejgarh Vihar Colony, Bais Godam, Jaipur, Rajasthan 302007, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8984808,
+                    "lng": 75.78600949999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.89988132989272,
+                        "lng": 75.78733937989271
+                    },
+                    "southwest": {
+                        "lat": 26.89718167010728,
+                        "lng": 75.78463972010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "77070ccfaa5b1796739004ce7a178c03509dbc61",
+            "name": "Masjid Bais Godam",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118137275647474522914\">Zuber Khan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAp3K_Oh9GP4F9JkG5we6ZMWMaTjCIrZSuRB_bFnVHdG_mDJPWO5zcbo5f3-zALflQo6QduENJ9QMcWZcwkP9RLUCgXYYdZYW39xRW5N_CiaIpfHneYQe2RzdeE71plo1gEhDzc9c-llX1OzjRzyNfnRSnGhRUUjyiL45XJK57irXPVEdondgg0w",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ4zJY8BS0bTkRn-dzp3FX_A0",
+            "plus_code": {
+                "compound_code": "VQXP+9C Jaipur, Rajasthan",
+                "global_code": "7JRQVQXP+9C"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ4zJY8BS0bTkRn-dzp3FX_A0",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 90
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "makka colony fectory area jhotwara jaipur rajasthan, makka colony, Bismilla Colony, Shivaji Nagar, Jhotwara, Jaipur, Rajasthan 302012, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9489606,
+                    "lng": 75.7528917
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.95032642989273,
+                        "lng": 75.75418977989271
+                    },
+                    "southwest": {
+                        "lat": 26.94762677010728,
+                        "lng": 75.75149012010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "44ccf78bf9c85ee1cd5c410696f8531443b92ab3",
+            "name": "Makka Masjid Fectory Area Jhotwara Jaipur",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109993553338387175799\">Faseeh Ahmed</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwGxxG-nEqA-6_4ukjKCS69F3w0CPnAKtW3CSeyCl032Wy4RJOr_0DX5fz3x4zc_mmmlDSblJR6bXAwNylVvNXqZvH02O4DTibW4DDW6RQgVrM-8yC2bRgKkI7uZ8Cm_1EhBuXB4qx_4NnmR8Grgc8UvhGhRkINGKY2ySHHGUhju3rTXUDrp1-g",
+                    "width": 1456
+                }
+            ],
+            "place_id": "ChIJPTjZYQ-zbTkRrH3s9Ff2Noc",
+            "plus_code": {
+                "compound_code": "WQX3+H5 Jhotwara, Jaipur, Rajasthan",
+                "global_code": "7JRQWQX3+H5"
+            },
+            "rating": 4.4,
+            "reference": "ChIJPTjZYQ-zbTkRrH3s9Ff2Noc",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 54
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sodala, Jaipur, Rajasthan 302006, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8989781,
+                    "lng": 75.76439669999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.90032132989272,
+                        "lng": 75.76577037989271
+                    },
+                    "southwest": {
+                        "lat": 26.89762167010728,
+                        "lng": 75.76307072010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "c22ea84ea5156b891da012753cabcbec1c489899",
+            "name": "Sushilpura Mosque",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101265597264914309643\">junaid khan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAp4XfB3YyZGoQ4ktMMRInb4dfH4hnFGtdLFWGSnB6JnyxTBCHZkRwTyc9x-7DrgSC0UNguItCrfuVF5bjeUYagevcxLvox99HMXNTyRV7ntDjAHJpbD9lt4L3faP_ri6WEhDlMNmnR5dmf6kOIrpzcqwZGhRt8Ic0TRbgBvLITEX0ppUgvQCamQ",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJk_vLxGO0bTkRzfTUhV9nPvk",
+            "plus_code": {
+                "compound_code": "VQX7+HQ Jaipur, Rajasthan",
+                "global_code": "7JRQVQX7+HQ"
+            },
+            "rating": 4.1,
+            "reference": "ChIJk_vLxGO0bTkRzfTUhV9nPvk",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 84
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Moti Doongri Rd, Tilak Nagar, Jaipur, Rajasthan 302004, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8977524,
+                    "lng": 75.81913039999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.89921132989272,
+                        "lng": 75.82013357989273
+                    },
+                    "southwest": {
+                        "lat": 26.89651167010727,
+                        "lng": 75.81743392010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "6f7a76a6343f3110ba984a23d82317d510b87dfe",
+            "name": "Mosque",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2976,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104249506262581613352\">Firoz Ahmad</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAoQO_mJpZ_Sr2uhoiEFSHEO3RIffbXDfYLIO0XRjsumpuZRgcnfgIqrB_Xq4InNl40e4EBB_27JgOUVFzhQRT3C5mpqLTnaB8QhqomMDVkV0Cj61jXyWYNjNxXRaHkDMBEhBYlGYHIE9PmcZZKG_PgtPsGhS8HvycX9rfaWzxOuAWpep73rWAsg",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJvZuJ_Je2bTkRkbSfLBJy1IE",
+            "plus_code": {
+                "compound_code": "VRX9+4M Tilak Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQVRX9+4M"
+            },
+            "rating": 4.7,
+            "reference": "ChIJvZuJ_Je2bTkRkbSfLBJy1IE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "NBC Rd, Rajiv Nagar, Shanti Nagar, Civil Lines, Jaipur, Rajasthan 302006, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9142177,
+                    "lng": 75.7764886
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91549567989273,
+                        "lng": 75.77787417989272
+                    },
+                    "southwest": {
+                        "lat": 26.91279602010728,
+                        "lng": 75.77517452010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "1567f38113ab113f0aeae0b0bbec6ba0f1b7693a",
+            "name": "Ajmeri Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113478102617254464569\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQc1Ro-1lFjoD8hYOQb_XN2hzVEgKpz67HYoWJ9gAnUUTu0d2aZ7dkI1EBOjD-Lz19cCneqsh0A3-Q510Q4DmeTZ-wLOXI_DEMLBZT3EvPrI8cSduIsQmhwZpVk4QGQ-uEhDp3NQs-QFgKewnAJYota4qGhRBDysbmvN5XrjdVEwo7W-T5uE20A",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJf7fBYHa0bTkRzGJ4gvZVvts",
+            "plus_code": {
+                "compound_code": "WQ7G+MH Civil Lines, Jaipur, Rajasthan",
+                "global_code": "7JRQWQ7G+MH"
+            },
+            "rating": 3.7,
+            "reference": "ChIJf7fBYHa0bTkRzGJ4gvZVvts",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ghat Gate, Ghat Gate Bazar, Pink City, Jaipur, Rajasthan 302003, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9162911,
+                    "lng": 75.833218
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91758512989272,
+                        "lng": 75.83455552989273
+                    },
+                    "southwest": {
+                        "lat": 26.91488547010728,
+                        "lng": 75.83185587010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "be86bd5b62be9e73db650bd3c8bbc12412b54c77",
+            "name": "Behlol Khan Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115037987354810896953\">Afzal Khan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAnBchD_0r7INAXw8K52aa4GD_YC5YhhermQhbz7NMS5_iamNEgTFYALovmcyrFaKy3XW_N6bP-rxeg4skRp0E9eGFnFKkxTYOypDJxGhGCIlIMSbmJaUoe0Rv7WoJ4bAOEhDIeDeqFicNy_HPH2i6G6q2GhQ_10ZhbnBo4O2pkpaKOwQ3nV2adA",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJo3MXesm2bTkRigenfy-yjJw",
+            "plus_code": {
+                "compound_code": "WR8M+G7 Jaipur, Rajasthan",
+                "global_code": "7JRQWR8M+G7"
+            },
+            "rating": 4.4,
+            "reference": "ChIJo3MXesm2bTkRigenfy-yjJw",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 118
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "277, Char Darwaja, Chokdi Gangapol, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.931003,
+                    "lng": 75.832957
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93225062989272,
+                        "lng": 75.83428707989272
+                    },
+                    "southwest": {
+                        "lat": 26.92955097010728,
+                        "lng": 75.83158742010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "8a1f5bf6d4f7e162175a21a6dddd2e49f51d42ae",
+            "name": "Shai jama masjid subhash chowk Jaipur",
+            "permanently_closed": true,
+            "place_id": "ChIJAR69VTaxbTkRDp-xiU_CnGg",
+            "plus_code": {
+                "compound_code": "WRJM+C5 Chokdi Gangapol, Jaipur, Rajasthan",
+                "global_code": "7JRQWRJM+C5"
+            },
+            "rating": 3,
+            "reference": "ChIJAR69VTaxbTkRDp-xiU_CnGg",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Pulia Mosque, near railway 3rd Gate, Hasanpura flyover, Jaipur, Rajasthan 302006, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9183355,
+                    "lng": 75.7896848
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91962332989272,
+                        "lng": 75.79105577989272
+                    },
+                    "southwest": {
+                        "lat": 26.91692367010727,
+                        "lng": 75.78835612010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "7e542ff3ecc942580d891aa4f9ef4df77021f67e",
+            "name": "Mosque Sultan Fatakwali",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107159397545534559081\">Samiuddin Mansoori</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKe5-s0w_2fU_eBzzUupkLxrFfoIL9iCCkilLkDZayzwQw-3Si0lye7D6hLVRsAT3GKWUB9APlBod9KpLFh6GWCg9LiR6wYqwn6BehYnwUw6c0Xi48iETALJjp3Gp6VN-EhBYWo0CmIhy54KqReTtghMcGhSBFUGbqCHOn12YG3XSyh8UNjy1Aw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJvySpAfazbTkRs_PrpjCwrug",
+            "plus_code": {
+                "compound_code": "WQ9Q+8V Jaipur, Rajasthan",
+                "global_code": "7JRQWQ9Q+8V"
+            },
+            "rating": 4.6,
+            "reference": "ChIJvySpAfazbTkRs_PrpjCwrug",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jaipur, Berava Basti, Purani Basti, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9342292,
+                    "lng": 75.81762069999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93562392989272,
+                        "lng": 75.81896097989272
+                    },
+                    "southwest": {
+                        "lat": 26.93292427010728,
+                        "lng": 75.81626132010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "f2f8994c9df789eaf1099a2df35d4882859ab1ba",
+            "name": "Nilgero Ki Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116831927797322665098\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAXWDrMZKkyhpWEh0koh6W9WhF5G6Id0eSfME7Ua1Th8n8_wPeArnTC0cosiGiiiV0EK8GX2tGfWR7tl0XW4xK4RiQWhJb79Uf47kK1DTLz4TFTnBrTwZlv5l0s2yMiwqdEhBTKjjWgzURR5esRanTVajtGhSFez6tQjMA72CZio384pWXFL8iUg",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJr9L3xlqxbTkRFaY__pQ_CBE",
+            "plus_code": {
+                "compound_code": "WRM9+M2 Purani Basti, Jaipur, Rajasthan",
+                "global_code": "7JRQWRM9+M2"
+            },
+            "rating": 4,
+            "reference": "ChIJr9L3xlqxbTkRFaY__pQ_CBE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Hasanpura Rd, Gopalbari, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.918632,
+                    "lng": 75.79229099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92003412989272,
+                        "lng": 75.79362262989271
+                    },
+                    "southwest": {
+                        "lat": 26.91733447010728,
+                        "lng": 75.79092297010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "ca7fbb9569874137bbccfeff62679c8a1c793048",
+            "name": "Kausar-e-Deen Mosque",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105947664347971812121\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVDcfZz_GZDKnHgu_yevxww_nNVx2vllzU3iOOSGj0KCiPVT5QbiuEgRjemmSqEptYSfQMxN6zK5pum8Z2Fgx7Pe5aiDXLunJzfngkzz5vQLeYWnhfJN1t3izy4Ytw66TEhB7CiS4A87r2r0EW3NooOfIGhQQ2y4H5LBn1_wMFxcnZvf2pwWZkA",
+                    "width": 1120
+                }
+            ],
+            "place_id": "ChIJu078KvazbTkRQsGKzPdkJOY",
+            "plus_code": {
+                "compound_code": "WQ9R+FW Gopalbari, Jaipur, Rajasthan",
+                "global_code": "7JRQWQ9R+FW"
+            },
+            "rating": 4.3,
+            "reference": "ChIJu078KvazbTkRQsGKzPdkJOY",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ghat Gate, Ghat Gate Bazar, Pink City, Jaipur, Rajasthan 302003, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9177406,
+                    "lng": 75.83381890000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91907507989272,
+                        "lng": 75.83524632989273
+                    },
+                    "southwest": {
+                        "lat": 26.91637542010728,
+                        "lng": 75.83254667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "1a566cfb4c1f4079d18bcb00ea6bb966d0478528",
+            "name": "Luharo Ki Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102393708584044631933\">Mazharuddin Niazi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAGExgfmhW4EA10lQDnPKoODQzWmFwuV7dJNnSdHht2AHDDbEwpMt08i9OGJ9CXfUDmhfZd3Cfd4dADw9e0zoMoYM1fDcSX-UrscLtNiduGfycUu-m3NctB6jmPiuw1iTLEhCmrXLWF787Yq2xilhX0fdoGhR95ZTh0cuCE8MG5zcwPtjrvX0OiA",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJI6jIxcu2bTkRIKz_j5Qbqm0",
+            "plus_code": {
+                "compound_code": "WR9M+3G Jaipur, Rajasthan",
+                "global_code": "7JRQWR9M+3G"
+            },
+            "rating": 4.6,
+            "reference": "ChIJI6jIxcu2bTkRIKz_j5Qbqm0",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 69
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jamuna Nagar, Sodala, Jaipur, Rajasthan 302006, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9087729,
+                    "lng": 75.7731822
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91012432989272,
+                        "lng": 75.77455017989273
+                    },
+                    "southwest": {
+                        "lat": 26.90742467010728,
+                        "lng": 75.77185052010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "564d37c18d577c0e6bd53a88ea692081f1e8917a",
+            "name": "Masjid Noor",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109624571492960110134\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARCCxDgzWx0wuBwVn3TyYszRYD38kx3vVeFWBmPoW7UAynRVxxcklRAu7QbZfEooDABMGH8PPuYzgfl5BhsVRiJyu0pQhMevYudHO9QWH7qKH1_r1F6JPGNyt-Y7sS5cEEhCz5N0a4VjlZzr0j2LG5fQ7GhS1TMCUegoKc3JabSmYgQDhpRseww",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJY76EvnC0bTkRZtb3ieHoVec",
+            "plus_code": {
+                "compound_code": "WQ5F+G7 Sodala, Jaipur, Rajasthan",
+                "global_code": "7JRQWQ5F+G7"
+            },
+            "rating": 4.1,
+            "reference": "ChIJY76EvnC0bTkRZtb3ieHoVec",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Subhash Chowk, Motikatla Bazar, Ramchandra Chaukari, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9291588,
+                    "lng": 75.8316613
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93051977989272,
+                        "lng": 75.83304417989272
+                    },
+                    "southwest": {
+                        "lat": 26.92782012010728,
+                        "lng": 75.83034452010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "c4a22793d043415fa462c672ddb03401ab5362b5",
+            "name": "Shia Jame Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100185873949646115143\">Mohsin Zaidi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4NtDosC76BIy0KPXjGn5xQCvp4GY-HxLHJMJG3nrw-6JEuuQ7ABtPjJ5xhu4PW0YAoDYiBfLAnKRw4FMdsJWsEKT9bG0J0D1V6SbMDNOKlmxssR2g8CSjszCrov2bGIHEhChN1QOxY72knTxjtx_HYspGhSgpWDdyE3vnbBL_cSx24p2edFtBQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJxeTabDaxbTkRD3DTeo66te8",
+            "rating": 4.6,
+            "reference": "ChIJxeTabDaxbTkRD3DTeo66te8",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        }
+    ],
+    "status": "OK"
+}

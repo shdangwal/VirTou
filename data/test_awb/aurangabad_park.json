@@ -1,0 +1,912 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_AAAAA9qYuECbWGH6H-Wu5DHYaAZHI4PnXS1GhZm4VN_MShWy1N9T0-TXfUHvO9eocoGRt9iUvYOvWmoVyfxHsPnFpg_w8EfBLLQfN4br8Q7bHaUa2hdbhn2QcudiKY35a_rROonlk-Cv6wgawWMneOZ3WJr-HJ_PKbbaIS1WRbRwrSVvTEaLWEjck_4tCEB6nV2gm9IsxU9PK_2tHPdZ-Wcpmm8DmD_yAjmNmElfryKqicCX35q7KIJaPQ_9Qwx_pKTXmbbhSuavlx03o8WUN86PywiAhuuWVqD8yAcZy9OQgAQ2bSbkVmSPDPUf5kDkm9kkV86L8ndrYCkOtyp6MDY4xoSEJ_CgHYRUU_VJwVQMCHz8xMaFM8EcUVYy_XELXK3C3nXwyhLxwkj",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Chhatrapati Nagar, Adinath Nagar, Chattrapati Nagar, Garkheda, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8644896,
+                    "lng": 75.3496005
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86584442989272,
+                        "lng": 75.35094177989272
+                    },
+                    "southwest": {
+                        "lat": 19.86314477010728,
+                        "lng": 75.34824212010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "74e765da8675915cef3b6d8019f38ed9db192cb2",
+            "name": "Adinath Nagar Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102593744480021418458\">Hritik Jain</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_7MbHR4F5fUd9fENFR9yX4sjItsuKsBp4h_x10C8qICchLAFcDHJxPJOhwba_ZJvGhAi2kunz3gKcIDMPa5ybdOwIsAV_BdMEQj2DE8fabe1DeEZmTD7f4-7XmAvhiQdEhAJUPKH_uw9Ri8y6ZlK9dfrGhS9p3kNUy3BgYQJvEEXAEjDBUThAw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ43CA-Yai2zsRK8ULDAXCa9A",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV87X+QR"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ43CA-Yai2zsRK8ULDAXCa9A",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 139
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Samadhan Colony, Behind District Court, Kokan Wadi, Samadhan Colony, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8761653,
+                    "lng": 75.3433139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87749477989272,
+                        "lng": 75.34466647989272
+                    },
+                    "southwest": {
+                        "lat": 19.87479512010728,
+                        "lng": 75.34196682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "184af3f9e2f98ac19804917efff72b8c4f0190ee",
+            "name": "Rajiv Gandhi It Park Co-op Society",
+            "permanently_closed": true,
+            "place_id": "ChIJY7xpoxWY2zsR4TC00335g7A",
+            "rating": 1,
+            "reference": "ChIJY7xpoxWY2zsR4TC00335g7A",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "K Sector, N 3, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.871288,
+                    "lng": 75.3652046
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87263712989272,
+                        "lng": 75.36631452989272
+                    },
+                    "southwest": {
+                        "lat": 19.86993747010728,
+                        "lng": 75.36361487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "8521a221e400b3ba188629a5ee3b189d3671f281",
+            "name": "N3 Ketley Garden",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112569532473309151442\">eshwar badhe</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMB5bJ8XOhOlvL8bWY0qgGz69z9v8R98zMQnwbyn5ke_YyKlnVcN08Uazz6Oy9IrGQlBhyPC4Zh551rJJ-IwIVkBzCQeZf01Yg_3SJxx5VmILjW--b5UB9lDKX7ve0Ti7EhB8fdePj-YEujzCfB8-hQHOGhQz5icGp8OPP9Vpm3iyagVQ8ELARg",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJOVlu1_Ki2zsRgfkXDwMRLNE",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV9C8+G3"
+            },
+            "rating": 3.9,
+            "reference": "ChIJOVlu1_Ki2zsRgfkXDwMRLNE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 629
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dargah Road, Beside Chetna Plaza, Opp. Roplekar Hospital, Shreya Nagar, New Usmanpura, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.865278,
+                    "lng": 75.33606390000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86662207989272,
+                        "lng": 75.33731837989274
+                    },
+                    "southwest": {
+                        "lat": 19.86392242010728,
+                        "lng": 75.33461872010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "a3717489f7380915e8f3adea96f45ff8099c4667",
+            "name": "Samrat Nagar Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102723726238287800538\">Sumit Kokate</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4ubV8_6UEnzg0gJBbLgqFLFL5323P-lGVLE7F_Pa3fKYmXr0H-ejPOz439ur7G8EpbKV7VlPocjrFvf9yL8dLpMnv-D-bjyZTg-vHIdZz6KCqzzbQH8eYChu-FkkNLz1EhA6Ilhk_PiSynZVCDen5o5UGhRWhWl0EzuCZoENRkCSgKxYofttsQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJpzYXrn6Y2zsRKuBAUWCSSVw",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV88P+4C"
+            },
+            "rating": 4,
+            "reference": "ChIJpzYXrn6Y2zsRKuBAUWCSSVw",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 111
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "N5, Cidco Rd, Cannought Garden, Cannought place, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8781095,
+                    "lng": 75.3637665
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87945727989272,
+                        "lng": 75.36496312989271
+                    },
+                    "southwest": {
+                        "lat": 19.87675762010728,
+                        "lng": 75.36226347010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "d1b9f71f376343d5388a45cc89757a3812805ca8",
+            "name": "Cannought Garden",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117416380384387222511\">Pawan Sonawane</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAw1Js__Q8IWImsEsqQXIOQb2B5dEnh7tsenUjpsVQcwMRM1aH5fyWEecwvm5y3FD5H5HGMCcDzC0oAM6843lUEZPdlmb0U6U5nDsmYLWCDjGyxdKSrOQJOiv873CL-Q-jEhDQM6slD4l-_RH4tUh9MhQ6GhR3OH6wZROH3Xki-LrQjMX0TSZRoQ",
+                    "width": 2250
+                }
+            ],
+            "place_id": "ChIJXfD_R5Oi2zsRS4XDQVRjGm8",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV9H7+6G"
+            },
+            "rating": 4,
+            "reference": "ChIJXfD_R5Oi2zsRS4XDQVRjGm8",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6069
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kranti Chowk Fly Over, New Usmanpura, Snehnagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.872383,
+                    "lng": 75.3286632
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87375347989272,
+                        "lng": 75.32990262989271
+                    },
+                    "southwest": {
+                        "lat": 19.87105382010727,
+                        "lng": 75.32720297010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "945d049bff10830186c4cb6c3925eb4c0ac970cf",
+            "name": "Aurangabad Smarak Garden",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112057502641787776480\">Mahesh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAliKfj8P3DfN9ISmEql-aHqPUk-Ph2fYCRWkJ6N0MwvKeRh80ISZkuPEkZUFsrygA7TkRbjvC33pn9x6HAA1QPLg6I8cOfQ5cfe7GhylRydXW6wzAKxLvSZ4vC49QECoFEhAtPBtfGSEJxDOoIH2CFW-VGhTYETQceEX9ccHIe7Q1W_uvSbvVaQ",
+                    "width": 2268
+                }
+            ],
+            "place_id": "ChIJUQYr22-Y2zsRnADneimQCFc",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV8CH+XF"
+            },
+            "rating": 4.6,
+            "reference": "ChIJUQYr22-Y2zsRnADneimQCFc",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Aanad Nagar, Shastri Nagar, Garkheda, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.867043,
+                    "lng": 75.346058
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86840912989272,
+                        "lng": 75.34734197989273
+                    },
+                    "southwest": {
+                        "lat": 19.86570947010728,
+                        "lng": 75.34464232010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "2a5715bd3bea2f9ee03cfabe2d62e772c60e73d4",
+            "name": "Joggers' Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109202908562382196466\">Kalyan Sonwane</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAsN6IA34WoSaya56XrC5qsDoEmMw1u0trynfdZLsZ4cpX3uOsRcPHdVbMCZ2jK9Dp0Kenmy2uvnKAn_IhU5MaOAXIzyl9mssDAm3F0M-HnHTHeMpK2ukJMH90fMzXimhAEhB3NCDFLlnDxxMsDuzfkFqfGhRSExmVhI7tPRjIJQ7aFxoao8aQVQ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJdS1G5IOi2zsRMgXJqSKaaCo",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV88W+RC"
+            },
+            "rating": 4.1,
+            "reference": "ChIJdS1G5IOi2zsRMgXJqSKaaCo",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 201
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "42, Jalgaon Rd, N 7, MIDC, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8890536,
+                    "lng": 75.3639113
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.89040252989273,
+                        "lng": 75.36531137989272
+                    },
+                    "southwest": {
+                        "lat": 19.88770287010728,
+                        "lng": 75.36261172010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "44ae2fc362dda54d424be6e02399ae56aa877711",
+            "name": "Sai Park N-7",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101176630214331257577\">Anushka Bhargava</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAiUJrtPdWIRLUfjedjh7nHMBdKvsMPMLwK1EbZArrdnStLmHJ2sMw05EobwV0ZULwpSvK_uJ9V3pJOWRFtCZxPklJjNYgj-FzY6zQv_IS1CFkqbIAQTnOa1pipLnVQa2AEhCYUb6DNRSl5Tmw8_XyZmuiGhRzfrOrKs6a33hDmbhi2R-Vd3WYlA",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ-djAb7-i2zsRq5uJrCLNqUM",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV9Q7+JH"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ-djAb7-i2zsRq5uJrCLNqUM",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 132
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Near Clock Tower, Mondha, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8871191,
+                    "lng": 75.3356654
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88847317989272,
+                        "lng": 75.33696182989272
+                    },
+                    "southwest": {
+                        "lat": 19.88577352010728,
+                        "lng": 75.33426217010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "2cb2a7d3422f8768dfadc970620fb816ab6e4a1f",
+            "name": "Shahgunj Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 614,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112631888335010347944\">Rushikesh Abhyankar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbc8pitRpET4TkLkf0fOdYo0pqbbU1GGHuD3818FH4lqO-J0Vb_nKqf0mPTGMlCrFvRuYJo6FekTDgKx5x599GYZS69-ULbgaL6sCAV1H3fyQJJKFA3_CxbzC_JubYSW5EhCU8rk6Ak80yLU4plpGnFauGhTNNowNV5-bvC7_AqOmmGPYjOYQEw",
+                    "width": 701
+                }
+            ],
+            "place_id": "ChIJ_34niguY2zsRYZKJgh84KUc",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV8PP+R7"
+            },
+            "rating": 3.2,
+            "reference": "ChIJ_34niguY2zsRYZKJgh84KUc",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 89
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dr Rafiq Zakaria Marg, Chatrapathi Nagar, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8993267,
+                    "lng": 75.3390771
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90069332989272,
+                        "lng": 75.34039667989272
+                    },
+                    "southwest": {
+                        "lat": 19.89799367010728,
+                        "lng": 75.33769702010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "05f3c869ecda25d27d71b9ba17a240b2b305c385",
+            "name": "Salim Ali Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1184,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103922014467118746781\">Manoj Tupkar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAf_GaaxEhHLaFCyvWNuJbHdnDmgJD3UmYJ6os-LcuAHutZMHBTIaoQ-vkVVZuFyXotB2xh9tK54reyn8PVSAKkrgeeDlGYudhFyUak_qph-a9D-IDFYAr9Lhl_4TbUv6nEhA75tNW74WmTaQwV2sFLsvLGhTZS9UhzYNgxHLJt0wyh76nurzHyQ",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJOb_rFweY2zsR_OS1VPAq_1c",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV8XQ+PJ"
+            },
+            "rating": 4,
+            "reference": "ChIJOb_rFweY2zsR_OS1VPAq_1c",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 242
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nandigram Colony, Vishalnagar, Nyay Nagar, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8686993,
+                    "lng": 75.3518236
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87001532989272,
+                        "lng": 75.35315482989272
+                    },
+                    "southwest": {
+                        "lat": 19.86731567010728,
+                        "lng": 75.35045517010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "758e7342dc83c5c1dc8c8a20559a62e46414e505",
+            "name": "Nandigram Colony Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105502287987638872500\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAATuavLo-YvH54VBL_dOkQzs6AJAo_GPJuETFcU30J7YCDmBjR3V4dGt7ICExaeOl4bYSjixvAo38qP6OGjuh3A6fXkWm4gm62Ln3pkQB8i2JpW5TF2IM_E65wgZCKakUfEhA77jbN1MnJTtie3rE_EQDoGhRdhJlAkiAxeZDXe3ta5MmPZ9Ci_A",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJaxeFk4Wi2zsR2NPnGe7MBpg",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV992+FP"
+            },
+            "rating": 3.6,
+            "reference": "ChIJaxeFk4Wi2zsR2NPnGe7MBpg",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 57
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shastri Nagar, Sindhi Colony, Aurangabad, Maharashtra 431009, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.867018,
+                    "lng": 75.3466184
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86841192989272,
+                        "lng": 75.34784767989272
+                    },
+                    "southwest": {
+                        "lat": 19.86571227010728,
+                        "lng": 75.34514802010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "7bcf281cd4b169d2f5afd89013b680091bf32be0",
+            "name": "Aurangabad Mahanagarpalika Garden",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 549,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113894478881526274633\">sandeep shejul</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAv6KOgRbHKLcliE3w9r60pfP_AlElmpGxCQy2wfqEgDj69lcQ2JWokPYwQT2goi8hFcvY4eM-CqMrxSWkvoRX60NdoR_Kx2fn8unjFrFstWg9jhgaRXzP3TR8WmrGKCSNEhDnDQxlDrv22ahsv3STbMt7GhQRqVhlRYvg2ruMydlSIVxMA2eZ_A",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJpzyKaSWj2zsRkjyTdyygKMY",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV88W+RJ"
+            },
+            "rating": 5,
+            "reference": "ChIJpzyKaSWj2zsRkjyTdyygKMY",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Central Bus Stand Road, Mhada, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8797045,
+                    "lng": 75.3151286
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88166612989272,
+                        "lng": 75.31658142989272
+                    },
+                    "southwest": {
+                        "lat": 19.87896647010728,
+                        "lng": 75.31388177010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "f1633947d6a8ddb5b4000972bb2acb67423b9fe1",
+            "name": "Siddharth Garden and Zoo",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116905638115643866175\">Bhavesh Nakhate</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA8_zNpCKYeOprtGYQ2PbYOhOlO0Kcw11pBA9p4RvCbLp81YHOFu2KlyIZI4eYCbBZUu0PAQXWpx5ommdg1iwAuEw6YOWpxNF-lbTXKO10G1SklPp0Tg0J9yXsqGB9yaq0EhDUsizWlA6nMXtV0lDpujcMGhTZpsS8411X91pwY4OH8BavMra_xQ",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJS7NX-UCY2zsR90dknaNvEFQ",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV8H8+V3"
+            },
+            "rating": 3.9,
+            "reference": "ChIJS7NX-UCY2zsR90dknaNvEFQ",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9152
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Central Building, Adalat Road, Adalat Road, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8721221,
+                    "lng": 75.32325209999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87346442989272,
+                        "lng": 75.32460212989271
+                    },
+                    "southwest": {
+                        "lat": 19.87076477010728,
+                        "lng": 75.32190247010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "1c0e4ec62e01024ea6b7b8fe9fdc3cf9be052d09",
+            "name": "Park & Gardens",
+            "permanently_closed": true,
+            "place_id": "ChIJSUPtyGiY2zsRNY3iyQ5eNQ0",
+            "rating": 3.9,
+            "reference": "ChIJSUPtyGiY2zsRNY3iyQ5eNQ0",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Naralibag, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8878915,
+                    "lng": 75.3202225
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88917652989272,
+                        "lng": 75.32168047989272
+                    },
+                    "southwest": {
+                        "lat": 19.88647687010728,
+                        "lng": 75.31898082010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "aadea434d33544bf89f9a53195b90a54a053fdb9",
+            "name": "Jubilee park",
+            "permanently_closed": true,
+            "place_id": "ChIJb4cYBOeZ2zsRq_UsfNaV4UI",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV8QC+53"
+            },
+            "rating": 3.8,
+            "reference": "ChIJb4cYBOeZ2zsRq_UsfNaV4UI",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 45
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mayur Park, Mhasoba Nagar, Harsul, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.911299,
+                    "lng": 75.3588865
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.91266857989272,
+                        "lng": 75.36015637989271
+                    },
+                    "southwest": {
+                        "lat": 19.90996892010728,
+                        "lng": 75.35745672010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "aac6ea5ebed6356077ef9d1725147fec88958356",
+            "name": "Mayur Park Garden",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114826385781048582818\">Deepak Dilwale</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAud8-hDRzFL0KOUHADfC-Y-yaq6oZyLpBkIxn4X9vPcYDn9Wew95osR4z0UA9-mUMeYTicD-lXdoac5Dq681p9Uxd0iJTrlCfyRHEf5sS_-887I7o53GZhVlpPjY4EjG5EhCuQY8HVmQ3yCbmbnmanl2jGhT3jBxSsl0XfZd3e59p3gB-Eh4UZA",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJadpKgEu92zsR123wNts8-EM",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQW965+GH"
+            },
+            "rating": 3.6,
+            "reference": "ChIJadpKgEu92zsR123wNts8-EM",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 396
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dr Bhapkar Marg, New Usmanpura, Pannalal Nagar, New Usmanpura, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8724102,
+                    "lng": 75.3284632
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87375817989272,
+                        "lng": 75.32982297989273
+                    },
+                    "southwest": {
+                        "lat": 19.87105852010728,
+                        "lng": 75.32712332010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "59af4961ed2b785523acd9f1eaadd2cc64462c96",
+            "name": "Aurangabad Mahanagarpalika Swatantrya Sangram Smarak",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113486238188019696753\">vinod bhople</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9L_wv0UJTgmYzRxRSHtjpNbyT5Aaq-y0UnTRDBRnmfrQ8iZL2OAzXQ9caiX9tA8sWtDn5t7NoMFTK2o9MpUBYS2hYjZnoW3P8qnbsLPekGgzwMcyTGjAk0oa1nDfRGEuEhBPMr3VrKEAJ3jMBqinZZ-eGhSjy28Nfwsy4TfCW_zcQsrqAQyxQA",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJu_X1wW-Y2zsRlEXR5aCmyIQ",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV8CH+X9"
+            },
+            "rating": 4.5,
+            "reference": "ChIJu_X1wW-Y2zsRlEXR5aCmyIQ",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "RTO Road, Padampura, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8663837,
+                    "lng": 75.310788
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86769247989272,
+                        "lng": 75.31238232989273
+                    },
+                    "southwest": {
+                        "lat": 19.86499282010728,
+                        "lng": 75.30968267010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "d12e37045eab7b197829e749429e06c4ada72a1c",
+            "name": "Lilasons Walking Plaza",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100293818424318447506\">pathan danish</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAe-a_ZPKu1n7QTQFzZDffTt15jonMw4fXgjYwDVSj9TNwiI8wR7AyqPSxgfaNgxXTP7nE4pDxrziJYkgVlktHumc_8CxcWGKpWM2MhyBb6PTlgiMuBExcuW55j-aOZQiXEhCT5Gz6oEmBG0udzeuiGLrAGhQkr6Af7IJbMYlF57Ycd11l7w1wUw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJYVr0CluY2zsR2u25NpzZzt0",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV886+H8"
+            },
+            "rating": 4.1,
+            "reference": "ChIJYVr0CluY2zsR2u25NpzZzt0",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 769
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "dwarka puri Pratap nagar lane 1, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8583429,
+                    "lng": 75.3248747
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85964822989272,
+                        "lng": 75.32625247989272
+                    },
+                    "southwest": {
+                        "lat": 19.85694857010728,
+                        "lng": 75.32355282010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "6c30d122a268bdbc3c752b1bd8e648d2179ab61b",
+            "name": "Dwarka Puri Children Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100783180584543297453\">Prakash Rane</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAiKex9bimcnmgmj920FJ8ITf3NryXDQn0dxHHXF8-8tM_3Rs-4lq9XN123i62_4WoHDe9S0Tpgn6XXMqiZUtNcYq-ppNbKu3_WF8La-fRCH5Oln7Ld1Lls6fy1UhdmzOTEhB_MJYwIuSOxmliIXctmlu6GhToi7fuWtVCF4jF_7qcdHE5_ZCVFg",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJbYnqytCZ2zsRSS2X62Q2MAk",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV85F+8W"
+            },
+            "rating": 3.6,
+            "reference": "ChIJbYnqytCZ2zsRSS2X62Q2MAk",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Satyam Nagar, N 5, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8876743,
+                    "lng": 75.3615841
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88903657989272,
+                        "lng": 75.36293332989271
+                    },
+                    "southwest": {
+                        "lat": 19.88633692010728,
+                        "lng": 75.36023367010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "5a7dfee1d87e20a10b0144c421db92eae0837a38",
+            "name": "N-5, Priyadarshani Colony Joging Garden",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 719,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114307910702458602998\">Dr. Meenakshi Battase</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUb-zC6gEx9A3xQ7yg5VPvz9nFu-3DUWjCn6WtPYkp_XPGjr8FPDQVNKkGzslI6Com8krMqDZCY6WPE8w64SS4kfloBBxVYryWIeCXy6JL-9DnyF3XBJ1djN8Chqz5UxSEhB82yV9_cLt0roHPmQxJNW1GhT8Ww4ZiC_4-Ywu7YXRn80cnZduag",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJTdXDWz2j2zsRhvgI1-AbBTs",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "7JFQV9Q6+3J"
+            },
+            "rating": 3.9,
+            "reference": "ChIJTdXDWz2j2zsRhvgI1-AbBTs",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        }
+    ],
+    "status": "OK"
+}

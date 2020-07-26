@@ -1,0 +1,980 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-wAAAPTW9M5vuQg3XNtuRnZwvJegGDiFBXuCQAj5YkwrtjULQ-lw08Ux0vJCljR2XgThd72wMkEbDFWglSpNZkyEGdTp6AW85_WSjpi9lZ7QB8npOdGXSqIQGqU2ItXF0YwpCTpYtIeEeQAIsVAYpb9H1PripWXmNpnHjF6v0mubCbHVI3fBln_pscQK6GGCdZSfBuLn2lrsGgDy4cJujbrkYCTeovegT9EajJ2VGLkHKcvdNHx4w9RkQ0I-0UYupxla9JcMBVYP3EPaW5N2EnLxZx2eCk5kG8dpr8_blUyM_frYgQiw6XOH5u7mlYu4uuY292huOD0hZt5e0sB3SVaOoCUSENpUIPjG60DSkeYoXlhILK0aFL8P4Q42q8Jt8uYdvCyKcQAYqm0e",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "S-34, Shanti Nagar, Near Labour Court, opp. NBC Bearing Factory, Rajasthan 302006, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9151215,
+                    "lng": 75.7786117
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91643827989272,
+                        "lng": 75.77996502989272
+                    },
+                    "southwest": {
+                        "lat": 26.91373862010727,
+                        "lng": 75.77726537010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "c36d86600a69ff8e88d78c6d7154f470a264effb",
+            "name": "Hotel Moon Light Palace Jaipur",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114097930771268393465\">Hotel Moon LIght Palace</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASp7ITS08NLd4MfGpYIQ3UlznTMuax7cFME_95fmbCtqTKul8vU8z5QPb046Uz0zOsjTbnWo4mfQv-LWvErPe7TKkquBzvh8txrxiRdw7nRF0dXcieYHKIYJgzJTu_un6EhDdU7UGfsUAsrZUVbrAKfTYGhSsaUOEMB_xhRU5Ez1uxA7abCnPGQ",
+                    "width": 5760
+                }
+            ],
+            "place_id": "ChIJb6H5rXW0bTkRixXWyj_K75A",
+            "plus_code": {
+                "compound_code": "WQ8H+2C Civil Lines, Jaipur, Rajasthan",
+                "global_code": "7JRQWQ8H+2C"
+            },
+            "rating": 4.2,
+            "reference": "ChIJb6H5rXW0bTkRixXWyj_K75A",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 235
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "IIIrd Lane, 24, Hawa Sadak Rd, Nandpuri Colony, Jaipur, Rajasthan 302006, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8987454,
+                    "lng": 75.7850969
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.90004412989272,
+                        "lng": 75.78646647989271
+                    },
+                    "southwest": {
+                        "lat": 26.89734447010727,
+                        "lng": 75.78376682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "6c5af1868cfd4d8a62b3920c5ba23e3d6ecd44e5",
+            "name": "Hotel Rani Mahal",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111386773658716276080\">Hotel Rani Mahal</a>"
+                    ],
+                    "photo_reference": "CmRaAAAABt7UYYF5oiDE65wLL7K6y-gq9S23Nuqni3gju_57IH0gE-YaQbNZl5ZsQlCdUTOgfQVT7_YGl4F9cABif__cb9mxtoFsfAP1-O_rfgZ7Z568d6yHUPn1dILZDTaWhjPfEhBAByQd_DhXvrq8IMspOOw1GhQiBO3yrl_q58G8Y-jO_osLf375mg",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJ922iwRS0bTkRdOphwwLdqcQ",
+            "plus_code": {
+                "compound_code": "VQXP+F2 Jaipur, Rajasthan",
+                "global_code": "7JRQVQXP+F2"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ922iwRS0bTkRdOphwwLdqcQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 560
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "AC-4-C, Gayatri Marg, Sawai Jai Singh Hwy, Bani Park, Jaipur, Rajasthan 302016, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9266917,
+                    "lng": 75.79047419999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92837412989272,
+                        "lng": 75.79211797989271
+                    },
+                    "southwest": {
+                        "lat": 26.92567447010728,
+                        "lng": 75.78941832010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "941630a253d32c22ce0634dde688b5db90eb5b7c",
+            "name": "Welcom Heritage Traditional Haveli",
+            "photos": [
+                {
+                    "height": 556,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111384553759313137412\">Vidyadheesh Upadhye</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAF57XrHecQW9pG8Og58svEiPKD_A7CeoVGu2yJ6_taR3bo_zHeFciyNAma8ODCgSaRQq83tS_zsYwLI8dN5o0By0ENpGNFtSsdTpixJChghi1fawExf2FBzK81CIIT8dLEhDldm-Tczg8PsxF0zHs-NqmGhQTvfbvCYZjeq-w1n6_Ap1ndjlyJg",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ61BEmfGzbTkRERSYD7d_Dc8",
+            "plus_code": {
+                "compound_code": "WQGR+M5 Bani Park, Jaipur, Rajasthan",
+                "global_code": "7JRQWQGR+M5"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ61BEmfGzbTkRERSYD7d_Dc8",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 748
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "E-26, Durga Marg, near Collectorate Circle, Bani Park, Jaipur, Rajasthan 302016, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9277786,
+                    "lng": 75.7864833
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92916957989272,
+                        "lng": 75.78787067989272
+                    },
+                    "southwest": {
+                        "lat": 26.92646992010728,
+                        "lng": 75.78517102010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d44c8b88dcd76c4822138a0a4e9e217b616bb44f",
+            "name": "Krishna Palace",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1362,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113330241315357371976\">Krishna Palace</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9FJTBo2pnYv1RCQz7kd8zjaC9QlsQVJxJILi0Gy8J4eIxgblaq_4XTnGSGlNmfUCQOhZnq8ISSImFOvr2fdz3705BWZo1WVZ-Ogy1DbJ_n1Kuk6zYU2VE3byANcJftGGEhBbGuyqB6J2SNLev5i8f4O_GhTskrOHQQAKaZX8S_2gTbOq7jqRew",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJFzsS9PKzbTkRC2p50yVD-WA",
+            "plus_code": {
+                "compound_code": "WQHP+4H Bani Park, Jaipur, Rajasthan",
+                "global_code": "7JRQWQHP+4H"
+            },
+            "rating": 4,
+            "reference": "ChIJFzsS9PKzbTkRC2p50yVD-WA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 454
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mangalam GeejGarh House, Village, Hawa Sadak, Sudarshanpura, Civil Lines, Jaipur, Rajasthan 302006, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9013889,
+                    "lng": 75.78472219999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.90273867989272,
+                        "lng": 75.78603257989273
+                    },
+                    "southwest": {
+                        "lat": 26.90003902010728,
+                        "lng": 75.78333292010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "1e77294817b3fcd1eb95afe5300e5058c03ba7f1",
+            "name": "Ginger Jaipur",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3744,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103424443965843143944\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbn6uNl25dTR79tXyg5qwvhW-mPaMPiL85-XBXDkBJb8lesHDfAqFYGFuZsfEa4TYg8d8F2HK-4SE50rf2N0upM3kbnckbOJ-EraYHjsQWIg9LKJbkSqC-sGf0-28Nm7UEhDJGuofqobbDMNaoYTp0jrqGhQ8fIP3UZoaAZ1WTnAWZfQl6LKAGA",
+                    "width": 5616
+                }
+            ],
+            "place_id": "ChIJ-b0CTxO0bTkRDLjMSGGz5_Y",
+            "plus_code": {
+                "compound_code": "WQ2M+HV Civil Lines, Jaipur, Rajasthan",
+                "global_code": "7JRQWQ2M+HV"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ-b0CTxO0bTkRDLjMSGGz5_Y",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1929
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Railway Station, B-9, opp. Hotel Rajputana Sheraton, Fateh Singh Market, Gopalbari, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9181555,
+                    "lng": 75.791046
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91951142989272,
+                        "lng": 75.79244682989271
+                    },
+                    "southwest": {
+                        "lat": 26.91681177010728,
+                        "lng": 75.78974717010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "c8c907f116d1197b9e19799c2f65655f8bd97a6d",
+            "name": "HOTEL ABHINEET PALACE, FAMILY HOTEL NEAR JAIPUR RAILWAY STATION",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112244622819274903230\">Hotel Abhineet Palace</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAltQ5IUkevSewBAp_SbCZjV8eQVBToSjgNQZqGN_mtKacZExgT__9QzNHAL3LAK8Ks531VXuiTJiT9CyjRHtX3BGYLPxCKpWQMi0J4xsMtXLKElFLBH_agTUOIWtvO5pxEhD3ANHtZEauSwIL1b6Osk29GhSLk6MNaHjljeU6oQH7ZospMhO7PA",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJV2013gm0bTkRRCUYohwps7I",
+            "plus_code": {
+                "compound_code": "WQ9R+7C Jaipur, Rajasthan",
+                "global_code": "7JRQWQ9R+7C"
+            },
+            "rating": 4.1,
+            "reference": "ChIJV2013gm0bTkRRCUYohwps7I",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 633
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "A3,H2, Sunder Path, Banipark Near Crystall,mall, Jaipur, Rajasthan 302016, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.923356,
+                    "lng": 75.79216509999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92469352989272,
+                        "lng": 75.79351772989273
+                    },
+                    "southwest": {
+                        "lat": 26.92199387010728,
+                        "lng": 75.79081807010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "35aef9505212e9afd715828cac9353de2728f7c4",
+            "name": "Hotel Golden Heritage",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 538,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118161140427697138897\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHyotIhCDB17Qjiv1et0ohZN-JSJpYYm0RwAYmzIv5gBhZzjJrVHh7PucfWFodcyXwk6hcG3sA_HCIb3R9ySLE9YC2e7sFb0gFrL3ChS4HVo1ZJy3YHzVAkot76y2xLGkEhCAJiWBXRFcTCuaMkOkS949GhSD629AP5YuWcoPqGMuhHiTwqWEwA",
+                    "width": 359
+                }
+            ],
+            "place_id": "ChIJMR5d2vazbTkRCyxPgkVgARk",
+            "plus_code": {
+                "compound_code": "WQFR+8V Jaipur, Rajasthan",
+                "global_code": "7JRQWQFR+8V"
+            },
+            "rating": 4.6,
+            "reference": "ChIJMR5d2vazbTkRCyxPgkVgARk",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1848
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "First Floor, 85-A, Rajamal Ka Talab, Icici Bank Building, Chandi ki Taksal, Opposite Tourist Police Station, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9292998,
+                    "lng": 75.8281061
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93061372989272,
+                        "lng": 75.82944627989272
+                    },
+                    "southwest": {
+                        "lat": 26.92791407010728,
+                        "lng": 75.82674662010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "e79154cac9887e045f02886128dee79b92d99554",
+            "name": "Zostel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 815,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112542346217735393261\">Zostel Jaipur</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAd443bzL7L-GM17C5Plv8u1Y3IKKxwcOsf2u8lDOG88V2YYIN81BgMsRwK0uHecIH9sYyHiThYi7tpyciVKjVz8lLsMTbEeAzKejn2QTs07HTtgItXwdRX5hyNh6vGbhiEhCQew8i-KHle1N5353GvdVkGhTKYC6pddZkmJy0mii84qy1UZJW2A",
+                    "width": 1222
+                }
+            ],
+            "place_id": "ChIJtUTIFnK0bTkRgoPie3ECx0c",
+            "plus_code": {
+                "compound_code": "WRHH+P6 Jaipur, Rajasthan",
+                "global_code": "7JRQWRHH+P6"
+            },
+            "rating": 4.6,
+            "reference": "ChIJtUTIFnK0bTkRgoPie3ECx0c",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1477
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "B-16, First Floor, Bhawani Singh Rd, Durgadas Colony, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9024769,
+                    "lng": 75.79427
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.90380112989272,
+                        "lng": 75.79561102989271
+                    },
+                    "southwest": {
+                        "lat": 26.90110147010728,
+                        "lng": 75.79291137010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "4293d39543e858500e87ae4e067fa1fcc24ce449",
+            "name": "Blue Beds Jaipur",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2001,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109569354943275023912\">Blue Beds</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAdBIBfuSsSq25K75ePBVYys-qRTn9Gltd0GoSBa6DWi9pHeMesg_rK5N0Z4TLVSYhD7qYo_iG9NaIsFI5ip4rtNMEVGm7a-kmHSAxE3M6osEDHMpNMGKN9wol3E_FTxTfEhBrf_j760Z3ttiATB-YTWP4GhQOyoXhCm3lCAA4miJf9WjsUZckMA",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ0ZENvBC0bTkR-YKMUQn0SLs",
+            "plus_code": {
+                "compound_code": "WQ2V+XP Ashok Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWQ2V+XP"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ0ZENvBC0bTkR-YKMUQn0SLs",
+            "types": [
+                "travel_agency",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 275
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Panch Batti, Dhuleshwar Garden, Hathroi, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9141136,
+                    "lng": 75.79750469999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91549317989272,
+                        "lng": 75.79886672989271
+                    },
+                    "southwest": {
+                        "lat": 26.91279352010728,
+                        "lng": 75.79616707010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "2f2fa1ebcc4880dd8c058e0fd4afbc90db450f59",
+            "name": "The Mellow",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103451952730246855702\">Mohan Krishna</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAevZ0Pk41B-q8uxKnr8UYyDW8sXA9R6GHyYs9Ay5IenWzYd2V2MzesohoeeSU0lmBDPn2K3rl2zs5h4H5BYu5iabCU5BEu6T06ljUL5BH46g_QR8XXzDjBwo9GI4AJKB5EhDnK_0xvaATp2JVPk3I5_QSGhRv0dq_AEgIcocFajBQNQp6hM2nkQ",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJV6OCZQa0bTkRz7AUt_0iIj8",
+            "plus_code": {
+                "compound_code": "WQ7X+J2 Hathroi, Jaipur, Rajasthan",
+                "global_code": "7JRQWQ7X+J2"
+            },
+            "rating": 3.8,
+            "reference": "ChIJV6OCZQa0bTkRz7AUt_0iIj8",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7, Park House, MI Road, near Ganpati Plaza, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9195383,
+                    "lng": 75.7978272
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92087607989272,
+                        "lng": 75.79917172989272
+                    },
+                    "southwest": {
+                        "lat": 26.91817642010728,
+                        "lng": 75.79647207010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "e99bf4dfb2a67ab0af7bee12630c0ce6f27854ad",
+            "name": "Moustache Jaipur",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3091,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108197170659321689260\">The Moustache, Jaipur</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANtUrBeI9lLq0hmrICXIYSP9XQbG8d7Y5tUQJu1GNiLDPOGkV6LnGcYnO0abisPWOda_FDDun1V1wBmsuCskb2PVZW2F5951izC1evC1CLuNCuTy7Bk-TBCYzeCJDocNsEhBBYhgSbBkGpicuR5AcvykSGhQgEb2mw2ithpjk1Y0ANKSQEZl7MQ",
+                    "width": 3376
+                }
+            ],
+            "place_id": "ChIJ7cSGfPizbTkR1-KDSgp4T5o",
+            "plus_code": {
+                "compound_code": "WQ9X+R4 Jaipur, Rajasthan",
+                "global_code": "7JRQWQ9X+R4"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ7cSGfPizbTkR1-KDSgp4T5o",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1181
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "D-76, C Scheme, Chomu, Prithviraj Rd, Devi Niketan Compound, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.911921,
+                    "lng": 75.7946985
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91331432989272,
+                        "lng": 75.79607262989272
+                    },
+                    "southwest": {
+                        "lat": 26.91061467010728,
+                        "lng": 75.79337297010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "64e23fceb5c3e42165db41c2b362d6ddaa41bcc2",
+            "name": "goStops Jaipur",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105393759103449516634\">Vipul Jhajharia</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQJjle1fsqkO1p-TMgDb5doS-caNrbNMvXIZkoHEkZvAwgvEqd0Vjq6KmsE0kGrQyVTgQSonMLe3wknYXYs1uwtmFtLkFlyEEviy5-ab9RsIKir8ZzIt2Rd1Qo8juCmulEhCSq09mrXHIKR6G5JNkNzyHGhThHZRorWbI2h1CWk5bKW9Z-HIsCw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJHwe5RQ-0bTkRe8DUXLRjHF8",
+            "plus_code": {
+                "compound_code": "WQ6V+QV Jaipur, Rajasthan",
+                "global_code": "7JRQWQ6V+QV"
+            },
+            "rating": 4.2,
+            "reference": "ChIJHwe5RQ-0bTkRe8DUXLRjHF8",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 524
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Hathroi Fort, 59, Ajmer Rd, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9161,
+                    "lng": 75.796008
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91744767989272,
+                        "lng": 75.79722387989273
+                    },
+                    "southwest": {
+                        "lat": 26.91474802010728,
+                        "lng": 75.79452422010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "37cbdaa3c1854dd1aab7d839cbe2f5cf5919e3cb",
+            "name": "Hotel Kalyan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105908823082820004409\">Hotel Kalyan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOPy0QyWRkOztk86gvZX0uyWC-BH5RqFkHKczfAFPo9P8v3MfItROsaXYNFqH2nvyWFNs9czI_n4jylbEdOb-DsOdJsphBuZHj_JHcwdm4MvTmEG07fMlNFRpAWiX89YvEhCzViffAkmDDRE4gqQ24aQtGhRPNzcw-AKpzvmTnTVJlwDBGZriZw",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJG9_VoRy0bTkRPztag-IhVME",
+            "plus_code": {
+                "compound_code": "WQ8W+CC Jaipur, Rajasthan",
+                "global_code": "7JRQWQ8W+CC"
+            },
+            "rating": 4.3,
+            "reference": "ChIJG9_VoRy0bTkRPztag-IhVME",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1923
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Station Road, Near Central Bus Stand, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9235625,
+                    "lng": 75.8016944
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92492487989272,
+                        "lng": 75.80286292989273
+                    },
+                    "southwest": {
+                        "lat": 26.92222522010728,
+                        "lng": 75.80016327010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "65fecd75336fb35cf9e751105134ef76343cdd10",
+            "name": "Fort Chandragupt",
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109830637489045021305\">Fort Chandragupt</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAofoU1dlSSP_muGaeLn0Hs2-pJMg4o91xE7CqUDMUKfhFX-Q6KnXylZKRdAdgqMaT25N-gIdhYkYURSA8PY0QZDhIW8OcdEVOeFMCoP_Prs6qjfwRt_mXhdj1fh9LITGFEhCGzjTEUs1vDi8we6riT29uGhRaTuNOMKE35knEs37-WPQTnlGqlw",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ7Uepzv6zbTkRZZ88WC5sw8k",
+            "plus_code": {
+                "compound_code": "WRF2+CM Jaipur, Rajasthan",
+                "global_code": "7JRQWRF2+CM"
+            },
+            "rating": 4,
+            "reference": "ChIJ7Uepzv6zbTkRZZ88WC5sw8k",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1413
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No. 9, opp. ITC Rajputana Sheraton, Fateh Singh Market, Goplabari, Jaipur, Rajasthan 302006, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9178929,
+                    "lng": 75.7918352
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91930502989272,
+                        "lng": 75.79321927989271
+                    },
+                    "southwest": {
+                        "lat": 26.91660537010727,
+                        "lng": 75.79051962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "a8473f85bc47e1329523ef28ceaf2151bf567c07",
+            "name": "Hotel Metro Inn",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113353865677956040071\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMW09DXmf2ZWeuyWe62HBbbe6k_T2p8ycgff9LiBFuYJrkej0dKv6zrQejsQjlExJIQQU_GLEFhoOnbVNxCvk4CkkTJRWrRQYRjKpaJRRT-qeQnGcKwOaMDGlk7IcJN-cEhBiwaKfOS3An8b1pXrx-ZlvGhRG0WOTuANmfFFt_SKqoQwpURuHIA",
+                    "width": 2880
+                }
+            ],
+            "place_id": "ChIJ7RkuaG-1bTkRBadoTcQZ5TI",
+            "plus_code": {
+                "compound_code": "WQ9R+5P Jaipur, Rajasthan",
+                "global_code": "7JRQWQ9R+5P"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ7RkuaG-1bTkRBadoTcQZ5TI",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 591
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Building no. C10, 2nd floor, Shyam Nagar, Jaipur, Rajasthan 302019, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.897126,
+                    "lng": 75.767309
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.89847987989272,
+                        "lng": 75.76859447989273
+                    },
+                    "southwest": {
+                        "lat": 26.89578022010728,
+                        "lng": 75.76589482010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "89cbbab62e1482dd440f63c8ab8cbea3941acab0",
+            "name": "Jaipur Sundeck Hostel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1616,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116429943132980698205\">gerard schiro</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9VaXajvisVj4Fw2H05Dh5v-hZ6Mnq9ommoojocwL4a4LCjvMowYzvDPwlJCZeBfVkzMrrP5dl-pTwKxS2gFbjZ3i4TO13_v97UmcuaIuAUDd3K-bNq03zvOBRz6yVrsEEhDw1JdxaMtF_QMkUjj8WWgKGhSVXx87_IJegdqUKshgxv3rczz_mw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJZS1Tx2a0bTkReswuj30aX1Q",
+            "plus_code": {
+                "compound_code": "VQW8+VW Shyam Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQVQW8+VW"
+            },
+            "rating": 4,
+            "reference": "ChIJZS1Tx2a0bTkReswuj30aX1Q",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 126
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "D1-2A, Behind Collectorate, Via Bank Road, Bani Park, Jaipur, Rajasthan 302016, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.928435,
+                    "lng": 75.792362
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92974312989272,
+                        "lng": 75.79367547989273
+                    },
+                    "southwest": {
+                        "lat": 26.92704347010728,
+                        "lng": 75.79097582010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "5859d13c9a8ebbbb19d322c6954285cbaecc9479",
+            "name": "Umaid Bhawan Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 570,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103132451980281244350\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAnWYwWDkcBDU1kPbQqJtOazMkd2ppk9FurpVLLwJ6y45hbixSUtMqDqdRkolCArVo2ckp-6CdhwEUsrqYEuyXr5aTwXFWUsekZI7jVh_yXsGQtXy6gSvG6iUqVMW5n2maEhArFLUnVqplgZqt3FWVFIFwGhQe7VysDjlKgAhtjrEKBozSRfWy_g",
+                    "width": 855
+                }
+            ],
+            "place_id": "ChIJ5w_4AfGzbTkRQtcJSYEZtVw",
+            "plus_code": {
+                "compound_code": "WQHR+9W Jaipur, Rajasthan",
+                "global_code": "7JRQWQHR+9W"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ5w_4AfGzbTkRQtcJSYEZtVw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1158
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "54, Lane Number 2, Ajmer Road, Gopalbari, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9159108,
+                    "lng": 75.792374
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91725987989272,
+                        "lng": 75.79364687989272
+                    },
+                    "southwest": {
+                        "lat": 26.91456022010728,
+                        "lng": 75.79094722010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "236fe8b6d30ab48de4538a6a293bde62c299ac67",
+            "name": "Pearl Palace Heritage",
+            "photos": [
+                {
+                    "height": 997,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105628310117928319370\">Pearl Palace Heritage</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA16H9DaEpdycN29wTId94hvd9j4doVrgwcI47wslh7a7SpbD_AphzSr0kFsOfHmfr6SwCrmaUA58BTOAsfe-FN7sJPb5Bdr-MTGsxOu6g8vgTptzNRIYsJIYjUkyV3rkDEhDDkhETSCqpUzhW8zzVPuPvGhSKZIQ7-wY84wAJZaGoJDua5rHFkA",
+                    "width": 1497
+                }
+            ],
+            "place_id": "ChIJ7RlVqwm0bTkRZISybPIzj7s",
+            "plus_code": {
+                "compound_code": "WQ8R+9W Gopalbari, Jaipur, Rajasthan",
+                "global_code": "7JRQWQ8R+9W"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ7RlVqwm0bTkRZISybPIzj7s",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 251
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "D-249, Devi Marg, Bani Park, Jaipur, Rajasthan 302016, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9272302,
+                    "lng": 75.7892074
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92851232989273,
+                        "lng": 75.79049562989272
+                    },
+                    "southwest": {
+                        "lat": 26.92581267010728,
+                        "lng": 75.78779597010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "381f0a2fb491a39faa3997a76d73678e70ee6b51",
+            "name": "Anuraag Villa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 774,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114591854188380801125\">Mudrika Holidays</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA6YzMsg6pQTYY64-b7-s0JcqRTd5kmoV1HZLBVQH4vfTlVQDFqVBw97BbEmbUEJ_Mwwzw9TMSjonF1uRsAmV1JojvkQncTEBt_yDd7UPAktoSY_791fcdYKoAsFyBjwhTEhA9uqIOZO9ROd0-4dcPyjcUGhS4-aH6tI5i4y1vI7EILrmPJkPxpA",
+                    "width": 1032
+                }
+            ],
+            "place_id": "ChIJsxoYKfKzbTkRmXNR4I2cnA4",
+            "plus_code": {
+                "compound_code": "WQGQ+VM Bani Park, Jaipur, Rajasthan",
+                "global_code": "7JRQWQGQ+VM"
+            },
+            "rating": 4.5,
+            "reference": "ChIJsxoYKfKzbTkRmXNR4I2cnA4",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 400
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Plot No, 4, Kabir Marg, Sen Colony, Bani Park, Jaipur, Rajasthan 302016, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9242095,
+                    "lng": 75.79016299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92561267989273,
+                        "lng": 75.7914844798927
+                    },
+                    "southwest": {
+                        "lat": 26.92291302010728,
+                        "lng": 75.78878482010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "f788a35091844d83420647c0dcc3de5dbc3c8e82",
+            "name": "Vinayak Guest House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1633,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114109651100981202683\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAPOEamMAaiWAtA4hAeXp1zi9cHjLR7WRy9EaWgoPu8CPtSSlNcXg6u8pWfL4PaincA69D2r8Tm9k_npf7u3lHEkBduAOKpJfVZlEtfa4Y7Sb7-g-vyeolpV45elehdMG9EhC4mPcXpldH9xUCriUDZ0DWGhSEVm19lGg3WmCFprANWvNygb_q7g",
+                    "width": 2177
+                }
+            ],
+            "place_id": "ChIJf2K9TfGzbTkRJnspOu5IyuI",
+            "plus_code": {
+                "compound_code": "WQFR+M3 Bani Park, Jaipur, Rajasthan",
+                "global_code": "7JRQWQFR+M3"
+            },
+            "rating": 4.1,
+            "reference": "ChIJf2K9TfGzbTkRJnspOu5IyuI",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 196
+        }
+    ],
+    "status": "OK"
+}

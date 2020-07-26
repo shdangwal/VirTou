@@ -1,0 +1,1006 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_AAAAKLIHjD20XoGDLjt_6M8WanTSy6nqQiz026ClhZEZV_h9qIag2rY7rXhlWACfMC8Tcs4N6yig_74HDFmQCFt8UWP5hN8EpGLJjwNrnAVeTdj0WSlmcoCaue0AEZZWpN8_L2l06K20qTP8AwS3A1WinJNhzd3JxOylOWLId4FsNoaPzaORdUASvIsdMlq982H8CQ5EnONI9Qg7mCqEd_R5NDIQyYzj_s6beANoRnDxL4KLCWqTJiTzqoPxrKzOuStVc_c9lVv9zqbQB18UZnc6mPzKqra7oDveLl2iPPCUoQeCTM6iuGeaMCnCQKxyJ6bobIp-sHSIuOZr5KnOTs4DHwSEKWQUFcXilKNJwEjntvEZ8MaFPqsDx8j8dPHMt6CK0Vdijx2KQg2",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shop No. 10, J Block, DDA Market, Vikaspuri, New Delhi, Delhi 110018, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.64215,
+                    "lng": 77.0795105
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64350047989272,
+                        "lng": 77.08078462989272
+                    },
+                    "southwest": {
+                        "lat": 28.64080082010728,
+                        "lng": 77.07808497010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "a4e0cb878d931cb95bce3f29257caa650f6fe7b9",
+            "name": "Curry Ok Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118032905950702417385\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVESkP81rXXX8YHv3tl5EQpvHJB0xMIe8IJDY51NNAfuhUSzklSFe0WgLd_JYx65TnrMKytURkmD2itoWYvA0E7ZiIIVsA-0uWDag_xKCy_q_rTRNPxHwf9OXWWIkwhFqEhBgO5LvXbN3HgnJxNlJMx25GhQGMySvALdIi3MJKX49VVOdppPegQ",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJ18-gYQEFDTkRUakQPiTKPRE",
+            "plus_code": {
+                "compound_code": "J3RH+VR Vikaspuri, New Delhi, Delhi",
+                "global_code": "7JWVJ3RH+VR"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ18-gYQEFDTkRUakQPiTKPRE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 91
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "46, Market, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5574317,
+                    "lng": 77.16388549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.55875902989272,
+                        "lng": 77.16524322989272
+                    },
+                    "southwest": {
+                        "lat": 28.55605937010727,
+                        "lng": 77.16254357010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1038a2daf8562d241a26c10e040be193ad89be3a",
+            "name": "7Seventeen - The House Of Crafted Food",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110320177711555220805\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAP0MWIMCfNLyN4Y0SQpq8B-8q25ymSSYVdTmROk6ySV92c0oXW1esf4OvdNfGApTVe5q-ybbhcNtIkcHHByK2DbK053cStyUh8eA-C4GBXQ3bOplNRmhIohfzLACmhPqgEhBFv5d69Kjz8iukobmrsTQ4GhTo0h0xPAHiPHjMuldKGhDJR05-lA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJs63VDrcdDTkRuIPwP2NLv3o",
+            "plus_code": {
+                "compound_code": "H547+XH Vasant Vihar, New Delhi, Delhi",
+                "global_code": "7JWVH547+XH"
+            },
+            "rating": 4.9,
+            "reference": "ChIJs63VDrcdDTkRuIPwP2NLv3o",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "17, Rd Number 43, Central Market, Punjabi Bagh, New Delhi, Delhi 110026, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6718927,
+                    "lng": 77.13532169999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67317797989272,
+                        "lng": 77.13680187989272
+                    },
+                    "southwest": {
+                        "lat": 28.67047832010728,
+                        "lng": 77.13410222010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "d7dd744742a2aa93f63dcb77ed88ff1d488b6493",
+            "name": "Curriers And More",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101787682694593086722\">Saurabh Kakkar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbFvsL0kEjtvzOgixdOX3pkxar5rBjtjiQzmh1F2Zf4XUNQ-xcWyLLanSA2CoLKKwQbp4PgVczMpvilmAwxAaXWpBTp9HC0C1WuTsH1ExC2iawphawd1WM1M1PgzRk_zfEhDmzX3B_UMxHe0cGvQQx7wdGhQQ7q4SCD4eLQYwnkEejl2-ZqqdBQ",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJG4ANOaUDDTkR3X1JC2XvSvw",
+            "plus_code": {
+                "compound_code": "M4CP+Q4 Punjabi Bagh, New Delhi, Delhi",
+                "global_code": "7JWVM4CP+Q4"
+            },
+            "rating": 4.9,
+            "reference": "ChIJG4ANOaUDDTkR3X1JC2XvSvw",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "The Lalit, Barakhamba Rd, Fire Brigade Lane, Connaught Place, New Delhi, Delhi 110001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6312292,
+                    "lng": 77.2269977
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63241012989273,
+                        "lng": 77.22864792989272
+                    },
+                    "southwest": {
+                        "lat": 28.62971047010728,
+                        "lng": 77.22594827010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "7f7dc9be348df88a028db4d29e98fcac3f842766",
+            "name": "OKO - A Pan Asian Destination",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1412,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101304665053210112796\">Oko</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmFvl_5nwSzjFY5PS5PzIq86VRYpXBC8qqyT0dA16hJtMXonndTuakVuAOuedw0KFaSbsZ7XAiWu2nzsOaffSBij1zBR0OsJuOYZm_4_Gpg4XxlOrjqZl0ioxjCvzLEk4EhCFJyrJVRsHf5VsVsbGRhf-GhSpRDtR-krup5JnkTHULiCDdBdb1w",
+                    "width": 2116
+                }
+            ],
+            "place_id": "ChIJs7lGljH9DDkRM9DzZRTt2xI",
+            "plus_code": {
+                "compound_code": "J6JG+FQ Connaught Place, New Delhi, Delhi",
+                "global_code": "7JWVJ6JG+FQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJs7lGljH9DDkRM9DzZRTt2xI",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mahatma Gandhi Marg, Ladakh Buddhist Vihar, Ladakh Budh Vihar Colony, Civil Lines, New Delhi, Delhi 110054, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6726758,
+                    "lng": 77.23162289999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67396947989273,
+                        "lng": 77.23268682989271
+                    },
+                    "southwest": {
+                        "lat": 28.67126982010728,
+                        "lng": 77.22998717010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "c9b5df55ac5792bf845d2bed7802a0dfd051d4eb",
+            "name": "Zomsa Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104548085575647009435\">webmedia</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFxjqhOn0cn8fEEe4NbMDO4JQrP40vgUyc-lHWVBpGpoUQh4tMPsipMBmaAap_97BSj7v1Q5Ju8gbwASFg_4zJD7VXQr2rJ46fdqlNIlYNkUk9Gp6xdCLQaQfvfvhwMNtEhAuZvyE8QvKWDTMzteUSoweGhRJkaxg8W--uqgfSl26icIQ9iBG0g",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJa3syUKj9DDkRRziO3Gol5G0",
+            "plus_code": {
+                "compound_code": "M6FJ+3J Civil Lines, New Delhi, Delhi",
+                "global_code": "7JWVM6FJ+3J"
+            },
+            "rating": 4.4,
+            "reference": "ChIJa3syUKj9DDkRRziO3Gol5G0",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 201
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ground Floor, E-2, Kalkaji Main, Market Rd, Opposite KFC, New Delhi, Delhi 110019, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5423003,
+                    "lng": 77.2535364
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.54362662989272,
+                        "lng": 77.25487387989273
+                    },
+                    "southwest": {
+                        "lat": 28.54092697010728,
+                        "lng": 77.25217422010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "61954f53edc5f698438728dbf21bf27b1092397c",
+            "name": "Balle Balle Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1900,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118407101748136263086\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAF3VOAvJgGiSWplxfc5-O3YdFUFLel9euAKIp3k4ycqr2FBmirdb2mmCYMC7cwVZIxHSeoGTZsLBL-eZeMPwqtxBC2UXuSj__JQfZ15ycQynGg8Rym0gao1zcN3SLbPBvEhC_c1N5IwLs-ivWYmmKfNnHGhSFr9-ZyEQElcydWqCfUoU3ne910Q",
+                    "width": 2500
+                }
+            ],
+            "place_id": "ChIJsVhAfSDjDDkRCaYiDzbjgIA",
+            "plus_code": {
+                "compound_code": "G7R3+WC New Delhi, Delhi",
+                "global_code": "7JWVG7R3+WC"
+            },
+            "rating": 4.6,
+            "reference": "ChIJsVhAfSDjDDkRCaYiDzbjgIA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 145
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "C - 26, Ground Floor, Middle Circle, Connaught Place, Delhi, Connaught Place, New Delhi, Delhi 110001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6348023,
+                    "lng": 77.2203305
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63614632989272,
+                        "lng": 77.22167827989271
+                    },
+                    "southwest": {
+                        "lat": 28.63344667010728,
+                        "lng": 77.21897862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "7dbe9a2e6bc746b25b95d30fc93533eedbdb2674",
+            "name": "Rajasthali",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105760401414659550192\">Ravindra Salunkhe</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAcmJUVr2lLYy-gc0pOAMxGHXGQkfwvtylV55CQf88G_O-8QnkE2JMwyMIktlk1K-BpXiOARgl-5xrK8eBBSwZY6R-e6eE_4wQmNurJYDSe26__YxId_tk4Q7OfT1cGYeDEhCWpdHRiHvjFXdvg6rhpYWxGhQw6tZKnfmI72OKXfFFXo3H0ngvGg",
+                    "width": 700
+                }
+            ],
+            "place_id": "ChIJsxOyeTf9DDkRGY3giVkxJGQ",
+            "plus_code": {
+                "compound_code": "J6MC+W4 Connaught Place, New Delhi, Delhi",
+                "global_code": "7JWVJ6MC+W4"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJsxOyeTf9DDkRGY3giVkxJGQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1858
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mata Naina Devi Marg, Block I, Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi 110024, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5697345,
+                    "lng": 77.2442957
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.57108432989272,
+                        "lng": 77.24564557989272
+                    },
+                    "southwest": {
+                        "lat": 28.56838467010728,
+                        "lng": 77.24294592010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "e0073eef381ef1c128be396c4731452c90c4d17a",
+            "name": "Al Naseeb Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110542557485889541013\">Shekib Ahmad</a>"
+                    ],
+                    "photo_reference": "CmRaAAAADwvi-LWatxdy00HW1ittsV4nhlzA8z9L989g9cDyHxjDHLs4FqBFWpHl6NC4_76y4p67vwxeiBAyGK8ELNFlf0bQNQXQBuVlw9Qbu_jMOWgPCYhR0ZueQSE93Uf8gGnHEhBOHw67AcYQBphYvTKigziDGhRKqOiEgZc-4p7CTiyoChJHzQUqng",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJLVzTkK3jDDkRGlc0do2h3pI",
+            "plus_code": {
+                "compound_code": "H69V+VP Lajpat Nagar, New Delhi, Delhi",
+                "global_code": "7JWVH69V+VP"
+            },
+            "rating": 4.4,
+            "reference": "ChIJLVzTkK3jDDkRGlc0do2h3pI",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 55
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "O-11/B, Block O, Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi 110024, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5669295,
+                    "lng": 77.24676029999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56830427989272,
+                        "lng": 77.24805197989272
+                    },
+                    "southwest": {
+                        "lat": 28.56560462010727,
+                        "lng": 77.24535232010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "4eddbbaffce93acbf411b6f976bc492b003a0aa5",
+            "name": "Shri Hari Vegetarian Restaurant",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112644834789748637653\">Shri Hari</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHTjsohWOVmX4Bzc0O4egTGmNQvzCkPiX7a1aknr5kE0cWaq9YuIwifMe8VLyYV4ZuwxTryhRMKnGJyuYRR6CBWJ7B7aS8EX6MvoceJ2FK0MSwV-h7T16nJVUCD-Rq6OFEhBtJ8zKH7e9EF3iNdwCPlo3GhSVXsoNfu_riedb8TN9KUy79thMCQ",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJX78jerLjDDkR2Z37KpZZF34",
+            "plus_code": {
+                "compound_code": "H68W+QP Lajpat Nagar, New Delhi, Delhi",
+                "global_code": "7JWVH68W+QP"
+            },
+            "rating": 4.3,
+            "reference": "ChIJX78jerLjDDkR2Z37KpZZF34",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 522
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "opposite Swami Shradhanand College, Alipur, Delhi, 110036, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7946303,
+                    "lng": 77.1393251
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.79598527989272,
+                        "lng": 77.1407559798927
+                    },
+                    "southwest": {
+                        "lat": 28.79328562010727,
+                        "lng": 77.13805632010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1bbcd839e5e07069140d1d00c319d71e8c394268",
+            "name": "DILLI 36 RESTAURANT",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105805089445698689521\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAz8TZG8yM1-9HxpBEnGmhRznM7rxdgz0MjmtUkFtP4MJzYelAF7e_1M2mZ9Iq4WLSauDSkKUegfJw1bJilBDL-EklBrAq32WH3u4xsvmYK5VqIMbTF4krM3FrXLdevL6uEhAN30M35HQi_xJRbzpHnpkjGhTszEXLaJKRhSpqWanaDR3NpA0UIA",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJt4qTMsEBDTkRHF8UssbUlqU",
+            "plus_code": {
+                "compound_code": "Q4VQ+VP Alipur, New Delhi, Delhi",
+                "global_code": "7JWVQ4VQ+VP"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJt4qTMsEBDTkRHF8UssbUlqU",
+            "types": [
+                "meal_delivery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 504
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "105-110, Matia Mahal Rd, Opp. Gate No-1, Bazar Matia Mahal, Jama Masjid, Old Delhi, Delhi, 110006, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.648671,
+                    "lng": 77.233627
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65001977989272,
+                        "lng": 77.23494107989272
+                    },
+                    "southwest": {
+                        "lat": 28.64732012010728,
+                        "lng": 77.23224142010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "016f33571fb10cf772b8f6a44b6f64c51536399a",
+            "name": "Rehmatullah Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 327,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109981555029226566346\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVZSZ9VnY7jYmEDpCrl-olGE15cWQVUGOMcJY9GQ1ZnHLltRHhk5WQTHplXIQOWWNpfpe6NwXlzzuxMo6B9F32cvBoNrNX00Q_sp-07sL3jWBZL8EtW_u3d6yWOFCWQG-EhDwSvBLWBLpsu90UIxUgWHVGhQN1k7S-R13pKTl0P9lspx3Yh_odQ",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJg0icwBj9DDkRWqTUTjSjkjo",
+            "plus_code": {
+                "compound_code": "J6XM+FF Old Delhi, New Delhi, Delhi",
+                "global_code": "7JWVJ6XM+FF"
+            },
+            "rating": 4.2,
+            "reference": "ChIJg0icwBj9DDkRWqTUTjSjkjo",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 145
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Municipal Market, No.81, Connaught Cir, Connaught Lane, Connaught Place, New Delhi, Delhi 110001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6346101,
+                    "lng": 77.22248929999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63590952989273,
+                        "lng": 77.22376777989271
+                    },
+                    "southwest": {
+                        "lat": 28.63320987010728,
+                        "lng": 77.22106812010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "83c0a53dda478378fa45fd16976b52c461985718",
+            "name": "Royal Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104115896547742909686\">Harley S</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2Gq8sSXjH1SoDQlwuWhq8PNINvqWZa42pZtYIGEIGxnb8vbx48iFcODwh0LB4Zho9pRaDLYmXot9XyZxn31Lvav0R4FuWa6aAObQIObW_wI_fVKoVUMQEyr6BjDXm7lTEhB0D2rg3V0sQVriWi_uquPCGhSqaJVwb9FOvzU8TOGfss65CGnCqw",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJsy43RTf9DDkRVv3AKumaPcM",
+            "plus_code": {
+                "compound_code": "J6MC+RX Connaught Place, New Delhi, Delhi",
+                "global_code": "7JWVJ6MC+RX"
+            },
+            "rating": 4.1,
+            "reference": "ChIJsy43RTf9DDkRVv3AKumaPcM",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 280
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "58/5A, Lane 35, Block 15A, WEA, Karol Bagh, New Delhi, Delhi 110005, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6471866,
+                    "lng": 77.1888841
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64845757989272,
+                        "lng": 77.19017992989272
+                    },
+                    "southwest": {
+                        "lat": 28.64575792010728,
+                        "lng": 77.18748027010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "d0257c210ddd4f008af56842688509f44e863455",
+            "name": "Tempting Vegetarian Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 750,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111331548204783670759\">Chelsey King</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAjGi4ZN3IsLVcERfayecam__csW59hoN9-8XiPoW42s80YuZJ0BtzlnYyCDxxsd-xdwtcTJsnglSVTwP5KgTNv8KQ0n6p14kDUCydz1W1R21r4d_6Cffp_OW2-kI1axdsEhCmTNfyWg1QTpyIoh3If4UbGhSPIF4FXDtBigpgzIP2zOGminp73A",
+                    "width": 1334
+                }
+            ],
+            "place_id": "ChIJYbXr054CDTkRcbYrQMJsxJI",
+            "plus_code": {
+                "compound_code": "J5WQ+VH Karol Bagh, New Delhi, Delhi",
+                "global_code": "7JWVJ5WQ+VH"
+            },
+            "rating": 4,
+            "reference": "ChIJYbXr054CDTkRcbYrQMJsxJI",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 66
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "89, Sri Aurobindo Marg, Dilli Haat, Aviation Colony, INA Colony, New Delhi, Delhi 110023, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.572954,
+                    "lng": 77.2063139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.57430382989273,
+                        "lng": 77.20766372989273
+                    },
+                    "southwest": {
+                        "lat": 28.57160417010728,
+                        "lng": 77.20496407010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "8e6c9616aba6fbabf4c614e0fa1e32c6bfe4fa48",
+            "name": "Nagaland Food Stall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102373094513364618550\">Anurag Ashish</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAc9XUXsFcbSXznVrrHP3zf2NNsc9_X_WdQr-N_mFxMF-GHBSXg6UvQ6kd6ca0bx5p_xJraNQAij5m-XyxqgnZTIG9px0zZhngDZ5ycoWPU_9cTzlOLodlfEnHN6ZNQq6JEhA1xx_t2be-x3MWPEdL7S7_GhT3zVPnirh-9QhOI_-YLyQIJd6TdQ",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJW6-PSGLiDDkRpeSIo_OnEnc",
+            "rating": 4.1,
+            "reference": "ChIJW6-PSGLiDDkRpeSIo_OnEnc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 576
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sector 1 market, Rama Krishna Puram, New Delhi, Delhi 110022, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.56422,
+                    "lng": 77.18189269999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.56550822989272,
+                        "lng": 77.18319997989272
+                    },
+                    "southwest": {
+                        "lat": 28.56280857010728,
+                        "lng": 77.18050032010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "0c71c20bcdd50d15ee2ba5ce2a851043947b0f3b",
+            "name": "Khalsa restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104382691312770388274\">aditya mishra</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFFNJrk39kTojp9oWDsnuES8XfC2giLHW9OVga7lO9uIvryTgE1_MC-52ts04su9cZjDoumJwUsZI4QoK2WcfHAmju_6Ii_dzFfHat-fQsr1n1Gkp-OhGfU7rzAI0YRCWEhDDKB357pCTgnpmfqsNm64_GhRnI9KVLRLA2OZTfm54dlLZViZuJQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ976mwZodDTkR1fSGAOXUJv8",
+            "plus_code": {
+                "compound_code": "H57J+MQ Rama Krishna Puram, New Delhi, Delhi",
+                "global_code": "7JWVH57J+MQ"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJ976mwZodDTkR1fSGAOXUJv8",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 882
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "West Jyoti Nagar, Pocket C, Chitrakoot, Shahdara, Delhi, 110094, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6968671,
+                    "lng": 77.2948134
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69826372989272,
+                        "lng": 77.29616162989271
+                    },
+                    "southwest": {
+                        "lat": 28.69556407010727,
+                        "lng": 77.29346197010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "5c7eea5c30bc31de28b93353365fff328f21d1a3",
+            "name": "Swadisht Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101852453447725081194\">BHAVYA UPADHYAY</a>"
+                    ],
+                    "photo_reference": "CmRaAAAALfhjVfcL3z4XMttWBS8al2j-JyqsorCmdjtoZUvi6PtaMJaam1IfrBSsHvBF6YvQs3AnM_OykpmeEltvr3Wu6tKiMHh54yzz_IeMr1Kpr2rOIjXKSCwWT1JqbwwfUS5iEhCvChS02bFwwpoUuolhLzA6GhRwiu9Jy5r-5fWPuPY884Id6hH6VQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJn6LP_oz7DDkRT5AsnOBPIuM",
+            "plus_code": {
+                "compound_code": "M7WV+PW Shahdara, Delhi",
+                "global_code": "7JWVM7WV+PW"
+            },
+            "rating": 4.1,
+            "reference": "ChIJn6LP_oz7DDkRT5AsnOBPIuM",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 178
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "A-279/3, National Highway - 8, Mahipalpur Extention, New Delhi, Delhi 110037, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5480144,
+                    "lng": 77.1276214
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.54936422989272,
+                        "lng": 77.12897117989272
+                    },
+                    "southwest": {
+                        "lat": 28.54666457010727,
+                        "lng": 77.12627152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "de0e1dc85080fc972dd9ce3804e4debbd81ad66b",
+            "name": "Barichi Restaurant & Bar",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 489,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110402817507262752438\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAaJ77DISEK2TP6BbhApkpJQpuqQuwesVDsxQwlCTegf9qAFTPCsBhFa6_JlRLuQfidBJv2GZhTguV9KYyIrscEY9RWM56xweKIVSj9arqXEH_ES9Fj80433TbXxWzcCwYEhBKbIQHhAxlAKrJYYCqyyKxGhRuldgVCSteTktoGN16w4AVzu0oxA",
+                    "width": 870
+                }
+            ],
+            "place_id": "ChIJDxY-skEcDTkRYLL-orCeMLc",
+            "plus_code": {
+                "compound_code": "G4XH+62 New Delhi, Delhi",
+                "global_code": "7JWVG4XH+62"
+            },
+            "rating": 4,
+            "reference": "ChIJDxY-skEcDTkRYLL-orCeMLc",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 87
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "25/35, Govind Lal Sikka Marg, Block 25, East Patel Nagar, Patel Nagar, New Delhi, Delhi 110008, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6437761,
+                    "lng": 77.1758711
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64509082989272,
+                        "lng": 77.17727987989272
+                    },
+                    "southwest": {
+                        "lat": 28.64239117010728,
+                        "lng": 77.17458022010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "722b018c098156320d26305e5f3949fd1c5d3072",
+            "name": "Naivedyam",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100888341452071762819\">Rupesh D</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKZKwxFj566CiAzzVTVPLwLGj6lUSbfAO9ikDcYDoPZ8cEIDzMwZitRIxVu-vhcbqj1wD1l8Ac20i5ZNulpqOu3ke2Jv4YlC_IKC0EbtMv5El7quChimOz12WF7iX9eNmEhA6LU4zxqLe54J2-yMlJMaIGhSBqr52aCCQ-kDuzjYpo6VR98pE2w",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJq6qq6pMCDTkRYFTPvlMqUtM",
+            "plus_code": {
+                "compound_code": "J5VG+G8 New Delhi, Delhi",
+                "global_code": "7JWVJ5VG+G8"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJq6qq6pMCDTkRYFTPvlMqUtM",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2913
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "F-94, Block D, Katwaria Sarai, New Delhi, Delhi 110016, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5420846,
+                    "lng": 77.1862701
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.54344987989272,
+                        "lng": 77.18758752989272
+                    },
+                    "southwest": {
+                        "lat": 28.54075022010728,
+                        "lng": 77.18488787010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "162263bf30ab50db5f2427263fe79f9aeaaa5515",
+            "name": "AAHAR",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2647,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104142737907428322659\">rajan chaudhari</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAslZ8tg4vr0m9Xyujj3pecViJMFTZvfte7gzrW6jV7TUc8OVyuJdKL8LK6AGUnZ8GI8cX6UT-cHZBCKbvpgpHOug4bUsKr-Nfe7mGL0YJZNKY1jS2a8kmCRLvGuUmVr7REhC118pULSlHekUscMri8U3YGhSZKA51C89fAx3OL3g9IVt0BQYLhA",
+                    "width": 3369
+                }
+            ],
+            "place_id": "ChIJ__XU8PAdDTkR3MZHWf3EDUA",
+            "plus_code": {
+                "compound_code": "G5RP+RG Katwaria Sarai, New Delhi, Delhi",
+                "global_code": "7JWVG5RP+RG"
+            },
+            "price_level": 1,
+            "rating": 4.1,
+            "reference": "ChIJ__XU8PAdDTkR3MZHWf3EDUA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 398
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "shop no 40 , 1st Floor, D block market, Pushpanjali enclave, Pitampura, Delhi, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6931641,
+                    "lng": 77.1112804
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69459302989272,
+                        "lng": 77.11260777989273
+                    },
+                    "southwest": {
+                        "lat": 28.69189337010728,
+                        "lng": 77.10990812010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "40435e5fe2f6efb2e7a0173e931da234f1ee2d47",
+            "name": "Angna Veg Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 402,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107541662547675510892\">Angna Veg Restaurant</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9qNcAocxeLjAr0EIDs5MUlFkb4P6O5TXX553MHU6szvNGrGf-lmUY00oPldKBpmovbS6UK-oaJ8I19nrgSFsTfi63K60rBie8PFijN_JGb3p6yAPUcckfwUOb1KBZrliEhB7g0CaZVL7JzgtvffbKXyfGhT2sNFAeom1LPzojGveCrKaIZcqmQ",
+                    "width": 545
+                }
+            ],
+            "place_id": "ChIJqQqnZ_kDDTkRDvUO9i1Xj0c",
+            "plus_code": {
+                "compound_code": "M4V6+7G Pitam Pura, New Delhi, Delhi",
+                "global_code": "7JWVM4V6+7G"
+            },
+            "rating": 4,
+            "reference": "ChIJqQqnZ_kDDTkRDvUO9i1Xj0c",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 100
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,928 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCAQEAAI_dnaZF1n4RLzFX9K08tmgkDe_oqf2SovRMcIntV0PSy5HEe59YFiMWh-pIg8P7l8gXS3z7fL76E-F95HQmMyGRFBZltT9Zid4-9z-8RsBZzyJSiiMfVQm6FqfCYMtgxDmGfVZJpzRClg4FGhkqjTQe4TDKMDuMnUDtOGkCzrmY1YmPH88r_TjejhD_qEteSZyZMKepgM3rpAvdEPP9IfRPC4bqDzYs-Nw9L2hNE46kQ-ZIsNsskbnM8YrQnYwyciRvkBNHdC41ERRXT1XkVaFVaIV0hEy-x3m7i2XHb7IHi_AlrM0ym9QLfZqd8u4nO8CWQP7drANhDrOJd30C6DR71fKijd3i10NgFbEGpezzEhA_EGcHlx7uXxIlSyoa6TZ8GhSNdcfC8fwctirhaj_ArdrFfGmQow",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Grishneswar temple Road, Aurangabad, Maharashtra 431101, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9172401,
+                    "lng": 75.3118973
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.91858992989273,
+                        "lng": 75.31324712989272
+                    },
+                    "southwest": {
+                        "lat": 19.91589027010728,
+                        "lng": 75.31054747010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "cff8b785d15c383496b1fdc53352dc128b7c295f",
+            "name": "Aurangabad Caves",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109261399327641105759\">Petr</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAiZ9CFQxxZk0_-dIvr9i8_pIvt6uTbhQAXbr6VRtmTgBahAlOM8bc0YWu1sm7oEeBmJzs_dcnlwm0I9XUhQFc4P0GqhygUMqfX8MG7lKAk-oGPez1FzEutAkaWK0RwjS7EhBYh9JRSlKiliNrG0xzxvzUGhQGiKb1gFiVgdB3jHfqMvqO73wQeQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJWzUoEZKX2zsR2jqcrqrKKZg",
+            "plus_code": {
+                "compound_code": "W886+VQ Aurangabad, Maharashtra",
+                "global_code": "7JFQW886+VQ"
+            },
+            "rating": 4.4,
+            "reference": "ChIJWzUoEZKX2zsR2jqcrqrKKZg",
+            "types": [
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2259
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jubilee Park, Naralibag, near GMC HOSPITAL, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8876841,
+                    "lng": 75.3194859
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88897627989272,
+                        "lng": 75.32083547989272
+                    },
+                    "southwest": {
+                        "lat": 19.88627662010728,
+                        "lng": 75.31813582010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "28b1708ecf9a2b01d6b3f6291db1a0e8dc0ec373",
+            "name": "Church Of The Nazarene",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103517775089016099249\">Vishal Awachar</a>"
+                    ],
+                    "photo_reference": "CmRZAAAA7Uh9IyemWTuAaiVjmEQrYizRGt5cppKVIQt5ib5fXN0Ic9Isq-CZsASMLjg2TcXiUq7G4N3eiIcs98qux4_eFhNoSz9MfKfhhN9l0snqCPHW2ZMmMpZOLq3pnRA2U0ZzEhBkCNSpK71YolYPhO9QLbdLGhQJ3ecRDuZ7Ev5A5rXxU5un2DKWdw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJo8w_CxaY2zsRtl6eY1e355Q",
+            "plus_code": {
+                "compound_code": "V8Q9+3Q Aurangabad, Maharashtra",
+                "global_code": "7JFQV8Q9+3Q"
+            },
+            "rating": 4.6,
+            "reference": "ChIJo8w_CxaY2zsRtl6eY1e355Q",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "182, Jalna Road, Mondha Naka, Sindhi Colony, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.872885,
+                    "lng": 75.3381212
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87422462989272,
+                        "lng": 75.33944102989273
+                    },
+                    "southwest": {
+                        "lat": 19.87152497010728,
+                        "lng": 75.33674137010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6eba4ac5d79ae1a8e9744bac9959c95762d1ed50",
+            "name": "Sant Nirankari Satsang Bhawan",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115421430194828494947\">Akshay Bodkhe</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAcLPT6wuQDu-W6W9WfOoIeooYu3MQ68xLL0NuAXFCL7RMCdT6kkZpfzSW3hwd1xuCyELWorC8nuivR7qRpLEh2OceuIhJ8XEjUnAn8ZxGsSYrG-5DenoFj8xnZ_fEaWewEhAeSlwMyb4h0v_Cj_jaLZbhGhSgTcy1cXcgKh7ITHY9MFdPYAoIDQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJB9W0dXeY2zsRNSvwL96kx58",
+            "plus_code": {
+                "compound_code": "V8FQ+56 Sindhi Colony, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8FQ+56"
+            },
+            "rating": 5,
+            "reference": "ChIJB9W0dXeY2zsRNSvwL96kx58",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Gadiya Vihar Road, Indranagar, Gadia Vihar, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8534052,
+                    "lng": 75.34596560000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.85477777989272,
+                        "lng": 75.34736917989274
+                    },
+                    "southwest": {
+                        "lat": 19.85207812010728,
+                        "lng": 75.34466952010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "a3ad2492832c4cd0191a97a38a877f136394dfa9",
+            "name": "Alamgir Masjid",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104169021524495255778\">subhan khan</a>"
+                    ],
+                    "photo_reference": "CmRZAAAABYvfDxMD8t_QLQs9OAA4eWHcX3il-Aj3_RwqfhTdpeNAXXu9h4H1eDHK2iVWXJlWpQcs8apYGZIGZYvJ2HVfo39uvQrT-UbKtIrMdGwgRl9M3-EkTNt7KyVQmvVm9zB9EhASog3M9lNaIQSjDuYG1nPkGhQ1uB0tPAtO2vi9w0-KCT0aQrC0FQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJVVj2aXmi2zsR8OEwD6LDCVA",
+            "plus_code": {
+                "compound_code": "V83W+99 Gadia Vihar, Aurangabad, Maharashtra",
+                "global_code": "7JFQV83W+99"
+            },
+            "rating": 4.4,
+            "reference": "ChIJVVj2aXmi2zsR8OEwD6LDCVA",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 52
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "N-9 Plot No 5/6, Hudco, N-9, Krishna Nagar, Near T V Centre, Krishna Nagar, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8761653,
+                    "lng": 75.3433139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87749477989272,
+                        "lng": 75.34466647989272
+                    },
+                    "southwest": {
+                        "lat": 19.87479512010728,
+                        "lng": 75.34196682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ff59cb4210e6d5aa52b1dda1d61e3971bd3007cd",
+            "name": "Sant Nirankari Mandal",
+            "place_id": "ChIJY7xpoxWY2zsRIpdu0sdM13k",
+            "rating": 0,
+            "reference": "ChIJY7xpoxWY2zsRIpdu0sdM13k",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Begumpura, Aurangabad, Maharashtra 431004, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.9014599,
+                    "lng": 75.3202216
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.90264609999999,
+                        "lng": 75.32135657989271
+                    },
+                    "southwest": {
+                        "lat": 19.89790130000001,
+                        "lng": 75.31865692010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "673b9a096cd114eb7799b51f96048534990e09d7",
+            "name": "Bibi Ka Maqbara",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2049,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112552496785702627641\">Avinash More</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKS9BiBjUijFzr_4TmsCJ1J5zzkBGgUUCshYKqDfNiQUtaNojzko60Gaj-0IRd_saR4MARCkwSfsnge8fXhRjcX09lQigIZ0-9M_7-x5mNfqfuaLV7jonshlkJJAQfhOSEhDISxjKhw2n93Un9ZyHa-7oGhSNbJLg9C08GB2HrDU9uQdx2op8cQ",
+                    "width": 3361
+                }
+            ],
+            "place_id": "ChIJeZwvBR-Y2zsR-bTNN48wRgg",
+            "plus_code": {
+                "compound_code": "W82C+H3 Aurangabad, Maharashtra",
+                "global_code": "7JFQW82C+H3"
+            },
+            "rating": 4.2,
+            "reference": "ChIJeZwvBR-Y2zsR-bTNN48wRgg",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22559
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "NH 211, Verul, Maharashtra 431102, India",
+            "geometry": {
+                "location": {
+                    "lat": 20.0248666,
+                    "lng": 75.16945059999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.02621642989272,
+                        "lng": 75.17080042989272
+                    },
+                    "southwest": {
+                        "lat": 20.02351677010727,
+                        "lng": 75.16810077010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "5c2db2486c4d91e54213d7679fc89bfe70dc0bc9",
+            "name": "Grishneshwar Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103087963173388117919\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAzDsOiXE0_C4xBo0EbeBCYfrat-EZRHSwcF-H8CtnHWz1jb78f6_tn_V0a7r9-fnjyE-jKSDcF7rlIZHl8LKnJ4RT5sQry4jvCoF4RHKe8jkG47hyYo7cE38MfLNgN9nOEhAyYtkdwJ9gl_uvd9DCXEgcGhTCcl7Nl1lYkeLNr-0EkK_p0eYU5Q",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJZ8oGV_2T2zsRHKcGvH2UW9E",
+            "plus_code": {
+                "compound_code": "25F9+WQ Verul, Maharashtra",
+                "global_code": "7JGQ25F9+WQ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJZ8oGV_2T2zsRHKcGvH2UW9E",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 72
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dr Baba Saheb Ambedkar Rd, Opp. Ibaco, Gawaliwada, Camp, Pune, Maharashtra 411001, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.5192742,
+                    "lng": 73.874652
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.52086572989272,
+                        "lng": 73.87608767989272
+                    },
+                    "southwest": {
+                        "lat": 18.51816607010728,
+                        "lng": 73.87338802010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "ba17da3399cec789b9f1faee67da9ffca7af48f4",
+            "name": "Ohel David Synagogue",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 452,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118332000005283281641\">Jerin Asher Sojan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYKn0Jd9ym-JSb92z1evrjD6MDydOyDSOX0IYk756KfxY3oesVNEft5WRk0k0iD3GTvik3mHUBL0fealNr_hgoFyn_QavE_Nwa9-CfYCmovc5a73ugslYM3x7u4UJWwlREhAn9HJSRdSxYZYacZNZgOyEGhSShOTPlMA-mE79ureN7t9EWPJj-Q",
+                    "width": 678
+                }
+            ],
+            "place_id": "ChIJCZiTN0XAwjsRfQJx2ZVhAjs",
+            "plus_code": {
+                "compound_code": "GV9F+PV Camp, Pune, Maharashtra",
+                "global_code": "7JCMGV9F+PV"
+            },
+            "rating": 3.9,
+            "reference": "ChIJCZiTN0XAwjsRfQJx2ZVhAjs",
+            "types": [
+                "synagogue",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 237
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "\u092a\u094b\u0932\u093f\u0938 \u0935\u0938\u093e\u0939\u0924, \u0928\u0935\u093e, Police Colony, Nagpada, Byculla, Mumbai, Maharashtra 400008, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.9669478,
+                    "lng": 72.8322211
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.96848942989272,
+                        "lng": 72.83347767989272
+                    },
+                    "southwest": {
+                        "lat": 18.96578977010728,
+                        "lng": 72.83077802010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "800608ed9ef46c42ddabfd05dda25d787ac693f7",
+            "name": "Magen David Synagogue",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 476,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118332000005283281641\">Jerin Asher Sojan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAsC-FWW9cgPY8_y3abF0wawbO0MJNXQEeEkcnhUjDKDd0jEYkYrKva3eMZNx2OJEZMkRUmXEUSpl1H35Kzx0xoFwaaEIAhFTJAFJisnASqA5pTIZI4o-yfdia5pRfbXI7EhCOZ9mHFXRNVGrrLDk73TmZGhSVqDt8h7m0amTZbd2ie8vyZUSLMQ",
+                    "width": 644
+                }
+            ],
+            "place_id": "ChIJ5YF_lkDO5zsRKdmtZrViHTo",
+            "plus_code": {
+                "compound_code": "XR8J+QV Byculla, Mumbai, Maharashtra",
+                "global_code": "7JCJXR8J+QV"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ5YF_lkDO5zsRKdmtZrViHTo",
+            "types": [
+                "synagogue",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 125
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jalna Road, Chilkalthana, Aurangabad, Maharashtra 431006, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8673554,
+                    "lng": 75.39579599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86897092989272,
+                        "lng": 75.3971448798927
+                    },
+                    "southwest": {
+                        "lat": 19.86627127010728,
+                        "lng": 75.39444522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+            "id": "a53e86388fea52c932d85371d900a95960108792",
+            "name": "Aurangabad Airport",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114533555351748928526\">Akil Ali Sayyad</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAg0vMykGFILUlh9lq91uTyDSzJFF8o2RKuj8B8irK6lq1ALI-qG6m75p9IInOxchewX2_9xOl3fhpj_x6255ZTa_kIPLcARxVkApWGGuQfckjumbrcgMBfQ3szjv4SDMBEhDt1B8coNmmL2f-Lb2YCfLcGhToeB-VawsWlJKrKpSCxHBdZTlSyw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJh3bjGgej2zsRZp59kcFhQGc",
+            "plus_code": {
+                "compound_code": "V98W+W8 Chilkalthana, Aurangabad, Maharashtra",
+                "global_code": "7JFQV98W+W8"
+            },
+            "rating": 4.2,
+            "reference": "ChIJh3bjGgej2zsRZp59kcFhQGc",
+            "types": [
+                "airport",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 830
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "55, Dr. V.B. Gandhi Marg, Fort, Mumbai, Maharashtra 400023, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.9281378,
+                    "lng": 72.8325845
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.92951127989272,
+                        "lng": 72.83393187989272
+                    },
+                    "southwest": {
+                        "lat": 18.92681162010728,
+                        "lng": 72.83123222010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "46f6f76808df1dcfb088ec291f96ce557e04ba55",
+            "name": "Keneseth Eliyahoo Synagogue",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3021,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102889685910730148351\">Naresh Shah</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAssPr9yf4n4OYBi9RGRFG8-JVDQJNU8jZx65Zb-BThtN6thHkUarN8m5eek-x130OIeJmdk4MLmTWj8jetgy5EgDitCIbKFvL7FvLebuXBSrnOcsdeUA-mb5cyHHtv6XTEhCgAbLkJfHd-5LYPyoInLw-GhTNSjYwMAv4D9cDxPgqltWuSGYcbw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJaQj5g8PR5zsRP6q-EkQeCUU",
+            "plus_code": {
+                "compound_code": "WRHM+72 Mumbai, Maharashtra",
+                "global_code": "7JCJWRHM+72"
+            },
+            "rating": 4.5,
+            "reference": "ChIJaQj5g8PR5zsRP6q-EkQeCUU",
+            "types": [
+                "synagogue",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 217
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mahatma Gandhi Rd, Mominpada, Old Panvel, Panvel, Navi Mumbai, Maharashtra 410206, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.9835889,
+                    "lng": 73.1114856
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.98499307989272,
+                        "lng": 73.11288207989271
+                    },
+                    "southwest": {
+                        "lat": 18.98229342010728,
+                        "lng": 73.11018242010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "74d7f17e0af577845a04def2ba2818b327b6473b",
+            "name": "Beth El Synagogue Panvel",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105291174417429282232\">Yoraan Rafael Reuben</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA0yDyI7x-niAzRxMwZpXHC_828Za4pdYjtBhtfTn3ZF-UkmYAL6qxmoZ9rltAfk2ZHMM3mKDekE5pcY2uB8FGOu4qeKLgSozOWtI_Vr64yuIlPYLnt8dSRdEyKXK4S0BLEhAL_VecjqkeibjZJuUjNhU5GhT4tBdSN-74RyWer5IYJmMuEoTPbQ",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJTaqs1Gzo5zsRMJwtXLfJfaA",
+            "plus_code": {
+                "compound_code": "X4M6+CH Panvel, Navi Mumbai, Maharashtra",
+                "global_code": "7JCMX4M6+CH"
+            },
+            "rating": 4.5,
+            "reference": "ChIJTaqs1Gzo5zsRMJwtXLfJfaA",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shop no g.7 patel tower, Adalat Rd, near chunnilal petrol pump, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.872331,
+                    "lng": 75.3217038
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87371102989272,
+                        "lng": 75.32306317989271
+                    },
+                    "southwest": {
+                        "lat": 19.87101137010728,
+                        "lng": 75.32036352010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9768c42cf75d326dda6175f7b1fe85bc22ebf685",
+            "name": "Shreyas travels",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 509,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113624983661677221451\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAzDqOcrn9wHUp3iJ7mSejm_dPh9mJNJ_9w0wH4Rr_hicXLaqu0S4TukBOFTde3Qnzq4blH9JwzvJEwrHjt-lkkJZaK1MoCFEAycfDIVlZ-7GpkW_uya8wJGXU-ND941QEEhCNws9lTlWZ0IGo5QxZ2ZVlGhSCgWo-p8QGBqNXQ6Ad00pJ-ezQvg",
+                    "width": 908
+                }
+            ],
+            "place_id": "ChIJUYv6x5KZ2zsROSDXGTRisNs",
+            "plus_code": {
+                "compound_code": "V8CC+WM Aurangabad, Maharashtra",
+                "global_code": "7JFQV8CC+WM"
+            },
+            "rating": 2.8,
+            "reference": "ChIJUYv6x5KZ2zsROSDXGTRisNs",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "1, Gokul Dham, Near Cada Office, Gajanan Maharaj Mandir Road, Gajanan Maharaj Mandir Road, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8722469,
+                    "lng": 75.3518611
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87358807989272,
+                        "lng": 75.35332062989272
+                    },
+                    "southwest": {
+                        "lat": 19.87088842010728,
+                        "lng": 75.35062097010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "07b7572567c12baf470423c42a61f78ae07dbd0f",
+            "name": "Gaurav Travels",
+            "permanently_closed": true,
+            "place_id": "ChIJY7xpoxWY2zsRZ4OIHv1x64o",
+            "plus_code": {
+                "compound_code": "V9C2+VP Aurangabad, Maharashtra",
+                "global_code": "7JFQV9C2+VP"
+            },
+            "rating": 4.9,
+            "reference": "ChIJY7xpoxWY2zsRZ4OIHv1x64o",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Tantan Pura Building, 90, Mathew Rd, Bhat Bazar, Pydhonie, Mandvi, Mumbai, Maharashtra 400003, India",
+            "geometry": {
+                "location": {
+                    "lat": 18.9547483,
+                    "lng": 72.8362227
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.95610112989272,
+                        "lng": 72.83759687989273
+                    },
+                    "southwest": {
+                        "lat": 18.95340147010728,
+                        "lng": 72.83489722010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "626126fb33fe65106307d950d306ccaa9bd5c5cb",
+            "name": "Share Rason Synagogue",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 458,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118332000005283281641\">Jerin Asher Sojan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAicLhNNIkijkyYhAxkaKa1LRTy_PfjCs2FUdIuLpXYXqSfGIbUiRw7pY-ABz_zzVX8dUCzZAHgwHbXh1XPSOFyfwhJ5SUhvOwYOEmw6Ton6zEZk_L-uOEBFcw1SabS7VZEhAJ3P-sB-YktxcgdMoUMjw8GhQqOkTvmBgyrnyc3V09p3Ey6zx_JA",
+                    "width": 669
+                }
+            ],
+            "place_id": "ChIJMy-N0iTO5zsRhL5LwCGhxOA",
+            "plus_code": {
+                "compound_code": "XR3P+VF Mandvi, Mumbai, Maharashtra",
+                "global_code": "7JCJXR3P+VF"
+            },
+            "rating": 4.1,
+            "reference": "ChIJMy-N0iTO5zsRhL5LwCGhxOA",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nirala, Bazar, Shop No.5 Near Yashwantrao Chavan Natyagruha, Opp. SBI Bank, Sanmitra Colony, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8798809,
+                    "lng": 75.32760619999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88122352989272,
+                        "lng": 75.32891152989272
+                    },
+                    "southwest": {
+                        "lat": 19.87852387010728,
+                        "lng": 75.32621187010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "72f467be1a8889f8d3ff01acb525d173b6e1274f",
+            "name": "Amit Tours & Travels",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105337364655367275335\">AMIT TOURS &amp; TRAVELS</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAV_kMkqllxgHdaVLXN8HXUqyNwcm3a46oyF-28jxLhDXCzS7D4uDwBQblPShrXHIuGkvuX6NDqUYIurL7jn0DHV986X9U6PqASG6j97OlYQJFBWd7zBJBcbii1-BF_MIhEhDxxF1OFOri9aEfoVDm5R33GhTXdai5iPfPbLeAXp1It-V1Zcseaw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJb_oyCW2Y2zsRM96yCmtAkro",
+            "plus_code": {
+                "compound_code": "V8HH+X2 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HH+X2"
+            },
+            "rating": 4.3,
+            "reference": "ChIJb_oyCW2Y2zsRM96yCmtAkro",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 39
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Arth Complex, 10, Adalat Rd, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.872926,
+                    "lng": 75.32283799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87427692989272,
+                        "lng": 75.32408977989273
+                    },
+                    "southwest": {
+                        "lat": 19.87157727010728,
+                        "lng": 75.32139012010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "56e46973ee94f7bbdbe34931b1cd520d2ca03044",
+            "name": "Musafir Travels",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102385558232812572481\">Pawan Rochwani</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgkM8YZQzegiZjavIJ_ZVav9tjb3OQ6VI1ChLI4KuhUAT27w0-sV9oUIYIilX0EjD6e_eMVFuoNEg1wZPq_5WRqQNL8wKSxi5_wxro-ntZjh0PhI9O8NyCRIngKdv02n0EhB10HltG-cgvPr2egB1BoCqGhRlTX5-HUSBPXNMH0nuARDH4UIKjQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJVScs2miY2zsRR8R6A7mnVvM",
+            "plus_code": {
+                "compound_code": "V8FF+54 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8FF+54"
+            },
+            "rating": 3.7,
+            "reference": "ChIJVScs2miY2zsRR8R6A7mnVvM",
+            "types": [
+                "travel_agency",
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 363
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Wakad, Kannad, Maharashtra 431147, India",
+            "geometry": {
+                "location": {
+                    "lat": 20.3809034,
+                    "lng": 75.4159665
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.38220022989272,
+                        "lng": 75.41726382989272
+                    },
+                    "southwest": {
+                        "lat": 20.37950057010728,
+                        "lng": 75.41456417010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "11f0f4492cbea8075c8a1bd34bb64202542c5099",
+            "name": "Sant nirankari bhavan",
+            "permanently_closed": true,
+            "place_id": "ChIJR1s7a4Df2zsRZYxlW2o_Tsc",
+            "plus_code": {
+                "compound_code": "9CJ8+99 Wakad, Maharashtra",
+                "global_code": "7JGQ9CJ8+99"
+            },
+            "rating": 0,
+            "reference": "ChIJR1s7a4Df2zsRZYxlW2o_Tsc",
+            "types": [
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kotkar Nagar, Kedgaon, Ahmednagar, Maharashtra 414005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.0672369,
+                    "lng": 74.71006349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.06860357989272,
+                        "lng": 74.71142867989273
+                    },
+                    "southwest": {
+                        "lat": 19.06590392010728,
+                        "lng": 74.70872902010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "5da0e7984e088fb1d7188b809dadbd865291c954",
+            "name": "Church of The Nazarene",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112773571588270910716\">Samuel Makasare</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAatv8KOnzVyW5dA9TSOVyzS18k5gdSnml4z0lk0B3B2uQRF0AqeeiGMKfuTxN4tngh_dL14eYyvkzaFwHll6hxLJI-562XkfV2U3jN-9AUOicJCMYw6WuOFPk2oIJ1T4vEhD62Olr9o_iSK2wgdh0XZP2GhSf0hPGMVqke3SkEEKg8RWLk8o71Q",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJS_Zv19-w3DsRXlEGlEYR3U4",
+            "plus_code": {
+                "compound_code": "3P86+V2 Kedgaon, Ahmednagar, Maharashtra",
+                "global_code": "7JFP3P86+V2"
+            },
+            "rating": 4.2,
+            "reference": "ChIJS_Zv19-w3DsRXlEGlEYR3U4",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Church Layout, Chaitanyawadi, Buldana, Maharashtra 443001, India",
+            "geometry": {
+                "location": {
+                    "lat": 20.5340375,
+                    "lng": 76.1836786
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.53535197989272,
+                        "lng": 76.18514402989271
+                    },
+                    "southwest": {
+                        "lat": 20.53265232010728,
+                        "lng": 76.18244437010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "41e5affeaa6e3e50f6ae493c68c82213b8991c17",
+            "name": "Church of the Nazarene",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101347318216790734632\">Prof. Nileshkumar Bajad</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAEwFTx-6FhsZ4d2Dkg6u_KDKyRijd6GEcAVlwerK0KAtkUIBhaph32gbApYkDfZtQOvxgzOP3wEtVAtjgMDKkXcspnU-KCLJ5K6Mh7zRoUTSbuNVzwL_evSTmBpcfuccOEhCpaE5JWT7YWnVeYcMWIs6iGhRaub1t43vdi3Ts63WILBLyxxDaNA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJH7r6Tv8d2jsRWdHAV3ipoEo",
+            "plus_code": {
+                "compound_code": "G5MM+JF Chaitanyawadi, Buldana, Maharashtra",
+                "global_code": "7JGRG5MM+JF"
+            },
+            "rating": 4.1,
+            "reference": "ChIJH7r6Tv8d2jsRWdHAV3ipoEo",
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        }
+    ],
+    "status": "OK"
+}

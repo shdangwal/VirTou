@@ -1,0 +1,281 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Usgao-Ganjem VP, Goa 403105, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4401104,
+                    "lng": 74.1063776
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.4416053,
+                        "lng": 74.10786110000001
+                    },
+                    "southwest": {
+                        "lat": 15.4356257,
+                        "lng": 74.10192710000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "222da728522eecd97011b97f58d4a62cf7d2e938",
+            "name": "Bondla Wildlife Sanctuary",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113178100267809149777\">Jeff Platt</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAP_mSrWLRAW-HXGcSUZj4EC8HyeWmROaq0CbsfqjK9wQ5Nqj3dzdXFY8-CfKY80w-ernpb639OWqqOiHZKGFNlHjiX7nKisOuQxaEL3JbETrm8waDxjqtloX_rjUYGLjZEhCfC-kECa33Ygefgb1izj9NGhSr9MkxsKyP3J0_OmStBf21c3PZWg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ1TJ8b1akvzsRjgW-y7x27sQ",
+            "plus_code": {
+                "compound_code": "C4R4+2H Usgao-Ganjem VP, Goa",
+                "global_code": "7J7PC4R4+2H"
+            },
+            "rating": 4,
+            "reference": "ChIJ1TJ8b1akvzsRjgW-y7x27sQ",
+            "types": [
+                "zoo",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1973
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Usgao-Ganjem VP, Goa 403105, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4332629,
+                    "lng": 74.10596170000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.43460972989272,
+                        "lng": 74.10730792989273
+                    },
+                    "southwest": {
+                        "lat": 15.43191007010727,
+                        "lng": 74.10460827010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "cbc9899cbadc9422f86cbc21ca03f424fe3ca047",
+            "name": "Bondla Zoo",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115345576948275771052\">Thomas Pinto, CFP</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmlYhRxIpcLzpSROVk3Oe4gvoBiSc2wm_1I9-WeGAQWd3OzinH-I9BAwRo3j1nKLSxgchp3bNQ36722qmzzYoZaG8lQ1Z3TjZ9Yr-_-_9SGSGLsCnuyJvAIKrmcjHiZPREhDvQhXznAce-lIF4LlctSmhGhQioxEp652AcXXVac7-6lL63lYzMQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ_f___1OkvzsRY48eC5PyMEA",
+            "plus_code": {
+                "compound_code": "C4M4+89 Usgao-Ganjem VP, Goa",
+                "global_code": "7J7PC4M4+89"
+            },
+            "rating": 4,
+            "reference": "ChIJ_f___1OkvzsRY48eC5PyMEA",
+            "types": [
+                "zoo",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 350
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Unnamed Road, Prabhu Nagar, Ponda, Goa 403401, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.406909,
+                    "lng": 74.023315
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.40827662989272,
+                        "lng": 74.02464892989272
+                    },
+                    "southwest": {
+                        "lat": 15.40557697010727,
+                        "lng": 74.02194927010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4395d2278802fd5d61bd3ba269e9138f9a5e45e4",
+            "name": "Sahakari Spice Plantation backside",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100060649928354355162\">Suneel Bhimavarapu</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9mI8BuW794erSs4jBPsH5qtVRTseTwmV4PK8EypQCx0QPfZ9vrHZw_HV_QNBSAvJZqzOj3WsOtCRD9iQFgy9zwczZXlG3X-cYxW8J9hOGxruyPvmhv5qSVQP0diFHOvFEhDo_KvzlRsnlekgxCK33U0rGhSY6djLULxfrM9S2_zdVnniRg3_yA",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJr4mnZlm7vzsR7phtDlcwqVs",
+            "plus_code": {
+                "compound_code": "C24F+Q8 Prabhu Nagar, Ponda, Goa",
+                "global_code": "7J7PC24F+Q8"
+            },
+            "rating": 3.9,
+            "reference": "ChIJr4mnZlm7vzsR7phtDlcwqVs",
+            "types": [
+                "zoo",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mandovi River, Goa, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4998264,
+                    "lng": 73.8365552
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.50102687989272,
+                        "lng": 73.83793667989272
+                    },
+                    "southwest": {
+                        "lat": 15.49832722010728,
+                        "lng": 73.83523702010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e97c43d9077ff2fe6fbcc18bb4979ca33c7f3b1a",
+            "name": "Goa Tour Stop",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1970,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112440084029445105453\">Dev Gaykwad</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1P8ZtQZULFgEV3xPY62NOaDgwNq6_rusWznaYJB_zM22TdVzHzFmkZDSC8MXB3adb62534VDmAdVBQxyMj27PII-kfaFcmGub-SuWpZvlhrwf0R-Xe8Us5GILuWgTK3jEhA_RcZoWubYpz5VHFYDI284GhS_pzSCQuLT3S4ECclg-npEtcZnuw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ6ds1VoHAvzsR-iD_92lw0LU",
+            "plus_code": {
+                "compound_code": "FRXP+WJ Alto- Betim Porvorim, Penha de Fran\u00e7a, Goa",
+                "global_code": "7J7MFRXP+WJ"
+            },
+            "rating": 3,
+            "reference": "ChIJ6ds1VoHAvzsR-iD_92lw0LU",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Neturlim, Goa 403704, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.0806617,
+                    "lng": 74.2005927
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.08203292989272,
+                        "lng": 74.20187387989272
+                    },
+                    "southwest": {
+                        "lat": 15.07933327010728,
+                        "lng": 74.19917422010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "0fc4cf5428e5e82234ef4f61fdda12ec005d48f9",
+            "name": "Hegde's Farm Jakem Netravali GOA",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101189272950101363099\">vasudev hebbar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA316i-5iFUgWqHvTbLFHgg9XM9H2OZNFeU3ysmVlYLRuHmZI5k-1m4eQPHdIDjqDdQ3Ph0FRBRpT-tHK4dLe96BzGxwyMrItfIrdu2NWKUlaFPlbuHkjIpm98JRVuPh3SEhB_uGT6rCKjPYmvznp9NUejGhQcCpsS7WcUhVjy1kMGtG6K6dQvZw",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJWe2_gTNWvjsR1IE_XK_3Fwo",
+            "plus_code": {
+                "compound_code": "36J2+76 Neturlim, Goa",
+                "global_code": "7J7P36J2+76"
+            },
+            "rating": 4.5,
+            "reference": "ChIJWe2_gTNWvjsR1IE_XK_3Fwo",
+            "types": [
+                "zoo",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "42c/1 ghotnicho va mushir wado, Colvale, Goa 403513, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.6522226,
+                    "lng": 73.8279781
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.6561304,
+                        "lng": 73.82963497989272
+                    },
+                    "southwest": {
+                        "lat": 15.65092,
+                        "lng": 73.82693532010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "64f6abb6fc956e6c6e27d995a83c7d1b265d8203",
+            "name": "Waste management",
+            "permanently_closed": true,
+            "place_id": "ChIJkett0P_tvzsRVUaK0QN7YhE",
+            "plus_code": {
+                "compound_code": "MR2H+V5 Colvale, Goa",
+                "global_code": "7J7MMR2H+V5"
+            },
+            "rating": 0,
+            "reference": "ChIJkett0P_tvzsRVUaK0QN7YhE",
+            "types": [
+                "zoo",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,964 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "18, DG-II Rd, Pocket DG 2, Vikaspuri, New Delhi, Delhi 110018, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6351385,
+                    "lng": 77.0673924
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63648597989272,
+                        "lng": 77.06878027989272
+                    },
+                    "southwest": {
+                        "lat": 28.63378632010728,
+                        "lng": 77.06608062010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7659e29f8fb018f91e81a80ccd2832cba945841b",
+            "name": "trusted companion for travel",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 683,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115833145685994541776\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAx1DZbRHDBXGD3iVR0ruiPdrjxfCG_TGjp8V0E5sgCiyDjBv-CFwd3HaD7sdSsMrQTWpcU1Q1sksSA0ByEBYqdTUH2o3RvrTs0Epz7gcoTkg4t9FQeAuNVkqsi7To6YRgEhAdRV9TYfOYYaIUQDN-BRxaGhSmMV3s4Er_ieE9gnDkPM4uhZmtGg",
+                    "width": 1366
+                }
+            ],
+            "place_id": "ChIJdyN5LuYEDTkRYSTcxDBfWjg",
+            "plus_code": {
+                "compound_code": "J3P8+3X Vikaspuri, New Delhi, Delhi",
+                "global_code": "7JWVJ3P8+3X"
+            },
+            "rating": 0,
+            "reference": "ChIJdyN5LuYEDTkRYSTcxDBfWjg",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Himalayan Glamping Retreat, Holistic Hospitality Services Private Limited RZ-88, 4th Floor, Palam Vihar, Sector 6 Dwarka, Dwarka, New Delhi, Delhi 110075, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5946859,
+                    "lng": 77.06901669999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.59605187989272,
+                        "lng": 77.07038087989274
+                    },
+                    "southwest": {
+                        "lat": 28.59335222010728,
+                        "lng": 77.06768122010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d6330b95a814d1ada91d2776f68368287c7c0d27",
+            "name": "Hotel Company in India",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 900,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117770909967939565767\">Pradeep Kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAjt53kDtwDtLIGkpvXknnXwxOe81yWr2C1sxq_3__ET2wleaIGNoxQ50tyS91fGEmXvvMUWXqaC7_XhI_krZ6Cs2WgPpog1HUOlvqfdkmMtl6Y-36exc9-3pSiBW7AwySEhBy-rd8rLHZ14gbVf6Uo2QGGhTClohELzPYyJVSRL9Hac4c96_unA",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJYwE0JzsbDTkR8GbMvgrRmww",
+            "plus_code": {
+                "compound_code": "H3V9+VJ Dwarka, New Delhi, Delhi",
+                "global_code": "7JWVH3V9+VJ"
+            },
+            "rating": 5,
+            "reference": "ChIJYwE0JzsbDTkR8GbMvgrRmww",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Jaunti, Delhi, 110081, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.750933,
+                    "lng": 76.9637376
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.75258382989273,
+                        "lng": 76.96538367989272
+                    },
+                    "southwest": {
+                        "lat": 28.74988417010728,
+                        "lng": 76.96268402010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "fbdeb176a4fbc585f46c31859268950929d7de88",
+            "name": "Mcd Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112796671638459599695\">\u092e\u0902\u0936\u093e \u0930\u093e\u092e</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_zCnOaLHgQN8jKW_32e8lGWhC38IvbITstDPbFFB0FUx1-rFUmowM1FpdCZxd0codLuy_2_GDNegBzE1BOm_uHKUlj1tPdeXUyMbuLQwn46wHXldaLTreZQNchOpXPBVEhC_XBd38cyKMI943sPWPBcDGhTmyEufs7JnVJhEJaZYVmgJqbnRLg",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJl2r5KLMJDTkRpBxh6oXqfGI",
+            "plus_code": {
+                "compound_code": "QX27+9F Jaunti, Delhi",
+                "global_code": "7JWRQX27+9F"
+            },
+            "rating": 4.1,
+            "reference": "ChIJl2r5KLMJDTkRpBxh6oXqfGI",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "17, Malviya Nagar, New Delhi, Delhi 110017, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5346964,
+                    "lng": 77.2145477
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.53605757989272,
+                        "lng": 77.21588367989273
+                    },
+                    "southwest": {
+                        "lat": 28.53335792010728,
+                        "lng": 77.21318402010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "589f31df305d0f00c589f1a48b768b836fa6032b",
+            "name": "Krayon Holidays",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112223979570864881296\">Vikash Kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyDr1hBd14UzvCKDJ7OaRvhffZcBxfI8vQK5J-PkKj4z6Ek9lQS9k_XnTIqXX9ZD0cDlgOXuQQDP3_YyBIlzeJLJSE3qfO90qoAQERtZrUKRvPfONPzERRxe5LrtcKs9_EhBDlPrBJita0ezCFkyAzPJwGhSqQ18qnisqeq9Z7Y64df9ZRakLSQ",
+                    "width": 1840
+                }
+            ],
+            "place_id": "ChIJu0ui_R7iDDkRyIXr4OegKIs",
+            "plus_code": {
+                "compound_code": "G6M7+VR New Delhi, Delhi",
+                "global_code": "7JWVG6M7+VR"
+            },
+            "rating": 3.4,
+            "reference": "ChIJu0ui_R7iDDkRyIXr4OegKIs",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "86, Janpath Ln, Atul Grove Road, Janpath, Connaught Place, New Delhi, Delhi 110001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6287628,
+                    "lng": 77.2203934
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63011137989272,
+                        "lng": 77.22178777989272
+                    },
+                    "southwest": {
+                        "lat": 28.62741172010728,
+                        "lng": 77.21908812010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3ab13b316e49e80d393c170aa2270a78ebd33ff6",
+            "name": "NASA Adventure",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 450,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118335611591289346313\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAemfReDJMD371PzrtXl7_ldEujNufpzDW69G-oJ-jG8VOIkS9DdxgTBoAk6AtgIna5TmMiy4OpBUkpOxtuG6yxcQiozS15CsNNnfOHVkEIJKc-M7XNTVDxAUCroJrfK2hEhA3xxUki-F6MVWiW-HOCRPkGhRuAIiGkf3unFbf8CcrEUc84ilglQ",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJtxkMCjX9DDkR7seH9LUolVc",
+            "plus_code": {
+                "compound_code": "J6HC+G5 Connaught Place, New Delhi, Delhi",
+                "global_code": "7JWVJ6HC+G5"
+            },
+            "rating": 4.5,
+            "reference": "ChIJtxkMCjX9DDkR7seH9LUolVc",
+            "types": [
+                "campground",
+                "travel_agency",
+                "lodging",
+                "park",
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "mahavir enclave, palam dabri road, New Delhi, Delhi 110045, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5966833,
+                    "lng": 77.08068449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.59799747989272,
+                        "lng": 77.08215312989272
+                    },
+                    "southwest": {
+                        "lat": 28.59529782010727,
+                        "lng": 77.07945347010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "61ac04641e1c8fea57a0f5654f45fe7b9ac295ea",
+            "name": "KINNAUR LAHAUL SPITI",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 325,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112023823348222164828\">KINNAUR LAHAUL SPITI</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyvokAc0mGoQGO4GoQ9QqMmeFn2lksz0aCGNv3Lcn9p1JmGAdolBDNKFLTlHn5YQTXFPFWpv8DyQaupX_v72YAwgpzScC9IStBkAV-BdLoRtCqeUqW9cGu8evDbZnY4oKEhBknzt6NJA7dqH8vwTP8RZfGhQvl2bXkVymNUm2xF_zTx_ujSzwXg",
+                    "width": 533
+                }
+            ],
+            "place_id": "ChIJtT0EmEcbDTkRBYx9OpSSgEs",
+            "plus_code": {
+                "compound_code": "H3WJ+M7 New Delhi, Delhi",
+                "global_code": "7JWVH3WJ+M7"
+            },
+            "rating": 3.8,
+            "reference": "ChIJtT0EmEcbDTkRBYx9OpSSgEs",
+            "types": [
+                "campground",
+                "travel_agency",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "B-6/1, Ankur Vihar, DLF Ankur Vihar, Ghaziabad, Delhi 201102, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7386198,
+                    "lng": 77.26704389999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73995522989272,
+                        "lng": 77.26842557989272
+                    },
+                    "southwest": {
+                        "lat": 28.73725557010728,
+                        "lng": 77.26572592010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "7b6f826f3dd741f122a3bdb03185789c4b9ff277",
+            "name": "Narayana Holidays Rishikesh",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102720606859169072169\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAArtX9BzhwEfUA6xjz2TyewbLm5j1iPf59m26VyCIVKrn8U5130oyThbWKhgJlbi61woGp86TIFU1HKu33tEGciw6ox9tBqCpXdZHHnw3X_N-44GAvmQmtx3sqxy_Fd2O6EhA3i3ncre9VMYm5NtZtfPusGhSq_M0VmxQvkE1z6bT3ekdQtIvTZQ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJC8GI8r7-DDkRFnV_hBoTuQQ",
+            "plus_code": {
+                "compound_code": "P7Q8+CR DLF Ankur Vihar, Ghaziabad, Uttar Pradesh",
+                "global_code": "7JWVP7Q8+CR"
+            },
+            "rating": 3.9,
+            "reference": "ChIJC8GI8r7-DDkRFnV_hBoTuQQ",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Manger - Dhauj Rd, Mangar, Haryana 121004, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.362267,
+                    "lng": 77.1868066
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.36353237989272,
+                        "lng": 77.18809492989271
+                    },
+                    "southwest": {
+                        "lat": 28.36083272010728,
+                        "lng": 77.18539527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "dabcd2754f4885ca182830f501d334c851cdffd4",
+            "name": "Camp Wild Dhauj at Aravali Valley",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 570,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108031781519341321963\">Camp Wild</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAXafyQcgAAatl0062Jf9LZKCW28ofNJJH2593fZGFCe-YenyJXM9BIm4eMWucxJ6cMMQ00ENCDw0ZpYAdVtkK660fs5-f6t7I9GSjkAlLTiqHleyxH-aaJRMskwzi50vfEhCXutQAChlz40Ug42J4s9gsGhRwCmgcPF6GQMU6FwlGwIGtNmR3Eg",
+                    "width": 760
+                }
+            ],
+            "place_id": "ChIJqZXP9KMgDTkRT7wgNIRfpc4",
+            "plus_code": {
+                "compound_code": "956P+WP Mangar, Haryana",
+                "global_code": "7JWV956P+WP"
+            },
+            "rating": 3.9,
+            "reference": "ChIJqZXP9KMgDTkRT7wgNIRfpc4",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 785
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "A44, Mahendru Enclave, GT Karnal Road, Delhi, 110033, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.702106,
+                    "lng": 77.182817
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70345707989272,
+                        "lng": 77.18416877989272
+                    },
+                    "southwest": {
+                        "lat": 28.70075742010727,
+                        "lng": 77.18146912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "41d29510e990e73b16bcce644fa464a0e784f77c",
+            "name": "Bindass Holidays Pvt. Ltd.",
+            "permanently_closed": true,
+            "place_id": "ChIJTT6HyxoCDTkRd8bdDMctpls",
+            "plus_code": {
+                "compound_code": "P52M+R4 Delhi",
+                "global_code": "7JWVP52M+R4"
+            },
+            "rating": 2,
+            "reference": "ChIJTT6HyxoCDTkRd8bdDMctpls",
+            "types": [
+                "campground",
+                "travel_agency",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dallupura delhi 69 Kheda Devta Mandir subhedar Ram Kishan mohalla, Dallupura, Delhi, 110096, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6057432,
+                    "lng": 77.31706679999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.60714142989272,
+                        "lng": 77.31825587989272
+                    },
+                    "southwest": {
+                        "lat": 28.60444177010728,
+                        "lng": 77.31555622010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "301c7190aa476c9e571a235a6ba2a5b8cfb11ef3",
+            "name": "Pawan kumar",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116435860560693854298\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAIdj7lad5MnaiuA4tiAkF5IkJuGYYweskfDG6rV9Vdj6YReu6HQqKU5XciTx6PylGlcWnco7FH1VO4xdw78z5ZIJDriGdywJ-w82y0c8Q5Vqoisd2w1Huj3qua2tuVYpVEhBmK1QuMFUbvHtqXzB9AjFpGhQSRjl9ljUt61PXJI6mqgA8GI9qUw",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJfY71EtHlDDkRW9xJ5q6RcF8",
+            "plus_code": {
+                "compound_code": "J848+7R Dallupura, New Delhi, Delhi",
+                "global_code": "7JWVJ848+7R"
+            },
+            "rating": 5,
+            "reference": "ChIJfY71EtHlDDkRW9xJ5q6RcF8",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "H-6/106, 1st Floor, Aggarwal Tower,, Netaji Subhash Place,, Pitampura, Behind P. P. Jewelers, New Delhi, Delhi 110034, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.693285,
+                    "lng": 77.146462
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69468292989272,
+                        "lng": 77.14785217989272
+                    },
+                    "southwest": {
+                        "lat": 28.69198327010728,
+                        "lng": 77.14515252010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4c75abf2e3c63a35d2d974ccb4a6df76146c5ffc",
+            "name": "estamp papers - Car bike motor insurance, Air & Railway Tickets, Voter ID Card, Pan Card, Passport, House Tax",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 435,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103567152025251691766\">estamp papers</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgRzVFLB_oM7xp3zKGS5ZTq6djFu2E6UDDXou3ymbZZvarPbJ0hCEVSQW6TfmRv0c2WoFSclc9QQ_f7zYvLHlyFwDkzBbsAY-PiFpTDrPOPPsDEMFcreWCRBmo7CsoBVDEhBCA-QQKBXVbs_EpVwBxnS0GhR0OqRQYjrAnrB3Ix-9lIf7lC0sJw",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJz7hd5cwDDTkR2rjxXcs19YI",
+            "plus_code": {
+                "compound_code": "M4VW+8H New Delhi, Delhi",
+                "global_code": "7JWVM4VW+8H"
+            },
+            "rating": 5,
+            "reference": "ChIJz7hd5cwDDTkR2rjxXcs19YI",
+            "types": [
+                "campground",
+                "finance",
+                "local_government_office",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "GALAXY APARTMENTS, Block H, Block F, Vikaspuri, Delhi, 110018, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.643617,
+                    "lng": 77.06978
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64476737989272,
+                        "lng": 77.07089627989272
+                    },
+                    "southwest": {
+                        "lat": 28.64206772010727,
+                        "lng": 77.06819662010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "54d2cd1f2fefa6ff5d90775d841615dda25da70e",
+            "name": "Kumuda Hospitality",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ__9TJ_AEDTkRL6EFSUYu8K4",
+            "plus_code": {
+                "compound_code": "J3V9+CW Vikaspuri, New Delhi, Delhi",
+                "global_code": "7JWVJ3V9+CW"
+            },
+            "rating": 5,
+            "reference": "ChIJ__9TJ_AEDTkRL6EFSUYu8K4",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "E-140,SUSHANT SHOPPING ARCADE, Gurugram, 122001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.460672,
+                    "lng": 77.0789358
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46210887989272,
+                        "lng": 77.08028647989272
+                    },
+                    "southwest": {
+                        "lat": 28.45940922010728,
+                        "lng": 77.07758682010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "40dd6b065aaa617787b29869438b216c20ee04ab",
+            "name": "Kumbh Camp India",
+            "permanently_closed": true,
+            "place_id": "ChIJu3HH3tMeDTkRc3fMcx1tjeI",
+            "plus_code": {
+                "compound_code": "F36H+7H Gurugram, Haryana",
+                "global_code": "7JWVF36H+7H"
+            },
+            "rating": 3.9,
+            "reference": "ChIJu3HH3tMeDTkRc3fMcx1tjeI",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "E-16-448, Sector 8, Rohini, Delhi, 110085, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.7031576,
+                    "lng": 77.1227437
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70442092989272,
+                        "lng": 77.12410077989273
+                    },
+                    "southwest": {
+                        "lat": 28.70172127010728,
+                        "lng": 77.12140112010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "c5e0524b4837bb90805918e6e9aef27c4dfe44b9",
+            "name": "Star Vacation Holidays",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107183920271304855233\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAICraKjDVKhMxthS7Mh1Udc8EcOu02GoogM8lDjGKIf_ceQxDLSE3h7HPmWIGWgYupU4ZzCq93qJcE5Mf-VpAkji6U2KxYcR28u0OU81ptPPRfkdCpUny1O4xJ-hiAGo2EhDZ-LB13JLwXLjCNXMZP7XmGhRI1q6l2cHRYopTb4HSjTWz9gFGSg",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJIQe3RTwDDTkRkrMn89D8yas",
+            "plus_code": {
+                "compound_code": "P43F+73 Delhi",
+                "global_code": "7JWVP43F+73"
+            },
+            "rating": 0,
+            "reference": "ChIJIQe3RTwDDTkRkrMn89D8yas",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "16/1, 2nd Floor, Doctor's Lane, Near Bangla Sweets, Gole Market, Connaught Place, Delhi, 110001, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6339424,
+                    "lng": 77.2085822
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63530877989272,
+                        "lng": 77.20994417989272
+                    },
+                    "southwest": {
+                        "lat": 28.63260912010728,
+                        "lng": 77.20724452010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ec8375027bc9a76f43a98f84b9d485c44219bbea",
+            "name": "Uttarakhand Tourism",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 393,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102303977079652261485\">E-Uttarakhand Tourism</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACOOXiLPRI1gvFc7Y1CP3ALIEFfci_oJMfeumb_po8iVcpMHdZgfnjDIO9XPvA-67dyGeLG2Fu4-Ydip3XEdiIp1TYj4EX8jD4sUgmolUHgz8vY-XhKmRb077J6YJQfu-EhDJyclWYvsb_Ctl5VLrKaMMGhQjvSlM5wYFCf_c4acO1Zj8pyy0sw",
+                    "width": 700
+                }
+            ],
+            "place_id": "ChIJicczzrfkDDkRMq-eEJUBSjk",
+            "plus_code": {
+                "compound_code": "J6M5+HC Connaught Place, New Delhi, Delhi",
+                "global_code": "7JWVJ6M5+HC"
+            },
+            "rating": 5,
+            "reference": "ChIJicczzrfkDDkRMq-eEJUBSjk",
+            "types": [
+                "campground",
+                "travel_agency",
+                "place_of_worship",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Golden Greens Golf Cross Rd, Haryana 122101, Haryana 122101, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.364604,
+                    "lng": 77.007423
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.36594942989272,
+                        "lng": 77.00888327989273
+                    },
+                    "southwest": {
+                        "lat": 28.36324977010728,
+                        "lng": 77.00618362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "e3ba94087833b13c67065991a8bd7b2c64327aac",
+            "name": "Escape A Secret Campsite",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2176,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112934644488105324063\">Ishank Ahuja</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4Qpc8987rl_eFglaNLg2mX3cKmNZSRSsqKXcoYl8O9tMNf08wsJLp2YbefJk68lUu3JWLmUeg_z0g2NxiPsEDlybgKk9oda0cwQpWceFQeEOv_JBpHPB--nk9OBXUPMNEhBSWcy_q9FPS5o6OzFAM3Q2GhSjSmRCebi3qbv1wzlXIEdLkYxGBQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJYaVJysQ9DTkRpAOK2K1NTOw",
+            "plus_code": {
+                "compound_code": "9274+RX Sakatpur, Gurugram, Haryana",
+                "global_code": "7JWV9274+RX"
+            },
+            "rating": 4.4,
+            "reference": "ChIJYaVJysQ9DTkRpAOK2K1NTOw",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Manger - Dhauj Rd, VIllage Dhauj, Faridabad, Haryana 121004, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.3619306,
+                    "lng": 77.1864712
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.36331232989272,
+                        "lng": 77.18776792989273
+                    },
+                    "southwest": {
+                        "lat": 28.36061267010728,
+                        "lng": 77.18506827010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "90e9afacb3adb00ec54cd7d11f62e3bcf09bfc9e",
+            "name": "Camp Wild at Dhauj",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104091925076827623527\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUztNqvL_r9w1e7cTHq4N496_8RIsqsLk3j14qNruZSOU5oaWW2QB6Hr2vnzYsWYIIIIm6vrltM10l4AUYE5bP01Zll08gCII6j91fVzgkE9iTyc3lfkoLYcgFD5skoctEhDacgJXpifeNxJtvYKFpyDKGhSD9chmhmMl-IZlNBJ9V-JRlfY21Q",
+                    "width": 6016
+                }
+            ],
+            "place_id": "ChIJyxwn27AhDTkRyfDgF15P9Pc",
+            "plus_code": {
+                "compound_code": "956P+QH Faridabad, Haryana",
+                "global_code": "7JWV956P+QH"
+            },
+            "rating": 4.1,
+            "reference": "ChIJyxwn27AhDTkRyfDgF15P9Pc",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Amitabh park, Sector 15, Noida, Uttar Pradesh 201301, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5800484,
+                    "lng": 77.30341729999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.58152332989272,
+                        "lng": 77.30498267989272
+                    },
+                    "southwest": {
+                        "lat": 28.57882367010728,
+                        "lng": 77.30228302010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "2c0af9d283c1472d2180f84cc3d7be5d55a89917",
+            "name": "Amitabh Park",
+            "photos": [
+                {
+                    "height": 2176,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110416149427987766369\">Surya Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxzmk6zITkwj86A35Y4KYXTAfWIyeUAR07pb2rzIoQQqo_DNJkQEtad1YvXYKze0suFTfqmbm0VzPAClMQG_kXSzlulqh6X6L466vfMMYotwOiGWpG5bKNsKQd0mmMwN9EhCn-0qZL-Sot6watYJXY6YBGhS8dbMTleX5CwF5aUIJRes0Xvg2jg",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJB3_x0mflDDkRvUZY9MnFztc",
+            "plus_code": {
+                "compound_code": "H8J3+29 Sector 15, Noida, Uttar Pradesh",
+                "global_code": "7JWVH8J3+29"
+            },
+            "rating": 4.3,
+            "reference": "ChIJB3_x0mflDDkRvUZY9MnFztc",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 232
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shop No.3, A-8A, 60 Ft. Road, Suraj Kund Road, Pul Praladpur, Badarpur, Suraj Kund Badkhal Rd, Pulpharadpur, Block A, Pul Pehlad Pur, Faridabad, Haryana 110044, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.4996818,
+                    "lng": 77.2902842
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.50109322989272,
+                        "lng": 77.29147737989271
+                    },
+                    "southwest": {
+                        "lat": 28.49839357010728,
+                        "lng": 77.28877772010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "7804e14a340a4581eb4eec7f9bb2a1ded28533b0",
+            "name": "Multan Holidays",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104300364386133918096\">chander mahana</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAr3ER78UOU5VS_4azFXB8gn_bia5crecWhAmKBTivyu9zC0PWZAJ2WIIfQ1hkOe45si-cs9ry_mTxryYbDOXg9GWzt9fnCYp_Bil0-mNtpau4fGoGmRKHtpXK9Bleyi1wEhApaEDRSWBwu30GuctVOhDZGhTVrB751Sz4lVcVOL5YkE4YD4gsiw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJXc84n9PmDDkRZE540dTTINI",
+            "plus_code": {
+                "compound_code": "F7XR+V4 Pul Pehlad Pur, New Delhi",
+                "global_code": "7JWVF7XR+V4"
+            },
+            "rating": 3.3,
+            "reference": "ChIJXc84n9PmDDkRZE540dTTINI",
+            "types": [
+                "campground",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 54
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Office No-121/19/SB, jaipuria Mall, 1st Floor, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6401634,
+                    "lng": 77.37813120000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64152157989272,
+                        "lng": 77.37930632989273
+                    },
+                    "southwest": {
+                        "lat": 28.63882192010728,
+                        "lng": 77.37660667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "bb470004a711cadf74ff0761a27731e4f723890f",
+            "name": "Camp organisers for river rafting",
+            "permanently_closed": true,
+            "place_id": "ChIJ77sYbvr7DDkRUN7vfx6AQ9I",
+            "plus_code": {
+                "compound_code": "J9RH+37 Indirapuram, Ghaziabad, Uttar Pradesh",
+                "global_code": "7JWVJ9RH+37"
+            },
+            "rating": 5,
+            "reference": "ChIJ77sYbvr7DDkRUN7vfx6AQ9I",
+            "types": [
+                "campground",
+                "travel_agency",
+                "lodging",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        }
+    ],
+    "status": "OK"
+}

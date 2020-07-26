@@ -1,0 +1,902 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "B-91, Rajamal Ka Talab Rd, Gangori Bazaar, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.93,
+                    "lng": 75.8247222
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93124497989272,
+                        "lng": 75.82651207989272
+                    },
+                    "southwest": {
+                        "lat": 26.92854532010728,
+                        "lng": 75.82381242010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "71b84bf68c4bc399822b0f5b9fe0b466d8a0e56c",
+            "name": "Jai Niwas Garden",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104449549702488898033\">Arshad khan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOELDTeF4otwSMWlPeF7gH8oZax4sAA-fjN-KbKtwhm_wYsUO8OjleGy-3Dnrm1SF5u7wSvgteso8vT0cvoTShwk-6fO-ZKwrXsHJ7TB14Rp7xHynt5AwrpRaSIg532J9EhAeQSmTv361xZHdrfDy9rr7GhQwvvoLGk2nXhTym3zRgUKPHKboQQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJseuwKkmxbTkRBW83y7v7Hto",
+            "plus_code": {
+                "compound_code": "WRJF+2V Kanwar Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWRJF+2V"
+            },
+            "rating": 4.4,
+            "reference": "ChIJseuwKkmxbTkRBW83y7v7Hto",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6312
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "C-14, Mukharjee Colony, Shastri Nagar, Jaipur, Jaipur, Rajasthan 302016, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9513143,
+                    "lng": 75.8040193
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.95262962989272,
+                        "lng": 75.80538612989272
+                    },
+                    "southwest": {
+                        "lat": 26.94992997010728,
+                        "lng": 75.80268647010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d8882b9eaecbddd5de5f691a2b495972c7a04a9e",
+            "name": "Globaltravelsz",
+            "permanently_closed": true,
+            "place_id": "ChIJ____W-SzbTkRWhp7PcCWXbU",
+            "plus_code": {
+                "compound_code": "XR23+GJ Jaipur, Rajasthan",
+                "global_code": "7JRQXR23+GJ"
+            },
+            "rating": 0,
+            "reference": "ChIJ____W-SzbTkRWhp7PcCWXbU",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Tripolia Bazar, Kanwar Nagar, Jaipur, Rajasthan 302007, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9246438,
+                    "lng": 75.818674
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92600592989272,
+                        "lng": 75.82002717989273
+                    },
+                    "southwest": {
+                        "lat": 26.92330627010728,
+                        "lng": 75.81732752010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "af56d584d7916cf2a63f39a90e4d6e2b90e38b5e",
+            "name": "Tripolia bazar",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3474,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115457421464052563810\">Vishnu sharma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKnCTBZHciPyDu31TxSGbMbq8yYaDHHWIMihl5PCmePNChZBAfLxL8LVm31yWMr88FG-rs0L7qVGv1AHY2xoF_AoIRSM41emyVBBxsZTCHC8ENRd-14hGdi8imF-oRxd3EhCxd3rlJqa3ZEB6ykN2wwnlGhQ5nJUsB6CTu6bovsrrENKSpdAoMg",
+                    "width": 4632
+                }
+            ],
+            "place_id": "ChIJnSU8zkSxbTkRhzX5HePN7pM",
+            "plus_code": {
+                "compound_code": "WRF9+VF Kanwar Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWRF9+VF"
+            },
+            "rating": 4.7,
+            "reference": "ChIJnSU8zkSxbTkRhzX5HePN7pM",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Near Kheri Gate, Amer, Jaipur, Rajasthan 302028, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9912497,
+                    "lng": 75.8512358
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.99254932989272,
+                        "lng": 75.85249017989273
+                    },
+                    "southwest": {
+                        "lat": 26.98984967010728,
+                        "lng": 75.84979052010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "51578557b3df3a0df86bf55a1f627e9b6a33b3a4",
+            "name": "Step Well",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109313900887640603698\">Stephanie Moraca</a>"
+                    ],
+                    "photo_reference": "CmRaAAAApHK_oSm9Zs389P9NXMPN309mCfTiEdzSewt5QeLi2Nyg3EHT3FALS6ZHuqQf_Z8Luk0IXswin1UdCbOhnNI8D__w1xKxMXgyRLuFCDD-ez_eNvKRkG9MdG5tfutQglC3EhAt2ZQGEruF-t5R3ATBNP-9GhSS-6yMglD4aMc18gUYzqPoB-yoSw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJg1vRBLWxbTkR2KXxzBRHhhw",
+            "plus_code": {
+                "compound_code": "XVR2+FF Amer, Jaipur, Rajasthan",
+                "global_code": "7JRQXVR2+FF"
+            },
+            "rating": 4.3,
+            "reference": "ChIJg1vRBLWxbTkR2KXxzBRHhhw",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 606
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sardar Patel Marg, Shivaji Nagar, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9060791,
+                    "lng": 75.7914162
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.90755507989272,
+                        "lng": 75.79303877989273
+                    },
+                    "southwest": {
+                        "lat": 26.90485542010728,
+                        "lng": 75.79033912010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "4837aaf75a4a0a67a51f8cb95e4bfde5bcb7a3b7",
+            "name": "SUJ\u00c1N Rajmahal Palace",
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105018602009955706977\">Jyoti Venkatakrishnan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAacUt7dhCxF8ZfJPNFF-iGvMCRG-Le9DR1uXsvkvMJlfXQjo_ghFOogPx_9IhHKD-2VYz5h3AmO8inStzVPxH1a0ex_9M2uT1ZmscN2dItDfeWZIIaQdlMQgmLnwUtTgjEhDM5cc4Wc46qa_JgwYUrK_hGhT2Npa-np4W8D6CvdfwOGHExTKC6Q",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJD2_OxBG0bTkRVNcylRKDq7M",
+            "plus_code": {
+                "compound_code": "WQ4R+CH Jaipur, Rajasthan",
+                "global_code": "7JRQWQ4R+CH"
+            },
+            "rating": 4.5,
+            "reference": "ChIJD2_OxBG0bTkRVNcylRKDq7M",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 780
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Aatish Market, Gangori Bazaar, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9243852,
+                    "lng": 75.8207991
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92567757989272,
+                        "lng": 75.82213432989272
+                    },
+                    "southwest": {
+                        "lat": 26.92297792010728,
+                        "lng": 75.81943467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "4d9727bd138e854388a71d03c5d4d27fc755cf9e",
+            "name": "Isarlat Sargasooli",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115939468648047033454\">Lucia Ferrando</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA7jQSG2Hv-f3IJ1iPhUdHPFNKZV-zfTUiPvwckApmPlQ1EE00_fByqFcaONRqs6yX2ok5WExXiYRXWi4bK3nZwNtzbEnW7EOaLOJiCpoV0NVofcvHPK_k0dMn0K-rpqwsEhBu90872MUblefvb0SovLWvGhQBtNvKfHcduCGj46geQ3hyTcBr7w",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ2-vgqE2xbTkRS1ab-9TqZaM",
+            "plus_code": {
+                "compound_code": "WRFC+Q8 Kanwar Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWRFC+Q8"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ2-vgqE2xbTkRS1ab-9TqZaM",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2285
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Anokhi Haveli Kheri Gate, Amer, Jaipur, Rajasthan 302028, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.99271,
+                    "lng": 75.850776
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.99405982989272,
+                        "lng": 75.85212582989271
+                    },
+                    "southwest": {
+                        "lat": 26.99136017010728,
+                        "lng": 75.84942617010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "f8dd9282e0a29d72cbdcece66800957dce8c0476",
+            "name": "Anokhi Museum",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110900933036508665780\">Sapna Mathur</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAeKnOkRipW8DoQcfzTd8wT7QAd65cxsNg2TCt8M5RU03ZzQ7_cdjytfH4LN9TOQs2nWK5bexFtbbV7yr0NcDpR7eFBq32Ri6KK-1uB27ZSiJ49Z9JRkiDD3uqe0RhHkxIEhA5kzCTGppsA21BQbcilqvOGhRRFqWKA9ezlTy_4DOp-v6zjPnkOQ",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ2fs8d7WxbTkRnv1e7pWoFuI",
+            "plus_code": {
+                "compound_code": "XVV2+38 Amer, Jaipur, Rajasthan",
+                "global_code": "7JRQXVV2+38"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ2fs8d7WxbTkRnv1e7pWoFuI",
+            "types": [
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 206
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jawahar Lal Nehru Marg, D-Block, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.853021,
+                    "lng": 75.8046688
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.85438132989272,
+                        "lng": 75.80596387989273
+                    },
+                    "southwest": {
+                        "lat": 26.85168167010727,
+                        "lng": 75.80326422010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "2716a449dc7c456f97eeb8ae425909dbceaa8811",
+            "name": "World Trade Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110535644153117439602\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUipk5LLINJwz-jZPl84CmIKhCAdrpiMfKVveAOoFWj1Fuf_Rnj5DaUqLLGmaXQa3T_YDxxP3ktP9nwvNw9kOg9E9Imat2sygdERgo3zF2qvPK_QxMl90fOml631kYE6EEhBKR7igqO5LLu2gsST7B58PGhSzrVylhYG4x693rjlzValfPf11zw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJz2S0q9C1bTkRr_3JFqQKREM",
+            "plus_code": {
+                "compound_code": "VR33+6V Malviya Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQVR33+6V"
+            },
+            "rating": 4.6,
+            "reference": "ChIJz2S0q9C1bTkRr_3JFqQKREM",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 55894
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Shop No- 51, First Floor, Arcade International Complex, Civil Line, Ajmer Road, Jaipur, Rajasthan 302006, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9100902,
+                    "lng": 75.7815763
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91132427989272,
+                        "lng": 75.78299577989273
+                    },
+                    "southwest": {
+                        "lat": 26.90862462010728,
+                        "lng": 75.78029612010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "635149de0dd8ec0219218872f59a2f223fbfe856",
+            "name": "Delhi Agra Jaipur Trip",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112916745067031041731\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA5G-1TjwhxnLBGBb28s_lj7_23Yidl1TYzyBVRBCBfLMir4ElDv0kexKZBypsgevnx2dCmlhbJTuUcpJ83DkbQVSZjMATk2Ab7PWQMKXJ29AQvKVFzdxS79aNCJ8m1iE7EhCvl_Dpb9vAO33S5fxg_9zQGhRY7WRqXQg5TAPqlkiN_8lKaZlTDw",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJp8R4SAy0bTkRzCWODCn6F9A",
+            "plus_code": {
+                "compound_code": "WQ6J+2J Jaipur, Rajasthan",
+                "global_code": "7JRQWQ6J+2J"
+            },
+            "rating": 4.5,
+            "reference": "ChIJp8R4SAy0bTkRzCWODCn6F9A",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "A33 JAGDAMBA COLONY, Ambabari, Naya Khera, Jaipur, Rajasthan 302039, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9498148,
+                    "lng": 75.7817742
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.95116032989273,
+                        "lng": 75.78314562989273
+                    },
+                    "southwest": {
+                        "lat": 26.94846067010728,
+                        "lng": 75.78044597010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "78ec7180f441dbcc59694e09e5876b4ee7df3604",
+            "name": "Prem Kunj",
+            "place_id": "ChIJifkD0SqzbTkRIp_8C3zEYY8",
+            "plus_code": {
+                "compound_code": "WQXJ+WP Jaipur, Rajasthan",
+                "global_code": "7JRQWQXJ+WP"
+            },
+            "rating": 0,
+            "reference": "ChIJifkD0SqzbTkRIp_8C3zEYY8",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ground Floor, K, 14/B, Ashok Marg, Panch Batti, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9151955,
+                    "lng": 75.80140659999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91664227989272,
+                        "lng": 75.80278597989272
+                    },
+                    "southwest": {
+                        "lat": 26.91394262010728,
+                        "lng": 75.80008632010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "b8f71277089be46a26e2bdc16d6df12a8a5e96dc",
+            "name": "Amrapali Museum",
+            "photos": [
+                {
+                    "height": 495,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103711218124088739536\">Lalit Marodiya</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAiDAWIv7Kzo6Pszu21RS3QOYC-kmYSZI-TM20_yObyZ1on-rLfdw0fhvdfPYOfUxslf8RDmu9-Zw2ep1EdQVXFy0qLxhPSWkRAgENkUyJmTW3Vq0toyfaAifw0Iad713WEhCReOgich2HxXMIRzMK6n8jGhRBbRukntqaz3KaiKARJMU04Go5vw",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJSTr0NwG0bTkRFSj6wltYcPY",
+            "plus_code": {
+                "compound_code": "WR82+3H Ashok Nagar, Jaipur, Rajasthan",
+                "global_code": "7JRQWR82+3H"
+            },
+            "rating": 4.3,
+            "reference": "ChIJSTr0NwG0bTkRFSj6wltYcPY",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 154
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Agra Rd, Gangori Bazaar, J.D.A. Market, Pink City, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9270086,
+                    "lng": 75.8235041
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92860867989272,
+                        "lng": 75.8242927298927
+                    },
+                    "southwest": {
+                        "lat": 26.92590902010728,
+                        "lng": 75.82159307010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ccee7fd3a509cb0d91d98b5bd21baf22868a93b1",
+            "name": "Chandra Mahal",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3648,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103855832418531453620\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA7LJ64tEAFUL2Yn2Ihbot0DWLmeOxZHrLLHBTNmcuS7ru9Eq0_YxKXNLYWnCT6K3FSJR9k9PH2xgx9huR4UNXpa9OAEDW02Upfvb-tYchrlkaC2ZNosC1B18VdNXZA1PJEhCSXdgVZL574Rct3p7dOyeBGhTgfl6aumeZkWpCYJD8NeG9WfQDQA",
+                    "width": 5472
+                }
+            ],
+            "place_id": "ChIJrUMVGkyxbTkR-d0twdb5jzU",
+            "plus_code": {
+                "compound_code": "WRGF+RC Jaipur, Rajasthan",
+                "global_code": "7JRQWRGF+RC"
+            },
+            "rating": 4.6,
+            "reference": "ChIJrUMVGkyxbTkR-d0twdb5jzU",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 44
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Nahargarh Fort Amer Road Near Jal Mahal, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9391796,
+                    "lng": 75.81627449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.94052942989272,
+                        "lng": 75.81762432989271
+                    },
+                    "southwest": {
+                        "lat": 26.93782977010728,
+                        "lng": 75.81492467010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "29e9a35e9b3f2d203b9d1273928cadd9b3c8707e",
+            "name": "Jaipur Wax Museum Nahargarh Fort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116739181468430765311\">Jaipur Wax Museum Nahargarh Fort</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1l_ldd1UDP0VHOakhdduZlEVzyVnwjWdeJhJ-VExjv3rsAg10kGjPLpmpeh77FpiaQVrrknVQ9nObpNd3W0MASwYHagv7-c3hoJLtQEs5BmgK2IOkNzW1pgGts8p1rdJEhDv-PkMufMi9NBC4xnn6EaiGhScfWfiae-t_b-LInZQ5H4Puxp83Q",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJw1BujlyxbTkRlufvmwfJwO4",
+            "plus_code": {
+                "compound_code": "WRQ8+MG Jaipur, Rajasthan",
+                "global_code": "7JRQWRQ8+MG"
+            },
+            "rating": 4.3,
+            "reference": "ChIJw1BujlyxbTkRlufvmwfJwO4",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1208
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Devisinghpura, Amer, Jaipur, Rajasthan 302028, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9854896,
+                    "lng": 75.8512951
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.98683942989272,
+                        "lng": 75.85264492989273
+                    },
+                    "southwest": {
+                        "lat": 26.98413977010728,
+                        "lng": 75.84994527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5221b90e87f41a630445ad4e173dc9957deffde3",
+            "name": "Sheesh Mahal",
+            "photos": [
+                {
+                    "height": 3648,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104733903125348063930\">Luca Veraldi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAty4csnagqp9G_RTBWEHhiX9Mr-imUhg7pTgIV6T5pjqpc_Z-B9eEQlAtjhA2iBXfRwuWjc5IOBuIvuTyq3SIEPDpvV1lJT-oYKK3uYza66eX6yJDLyB2ImZH8IBOc_OGEhDjEv705lqzA6LZLqp1ycjgGhTTIK15OCHKFUHtFmY4cTfz7HQh4A",
+                    "width": 5472
+                }
+            ],
+            "place_id": "ChIJU1qPhTuxbTkRlnzb1Xq3hN0",
+            "plus_code": {
+                "compound_code": "XVP2+5G Amer, Jaipur, Rajasthan",
+                "global_code": "7JRQXVP2+5G"
+            },
+            "rating": 4.6,
+            "reference": "ChIJU1qPhTuxbTkRlnzb1Xq3hN0",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4331
+        },
+        {
+            "formatted_address": "Man Sagar Lake, Jal Mahal, Amer, Jaipur, Rajasthan 302002",
+            "geometry": {
+                "location": {
+                    "lat": 26.9568115,
+                    "lng": 75.8495542
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.9614958,
+                        "lng": 75.8558013
+                    },
+                    "southwest": {
+                        "lat": 26.9504016,
+                        "lng": 75.8426516
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "a1f5c9a3226b4c7b3e40b1db7c0b172c9db5f9d7",
+            "name": "Man Sagar Lake",
+            "photos": [
+                {
+                    "height": 660,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102788238576962094590\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1RXh7acP7F25KmlEG1P_QwY1qBQohM8y1zy4nCFtdzAYgKAECxIfpQEgCechrmTLaOq9UcS8sBEyxZXaG7KHQS20jc4Ypny6dSHLMMJopMBDBy96Ys7wlicjB15LyHaAEhC6MpZgF-paXnwzlCVj2PRQGhT4-lV0V9Jdm4qIP7i8gkvfrktRtA",
+                    "width": 888
+                }
+            ],
+            "place_id": "ChIJ41tsXxyxbTkR6fd9gIvisUw",
+            "rating": 4.3,
+            "reference": "ChIJ41tsXxyxbTkR6fd9gIvisUw",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 289
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Cabin No. 603, Gordhan Sky Mall, Khatipura Rd, Jhotwara, Jaipur, Rajasthan 302012, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9370672,
+                    "lng": 75.7578341
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93854057989272,
+                        "lng": 75.75904792989272
+                    },
+                    "southwest": {
+                        "lat": 26.93584092010728,
+                        "lng": 75.75634827010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "721d3d2d95179055ae891ae994ef60020d6c12c5",
+            "name": "Silverfox Consultant",
+            "permanently_closed": true,
+            "place_id": "ChIJaQI7EuqzbTkRQcQH35vh9YM",
+            "plus_code": {
+                "compound_code": "WQP5+R4 Jhotwara, Jaipur, Rajasthan",
+                "global_code": "7JRQWQP5+R4"
+            },
+            "rating": 0,
+            "reference": "ChIJaQI7EuqzbTkRQcQH35vh9YM",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "101, Siddha Regal Apartments, Devi Marg, Bani Park, Jaipur, Rajasthan 302016, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9265515,
+                    "lng": 75.7895274
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92796852989272,
+                        "lng": 75.79093832989271
+                    },
+                    "southwest": {
+                        "lat": 26.92526887010727,
+                        "lng": 75.78823867010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "37e63bb8118678ad786f789d1d0b9a5632c3689c",
+            "name": "Heritage Water Walks",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 380,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108915336561450656991\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASCs11hl_BsgmVCk4xIZXuN1c982LnvgmLluU_booLAYOlFKQvwW4fmMrB3hoRmCVH16P4O6XNEn2FvMfCkgvF-S3NK5vdpveLf1qXqhz4blsBCq10Udz0poedXuFObtrEhBncF3ewXyWwCeIdpc4Wk-NGhTcdbtEaH2bII-eLUHsYYNCDLF2XQ",
+                    "width": 675
+                }
+            ],
+            "place_id": "ChIJJdSNTyyzbTkR9KZ2uZdPJO8",
+            "plus_code": {
+                "compound_code": "WQGQ+JR Bani Park, Jaipur, Rajasthan",
+                "global_code": "7JRQWQGQ+JR"
+            },
+            "rating": 5,
+            "reference": "ChIJJdSNTyyzbTkR9KZ2uZdPJO8",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "CITY PALACE, MAHARAJA SAWAI MAN SINGH II MUSEUM, Tripolia Bazar, Jaipur, Rajasthan 302002, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.935785,
+                    "lng": 75.833613
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.93712602989272,
+                        "lng": 75.83498177989273
+                    },
+                    "southwest": {
+                        "lat": 26.93442637010728,
+                        "lng": 75.83228212010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "efaa83ac2ce3c942c67e572ca8c6dd3f548b05bd",
+            "name": "Jaipur Tourism",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108613859578703573011\">Sunil Rathore</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwK0uPpV-OsK-K6Onoof3Ljk4UACjAGieZ1n3jeOFmefsmdoiuXPA2RxuNdwwMIh8ZVLEXSfEnqr9La_hvC97MRLTamyxtJlfeyCzFfI8n2rD6DM8vCDEGScYuchujPooEhAm7kCQWH-xlM0-Hi1rLSP3GhQv4-7Og3XJGwiUqPxO-iwy1nRU4A",
+                    "width": 4928
+                }
+            ],
+            "place_id": "ChIJW3CrtzmxbTkRpmQBUKtXG1I",
+            "rating": 3.9,
+            "reference": "ChIJW3CrtzmxbTkRpmQBUKtXG1I",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Museum Rd, Ram Niwas Garden, Kailash Puri, Ramniwas Bagh, Jaipur, Rajasthan 302004, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9123097,
+                    "lng": 75.8211759
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.91310972989272,
+                        "lng": 75.82241707989272
+                    },
+                    "southwest": {
+                        "lat": 26.91041007010728,
+                        "lng": 75.81971742010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c25b2273ef4c50430f78becf4da9bf2dbdeeb644",
+            "name": "Jaipur Zoo",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104174900223627988826\">INDRADIP NANDI</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAeEqS5ntwJ7HySE87UmEGuLvK108wZVVIiIIZU3yHI1RnB1eEOvk8v3jMqdZE7UeMcM-ZSSVdeIHIOwUnUaplIIhVqFmQzJACT8-9YpGPJswj5ehcFBNfaAXEmBfPmL-4EhDtnsx-NgxA3dsasxISQnJbGhTEr6PY9mlA-L_4l6a-GJy3OwRcyw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJlUU0la22bTkRYjOPfx2lY9E",
+            "plus_code": {
+                "compound_code": "WR6C+WF Jaipur, Rajasthan",
+                "global_code": "7JRQWR6C+WF"
+            },
+            "rating": 3.4,
+            "reference": "ChIJlUU0la22bTkRYjOPfx2lY9E",
+            "types": [
+                "zoo",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5525
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kishanpole Bazar, Chandpole Bazar, Chandpole, Pink City, Jaipur, Rajasthan 302001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.9222272,
+                    "lng": 75.8157209
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.92358292989272,
+                        "lng": 75.81707192989273
+                    },
+                    "southwest": {
+                        "lat": 26.92088327010728,
+                        "lng": 75.81437227010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a5db46658ea210b7de2415da92cca8de7e4a1b84",
+            "name": "KISHANPOLE BAZAR VYAPAR MANDAL",
+            "permanently_closed": true,
+            "place_id": "ChIJqbbC31KxbTkRX1rpuMEQlqs",
+            "rating": 0,
+            "reference": "ChIJqbbC31KxbTkRX1rpuMEQlqs",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,431 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Calangute-Anjuna Main Road, Padre Agnel Vaddo, Gauvaddi, Anjuna, Near Double Tree Hilton Hotel, Bardez, Goa 403509, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.579003,
+                    "lng": 73.758791
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.58022132989272,
+                        "lng": 73.76023002989272
+                    },
+                    "southwest": {
+                        "lat": 15.57752167010728,
+                        "lng": 73.75753037010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "799588f102efa93ac261f0d95d0b1b3fc000cf35",
+            "name": "Splashdown Waterpark",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118333868087049645715\">Prinsha Nunes</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAIUcKiTBKbCXFyqrts0ub9jQTpxgT02Oq8BW9tU1UPTal0xXVX8AkUmRcmJerSEHAsle59dAQ2GmdBow653qyjKjDZv1NY-khfR7_q93p1H2Nn3KrsaSiPlg3aLufenDBEhDK7Qesg_e56AtusGWPXWNlGhQHKM55tB5lNmTAEhCfE6MwAJDbgg",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJMS8RWSXqvzsRD_BatlAomOk",
+            "plus_code": {
+                "compound_code": "HQH5+JG Anjuna, Goa",
+                "global_code": "7J7MHQH5+JG"
+            },
+            "rating": 3.7,
+            "reference": "ChIJMS8RWSXqvzsRD_BatlAomOk",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1142
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Padi, Goa 403703, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.0893788,
+                    "lng": 74.05681200000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.09078147989272,
+                        "lng": 74.05822772989274
+                    },
+                    "southwest": {
+                        "lat": 15.08808182010728,
+                        "lng": 74.05552807010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7092aacd672c2a963b81e47c0fc281bfc58564d2",
+            "name": "Nagesh Jungle Resort",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 6000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118429176459163004663\">Elson Gracias</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZ7_I994UD539FfBH2CI2bLApMKt-DQEdeW2RhP8U4__U-ue_PVu5wMENSQIfnw6rOWrisvPeb-OTJjtJQct76XA4mzb3vQxMaXRUufl5kJBDmEC5BN6AamDHv-VU0sSSEhAFgYY0MtdRC86f-BJ0G-G3GhSb5qI90jHTalDwJtQ3rTpRbg39WA",
+                    "width": 8000
+                }
+            ],
+            "place_id": "ChIJLZDpFL5RvjsRyRdfAtsHfVs",
+            "plus_code": {
+                "compound_code": "33Q4+QP Maina, Goa",
+                "global_code": "7J7P33Q4+QP"
+            },
+            "rating": 3.6,
+            "reference": "ChIJLZDpFL5RvjsRyRdfAtsHfVs",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 119
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Quepem Market Road, Nirmal Nagar, Xeldem, Goa 403705, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.2377093,
+                    "lng": 74.0763556
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.23923437989272,
+                        "lng": 74.07753712989272
+                    },
+                    "southwest": {
+                        "lat": 15.23653472010728,
+                        "lng": 74.07483747010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0641ee70c2f984d7d876e0d696cf69bf1954ab1a",
+            "name": "6 Shades Of Nature",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112401362527187235051\">Sambert Rodrigues</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAN8kPeUpKBCuCccUCLYKRLtsPXwqYB_zuVaEdqitrzi34_lSrGGXn7CGz_Fvh9aqTibNhwmTtQOytQ5nq6tZXM1HfHQbTJrTqSM2shtivMdzvVxeYJAOr_zSmfmi32Yy5EhBULvHM_3trvGfrsF-apfXwGhSojsu4Tr9cwl6kOK0129OIl4AAhw",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJk1VOXR2tvzsRBYY5TB4bVgI",
+            "plus_code": {
+                "compound_code": "63QG+3G Xeldem, Goa",
+                "global_code": "7J7P63QG+3G"
+            },
+            "rating": 3.9,
+            "reference": "ChIJk1VOXR2tvzsRBYY5TB4bVgI",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 404
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Gudi, Quepem Rd, Chandor, Goa 403714, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.2423522,
+                    "lng": 74.0325208
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.24372452989272,
+                        "lng": 74.03389862989272
+                    },
+                    "southwest": {
+                        "lat": 15.24102487010728,
+                        "lng": 74.03119897010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ac63d04d3c04be2f4988d5163fececca7464cad5",
+            "name": "Nagesh Love Forest",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1173,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103258141294685438021\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwrm38zqGoEw5DBaMiplp-S95h8S5PqMrHqKmOFjNz5mQbyx6TeFnJrafROJ8qk5Idf10c2ALYEPHkrlgFv1faDZ2pMSPppog2cBcW-63gSC6xN9soxXeoNtgNgIentHPEhDdBKUl1Rf7Mu1Cum5eEeEjGhTT44z6TqGfx8SU50SI-znmxeKiKg",
+                    "width": 1875
+                }
+            ],
+            "place_id": "ChIJNShtiX6tvzsRfW6eUqD5Xtc",
+            "plus_code": {
+                "compound_code": "62RM+W2 Chandor, Goa",
+                "global_code": "7J7P62RM+W2"
+            },
+            "rating": 3.6,
+            "reference": "ChIJNShtiX6tvzsRfW6eUqD5Xtc",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 262
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Pitre Estate , Mapusa, Highway, Karapur, Sanquelim, Goa 403505, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.574779,
+                    "lng": 73.9977613
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.57600792989272,
+                        "lng": 73.99929227989271
+                    },
+                    "southwest": {
+                        "lat": 15.57330827010728,
+                        "lng": 73.99659262010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "beb5db46126b6dba6aec03c78157bbaa07563813",
+            "name": "Sharvraj Eco Farm Goa",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115260910121680554555\">Siddesh Harmalkar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHi9bAdOg4cWL0rzTVC8SWpAiX09VxYteXBlF0x8CEeID2HzbTUAFh3JdmGX6RK_kXkfMUdz95XeY22bwbgBSVfa9pQUWtRS3df7--VqHNbaqZuQREVr3HA0krZgcMUZTEhCwV1NSL2vkcdL4armLRZzVGhTitQ1rMIkd7IaJjAMmZTSGFEyRog",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJkX-4XUuXvzsRiOwonUMxfo8",
+            "plus_code": {
+                "compound_code": "HXFX+W4 Sanquelim, Goa",
+                "global_code": "7J7MHXFX+W4"
+            },
+            "rating": 3.9,
+            "reference": "ChIJkX-4XUuXvzsRiOwonUMxfo8",
+            "types": [
+                "amusement_park",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 332
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Pateapur, Nuvem, Goa 403604, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.321632,
+                    "lng": 73.9519311
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.32300992989272,
+                        "lng": 73.95338187989272
+                    },
+                    "southwest": {
+                        "lat": 15.32031027010728,
+                        "lng": 73.95068222010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "299856263870947d6f754f90576beb74257068d3",
+            "name": "Froggyland",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115200634602664934323\">Bikash Pradhan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAc9fI9c5xv4NUCMOMYy_Tzf9ovTXi1ruv79sbi5HJzwFAJ5-vCy9f4bNLL0SnezihFi39v4kHQd8WO1H38wp7m7CNO9ePteHC1UcNSJyBds6Als7KCZiRh8UX6a4sITZHEhC7ujFPxcRerwLhkJ_Zo4FqGhSQmy29mOjQlx_AiiXZPX7sEM2tFQ",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJfygMViSxvzsRqXra1Y0GOm4",
+            "plus_code": {
+                "compound_code": "8XC2+MQ Nuvem, Goa",
+                "global_code": "7J7M8XC2+MQ"
+            },
+            "rating": 4,
+            "reference": "ChIJfygMViSxvzsRqXra1Y0GOm4",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1110
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Baga-Arpora road, near Goan Beach club, Arpora, Goa 403516, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5690863,
+                    "lng": 73.75346739999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.57028432989272,
+                        "lng": 73.75492612989271
+                    },
+                    "southwest": {
+                        "lat": 15.56758467010728,
+                        "lng": 73.75222647010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "96113d5995f7333807def8addad2d0fe620814bf",
+            "name": "Blue Whale Water Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105835677162871320199\">\u042e\u043b\u0438\u044f \u0420\u0430\u0437\u0438\u043d\u043e\u0432\u0430</a>"
+                    ],
+                    "photo_reference": "CmRaAAAArGcW0RROY3m0Xq4hgjol3sKkU7Li9BWb1OlXQXVY8oz5lH8Xr5VnAtseIoOctDM2EKnw2qFLmyGnKGyqYiHEzDpK595N5SvYmlsqmlUppw5X0jj0cEPLLJfl-LaJeCvfEhB41ZL5m4AdMsUrQFyZvanDGhSl0fkLyH4zAfxrm-OwXQJUn-mZoA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ6z7MiyHqvzsRK5bfx4qcJTY",
+            "plus_code": {
+                "compound_code": "HQ93+J9 Arpora, Goa",
+                "global_code": "7J7MHQ93+J9"
+            },
+            "rating": 3.5,
+            "reference": "ChIJ6z7MiyHqvzsRK5bfx4qcJTY",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 191
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Near Pascol farm, (Opposite Nestle factory), Tisk road, Ponda, Khandepar, Goa 403406, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.4173318,
+                    "lng": 74.05893879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.41857002989272,
+                        "lng": 74.0603243798927
+                    },
+                    "southwest": {
+                        "lat": 15.41587037010728,
+                        "lng": 74.05762472010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3a45ccf607f3ce55320c692ee6e62884a4d56c60",
+            "name": "Nagesh Water World",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2976,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110289530912510217245\">Kiran Kumar Badiger</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfbmHorXd45OOS5H-OezQnrp6U28CdgfdNb1nFYGRPbgknRdH_yjwq0RHX73XrPyuNYrZy6wDghx-ljUqBpSB1oLxawFGy0Y6ZumAFZMZPJYXXddjKmmYiq6US7LMMczlEhBPR0e5jlXwOxb5q6EYwgiXGhQBzfp_r6fSMvlhKkQuWV_Az2nD6w",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJCR5nGxelvzsRHCjJA0c6jnA",
+            "plus_code": {
+                "compound_code": "C385+WH Khandepar, Goa",
+                "global_code": "7J7PC385+WH"
+            },
+            "rating": 3.6,
+            "reference": "ChIJCR5nGxelvzsRHCjJA0c6jnA",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 755
+        },
+        {
+            "business_status": "CLOSED_PERMANENTLY",
+            "formatted_address": "Grand Chivar, Anjuna,Bardez, Goa 403509, India",
+            "geometry": {
+                "location": {
+                    "lat": 15.5809248,
+                    "lng": 73.74484369999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.58227677989272,
+                        "lng": 73.74629987989272
+                    },
+                    "southwest": {
+                        "lat": 15.57957712010728,
+                        "lng": 73.74360022010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d71cc8d29f8a0ee180805b58d736c125bb00f0ac",
+            "name": "anjuna holiday homes",
+            "permanently_closed": true,
+            "place_id": "ChIJVVVVVajsvzsRg9MyKHKmKAQ",
+            "plus_code": {
+                "compound_code": "HPJV+9W Mazal Waddo, Anjuna, Goa",
+                "global_code": "7J7MHPJV+9W"
+            },
+            "rating": 4.3,
+            "reference": "ChIJVVVVVajsvzsRg9MyKHKmKAQ",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        }
+    ],
+    "status": "OK"
+}

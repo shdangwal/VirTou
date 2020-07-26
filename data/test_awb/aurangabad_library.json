@@ -1,0 +1,835 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_wAAAPyJn_sXnaevHVCQ7qs4Tr8Dyo9-rhv8W5FwcuuIiVUPkmv3VeWtP_mqp-KUCOdfPoag6CQzkWt4mo2Ae-LhcnwaSUz8KlCnpF7NyiIA_f8nt-hb8Z9KfKQknaz3U0jK7Eg63QQgbx40QD5Q7SWxne4R5jBkBY7QujLFboo_mJj2jOclz8SxcEPXH3tn6qoL8Sr1sMfQGLIR2Ugvoi3cmrIsB_RBCgOpa8PZoi9o8r6Nb8LTcuFEeAM3mVsRpyWLREpkAf6WVW8K9JWqUfGBY4e6yNha_1FZenog8VwnHZhoqcJS1Dl29KC4cj5JFBHJeJjvW37wwldKzKjYpP5rp_QSEIbjFa_fFJDZ0bCUl44-oikaFJDXnPXKbFiKm7Ua9zRsCyVzmDN6",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "P 16/17 , Town Centre, Behind Raj Petrol Pump, Jalna Road, near Air India Office, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8755284,
+                    "lng": 75.3565138
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87687527989272,
+                        "lng": 75.35786407989272
+                    },
+                    "southwest": {
+                        "lat": 19.87417562010728,
+                        "lng": 75.35516442010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "34ab2a3782b6ee51d668a8f3559e025de59126b9",
+            "name": "Adarsh Study Centre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116354630963812763894\">Tejas Wagh 24</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfiMSJ1x5CiS6n-DMjOEHZ6mDhLe383L_WVLcWuJ5QMxZEZCMiVb9VB6CgQ-srJqeKU7XZv_FrRQCG6Q2iiua4QvFWdWjYPAFQPZB0zXX71EnpdmoZBGnPQihV_4nvn7rEhBctwa3VgGNfNCVnMksgRGjGhQKrhPExScPx5jS_TmrfT1UbIeFuQ",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJPydlpZGi2zsRHD4y_uzUDew",
+            "plus_code": {
+                "compound_code": "V9G4+6J Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G4+6J"
+            },
+            "rating": 4.1,
+            "reference": "ChIJPydlpZGi2zsRHD4y_uzUDew",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sillekhana Road, Samarth Nagar, Sawarkar Chowk, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8796207,
+                    "lng": 75.3230201
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88091747989272,
+                        "lng": 75.32445942989273
+                    },
+                    "southwest": {
+                        "lat": 19.87821782010728,
+                        "lng": 75.32175977010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "136e9c9afe0a1bd189fd8f17576b2c66b366b11d",
+            "name": "District Library, Aurangabad",
+            "permanently_closed": true,
+            "place_id": "ChIJL71FkGuY2zsRCpLXocE0Ht8",
+            "plus_code": {
+                "compound_code": "V8HF+R6 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HF+R6"
+            },
+            "rating": 4.3,
+            "reference": "ChIJL71FkGuY2zsRCpLXocE0Ht8",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sarveshwar Nagar, Aurangabad, Maharashtra, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8759608,
+                    "lng": 75.3433264
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87738622989272,
+                        "lng": 75.34466612989272
+                    },
+                    "southwest": {
+                        "lat": 19.87468657010728,
+                        "lng": 75.34196647010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "a4a87cb370af5ed760d224a1496004b1468e4dae",
+            "name": "Abhinav Vachanalay",
+            "permanently_closed": true,
+            "place_id": "ChIJkSVhup2i2zsRgazKJbVyUxI",
+            "plus_code": {
+                "compound_code": "V8GV+98 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8GV+98"
+            },
+            "rating": 0,
+            "reference": "ChIJkSVhup2i2zsRgazKJbVyUxI",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Aurangapura Rd, Naralibag, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8849105,
+                    "lng": 75.32669829999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88622867989272,
+                        "lng": 75.32804852989271
+                    },
+                    "southwest": {
+                        "lat": 19.88352902010728,
+                        "lng": 75.32534887010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "2e4f04385d72b4b33735ca62bd4644dfbd7c24c4",
+            "name": "Balwant Vachanalay",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109467446927674567014\">Manjit Itape</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAgyJr754VoHDJHoMzi7tZaTlYT8sGMQMwNAsG_L2gbDGdNvzY3e94QCrbvKaHM-3X7a14xmgUa2XwjwmZ2v8mn9UXN-UHDHh8b71xTSsiFeNF5ythNIjME8RynL3fVdS_EhBpmRS8wmJvM9mOohaXcerBGhRtaqpoiMNF9urNJjA5WZ2ER2vhjw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJF46mixSY2zsRRHgh45shjaI",
+            "plus_code": {
+                "compound_code": "V8MG+XM Naralibag, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8MG+XM"
+            },
+            "rating": 4.3,
+            "reference": "ChIJF46mixSY2zsRRHgh45shjaI",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "IN MGM CAMPUS Cidco, near seven hills, Maharashtra, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8780267,
+                    "lng": 75.3537018
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87938322989272,
+                        "lng": 75.35492257989272
+                    },
+                    "southwest": {
+                        "lat": 19.87668357010728,
+                        "lng": 75.35222292010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "cbf87fd1533d1fd0291639c15af7ab544fc78dc4",
+            "name": "MGM LIBRARY",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115161190958670278378\">shubham biyani</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbAsLQt-FzRnvQtI9KVi7FZC30FR6prMWBjtvgQUPcXLPYL7w4D_rnqVdj-rHIWLkirxmpdwDRMtrSUJaKf8TzOsD89wLxmW5nvzw6hQFbD1IwSErtloZNf4d43Q3O7KaEhBRqY0tnC7vtLHQfZ0hau3ZGhSdMG24VTaJK1ceqS9bAvpCnjQX4A",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJr_-mQv6j2zsRlepMC9I0JtE",
+            "plus_code": {
+                "compound_code": "V9H3+6F Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9H3+6F"
+            },
+            "rating": 3.7,
+            "reference": "ChIJr_-mQv6j2zsRlepMC9I0JtE",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Sultan Complex, Shop No.5, Near Shalimar Kitab Ghar, Roshan Gate,, Aurangabad - 4, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.888075,
+                    "lng": 75.342686
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88940927989272,
+                        "lng": 75.34403512989272
+                    },
+                    "southwest": {
+                        "lat": 19.88670962010728,
+                        "lng": 75.34133547010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "584a480e636b1b9fe4b2349c2f4cf51535e1effc",
+            "name": "Islamic Research Centre's Study Centre & Law Library",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101549318119835300250\">Adv. Faiz Syed</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAokq2ILhVJu2NwADpYAmsIoWzL9gwDFwT-jiSgmI2QQfdftMl-CJ4it2qOC9QPmuBootIRyYAGPB1xj1w7AoedeFCJNP0pCUAshED9s8hb2zHG68dWofx3OouNMUVlXUCEhDNovk5udGFl_YJ0gfigAceGhSbDxfD8JXSnHy0J9-59kxbDNBedg",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJbUABwKCi2zsRhGunbtlfcDg",
+            "plus_code": {
+                "compound_code": "V8QV+63 Aurangabad, Maharashtra",
+                "global_code": "7JFQV8QV+63"
+            },
+            "rating": 4.8,
+            "reference": "ChIJbUABwKCi2zsRhGunbtlfcDg",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Rajlaxmi Complex, opp.hotel, vijay residency, Town Center, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8764676,
+                    "lng": 75.3542396
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87786672989272,
+                        "lng": 75.35559192989274
+                    },
+                    "southwest": {
+                        "lat": 19.87516707010727,
+                        "lng": 75.35289227010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "6f682031cbf247a69014613369a0fb3fee1a9160",
+            "name": "DNYANRADHA STUDY CENTRE",
+            "permanently_closed": true,
+            "place_id": "ChIJ7-mmkpCi2zsRR3a4eceV3-0",
+            "plus_code": {
+                "compound_code": "V9G3+HM M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G3+HM"
+            },
+            "rating": 3,
+            "reference": "ChIJ7-mmkpCi2zsRR3a4eceV3-0",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Town Center, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8765076,
+                    "lng": 75.354255
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87788397989272,
+                        "lng": 75.3556061298927
+                    },
+                    "southwest": {
+                        "lat": 19.87518432010728,
+                        "lng": 75.35290647010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "998ba4adba9871b1c75de7f082dcea730d31b874",
+            "name": "Rajlakshmi Library",
+            "permanently_closed": true,
+            "place_id": "ChIJ56AhjZCi2zsRH37whBwPLJY",
+            "plus_code": {
+                "compound_code": "V9G3+JP M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G3+JP"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ56AhjZCi2zsRH37whBwPLJY",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "trimurti chauk, Lokmitra Colony, Sindhi Colony, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8694774,
+                    "lng": 75.34550089999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87079262989272,
+                        "lng": 75.34691522989272
+                    },
+                    "southwest": {
+                        "lat": 19.86809297010728,
+                        "lng": 75.34421557010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "37d7e24a47b73fc33a39591b932bfc33d1ac9614",
+            "name": "Dr Babasaheb Ambedkar Sarwajanik Vachanalay",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106445248982348598907\">Satish Jadhao</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAuf5z--9bSMnxOxmwMOBUwM9_FeRDI5778e5tSKgr2BE9LIKp7nC1WE25r0ExEIMTpgm1t3L32t3OlZB3l-Cka_UMiVWr-S51gcYOuBW274LAEfbMPKV1AllayAwzf9VQEhAu7iQMXoxeUqTZlo2V2fMPGhSfi1qn-VTfPFO_hBpzaQpXKJybJg",
+                    "width": 2340
+                }
+            ],
+            "place_id": "ChIJN_7ocYOi2zsRSpfzq6f8CTE",
+            "plus_code": {
+                "compound_code": "V89W+Q6 Aurangabad, Maharashtra",
+                "global_code": "7JFQV89W+Q6"
+            },
+            "rating": 4,
+            "reference": "ChIJN_7ocYOi2zsRSpfzq6f8CTE",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Venkatesh Nagar, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8771174,
+                    "lng": 75.3531912
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87846372989273,
+                        "lng": 75.35459177989273
+                    },
+                    "southwest": {
+                        "lat": 19.87576407010728,
+                        "lng": 75.35189212010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "ce5d3707263b5077591991cd6622210c09372c5a",
+            "name": "Indralaya Reading Hall",
+            "permanently_closed": true,
+            "place_id": "ChIJu8rZnpCi2zsRswiZKB5R7g0",
+            "plus_code": {
+                "compound_code": "V9G3+R7 M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G3+R7"
+            },
+            "rating": 5,
+            "reference": "ChIJu8rZnpCi2zsRswiZKB5R7g0",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Station Rd, Bansilal Nagar, Padampura, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.86588,
+                    "lng": 75.31413049999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86713997989272,
+                        "lng": 75.31545477989273
+                    },
+                    "southwest": {
+                        "lat": 19.86444032010728,
+                        "lng": 75.31275512010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "9bec44d712fbbea64ba66fbd0f0b134fff7f1e28",
+            "name": "Government Library",
+            "permanently_closed": true,
+            "place_id": "ChIJKcj7RFyY2zsRmrYrdeicM8U",
+            "plus_code": {
+                "compound_code": "V887+9M Padampura, Aurangabad, Maharashtra",
+                "global_code": "7JFQV887+9M"
+            },
+            "rating": 3.6,
+            "reference": "ChIJKcj7RFyY2zsRmrYrdeicM8U",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ravindranagar, Tilak Nagar, Basant Bahar, Ulkanagari, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8673872,
+                    "lng": 75.337004
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86866432989272,
+                        "lng": 75.33835372989272
+                    },
+                    "southwest": {
+                        "lat": 19.86596467010728,
+                        "lng": 75.33565407010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "aba47362e223af9b9ab60a105d82bbf867f7e148",
+            "name": "Jeevan Vikas Granthalya Aurangabad",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116205648847848300452\">Hemant Pathak</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAeId4oI3RJWXiRXkZq4n8Ay5UbvWzkMbC6ZDK3qOGVJzm74rSGJ1qkOABCiV2nohqOe0Y6dLzayLIJg4J8uyXkbarxAn_Luni6AZ-_0IwrJ0FkpZ_-2_b3ORs9ldnhFTXEhBNw34ofZ9WDrILV2tR7l9EGhQLi3HxtGNowF3Osx3BWSWP_5T2qw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ____M4Ci2zsRdnVdvEucCa4",
+            "plus_code": {
+                "compound_code": "V88P+XR Ulkanagari, Aurangabad, Maharashtra",
+                "global_code": "7JFQV88P+XR"
+            },
+            "rating": 2,
+            "reference": "ChIJ____M4Ci2zsRdnVdvEucCa4",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Plot No.24 A , Town Centre, Cidco, Aurangabad, behind Hotel Rama International, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8767006,
+                    "lng": 75.35805429999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87806222989272,
+                        "lng": 75.3594006298927
+                    },
+                    "southwest": {
+                        "lat": 19.87536257010728,
+                        "lng": 75.35670097010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "c9f338c94bc62fe49dac4484590a8bbfd47c2f91",
+            "name": "Premier Study Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106280874108967475460\">Dilip Kela</a>"
+                    ],
+                    "photo_reference": "CmRaAAAApPVdrArdjpxQT2aLkWvFiZmOnuqa-sqdFqYNMhSrZIKTIM4JDEJSZQMPMJBoObROdCwyF4BznuQ98whqeHRuI6UY6KQpwTFuDdeC8yVHx44SpKj3m3QvBp_JRcUDd0VaEhA3VbezC_wVatoGIDG9ByjNGhT9f8qHRIDvujBYzEDzDh8vd5075A",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJ4TSPeZGi2zsREh-pTCkL1JU",
+            "plus_code": {
+                "compound_code": "V9G5+M6 Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G5+M6"
+            },
+            "rating": 3,
+            "reference": "ChIJ4TSPeZGi2zsREh-pTCkL1JU",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "N3-360, Kamgar Chowk, N 3, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8733347,
+                    "lng": 75.3650562
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87472227989272,
+                        "lng": 75.36641132989271
+                    },
+                    "southwest": {
+                        "lat": 19.87202262010728,
+                        "lng": 75.36371167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "1a4020da8b998c614fd95691462dd36773be9fa8",
+            "name": "Papyrus Library",
+            "permanently_closed": true,
+            "place_id": "ChIJ77PXJTij2zsRjpm6A-w7pBs",
+            "plus_code": {
+                "compound_code": "V9F8+82 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9F8+82"
+            },
+            "rating": 5,
+            "reference": "ChIJ77PXJTij2zsRjpm6A-w7pBs",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shreenath Complex, Darga Rd, beside Bank of Baroda, New SBH Colony, Sahakar Nagar, New Usmanpura, Aurangabad, Maharashtra 431005, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8635826,
+                    "lng": 75.33588519999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.86490492989272,
+                        "lng": 75.33733312989271
+                    },
+                    "southwest": {
+                        "lat": 19.86220527010728,
+                        "lng": 75.33463347010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "4dbb9271205b2e33737095a6b17bbb2363714eb9",
+            "name": "Swapnapurti Abhyasika",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117969375471331058804\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfu0CJasEi5tXXhTkWOwstm2IeQdxJv7v8vOJNAP7NZjzAJIfx-OiaT9D03T41ABfPytl0Ppec6W85xn_2pP5Z6dhPJm2xWLdWebDDv1ZMR2kICeKW_RnWBS_D7wg-o_eEhCiJ0acmHK968nNNbBTyhWhGhTgNIhFq_f6_4JECwnUD0g4ktpPoA",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJf45vmn6Y2zsRF-9wXbu3NaU",
+            "plus_code": {
+                "compound_code": "V87P+C9 Aurangabad, Maharashtra",
+                "global_code": "7JFQV87P+C9"
+            },
+            "rating": 4.8,
+            "reference": "ChIJf45vmn6Y2zsRF-9wXbu3NaU",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Town Center, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8765896,
+                    "lng": 75.3586153
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87808062989272,
+                        "lng": 75.35985162989272
+                    },
+                    "southwest": {
+                        "lat": 19.87538097010728,
+                        "lng": 75.35715197010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "ebab108bbab4602535d177c4130d4b51319c6bba",
+            "name": "Premier Reading Room",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJP8pqfpGi2zsRTquIBlzn-WI",
+            "plus_code": {
+                "compound_code": "V9G5+JC M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV9G5+JC"
+            },
+            "rating": 1.5,
+            "reference": "ChIJP8pqfpGi2zsRTquIBlzn-WI",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mahesh Nagar Rd, Raghuveer Nagar, Venkatesh Nagar, M G M, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8782468,
+                    "lng": 75.3473393
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87960812989272,
+                        "lng": 75.34862087989272
+                    },
+                    "southwest": {
+                        "lat": 19.87690847010728,
+                        "lng": 75.34592122010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "ff5c9c101248774d9cbe682787600de57cbfa122",
+            "name": "shri varad abhyasika",
+            "permanently_closed": true,
+            "place_id": "ChIJgfc6IbKj2zsRKfOi2fONMt8",
+            "plus_code": {
+                "compound_code": "V8HW+7W M G M, Aurangabad, Maharashtra",
+                "global_code": "7JFQV8HW+7W"
+            },
+            "rating": 2,
+            "reference": "ChIJgfc6IbKj2zsRKfOi2fONMt8",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "3, Sector E, Sector N 4, Cidco, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8693999,
+                    "lng": 75.3627566
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87075472989272,
+                        "lng": 75.36408487989272
+                    },
+                    "southwest": {
+                        "lat": 19.86805507010728,
+                        "lng": 75.36138522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "140b120d3b89570f8b340bffa1e3305a373acd7a",
+            "name": "Library",
+            "permanently_closed": true,
+            "place_id": "ChIJeZZS64yi2zsRD3of_IbXPMo",
+            "plus_code": {
+                "compound_code": "V997+Q4 Cidco, Aurangabad, Maharashtra",
+                "global_code": "7JFQV997+Q4"
+            },
+            "rating": 5,
+            "reference": "ChIJeZZS64yi2zsRD3of_IbXPMo",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Plot Number 16, N 5 , Jalgaon Road Opposite Bhakti Ganesh Mandir, Cidco, South Area, Aurangabad, Maharashtra 431003, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8838079,
+                    "lng": 75.364762
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.88515567989272,
+                        "lng": 75.36617752989271
+                    },
+                    "southwest": {
+                        "lat": 19.88245602010727,
+                        "lng": 75.36347787010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "c4e1372ed338b1f93a16879bc04558fbba67d317",
+            "name": "SARASWATI ABHYASIKA",
+            "permanently_closed": true,
+            "place_id": "ChIJ2ySYy-qi2zsRh85W6rT9Ghg",
+            "plus_code": {
+                "compound_code": "V9M7+GW Aurangabad, Maharashtra",
+                "global_code": "7JFQV9M7+GW"
+            },
+            "rating": 4,
+            "reference": "ChIJ2ySYy-qi2zsRh85W6rT9Ghg",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "New Usmanpura, Pannalal Nagar, Aurangabad, Maharashtra 431001, India",
+            "geometry": {
+                "location": {
+                    "lat": 19.8706198,
+                    "lng": 75.3295311
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.87188437989272,
+                        "lng": 75.33084592989272
+                    },
+                    "southwest": {
+                        "lat": 19.86918472010728,
+                        "lng": 75.32814627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "b0eac4ad21cd8a1476a1f5658dab5dfddaff1dd4",
+            "name": "Achievers Abhyasika",
+            "permanently_closed": true,
+            "place_id": "ChIJu5qpVGWY2zsR15YqRkNPPKM",
+            "plus_code": {
+                "compound_code": "V8CH+6R Aurangabad, Maharashtra",
+                "global_code": "7JFQV8CH+6R"
+            },
+            "rating": 5,
+            "reference": "ChIJu5qpVGWY2zsR15YqRkNPPKM",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        }
+    ],
+    "status": "OK"
+}
