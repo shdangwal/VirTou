@@ -1,0 +1,902 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Forest Block, Jammu and Kashmir 191203",
+            "geometry": {
+                "location": {
+                    "lat": 34.2744482,
+                    "lng": 75.28438539999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.27579802989272,
+                        "lng": 75.28573522989271
+                    },
+                    "southwest": {
+                        "lat": 34.27309837010728,
+                        "lng": 75.28303557010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "66461d061c475d9ea2bcf23e5947971aa4c1ac30",
+            "name": "Thajiwas glacier, Sonmarg, Kashmir",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110098029306426910840\">Noman Khan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOLMnipLVqbbS0ggdHadBgSEKZZvGUoetJ4GU2zUjgmrwWZc_Oq1ZkT9Q4Zs_Nx7ra2mgYLr79d0lrTsy8Ox1u2XIZ_ViJCS7woqMcPirbGTmePNXTvUHoxzOVNB6m-KnEhBoO0k4sBnGMTaR7IVduQTiGhReZdz11MHasT3YFN6BdqH-4pjWQA",
+                    "width": 2304
+                }
+            ],
+            "place_id": "ChIJDbkJoJQ04jgRnRsw887PhlQ",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "8J6Q77FM+QQ"
+            },
+            "rating": 4.6,
+            "reference": "ChIJDbkJoJQ04jgRnRsw887PhlQ",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 400
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nishat Brein Link Rd, Butgoo near mughal garden, Srinagar, Jammu and Kashmir 191121",
+            "geometry": {
+                "location": {
+                    "lat": 34.1196585,
+                    "lng": 74.88407049999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.12111037989273,
+                        "lng": 74.88540332989272
+                    },
+                    "southwest": {
+                        "lat": 34.11841072010728,
+                        "lng": 74.88270367010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c44d28ec8693152c712585128bf2aa35932269e4",
+            "name": "KASHMIR PLACES",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 599,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102731849246179891823\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAdQz9G3nuvaJyaFhdnGn4x42GsrRtewSv9szewxIf1CBYpIb0qN9t1Uw24zlzIQbUjXJd3Qdqe10EIBlATs6pxzs35PmzxAFzG-u88A4p8CuYWAfNQTsnz8gkCc-Dvgx5EhCAe1ojKQhkxCjTH-cH_l2kGhRTEAx0rAuuGHrxZobgnopemxBaOg",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJk1C58M2H4TgR3k8OaUUVf0Y",
+            "plus_code": {
+                "compound_code": "4V9M+VJ Srinagar, Jammu and Kashmir",
+                "global_code": "8J6P4V9M+VJ"
+            },
+            "rating": 4.9,
+            "reference": "ChIJk1C58M2H4TgR3k8OaUUVf0Y",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Dar Building, opposite Mughal E Azam Bakery, Rajbagh, Srinagar, Jammu and Kashmir 190008",
+            "geometry": {
+                "location": {
+                    "lat": 34.0660854,
+                    "lng": 74.832167
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.06752797989272,
+                        "lng": 74.83346157989273
+                    },
+                    "southwest": {
+                        "lat": 34.06482832010727,
+                        "lng": 74.83076192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "805608db9c6c3778ea1488b17d972495e7060dbb",
+            "name": "Best Kashmir Tours (Best Travel Agent In Srinagar)",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4832,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104091222194259617057\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAln4CK_L3qPj11TGTVFNAJpN99g1ze8H16LgcNBFZXXH9-macBMEFZ2qhyzWeiEVt8jDeF2pbTPolZTYYqw6C_RSzXLvjei8_dwEHAAEB3znm7WAaqrtzI72OqsrP8pcEEhAbTD81aAZo8Rzp_qmpB6beGhTIB8s_4wNofORuq-o0xkzY5JuF3g",
+                    "width": 8880
+                }
+            ],
+            "place_id": "ChIJvykIDC2P4TgRxMKDvgEMr4o",
+            "plus_code": {
+                "compound_code": "3R8J+CV Rajbagh, Srinagar, Jammu and Kashmir",
+                "global_code": "8J6P3R8J+CV"
+            },
+            "rating": 5,
+            "reference": "ChIJvykIDC2P4TgRxMKDvgEMr4o",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Srinagar, Jammu and Kashmir 190001",
+            "geometry": {
+                "location": {
+                    "lat": 34.0811939,
+                    "lng": 74.877152
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.08250077989273,
+                        "lng": 74.87871717989272
+                    },
+                    "southwest": {
+                        "lat": 34.07980112010728,
+                        "lng": 74.87601752010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "bccd77909b96f6a84297cd18df3705f7299fc7c9",
+            "name": "Pari Mahal",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 722,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116750960989771526197\">divakaran pk</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHwjL1EQgzeIw50oE7W14IaTlnN8dh6tODvQhVg1zZ9CoywBDLSj0wP14Tui94Yqo0NmeB8Wj3f8aaNCb1C7dobtJjVhY6UFZBzgUaLSQDbC3FNruwybxKNoyuDHvsAkcEhBP5MiPEJQTqZ39-t7NX4lkGhRTdh0sETRLGcIcqZUwmtDu4LPW0A",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJI7OGp7OI4TgRw7xBy0TCdyE",
+            "plus_code": {
+                "compound_code": "3VJG+FV Srinagar, Jammu and Kashmir",
+                "global_code": "8J6P3VJG+FV"
+            },
+            "rating": 4.4,
+            "reference": "ChIJI7OGp7OI4TgRw7xBy0TCdyE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3683
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Habbak, Hazratbal Rd, Srinagar, Jammu and Kashmir 190006",
+            "geometry": {
+                "location": {
+                    "lat": 34.143094,
+                    "lng": 74.838432
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.14446122989272,
+                        "lng": 74.83981357989272
+                    },
+                    "southwest": {
+                        "lat": 34.14176157010728,
+                        "lng": 74.83711392010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "15494c804ce6557b4e4c1c93073ce8ec1ca26381",
+            "name": "Srinagar Travel Agency",
+            "permanently_closed": true,
+            "place_id": "ChIJGcG5FM2F4TgRH8U8t2eKp9c",
+            "plus_code": {
+                "compound_code": "4RVQ+69 Srinagar, Jammu and Kashmir",
+                "global_code": "8J6P4RVQ+69"
+            },
+            "rating": 0,
+            "reference": "ChIJGcG5FM2F4TgRH8U8t2eKp9c",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Brazullah, Airport Road, Srinagar, Jammu and Kashmir 190007",
+            "geometry": {
+                "location": {
+                    "lat": 34.0021758,
+                    "lng": 74.7624024
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.00362397989272,
+                        "lng": 74.76379382989272
+                    },
+                    "southwest": {
+                        "lat": 34.00092432010727,
+                        "lng": 74.76109417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "aadc02ad98fc13517836851bc50f21c6328a5041",
+            "name": "12M Travels",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 802,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103078051325653263755\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAll6_b4mK1ovN81tHmJUT4_4CQEs2TL9OoNBsvyrGcAmfaq19KtT0vQgdFWX2N8mmRiSGlLmkfzCYUfhd1uf29u9zy0j6FblD6wN0z5Un117A8DNG8TPXiOKFqPK9f2ldEhAmiyf2_p3V5lRtzCMg5_-tGhRO7GXGvmAvaVZUaIheMVYSddLVdA",
+                    "width": 1242
+                }
+            ],
+            "place_id": "ChIJW2oIXmKR4TgRoEOmsVRb3Lg",
+            "plus_code": {
+                "compound_code": "2Q26+VX Srinagar, Jammu and Kashmir",
+                "global_code": "8J6P2Q26+VX"
+            },
+            "rating": 5,
+            "reference": "ChIJW2oIXmKR4TgRoEOmsVRb3Lg",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Tulbagh, Pampore, Jammu and Kashmir 190006",
+            "geometry": {
+                "location": {
+                    "lat": 34.0061063,
+                    "lng": 74.92413549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.00743932989272,
+                        "lng": 74.92537432989272
+                    },
+                    "southwest": {
+                        "lat": 34.00473967010728,
+                        "lng": 74.92267467010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9c6825a09adc123f4ca76976145736ffa02dd53d",
+            "name": "Annafi holidays",
+            "permanently_closed": true,
+            "place_id": "ChIJrbriebOL4TgR_aU6I97CHnU",
+            "plus_code": {
+                "compound_code": "2W4F+CM Pampore, Jammu and Kashmir",
+                "global_code": "8J6P2W4F+CM"
+            },
+            "rating": 0,
+            "reference": "ChIJrbriebOL4TgR_aU6I97CHnU",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Zero Point, Leh Border, NH1, Srinagar - Leh Hwy, Gumri, Jammu and Kashmir 192230",
+            "geometry": {
+                "location": {
+                    "lat": 34.0400965,
+                    "lng": 74.8780458
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.04141687989272,
+                        "lng": 74.87938212989272
+                    },
+                    "southwest": {
+                        "lat": 34.03871722010727,
+                        "lng": 74.87668247010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0692ec53f9d204d5f7cc1ea2fbe049218f3db9b9",
+            "name": "Zero Point, Sonamarg",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108850856917509265333\">Anupam Bhandari</a>"
+                    ],
+                    "photo_reference": "CmRaAAAALiaFn0hrWoeyYB5YOOVfQPSFHU72Mt3C3PbYnK8sR7sRqJQSkjia86lgMexIHV8F-XjKKYQct7d7iR8G9wXTllOj02gEY2JLGt8YqHsQRXF4UQv0gnzeRjAJRCeQdIYIEhBaSbDAozkkHb1-t1WWnE1GGhS53V87iwYu8nd_FockSOTIunlN-Q",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJj94i_3GJ4TgR9Bkyw3sLY0Q",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "8J6P2VRH+26"
+            },
+            "rating": 4.7,
+            "reference": "ChIJj94i_3GJ4TgR9Bkyw3sLY0Q",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Room No. 13, Mecca Tower M.A. Link Road, Srinagar, Jammu and Kashmir 190001",
+            "geometry": {
+                "location": {
+                    "lat": 34.1078795,
+                    "lng": 74.81004089999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.10919952989272,
+                        "lng": 74.81138957989272
+                    },
+                    "southwest": {
+                        "lat": 34.10649987010728,
+                        "lng": 74.80868992010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "87ae686e7de6a58b3208a74e897305c4a0c97a8e",
+            "name": "TIGER HILL",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116499203365903545902\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9xW194VBAym-CZkfuok1uzNlZi3xwtw2hba6eWzc7CnUokwMiVvALXNE33XG4ratZoA2MLXB2gjgCV56rV_SScmq8ZaWJRScGMmspZwXlA6EM-uZ1oUcTXyTq06fegsJEhC5trHhOsIGrEUdLL73ldjZGhQ-zB8fJYjV76AvT7r-X6aYcOJPXA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJfZxdpmyF4TgRvh4Fxw2aWEo",
+            "plus_code": {
+                "compound_code": "4R56+52 Srinagar, Jammu and Kashmir",
+                "global_code": "8J6P4R56+52"
+            },
+            "rating": 4.2,
+            "reference": "ChIJfZxdpmyF4TgRvh4Fxw2aWEo",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 74
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "near J&k ATM Bank, Gulmarg, Jammu and Kashmir 193403",
+            "geometry": {
+                "location": {
+                    "lat": 34.05108269999999,
+                    "lng": 74.39742280000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.05261127989272,
+                        "lng": 74.39864017989272
+                    },
+                    "southwest": {
+                        "lat": 34.04991162010727,
+                        "lng": 74.39594052010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ce78f1adbda8cf8f2a43d5092a88615c37e11cde",
+            "name": "Downhill Paradise",
+            "photos": [
+                {
+                    "height": 900,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111593181293680939986\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9xMGKjK8GVa-wb_YqnJCR64d4Nz6H2h1dQvCEe6NS5B7XxMRCZQUZ4VqhLivqQhkljo0s5t2ZN_IC2lHbVPmLSPsUZVnidS6d7mmEKnaiN9lf425LlqwRVY6mx1EoESXEhAotewhb-XZd11y124PjMAKGhTe-1VAdAC9g_1U3dUwfi60JroBvw",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJHRU7DC-v4TgR-Mfc0ghFYZU",
+            "plus_code": {
+                "compound_code": "392W+CX Gulmarg, Jammu and Kashmir",
+                "global_code": "8J6P392W+CX"
+            },
+            "rating": 5,
+            "reference": "ChIJHRU7DC-v4TgR-Mfc0ghFYZU",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Haveli Azad Kashmir, Azad Jammu and Kashmir",
+            "geometry": {
+                "location": {
+                    "lat": 33.9551481,
+                    "lng": 74.0591391
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.95698062989272,
+                        "lng": 74.06086897989272
+                    },
+                    "southwest": {
+                        "lat": 33.95428097010728,
+                        "lng": 74.05816932010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "83b35993e635b29a4eb2e19e82c43c0d94324d53",
+            "name": "Dara Haji Peer Valley",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111046085833313706134\">Sadam Bukhari</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZ3hH62z61VguDppLwAPhqi2ZK80eD6yAIjzV3zEUZQLJJLy5Fu_IYqmbu-c5OCld3VM9YPbSnaI-9neLrVK6bGVYXjhBA5_U5FNhyZqoHnX_vvDBsqPHQ0HCCkaw87NnEhB6Ul65ZydqeisWcrugv1amGhQHw1wSYnNT-eL3Tq_8Em6Fmb53Eg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJc2UXHOFP4DgRU2KqKfCgivk",
+            "plus_code": {
+                "compound_code": "X345+3M Haveli Azad Kashmir",
+                "global_code": "8J5PX345+3M"
+            },
+            "rating": 0,
+            "reference": "ChIJc2UXHOFP4DgRU2KqKfCgivk",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Baltal Amarnath Trek, Forest Block, Pahalgam, Jammu and Kashmir 192230",
+            "geometry": {
+                "location": {
+                    "lat": 34.2156918,
+                    "lng": 75.5041201
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.21704162989273,
+                        "lng": 75.50546992989271
+                    },
+                    "southwest": {
+                        "lat": 34.21434197010728,
+                        "lng": 75.50277027010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "208ec2b838946ec3e023eaf22c9c19d8f8a5ba14",
+            "name": "Shri Amarnath Cave Temple",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103747820629420664696\">Raju Kumar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAz2wmVJfd4PG0bjZwEcmVZ59q2jPQ3-HujnFJXG7lzG-iwMpo_hN-HMkRkd3te7R59K0akclgITdvXPK4lhsI3XiKEIgZnch95xJJ5TsW34W5oalJD8ZGiseXWuY36B-UEhD3GEMG3rYFjutuuwQgiVZeGhRJtzjvXqRFI2WXFGmgwUTqcur4HQ",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJVWcFlspP4jgRXlESWWJd0d8",
+            "plus_code": {
+                "compound_code": "6G83+7J Pahalgam, Jammu and Kashmir",
+                "global_code": "8J6Q6G83+7J"
+            },
+            "rating": 4.5,
+            "reference": "ChIJVWcFlspP4jgRXlESWWJd0d8",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6961
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "unnamed Road, Sonamarg, Jammu and Kashmir 1191203",
+            "geometry": {
+                "location": {
+                    "lat": 34.2941762,
+                    "lng": 75.2682904
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.29552602989272,
+                        "lng": 75.26964022989272
+                    },
+                    "southwest": {
+                        "lat": 34.29282637010728,
+                        "lng": 75.26694057010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "10e45288577fccd216a20740e64c34aa9bd5fb92",
+            "name": "Thajiwas Park",
+            "permanently_closed": true,
+            "place_id": "ChIJibwsZn014jgRzvij2dmLBRc",
+            "plus_code": {
+                "compound_code": "77V9+M8 Sonamarg, Jammu and Kashmir",
+                "global_code": "8J6Q77V9+M8"
+            },
+            "rating": 4,
+            "reference": "ChIJibwsZn014jgRzvij2dmLBRc",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Thara Uparla, Punjab 145001, India",
+            "geometry": {
+                "location": {
+                    "lat": 32.4378111,
+                    "lng": 75.754592
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.43997544999999,
+                        "lng": 75.75763984999999
+                    },
+                    "southwest": {
+                        "lat": 32.43708965,
+                        "lng": 75.75357604999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "536f6efc91993d9ef8839591891503c0b9105809",
+            "name": "Tourist Huts at Ranjit Sagar Dam",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116415618367263535135\">\u0a05\u0a2e\u0a28\u0a1c\u0a40\u0a24 \u0a38\u0a3f\u0a70\u0a18 Amanjeet Singh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAAtyMSF8zTZ2sLUDVzoAG95a5_MQjgWEdzy4HSD8H1mXabFCk7kuhRcoMVqqgG1XHjr_gEWCUGkfrMA1ykbOfKAtFsRbLV-YYcS9zPvtKLGZp9Hb00Q9qulgwanmIvpESEhAedlWzWhM0QC39JF0O_qQbGhTvPrHwODB7xcDIUXtxGGUbLMIJTw",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJnf39XQyIHDkRFAJayqDfW_0",
+            "plus_code": {
+                "compound_code": "CQQ3+4R Thara Uparla, Punjab",
+                "global_code": "8J4QCQQ3+4R"
+            },
+            "rating": 4.5,
+            "reference": "ChIJnf39XQyIHDkRFAJayqDfW_0",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 177
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Explore Thovina, Kargil, Jammu and Kashmir 194105",
+            "geometry": {
+                "location": {
+                    "lat": 34.3567435,
+                    "lng": 75.9735559
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.35858567989273,
+                        "lng": 75.97609990000001
+                    },
+                    "southwest": {
+                        "lat": 34.35588602010728,
+                        "lng": 75.96592389999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "98c29f8d3e51d9c0cc97f7f3c8d2626547bfc641",
+            "name": "THOVINA",
+            "photos": [
+                {
+                    "height": 2939,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109309541722251751636\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAdFW7ROIC1VibDSu8ksvEJ57Ap4tI8eZ-GskbcI_78KVBYWxkD8V0NjVH6osmkQcahJESYzyqUGP8V-DnoymOPaNLeclX3gEqaL1aI8WWzQnaMjykMkwaaMBKvJa7xZWeEhDvk4KiN2rtpfBTH2JTjE8dGhR2p0rEHyjmOutS9kuS6tjFwTj-hw",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJBbQk-8Lj4jgRtJX8GG03BEk",
+            "plus_code": {
+                "compound_code": "9X4F+MC Khachan, Jammu and Kashmir",
+                "global_code": "8J6Q9X4F+MC"
+            },
+            "rating": 3.8,
+            "reference": "ChIJBbQk-8Lj4jgRtJX8GG03BEk",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "formatted_address": "Chinar Bagh, Srinagar",
+            "geometry": {
+                "location": {
+                    "lat": 34.0837602,
+                    "lng": 74.8170822
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0915779,
+                        "lng": 74.82821910000001
+                    },
+                    "southwest": {
+                        "lat": 34.07876,
+                        "lng": 74.8112021
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "d4f2bbdcb516b2ba451908206a7a0a25c4f49645",
+            "name": "Chinar Bagh",
+            "photos": [
+                {
+                    "height": 3240,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112863741226656609207\">Arya Ghosh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbiwiQOB9v7PNh9V3qLXldyoVOfGnGHKrTUkKYIe5QfJsDGPQusyord5hnMt73Ox5iwHxEy5wze40nGdbIwKmUybezPCpCCqS9-wyCgz2DbOfk_xqgeJZr3YT-YAunX9nEhAsyqMXeWht0aP7wZg80GGXGhQ6IDpbE13LOHUZn7SlPg4PMdNeUg",
+                    "width": 4320
+                }
+            ],
+            "place_id": "ChIJax0WL4SP4TgR4QABMxHi77E",
+            "reference": "ChIJax0WL4SP4TgR4QABMxHi77E",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Barzulla, 9906489897, Srinagar, Jammu and Kashmir 190005",
+            "geometry": {
+                "location": {
+                    "lat": 34.0521832,
+                    "lng": 74.79858349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.05344377989272,
+                        "lng": 74.79994957989271
+                    },
+                    "southwest": {
+                        "lat": 34.05074412010727,
+                        "lng": 74.79724992010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f5dd4d544fbc6c2ab7dac42e5ac760d27a02824c",
+            "name": "Kashmir Valley Tours & Travels",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1361,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105332003157212217355\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAN4iK6PfIbJqONeiODhBKCoxWETpAxfCZHnf56jtfnRP2Bte1BMtSTNQAUPWTuHplGCpXcpFss0qX488wicTiZ5GtLEpJct9FUsyOZO-LX4jrc7p4qZWhaWNWACimN3T0EhCjv-_RW5I9GIuZ5rVXGGjQGhQOiGUi4v0aAfEHvLrQm7tt1iTnTA",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJrVzvjSyP4TgRNwY9qZsT0mE",
+            "plus_code": {
+                "compound_code": "3Q2X+VC Srinagar, Jammu and Kashmir",
+                "global_code": "8J6P3Q2X+VC"
+            },
+            "rating": 0,
+            "reference": "ChIJrVzvjSyP4TgRNwY9qZsT0mE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Chrar-i-Shareif Yousmarg Rd, Forest Block, 191112",
+            "geometry": {
+                "location": {
+                    "lat": 33.8262472,
+                    "lng": 74.6684125
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.82819362989272,
+                        "lng": 74.67001192989272
+                    },
+                    "southwest": {
+                        "lat": 33.82549397010728,
+                        "lng": 74.66731227010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0f451949d66095533259c8ccf82e798d3a78f8bf",
+            "name": "Yusmarg Lake",
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103406765003780094841\">Shabir Ah</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA6oMW1m9EjVEeuCBG2OmkUVacYM4fTurE-o0EhhF-trxShe60haMdBbZc53g59lIVrF3fQtmxgSwKB2uK8U0nVY51USNpDDRncdWzFHWkLoMCAKXAG1Jhnom0fEnDOQG6EhB6QB1jiakavUj4NqYySxtDGhT80tg6526C71T3d3wPL8NzgnH2Hg",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJjXuK9eXr4TgRIxHMgKLi5TI",
+            "plus_code": {
+                "compound_code": "RMG9+F9 Forest Block, Jammu and Kashmir",
+                "global_code": "8J5PRMG9+F9"
+            },
+            "rating": 4.4,
+            "reference": "ChIJjXuK9eXr4TgRIxHMgKLi5TI",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "sankar road leh ladakh, Sankar Rd, Leh, Jammu and Kashmir 194101",
+            "geometry": {
+                "location": {
+                    "lat": 34.17544090000001,
+                    "lng": 77.58497779999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.17686242989273,
+                        "lng": 77.58638092989271
+                    },
+                    "southwest": {
+                        "lat": 34.17416277010729,
+                        "lng": 77.58368127010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6b14fb180f9a7a4d1d07d54a0fa04e40d39fb3fe",
+            "name": "Explore Ladakh",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101893493641296234585\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA0ixL1_dDhlSxP0HRlfc19cSdbYCBMkIS8HkC28m7jcNdTjGFCDimLW6dNzFnRn6BhC5rv7dAPL8tbXDxN3k_w3n-sLHcx6fUqsRkPl7v7ZudD0OvDfFFJGy7N2ix11aYEhC9M07SzFGcPinrlg5NStnyGhT5ThT63QbN7V_0p4JzW4Mn2asc8Q",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJLdeTCRjr_TgRTUG6OWAQ29Q",
+            "plus_code": {
+                "compound_code": "5HGM+5X Leh, Jammu and Kashmir",
+                "global_code": "8J6V5HGM+5X"
+            },
+            "rating": 4.5,
+            "reference": "ChIJLdeTCRjr_TgRTUG6OWAQ29Q",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 101
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Srinagar International Airport, Humhama, Srinagar, Jammu and Kashmir 110003",
+            "geometry": {
+                "location": {
+                    "lat": 34.0141306,
+                    "lng": 74.77174289999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.01540137989273,
+                        "lng": 74.77330057989272
+                    },
+                    "southwest": {
+                        "lat": 34.01270172010728,
+                        "lng": 74.77060092010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "3936b37d85f390b070e06c5f5364b211dfde3a53",
+            "name": "GoAir,SRINAGAR (SXR)",
+            "place_id": "ChIJ_____-aR4TgRnPc_BC4QFQA",
+            "plus_code": {
+                "compound_code": "2Q7C+MM Srinagar, Jammu and Kashmir",
+                "global_code": "8J6P2Q7C+MM"
+            },
+            "rating": 3.5,
+            "reference": "ChIJ_____-aR4TgRnPc_BC4QFQA",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        }
+    ],
+    "status": "OK"
+}

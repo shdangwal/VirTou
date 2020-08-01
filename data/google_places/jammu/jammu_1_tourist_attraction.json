@@ -1,0 +1,959 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCBQEAAP_fBjzMebPNVG9OmDIEk3iRw8tTtK__D_VDphZNQ-W8CjxUXEWfpmOwqbkJm-yp9TMFC3vz63wjF8YKxD9FCvdi3lEwsqGy-nLEmY3eeNamRK5CbdkbUIbZLb3x-77ZXqblUvWdWKNTYorx2O77d_WqxJAB6x4oFrCBVHIzX7g3xFx8YVCJ-BV8EOMF9KkGIQPjgrLBNZikNJSOgYT8E07jS1_GC4wZzwAJfAglBbUWJMlkufL9Mux0G_X0MkC6RqtjLyB-KdTaWVd39wFo7tMQu5JyXgVvJs52PpxCxoQyCMqhwWnPMJh0WBqxM6XyGFX61toOXeIt9TQxmieorcVvg8bMgkVh7cJiK-7mOr_XEhDFxvdbqqtG-kCBxen9BMduGhSbM18i-SkC604GXQUhUw59AQ06rg",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Gorkha Nagar, Jammu, Jammu and Kashmir 180006",
+            "geometry": {
+                "location": {
+                    "lat": 32.7243731,
+                    "lng": 74.8775524
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72572292989272,
+                        "lng": 74.87890222989273
+                    },
+                    "southwest": {
+                        "lat": 32.72302327010728,
+                        "lng": 74.87620257010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "a6e2a00280059ebeffa8f67a387cde80f1e6bff7",
+            "name": "Bagh - E - Bahu",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107731416087464769203\">mr.ambeshtiwari</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwzTmJEW0Ojy_u7vgfpDnw-6J4ieagy7j5slT3zKvJZOhaf_mCslQwyhx4dlORPZ0EMfBysrQr1gY-b5Z6mMTKP7oSR7fr_eLqzeV08EDIwqWi8YUkMHlc7LEZEd6B9SqEhB03LH6sjDK2NvTPmojWlkrGhRPV8sEY3ZH3ATPeGR4aXgLHrgLiA",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJiVjIOmODHjkRODdLsAO2QyY",
+            "plus_code": {
+                "compound_code": "PVFH+P2 Jammu, Jammu and Kashmir",
+                "global_code": "8J4PPVFH+P2"
+            },
+            "rating": 4.2,
+            "reference": "ChIJiVjIOmODHjkRODdLsAO2QyY",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7556
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Fatthu Chaugan, Pakki Dhaki, Old Heritage City, Jammu, Jammu and Kashmir 180001",
+            "geometry": {
+                "location": {
+                    "lat": 32.7304879,
+                    "lng": 74.8619721
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73151882989272,
+                        "lng": 74.86321862989273
+                    },
+                    "southwest": {
+                        "lat": 32.72881917010728,
+                        "lng": 74.86051897010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "62acd4b689077d43dccb42d09d1fc4eb23014a1f",
+            "name": "Shree Raghunath Ji Temple",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116317600422276196501\">Atul Anand Pandey</a>"
+                    ],
+                    "photo_reference": "CmRaAAAArS4EdrZBl9lXzFJq-C77iU2tkyxs5bQSYVV81v3fZO40-BFop7mEkpNJGPUaEXFvnZwlFpmcbmQEDAYPpJ48SFfIZtE0LrV492rEYrlisTJG2cdwpcni8WNMJuW42H5qEhDof2qGXLJTei7n5A1erBbwGhT_DZKtZ35S9h-901cvlhW5D17lvg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJLeKLyICEHjkRAzFq3kd8vEU",
+            "plus_code": {
+                "compound_code": "PVJ6+5Q Old Heritage City, Jammu, Jammu and Kashmir",
+                "global_code": "8J4PPVJ6+5Q"
+            },
+            "rating": 4.4,
+            "reference": "ChIJLeKLyICEHjkRAzFq3kd8vEU",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4287
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Palace Road, Karan Nagar, Jammu Tawi, Jammu, Jammu and Kashmir 180001",
+            "geometry": {
+                "location": {
+                    "lat": 32.7477098,
+                    "lng": 74.8722927
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74903157989272,
+                        "lng": 74.87353742989272
+                    },
+                    "southwest": {
+                        "lat": 32.74633192010727,
+                        "lng": 74.87083777010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "3077fbf6e3eb3942cb382784b4b0c682d2decb59",
+            "name": "Amar Mahal Museum and Library",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2766,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114885487034263057803\">manish</a>"
+                    ],
+                    "photo_reference": "CmRZAAAADyNkGbg-6AJlkhzr7h7XfhCD3JFkBg0Nq5znche7Jz_QlXEYlecAm9ty_pUu2fUucstr8bX8WMFwQeV3VdQf9bwENPeU36Rnte4McOijc-y3V8owzwhW7iyE4W0WOj75EhCahva97a-qv2lMDgYKC4X5GhR4SOz1S-d0His6S7-7UKHfKxj21Q",
+                    "width": 3689
+                }
+            ],
+            "place_id": "ChIJDwO0i3eEHjkRvKQdnhrl67I",
+            "plus_code": {
+                "compound_code": "PVXC+3W Jammu, Jammu and Kashmir",
+                "global_code": "8J4PPVXC+3W"
+            },
+            "rating": 4.4,
+            "reference": "ChIJDwO0i3eEHjkRvKQdnhrl67I",
+            "types": [
+                "museum",
+                "library",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 274
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "shalamar Road near ciivil secretariat",
+            "geometry": {
+                "location": {
+                    "lat": 32.734831,
+                    "lng": 74.86430059999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73595017989272,
+                        "lng": 74.86573592989272
+                    },
+                    "southwest": {
+                        "lat": 32.73325052010727,
+                        "lng": 74.86303627010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "917991309d1a1b8ac8105b00e4b3a261a84e9d32",
+            "name": "Ranbireshwar Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116030049411515796324\">Amrit Rathore</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxh4zZ-4K1N-56KGlPlEDgQkclkUHnQgkkZNihZm-xnsJceLQUZM_qYlmeSwWWesPle15FbqTY8yTAgNFb_Qe-YcRrTkzuJ2-hOKyfsG0QW5liVtPrj8j0NA5wUwf4locEhAQNuHIyHe4FO-mLVsKFBlWGhQjHEU1LOkmL3CgfJAsq1BDeogDWA",
+                    "width": 660
+                }
+            ],
+            "place_id": "ChIJayfTkJGEHjkR5vyhLBMMALA",
+            "plus_code": {
+                "compound_code": "PVM7+WP Jammu, Jammu and Kashmir",
+                "global_code": "8J4PPVM7+WP"
+            },
+            "rating": 4.5,
+            "reference": "ChIJayfTkJGEHjkR5vyhLBMMALA",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 826
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jammu, Jammu and Kashmir 180017",
+            "geometry": {
+                "location": {
+                    "lat": 32.73056,
+                    "lng": 74.89059519999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73185082989272,
+                        "lng": 74.89198017989273
+                    },
+                    "southwest": {
+                        "lat": 32.72915117010728,
+                        "lng": 74.88928052010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "3454e6f8cf5f909390ee14ed1f0aa62a79ed09e6",
+            "name": "Maha Maya Temple",
+            "photos": [
+                {
+                    "height": 336,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107921733310246436926\">Rekha Chowdhary</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVX7O98atTyPHwcMhjeDZvdLOKC0QwCrq1PF43-dR1rSX2EJ8F_ASWuLjZa8obJeFhu_7khYFP-LCH1TUj8gIOKndTQg4S2pTX1B2JQlgD6rBc3cACElmC5KoRXCKpJI_EhAcD5A5nEmediYjygLISo8lGhSH1Q3UZCr4Uhr_4DfzmsOOnlTnGA",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJyQ52dnGDHjkRZLlIoSzhHF0",
+            "plus_code": {
+                "compound_code": "PVJR+66 Jammu, Jammu and Kashmir",
+                "global_code": "8J4PPVJR+66"
+            },
+            "rating": 4.7,
+            "reference": "ChIJyQ52dnGDHjkRZLlIoSzhHF0",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 278
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Panjtirthi, Jammu, Jammu and Kashmir 180001",
+            "geometry": {
+                "location": {
+                    "lat": 32.73877,
+                    "lng": 74.874938
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74008117989272,
+                        "lng": 74.87622512989272
+                    },
+                    "southwest": {
+                        "lat": 32.73738152010728,
+                        "lng": 74.87352547010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "f97e47e5863085265ae33d863971da9e63e30d4b",
+            "name": "Dogra Art Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113883262591504136253\">Hemal SOLANKI</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA3tUgLaK7OHeCa6MqtzJbqrTmQI2knDxc8x2E4Bi8X9KuFvRXFwHGU5-CTD2qy0Asg1qTLuxvHkwGe3Mktivv9gQB1ifQo-XHphAomJPk7gdlb7bYe2KZzgDfWs6bflmfEhDa1Nk3ayP-J6AQPk8u2HZ0GhSPp5maviDSdKqZT5gynckz5-Fe3w",
+                    "width": 5120
+                }
+            ],
+            "place_id": "ChIJNQK1b4CDHjkRb-68QWX1sZg",
+            "plus_code": {
+                "compound_code": "PVQF+GX Panjtirthi, Jammu, Jammu and Kashmir",
+                "global_code": "8J4PPVQF+GX"
+            },
+            "rating": 4.2,
+            "reference": "ChIJNQK1b4CDHjkRb-68QWX1sZg",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 161
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Panjtirthi, Jammu, Jammu and Kashmir 180001",
+            "geometry": {
+                "location": {
+                    "lat": 32.7393379,
+                    "lng": 74.8745093
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74063802989272,
+                        "lng": 74.87578292989272
+                    },
+                    "southwest": {
+                        "lat": 32.73793837010727,
+                        "lng": 74.87308327010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "a15a83edf64b6b642ee734dd2c370ccc3bbb8acc",
+            "name": "Mubarak Mandi Heritage Complex",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3265,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100772665292806761705\">Sri Harsha</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbbxL6w0vbjqyUdmcAvI4Om7pegLamMVjTqt6UpuBj7yVnFIKAo3-oSruJXndaKZCgVpHYWR4RK18hxCHWksGu6XXF9QM-74YOI2ypVlq7thB35COmnaPRBgb-X0uqSIjEhDTKS95vM1_f7kDRXED5roGGhQ0yD_hDjTezOBQPKJaij9BzcwEkQ",
+                    "width": 4898
+                }
+            ],
+            "place_id": "ChIJnR3seoCDHjkRP276FyVpLXU",
+            "plus_code": {
+                "compound_code": "PVQF+PR Jammu, Jammu and Kashmir",
+                "global_code": "8J4PPVQF+PR"
+            },
+            "rating": 4.1,
+            "reference": "ChIJnR3seoCDHjkRP276FyVpLXU",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2077
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "opposite Bahu Plaza, Extension, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+            "geometry": {
+                "location": {
+                    "lat": 32.7034688,
+                    "lng": 74.8717776
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.70486692989272,
+                        "lng": 74.87326872989271
+                    },
+                    "southwest": {
+                        "lat": 32.70216727010727,
+                        "lng": 74.87056907010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "caa9f18375c53e4af667b4e7c84f1ebb40c5af25",
+            "name": "Country Inn & Suites by Radisson Jammu",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114126468042609453759\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAXWDVkjn2oBNoJo3K-UMWigWHVfa_ClM87qLsfVL_lDQekndJ49nw5BtKFB2wYbkCqkINsRfB7UYJ2CEFRQC0bJrnRAZQ7HWwmk4mowO4RCS9oPlcE4x6SjTR-aL5NKj6EhBscMg7u7ESHEA52cMXebWgGhTah4QY_7nF98YB6w97wnifNZK0EQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJf4XeyKeEHjkRb8F-FEtjJ9k",
+            "plus_code": {
+                "compound_code": "PV3C+9P Gandhi Nagar, Jammu, Jammu and Kashmir",
+                "global_code": "8J4PPV3C+9P"
+            },
+            "rating": 4,
+            "reference": "ChIJf4XeyKeEHjkRb8F-FEtjJ9k",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 962
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ward no 58, New Dashmesh Nagar, Jammu, Jammu and Kashmir 180010",
+            "geometry": {
+                "location": {
+                    "lat": 32.6856701,
+                    "lng": 74.853055
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.68691457989271,
+                        "lng": 74.85429447989272
+                    },
+                    "southwest": {
+                        "lat": 32.68421492010727,
+                        "lng": 74.85159482010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a27a9d8af0f0ae5276cf9024de825ae74ea2a87f",
+            "name": "Jammu Travels",
+            "place_id": "ChIJ4_piSfSbHjkReqGboYniULg",
+            "plus_code": {
+                "compound_code": "MVP3+76 Jammu, Jammu and Kashmir",
+                "global_code": "8J4PMVP3+76"
+            },
+            "rating": 0,
+            "reference": "ChIJ4_piSfSbHjkReqGboYniULg",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Radisson Square, Bala, Bypass Road, Narwal, Jammu, Jammu and Kashmir 180006",
+            "geometry": {
+                "location": {
+                    "lat": 32.7165736,
+                    "lng": 74.8902341
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71797667989272,
+                        "lng": 74.89177122989274
+                    },
+                    "southwest": {
+                        "lat": 32.71527702010728,
+                        "lng": 74.88907157010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "0f6f4519c682976961db8c9cd6248105a5823541",
+            "name": "Radisson Blu Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2610,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111854732923360073926\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxqtM-XO80eUPF9E2WThIahCKgzrw343fQoRDWQJhIXcA2YrAF8pisD2QZuHT-46R2JHKouSW9hbkrIqDMs3A9UecFTKytApn9KyA_uYvh3JjIfNnsIQxRYe4taP_GNVlEhCkO1cU84apjCLKOQq7nNSlGhSrXPd0bQiiHb5NauegGi9RD-HPsQ",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJCeoMckKDHjkRY0hD7XHvMQM",
+            "plus_code": {
+                "compound_code": "PV8R+J3 Narwal, Jammu, Jammu and Kashmir",
+                "global_code": "8J4PPV8R+J3"
+            },
+            "rating": 4.3,
+            "reference": "ChIJCeoMckKDHjkRY0hD7XHvMQM",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4159
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shop No 20 Mini Market, Near Rani Plaza, Satwari, Cantt, Jammu, Jammu and Kashmir 180003",
+            "geometry": {
+                "location": {
+                    "lat": 32.6949754,
+                    "lng": 74.84918329999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.69633892989272,
+                        "lng": 74.85053962989272
+                    },
+                    "southwest": {
+                        "lat": 32.69363927010727,
+                        "lng": 74.84783997010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5a49cc3b87e66279b844bf269d30f0075d45781a",
+            "name": "Jammu Kashmir Tour & Travels",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1311,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108937767938600631074\">Jammu Kashmir Tour &amp;Travels</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmpki9eiltjfutxKXt1Ou_sugKJA2VBKB5KDMD0xacEWudU39G-0T9-P72s_oAtzPnLqugxPJ7ez8ckDn9aEn7xweAejBlXx-QFmxsowja9lmIU561MUoUI-0WNK_07MNEhByZIXI7L5QcCf1T9LFiYFxGhRN0_rRyf4jNLnCMbzl2C6oigApLw",
+                    "width": 2289
+                }
+            ],
+            "place_id": "ChIJz9euY8mEHjkRFxN6ZmSn82s",
+            "plus_code": {
+                "compound_code": "MRVX+XM Jammu, Jammu and Kashmir",
+                "global_code": "8J4PMRVX+XM"
+            },
+            "rating": 4.8,
+            "reference": "ChIJz9euY8mEHjkRFxN6ZmSn82s",
+            "types": [
+                "travel_agency",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 155
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Palace Road, Janipur, near Harinivas, Jammu, Jammu and Kashmir 180007",
+            "geometry": {
+                "location": {
+                    "lat": 32.7496841,
+                    "lng": 74.8673225
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75086882989272,
+                        "lng": 74.86880457989272
+                    },
+                    "southwest": {
+                        "lat": 32.74816917010727,
+                        "lng": 74.86610492010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "31fe87515b6ec1edb83ef13c606492d337d87378",
+            "name": "Manda Zoo Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107159974056654797398\">mohd aaqies</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAg9agePBkw1qwFfOnq8USwdJsW0gf4w197wRcKnLt4kX6-D0GYaC5sV-PXqj4aeVvgmj0rzzyheUStGvxX-VCNAWhLqlHLVXQYJmzPo-YA78oDTk7WDErXRM3dBxl-XejEhC87tG6qplkp65cBA64gZ36GhTy6DA9trswvUOk2spyHa3OyQEJfw",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJIZuG2HCEHjkRWJgsQImLUqU",
+            "plus_code": {
+                "compound_code": "PVX8+VW Jammu, Jammu and Kashmir",
+                "global_code": "8J4PPVX8+VW"
+            },
+            "rating": 3.9,
+            "reference": "ChIJIZuG2HCEHjkRWJgsQImLUqU",
+            "types": [
+                "zoo",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2917
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jammu and Kashmir 181201",
+            "geometry": {
+                "location": {
+                    "lat": 32.8957481,
+                    "lng": 74.7403865
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.89703592989272,
+                        "lng": 74.74145632989271
+                    },
+                    "southwest": {
+                        "lat": 32.89433627010727,
+                        "lng": 74.73875667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "02163410ec5aac39180da866d4bd6a9fb15783d0",
+            "name": "Akhnoor Fort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 464,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109340811666449173151\">Nikhil Gupta</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAh7hGwQ7jQepwVb8L1rNpz5PY0HtyZFgfeBsAaCMqXRgZgZ4XtvXrq9LZ8OA2jpNSPTUGDoNiQQI9HXG8BwJ3bB1sJf4yo9oFUiOCpDNqwF7l_O8KnllLoXeG4ce1qNJdEhDxYCmUcspLncFTnlObIqShGhRIuyE-qnR381Q5jO2VnT8E1o0D_Q",
+                    "width": 660
+                }
+            ],
+            "place_id": "ChIJRx-aAf5iHjkRKca8FNuFOpo",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "8J4PVPWR+75"
+            },
+            "rating": 4.2,
+            "reference": "ChIJRx-aAf5iHjkRKca8FNuFOpo",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1821
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cannal Head Rd, Bhagwati Nagar, Canal Road, Jammu, Jammu and Kashmir 180002",
+            "geometry": {
+                "location": {
+                    "lat": 32.7243683,
+                    "lng": 74.8476062
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72575182989273,
+                        "lng": 74.84875377989273
+                    },
+                    "southwest": {
+                        "lat": 32.72305217010729,
+                        "lng": 74.84605412010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "221a483e20f919528dd6d799368fd1a790d977c5",
+            "name": "Rajender Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115530116722091455087\">Sonam Stanzin</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZPsyTN25bT5OBXa9ouJHR_lauw8SVO8kmmsoNg62hOHfbaE9zkhBLAKpVZgU90G6JvZPG2dFvZ11DNql12KdNIazeIPYlhcdDEbBcuKY2JZA5BNIwYdCgQSwUdAgTmJiEhD6BYRrdyHOlH7ZFDetzxHjGhSjQtWvlB3egycFU1HXXGA4wRqQFg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJPT1VcfOEHjkR5l4Z0q-j9Mw",
+            "plus_code": {
+                "compound_code": "PRFX+P2 Canal Road, Jammu, Jammu and Kashmir",
+                "global_code": "8J4PPRFX+P2"
+            },
+            "rating": 3.9,
+            "reference": "ChIJPT1VcfOEHjkR5l4Z0q-j9Mw",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 982
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Opp. Raghunath Temple VIP Gate, Hari Market Road, Jammu, Jammu and Kashmir 180001",
+            "geometry": {
+                "location": {
+                    "lat": 32.7296853,
+                    "lng": 74.8621932
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73102292989272,
+                        "lng": 74.86353272989271
+                    },
+                    "southwest": {
+                        "lat": 32.72832327010727,
+                        "lng": 74.86083307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "446e0fc1c4bb261c769ac75c19cfe637e4d0fdc6",
+            "name": "Hotel Raghunath",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115145345738663841449\">Hotel Raghunath</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2HbDm_mKd9SMSeIa9Bm4bxXHFm2ryXheKFc6Xxmca09Ih_vuhGWrqC-zqGae5v-RAepRwGMKDGc1SrUzD_33xMj2mqacBBF9q_BhULT8sFnpj9_X-4ldQx-miq57TRk4EhCSugJUB0jIGyfRCyoJxrdgGhSflIdagGdbcOlWcWLnJBVkTUguXg",
+                    "width": 576
+                }
+            ],
+            "place_id": "ChIJmwAAAH2EHjkRePXRRguxKEw",
+            "plus_code": {
+                "compound_code": "PVH6+VV Jammu, Jammu and Kashmir",
+                "global_code": "8J4PPVH6+VV"
+            },
+            "rating": 4,
+            "reference": "ChIJmwAAAH2EHjkRePXRRguxKEw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 633
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Opposite Railway Station Exit Gate, Channi Rama, Jammu, Jammu and Kashmir 180012",
+            "geometry": {
+                "location": {
+                    "lat": 32.7036096,
+                    "lng": 74.87768
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.70481437989272,
+                        "lng": 74.87902572989273
+                    },
+                    "southwest": {
+                        "lat": 32.70211472010728,
+                        "lng": 74.87632607010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "8018f21f970060166ce488b939838c5f77041ece",
+            "name": "Lemon Tree Hotel, Jammu",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 433,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115681049631326781125\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAp0o7kzZhqqKyuzOcVVVLqCRjSYPiJcXMdXAsdSuZCRbEhJX3pjWBvNOStMZjFHm6nLw0Qm3EB_daLdDrORPlW8E85RmWthLL7KByu2zepGgTYD4qDdnZJx4E_GS-sFNZEhBhZfoC5YjJhkwG989NSgpnGhT6fOp02_EWlQR6kcTLSUk_RvOgmA",
+                    "width": 680
+                }
+            ],
+            "place_id": "ChIJ53Qhe1eDHjkRGBCO_A0tWlI",
+            "plus_code": {
+                "compound_code": "PV3H+C3 Channi Rama, Jammu, Jammu and Kashmir",
+                "global_code": "8J4PPV3H+C3"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ53Qhe1eDHjkRGBCO_A0tWlI",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 470
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "National Highway 1A, next to Astro Mahindra, Anand Vihar, Bari Brahmana, Jammu, Jammu and Kashmir 181133",
+            "geometry": {
+                "location": {
+                    "lat": 32.638107,
+                    "lng": 74.91370049999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.63945487989272,
+                        "lng": 74.91505177989272
+                    },
+                    "southwest": {
+                        "lat": 32.63675522010728,
+                        "lng": 74.91235212010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "38f04970b46da3ab72870c1f815c3bf19bc89de6",
+            "name": "Mango Hotels - Jammu",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112768770625488400078\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAc2kkJGPYx8Sd4J7hZtBoh8Tqpy5PrJVCy4vUBppNQeasNqCbqQXu4hCz6RqjPNg8dWtqLKwB0RCFrofriWGMypFTfl-P4Sa5I_t5u6_6TXpsn8dFzbGvrpz146ppIekPEhCQ318hJDdK3_Oy9TG03vszGhTQJX7y1ujy0E15cS2GBaK2SzDSrA",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJO7lAvU6cHjkR1iH5yLQPVBw",
+            "plus_code": {
+                "compound_code": "JWQ7+6F Bari Brahmana, Jammu, Jammu and Kashmir",
+                "global_code": "8J4PJWQ7+6F"
+            },
+            "rating": 4,
+            "reference": "ChIJO7lAvU6cHjkR1iH5yLQPVBw",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 843
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rail Head Complex, near SBI Headquarter, Cantonment, Jammu, Jammu and Kashmir 180012",
+            "geometry": {
+                "location": {
+                    "lat": 32.7044948,
+                    "lng": 74.87693680000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.70589432989272,
+                        "lng": 74.87841752989273
+                    },
+                    "southwest": {
+                        "lat": 32.70319467010728,
+                        "lng": 74.87571787010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "df448f60eab7c08d42924df3d67818ded69fd37f",
+            "name": "Zone by The Park Hotel, Jammu",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1239,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103991367800072582801\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1XBMRayUqYvvDDJFwIEdcaWeCgzzVSac_u50-FD2oHCazIXF3neFxEKVV5DGPJ-x6TBt8KPqVXgKxH0vyOcyLCt7DNnG8NFxHTYMWpCTKv-MI7gtZTSmH25dLgDJxN74EhBYkSprPyGt4Vo4Ov4xCmFTGhSVK6FcP515YKYBTrbvDPwq_wgt1A",
+                    "width": 2124
+                }
+            ],
+            "place_id": "ChIJSdppvnSFHjkRHcn1osTIuuY",
+            "plus_code": {
+                "compound_code": "PV3G+QQ Jammu, Jammu and Kashmir",
+                "global_code": "8J4PPV3G+QQ"
+            },
+            "rating": 4.4,
+            "reference": "ChIJSdppvnSFHjkRHcn1osTIuuY",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 277
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Tehsil Bazar, Ranbir Singh Pura, Jammu and Kashmir 181102",
+            "geometry": {
+                "location": {
+                    "lat": 32.608045,
+                    "lng": 74.731039
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.60938802989272,
+                        "lng": 74.73241142989272
+                    },
+                    "southwest": {
+                        "lat": 32.60668837010728,
+                        "lng": 74.72971177010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a5d398718971b092911fa2f7c7c4e82ae4adee59",
+            "name": "Travel House",
+            "permanently_closed": true,
+            "place_id": "ChIJ1ybucm6RHjkRZ_cL6bfLaxA",
+            "plus_code": {
+                "compound_code": "JP5J+6C Ranbir Singh Pura, Jammu and Kashmir",
+                "global_code": "8J4PJP5J+6C"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ1ybucm6RHjkRZ_cL6bfLaxA",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "formatted_address": "Mansar Lake, Buttal 182127",
+            "geometry": {
+                "location": {
+                    "lat": 32.6965559,
+                    "lng": 75.1443226
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.7019873,
+                        "lng": 75.15086509999999
+                    },
+                    "southwest": {
+                        "lat": 32.6927956,
+                        "lng": 75.1402556
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "34835efbd2a9ca906b7859246971ef4d8e531e62",
+            "name": "Mansar Lake",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107222616598231007271\">INDIAN swag</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAiIvHOEGhVmi3HHGQ71h1eW2zkqP3jG7rmnHbDoxMoAzDF6Nb6ZgEbxt01feIdLbrwosLTAI3rTT1tPEyd-BI1TVN2O9rQZ0fAX_SFS9FYuzIPGDWdr_-9Zf4mWP4MKcxEhBzRCPnR2SaRefFKPKLhKzIGhRYB4YkYBrHdHfpHiiEF3Fhq1F5ZQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ3et9JjElHDkRZq7TIpLUIdY",
+            "rating": 4.5,
+            "reference": "ChIJ3et9JjElHDkRZq7TIpLUIdY",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 333
+        }
+    ],
+    "status": "OK"
+}

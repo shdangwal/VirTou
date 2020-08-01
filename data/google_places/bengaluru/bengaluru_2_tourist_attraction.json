@@ -1,0 +1,901 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CrQDqQEAAEVcZBwYQUxAr8z9kyxCYIedBa6VqlaXkZvIlAp21NIIw4zW3D4GN4DA7BXV1yRtKpOzJvV72D9_RAEGu12o-32tNf6cIIRGeUpXC5XgaRrE25QBTdySyhqP1fJHpSNz7l-DuiUKkgCmWzsoT59LstOPMRkYwg_WoiQIZxumX9nSKElJA7aXcZmaQBkGNp4W341JPjCgpeUsqPs84n1qQ0J1mmtNO7vnc2cUuMKM2AaSYpd6hPcTafEOci96aaznHbIfKY73xfcUvBYfRZaNcM2OnMrFRgsPlPSPLSzRfG2o2cl8TfoNN0tJESqWx91Qfl2gsFTGDModVMxoIHobB6T9bCPIFKUFzpFzPQKDAExuzFAbgqj-BcTZsbJb6DznrqwtSDpPl8Lbd2stEvVvEEudOJkQeEtoDoDGMR9IHleigrcX8MamWCIZLtZ0UZRzWlkw5hfKcPuPO2n7s3cpk1WmRLHY6ems8R_2q-SbZyEeiFquEfRhaIGUl6TpPQQccwhDFH6RRvNaTeW2yVJ5W3AGhDvRGuzyxObmk28UHvlNu_9EgTyZWXWNvAEN4Kr-dRIQbrJdRw3Oh4tjtQN_ImVXQhoUTWyHYnRoDAHMPFHY6i8w5pe7kFg",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Mavalli, Bengaluru, Karnataka 560004, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9462103,
+                    "lng": 77.5864654
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.94756012989272,
+                        "lng": 77.58781522989271
+                    },
+                    "southwest": {
+                        "lat": 12.94486047010727,
+                        "lng": 77.58511557010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5d7e764c491b1dea15a88ecb5d47ef7cba2054a7",
+            "name": "Lalbagh Waterfall",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113005429219437751569\">Laxmikanth S</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtslO4RicW8AjNkyHBL1nG1-rubI0nCbilI5Cu7l-FR0pJF1-hj0iLfZszo5JGLcaEthB1DtHGFy17JL9KS4oXRgxj5Hxmn_fc9MbU2CWEdfegF6120VB84IvnduWA4KDEhALG0oUgkzfkUPKJrwQZHTSGhT-3JjWi57r-mygzwnJ_F46P8aSKw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJx3i0R8AVrjsRopE4pRSBhPw",
+            "plus_code": {
+                "compound_code": "WHWP+FH Mavalli, Bengaluru, Karnataka",
+                "global_code": "7J4VWHWP+FH"
+            },
+            "rating": 4.2,
+            "reference": "ChIJx3i0R8AVrjsRopE4pRSBhPw",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 46
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "No.40/1 A, 5th Floor, Basappa Complex, Lavelle Road, Bengaluru, Karnataka 560001, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9711522,
+                    "lng": 77.5978612
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.97253312989272,
+                        "lng": 77.5992059298927
+                    },
+                    "southwest": {
+                        "lat": 12.96983347010728,
+                        "lng": 77.59650627010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "59e78c8e55cad27d715b76d3a9aadf9be4b274fc",
+            "name": "Kashipura Heritage",
+            "permanently_closed": true,
+            "place_id": "ChIJl7XBuHkWrjsRETdmSUNxGqk",
+            "rating": 0,
+            "reference": "ChIJl7XBuHkWrjsRETdmSUNxGqk",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9806644,
+                    "lng": 77.5970675
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.98202667989272,
+                        "lng": 77.59837317989272
+                    },
+                    "southwest": {
+                        "lat": 12.97932702010728,
+                        "lng": 77.59567352010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0bec6fca532d8a0b11f72832fe82f26ca2fb2d29",
+            "name": "HAL Aircraft Display",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100090913439837156019\">mail2saidas</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAl5Hakdg2WwiiAQBvC86oRwsgsB-soMacVCof95CUxEBVWkgfwIduWTbzTmDp-BWD9lisk4EmGy7Z5Wowe6asuCXfH4TOEEOw-hk1fbW8JoUKXI__xTSnHySI-VCNdVtnEhCBk9jWpS0Cx3rchJDujWS6GhR1eNcb-CQIB47GjMpAQP-1IyWF4A",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJr08EcGUWrjsRN8fdUiYu3DM",
+            "plus_code": {
+                "compound_code": "XHJW+7R Bengaluru, Karnataka",
+                "global_code": "7J4VXHJW+7R"
+            },
+            "rating": 4.6,
+            "reference": "ChIJr08EcGUWrjsRN8fdUiYu3DM",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 61
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1st R Block, Rajajinagar, Bengaluru, Karnataka 560010, India",
+            "geometry": {
+                "location": {
+                    "lat": 13.0096764,
+                    "lng": 77.551132
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.01104322989272,
+                        "lng": 77.55260872989271
+                    },
+                    "southwest": {
+                        "lat": 13.00834357010728,
+                        "lng": 77.54990907010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c3f0264048dab827bf28ab631d2ef7bf36e33b99",
+            "name": "Hare Krishna Hill",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115073932032940385335\">Pradeep Sathya</a>"
+                    ],
+                    "photo_reference": "CmRaAAAActT6MB6r-W48UDinflcCAXr2HA9bHca87T-efRbYRqYrGJteYBlcknl_x7Z36eV9ECEgImjrm8Od-fCVJ01CTdw7KyB6ChzhQWYQGVIMOcf5e2vavodxlR--Il1k0h3nEhCukpC8TLqLuf8_59MlmFp_GhRCx509zOhwmvqIlzA4kH-kX0zQ_g",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJgXgzGJ89rjsR5Z7lZQkFGk4",
+            "plus_code": {
+                "compound_code": "2H52+VF Rajajinagar, Bengaluru, Karnataka",
+                "global_code": "7J5V2H52+VF"
+            },
+            "rating": 4.6,
+            "reference": "ChIJgXgzGJ89rjsR5Z7lZQkFGk4",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 61
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "15/4, Hosur Rd, Somasundarapalaya, 1st Stage, BTM Layout, Bengaluru, Karnataka 560034, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9244897,
+                    "lng": 77.6179113
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92586587989272,
+                        "lng": 77.61930377989272
+                    },
+                    "southwest": {
+                        "lat": 12.92316622010728,
+                        "lng": 77.61660412010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6de60079e49d64c114dfb06bbca53cc99d3d97d8",
+            "name": "Madiwala Park",
+            "permanently_closed": true,
+            "place_id": "ChIJn5LwXqoVrjsRl5pAiOkmbFY",
+            "plus_code": {
+                "compound_code": "WJF9+Q5 BTM Layout, Bengaluru, Karnataka",
+                "global_code": "7J4VWJF9+Q5"
+            },
+            "rating": 0,
+            "reference": "ChIJn5LwXqoVrjsRl5pAiOkmbFY",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Inside Bannerughatta Biological Park, Bannerughatta, Bengaluru, Karnataka 560083, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.7960545,
+                    "lng": 77.5764202
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.7996878,
+                        "lng": 77.57779457989271
+                    },
+                    "southwest": {
+                        "lat": 12.7948434,
+                        "lng": 77.57509492010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "524a7afb9b1184e816182b86ed733edec7cba3d3",
+            "name": "Butterfly Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117830022129937883819\">Krishanu Dey</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAffLrZqsj5_ZPbbtEk8vL8cbXjw56XI8SI-7iLDti1BISDsViMD2D0AJyOw2UtfhFy8YcbH9P169AH_Yl7Q7Nk_XY_P9_sXnQE5ab-KfSETSsXXjlu7VfHbwgJcw99p0qEhDPeTGXK9X6wBqjvtQnTW2hGhRjGuJKt8hTY3yqtnq5ETCcgn_YNQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ3XmpYxpqrjsRjRZ78HKinFY",
+            "plus_code": {
+                "compound_code": "QHWG+CH Bannerughatta, Bengaluru, Karnataka",
+                "global_code": "7J4VQHWG+CH"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ3XmpYxpqrjsRjRZ78HKinFY",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7328
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9694813,
+                    "lng": 77.59495299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.97078577989272,
+                        "lng": 77.59608012989271
+                    },
+                    "southwest": {
+                        "lat": 12.96808612010728,
+                        "lng": 77.59338047010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a698b1b13a00e75a6a4b4da50b864dba7cabe30c",
+            "name": "Annual Cake Show",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100853049379486560094\">Kishore Raati</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFmW9WP9kP4kGDQKe03imn-jKj3-XcBdqDDXciZChOIcCUwkWUvOuQHorPobu16Ss5lTwCcdvdTrBiONUkH-KtQYl1EkADt2GYgevvq0b3XlfFDo7g-DZnl44rooUSp88EhAB4Twr0Df6eGX7PBXXYgwZGhTA3ALj8Cs7B8DaNJTEBQC9MyiR8A",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJSyrF63cWrjsRDQI_d4KAbyo",
+            "plus_code": {
+                "compound_code": "XH9V+QX Ashok Nagar, Bengaluru, Karnataka",
+                "global_code": "7J4VXH9V+QX"
+            },
+            "rating": 3.3,
+            "reference": "ChIJSyrF63cWrjsRDQI_d4KAbyo",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 647
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "22/1, Tank Bund Road, Brindavan Nagar, Bandappa Garden, Mathikere, Bengaluru, Karnataka 560054, India",
+            "geometry": {
+                "location": {
+                    "lat": 13.0339132,
+                    "lng": 77.5500089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.03965195,
+                        "lng": 77.55584085000001
+                    },
+                    "southwest": {
+                        "lat": 13.02960615,
+                        "lng": 77.54676184999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "3899c7ba980c9223f5c1929dceae081b36aaea33",
+            "name": "Jaya Prakash Narayana Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102146330914083108491\">Ring Berg</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtAY3H5MTcwOKnHatlqUXOO0v7HWQXGGFmoTEjxtIxDOdgKNGtsYe6aEJrEju7ltGUe4Gzu_HPLz3_pL-0e9eDl-FrtunZhE75N5LDXuJIkJ9_-yIVyKNsvl_NGVcFRJ4EhDlaBqK0svIJgj6CQqpI0qkGhR3heHknCxjYgtSe4b1h5TqFlQvqw",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJ-8Jcp109rjsRe0QXmcbU8Ic",
+            "plus_code": {
+                "compound_code": "2HM2+H2 Mathikere, Bengaluru, Karnataka",
+                "global_code": "7J5V2HM2+H2"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ-8Jcp109rjsRe0QXmcbU8Ic",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15378
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Seshadri Rd, Gandhi Nagar, Bengaluru, Karnataka 560009, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9782708,
+                    "lng": 77.5821579
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.97997057989272,
+                        "lng": 77.58375407989271
+                    },
+                    "southwest": {
+                        "lat": 12.97727092010728,
+                        "lng": 77.58105442010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "fb936083ee85a5330b8dc7e5487c76f376937861",
+            "name": "Freedom Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102933570816261225208\">Venkat Raj</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAV8ygEh24z_j5ASeW8cIiHDTXh-qK-UJ_FWr0impVVvTcq0LVbKOKPdkMYuoeDPJthIwFXv_UVDqlwcYA4ltecGL6obPdf3SluUnka0Tnh6f9lhAhv-8Gvcrno1yQiehEEhD8lq5m5C8zIa-rU5UzbccqGhSEFZOfKLvpf2cGp_IcddI0I_M5Tg",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJX5m7gw0WrjsRtuZKH4Cp8xY",
+            "plus_code": {
+                "compound_code": "XHHJ+8V Gandhi Nagar, Bengaluru, Karnataka",
+                "global_code": "7J4VXHHJ+8V"
+            },
+            "rating": 4.1,
+            "reference": "ChIJX5m7gw0WrjsRtuZKH4Cp8xY",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13110
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Kempegowda, Majestic, Bengaluru, Karnataka 560023, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9780576,
+                    "lng": 77.5700456
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.97949577989272,
+                        "lng": 77.57139412989272
+                    },
+                    "southwest": {
+                        "lat": 12.97679612010728,
+                        "lng": 77.56869447010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4ff325f551e368c71b4f05c08a3bc0e4548d7116",
+            "name": "Flag post",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1996,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104548967242982440199\">Geetha Pai</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA8aqUtzocOtfx9doLRHDR-As6x9mZ0SaG8MauN5dbuexxy0IGNUTLsD_tb66gU7vCNP_oPgyzN649KM5jBtzFwiFY335BIF1LGPbGcLxvK1i2RleJj45BLv8wiEmX1hzWEhAdd9t35_zHqHEF3GRHqSB6GhTLOCLqnfuc7q3QUASH5pq09f4FSw",
+                    "width": 3549
+                }
+            ],
+            "place_id": "ChIJmbuNyPUXrjsRK_YHjLdFFWo",
+            "plus_code": {
+                "compound_code": "XHHC+62 Majestic, Bengaluru, Karnataka",
+                "global_code": "7J4VXHHC+62"
+            },
+            "rating": 5,
+            "reference": "ChIJmbuNyPUXrjsRK_YHjLdFFWo",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "formatted_address": "Sankey Tank, Kodandarampura, Malleshwaram, Bengaluru, Karnataka 560080",
+            "geometry": {
+                "location": {
+                    "lat": 13.0092983,
+                    "lng": 77.5741212
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0123874,
+                        "lng": 77.5771075
+                    },
+                    "southwest": {
+                        "lat": 13.0076128,
+                        "lng": 77.5722287
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "8a0357c809322df23cc8b77636c8987bc9786f49",
+            "name": "Sankey Tank",
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113182748748470328447\">Pruthvi Shetty R</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYM1OuFZq9uNwXPQ-qDXJLFTfH5UaAx9WYygEDps48VEycuVl1kiNRv7qyZ2UerwBawYVMEreKJ6VLd-Gm9xYrjuvGLfriJVsxVOkyDqNrfdJo5tcy3yQ7dNkcRDxJHJ4EhA7aVyt9pufqTDXE4zz-TrIGhRMPaJyOGQMf8CsHtD_46GWExTOuw",
+                    "width": 4912
+                }
+            ],
+            "place_id": "ChIJzVAUlTIWrjsRJgrhXgyf-Gs",
+            "rating": 4.5,
+            "reference": "ChIJzVAUlTIWrjsRJgrhXgyf-Gs",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 1737
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nunegundlapalli, Ambedkar Veedhi, Sampangi Rama Nagara, Bengaluru, Karnataka 560001, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9751786,
+                    "lng": 77.593237
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.97648352989272,
+                        "lng": 77.59459857989272
+                    },
+                    "southwest": {
+                        "lat": 12.97378387010728,
+                        "lng": 77.59189892010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "81871a722990349085d42030f47c9d5d0480718e",
+            "name": "Statue Of Shri Chamarajendra Wadiyar IX",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117863290446433020618\">Jithin Scaria</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAIEtspTpq1HdbfJ7FlRbSzr115mcnTVSpesoRCVN-xSpL46Kp1gfHcWeyRVMfkfISuixOqxfkGwX8QdrkwOrG0jq5jdaq3JFuEmM6w3wpsyQk74ipzRGfI47iIVhiwYv9EhC_n0KR8qb9fJIsHahBmAroGhRdTC6DCdePgNhZwq9JIRcNH5oJ5w",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJvTH1YhMXrjsRiLkEzIS6NzA",
+            "plus_code": {
+                "compound_code": "XHGV+37 Bengaluru, Karnataka",
+                "global_code": "7J4VXHGV+37"
+            },
+            "rating": 4.7,
+            "reference": "ChIJvTH1YhMXrjsRiLkEzIS6NzA",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "West of Chord Road 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9879576,
+                    "lng": 77.5374662
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.98933782989272,
+                        "lng": 77.53881687989274
+                    },
+                    "southwest": {
+                        "lat": 12.98663817010728,
+                        "lng": 77.53611722010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c82d0226b1f4cec00ea9fb978d289f73ad30e667",
+            "name": "Trawellzone",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ2ZnlEYg9rjsR7I2tnvowJi0",
+            "plus_code": {
+                "compound_code": "XGQP+5X Basaveshwar Nagar, Bengaluru, Karnataka",
+                "global_code": "7J4VXGQP+5X"
+            },
+            "rating": 0,
+            "reference": "ChIJ2ZnlEYg9rjsR7I2tnvowJi0",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "No.1, Art Complex, Kumarakrupa Rd, near The Lalit Hotel, Kumara Park East, Bengaluru, Karnataka 560001, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9891667,
+                    "lng": 77.5805556
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.99040287989272,
+                        "lng": 77.58224217989273
+                    },
+                    "southwest": {
+                        "lat": 12.98770322010728,
+                        "lng": 77.57954252010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "60e0b25376f7bd8010f4fcd57cfdd5345be61e40",
+            "name": "Karnataka Chitrakala Parishath",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 355,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108667215775318447133\">Karnataka Chitrakala Parishath</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA47NSZgXulhAr3kXdghgAopjdkBTN13WTt-v9JYga8PNbyyRY0J1PA3VpjIjhv7rYNTLBU8qDhVWhB0KisUEDRsQ11ylgIpbdZpomIoi5d3qTBHrEpfV6nPA7UyFwGcbCEhAvmab7YA7d8b9G-WGFOLgIGhTN_C14IdmrsqlgDPKjCbfoKC0V8A",
+                    "width": 851
+                }
+            ],
+            "place_id": "ChIJzRxhID4WrjsRMW9WwS2aSzo",
+            "plus_code": {
+                "compound_code": "XHQJ+M6 Bengaluru, Karnataka",
+                "global_code": "7J4VXHQJ+M6"
+            },
+            "rating": 4.5,
+            "reference": "ChIJzRxhID4WrjsRMW9WwS2aSzo",
+            "types": [
+                "art_gallery",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11377
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bull Temple Rd, Basavanagudi, Bengaluru, Karnataka 560019, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9427052,
+                    "lng": 77.5694287
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.94419152989272,
+                        "lng": 77.57020475000002
+                    },
+                    "southwest": {
+                        "lat": 12.94149187010728,
+                        "lng": 77.56710054999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "28c7623e789eba6caba6a91ee42bb3e295a297b2",
+            "name": "Bugle Rock Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 332,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115457573295310782725\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZcnL4u-l8rRNqmDEz1XNQtrnJrL-x54K1JrKR7NZHwjC5R-PRyaB2WRKJCe37v6ZX3rNxZ5YtpO6doJhv_dIiieASzkrg3oWeuIFPXFwJQVnw0qo35w0LOQCzM2I6hCmEhCZtoNnJqOWrqt9aYA4zdE_GhS1JECO3JioymZOvvYAHYJnC7Un3w",
+                    "width": 443
+                }
+            ],
+            "place_id": "ChIJmwJpvowVrjsR0JVGQxxLHms",
+            "plus_code": {
+                "compound_code": "WHV9+3Q Basavanagudi, Bengaluru, Karnataka",
+                "global_code": "7J4VWHV9+3Q"
+            },
+            "rating": 4.4,
+            "reference": "ChIJmwJpvowVrjsR0JVGQxxLHms",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17192
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Ambedkar Veedhi, Sampangi Rama Nagara, Bengaluru, Karnataka, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9843536,
+                    "lng": 77.58854079999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.98569352989272,
+                        "lng": 77.5898274798927
+                    },
+                    "southwest": {
+                        "lat": 12.98299387010728,
+                        "lng": 77.58712782010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "27da17b16beaa8565a711b9541086b4948974f8e",
+            "name": "Statue Of Basavanna",
+            "permanently_closed": true,
+            "place_id": "ChIJp8_63PgXrjsRZx4noL5eJUk",
+            "plus_code": {
+                "compound_code": "XHMQ+PC Bengaluru, Karnataka",
+                "global_code": "7J4VXHMQ+PC"
+            },
+            "rating": 4,
+            "reference": "ChIJp8_63PgXrjsRZx4noL5eJUk",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Opp to Jawahar Lal Nehru Planetarium, Raj Bhawan Road, Bengaluru, Karnataka 560052, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9851177,
+                    "lng": 77.59159149999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.98614482989272,
+                        "lng": 77.59252337989271
+                    },
+                    "southwest": {
+                        "lat": 12.98344517010728,
+                        "lng": 77.58982372010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "eb2e81d8116838a2bf6d1403058836f799e05bdf",
+            "name": "Indira Gandhi Musical Fountain Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4618,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112784115222356568862\">Mateusz Wiszowaty</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtTO5LP1XieWyYD5c6WMn9wzk2lc-hYN2xV6ZeCNMGi8VU7kjrrqoGRkps6Bbc_D7H_Xc1pd1ou8QiPmRkChSdPHdasRo_J68nHQTBMQCcWIKuKkY0adEUFTyDOcWbNS8EhDtKjomicZKXlMJQIn484D5GhSd6FPcgl_mY2_GKv3SzRXcq7SBgg",
+                    "width": 3464
+                }
+            ],
+            "place_id": "ChIJ7ywPXWkWrjsROJGazHbfZhg",
+            "plus_code": {
+                "compound_code": "XHPR+2J Bengaluru, Karnataka",
+                "global_code": "7J4VXHPR+2J"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ7ywPXWkWrjsROJGazHbfZhg",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7345
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "175, Vinayaka Nagar, NGO Colony, Wilson Garden, Bengaluru, Karnataka 560027, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9507819,
+                    "lng": 77.5978192
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.95211502989272,
+                        "lng": 77.59915282989272
+                    },
+                    "southwest": {
+                        "lat": 12.94941537010728,
+                        "lng": 77.59645317010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e76ebc91cae87ce79710166deecf555ef16537e6",
+            "name": "Giant Kapok Tree",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116788424473765928029\">rishab katrela</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMAxjbwZFqS-rE8qXHnPj1LDlBYcQu5ScE5FT-AmewdgCyux68Y5U7LW2tbQHr9J2YbtKf8N-2Z7lXO3HvzGAXmg1zQQcewygI_TuExSBR9azGvsvubiVv9O_AU5opIjVEhBuzmn-fALrlW2V4RDtURg0GhTloftHGdYeHHh9xZ0Z11ghpQvVZQ",
+                    "width": 2176
+                }
+            ],
+            "place_id": "ChIJ_5fXyAoVrjsRu93n-_vpBRU",
+            "plus_code": {
+                "compound_code": "XH2X+84 Wilson Garden, Bengaluru, Karnataka",
+                "global_code": "7J4VXH2X+84"
+            },
+            "rating": 0,
+            "reference": "ChIJ_5fXyAoVrjsRu93n-_vpBRU",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sri T, Sankey Rd, High Grounds, Bengaluru, Karnataka 560001, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9848665,
+                    "lng": 77.5896341
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.98627117989272,
+                        "lng": 77.59117587989272
+                    },
+                    "southwest": {
+                        "lat": 12.98357152010728,
+                        "lng": 77.58847622010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "2dfdaa4df1810b58a7eb1207cd95e317f11b4047",
+            "name": "Jawaharlal Nehru Planetarium",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110468387540783963932\">Debabrata Ghosh</a>"
+                    ],
+                    "photo_reference": "CmRaAAAALPUsFuKOlDRA5ieYwi0zw9DdR9kH4FMBJJga-CcVw8QdGuJWzu7Kw5kQquVc9w12wlhKpkXdEAU4rHDHPDwEohzGvfvF0TbgSxJs9dhl68D1Qbr3zEanlwYAzFpR6KWOEhDSj9D0DjY6GUUchJttuidUGhStw7_faYoEW-3caV-DhH9VUlCC1w",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJH1ja7WsWrjsRNSg89ukafXU",
+            "plus_code": {
+                "compound_code": "XHMQ+WV Bengaluru, Karnataka",
+                "global_code": "7J4VXHMQ+WV"
+            },
+            "rating": 4.3,
+            "reference": "ChIJH1ja7WsWrjsRNSg89ukafXU",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1360
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7, 12th Cross Rd, Lakshminarayanapuram, Rajajinagar, Bengaluru, Karnataka 560021, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.9920759,
+                    "lng": 77.5612836
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.99345702989272,
+                        "lng": 77.56263692989272
+                    },
+                    "southwest": {
+                        "lat": 12.99075737010728,
+                        "lng": 77.55993727010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5340f1b4d2a8703abd91ecbdc37737247639f373",
+            "name": "Tourist Attraction",
+            "place_id": "ChIJVQkyUjAWrjsRrNoOviO9dAw",
+            "plus_code": {
+                "compound_code": "XHR6+RG Rajajinagar, Bengaluru, Karnataka",
+                "global_code": "7J4VXHR6+RG"
+            },
+            "rating": 0,
+            "reference": "ChIJVQkyUjAWrjsRrNoOviO9dAw",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        }
+    ],
+    "status": "OK"
+}

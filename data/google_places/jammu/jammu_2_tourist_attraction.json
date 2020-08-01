@@ -1,0 +1,937 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CrQDpQEAAO-R49jkVtRiGqCQj_zy6xz8C-lEB1XT47yb1-7ZPXrM39OrATxgWCb2Fzdp4_l0boE-ShC8ROzhO6LOKKsVGvFTJTvh9OAcz1Xn9BpQrykoOHb7DoIT7j2-v1zrhitRX1EIRgbJEI0ci_4f_IhkQ15Gspm_0cz6AF4SlUHV2uIKoXQT9CU1yyvnrIM1ihkpxrYXj5Hr_TlmlorgmzrBPn_X1yNcEKx96UTFlenVhA0ToyY3qKZSmgI9rt5hFt6HdEpxZQsWWmLzkUd4zTz_OwVK-sAs-MO6OpjGj9TSAjrn4omYjy_SnYzuih8yPk26809TQMOC9pxOkJkYlVMNrR2rt0oaJzJotxFyrE8GedMENa9k6zX20DV5NWRDHoxXIHuJBTysjvQb18ryrzYygEb4RC-Ed6IYKuLouB2v5O8Og6Yz31onUZcOJsQrVYrLkjQ-xye7XbRYKQ8N4m8XOHqV6t30LaJJZVGVbzDInhGfz6p_2x7c2fCn_Af0RSZaYQWSMaBjpLr5bereSpyA5qSpJMVCKDJeKoVAPbIcIzgcpKh5Xlgi_fIs6WbDOfIdLBIQKSJV4GMGfI1xegNWML_fPBoU8roTDN3t29HG3ldGUiXyMhvBOIU",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Bhavan, Katra, Jammu and Kashmir 182301",
+            "geometry": {
+                "location": {
+                    "lat": 33.0308295,
+                    "lng": 74.9490416
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.03229472989272,
+                        "lng": 74.95018442989273
+                    },
+                    "southwest": {
+                        "lat": 33.02959507010728,
+                        "lng": 74.94748477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "534857b745cd66d31ef126fa2538fda0520c0b4b",
+            "name": "Vaishno Devi",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108404926841429351308\">Sanjeev Mishra</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA3xhhftr40l4bMRqrAqVoRWO4nMsnzBBbBW60vgTEcH-XZBdxZJDRBul_duiHf0RYRqpuZIhoD0Mfr4jnTa2mbSOZtI9MOA9Tz5HYsj9LjPWnL7XKZBlzYVfzf7AvWqBEEhCV6Ux0UelPjShLl1h-FcUAGhQJQYonv2gKaO3mr_ok2xE6sY70GA",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJraqFaWt4HjkRkYEErxG2SqA",
+            "plus_code": {
+                "compound_code": "2WJX+8J Katra, Jammu and Kashmir",
+                "global_code": "8J5P2WJX+8J"
+            },
+            "rating": 4.6,
+            "reference": "ChIJraqFaWt4HjkRkYEErxG2SqA",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27652
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Daskal, Jammu and Kashmir 181201",
+            "geometry": {
+                "location": {
+                    "lat": 32.9175028,
+                    "lng": 74.73723919999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.91884682989272,
+                        "lng": 74.73861477989271
+                    },
+                    "southwest": {
+                        "lat": 32.91614717010728,
+                        "lng": 74.73591512010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cfac62f878a71d48fd238bfcffff05525962dfc5",
+            "name": "Tour and Travel",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105502611857023297121\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmuaIiwTqlCvgVehwkEbPfnk8heUHINz7H1oHszGOytdcuU75woUkcqKMWOMWRH9aqoHJRluzP5KaLlZ9T19-8aRdLkxs348QduUh1SsI-h9-Em5CUxXT92XkHebPIbZ0EhCiVbPwsnRbkJ__cauU_D_wGhS_YgU6S-I621Oac9kpbWoysCxA4g",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJI9ciDU5jHjkRi4Ux6ZJEOOo",
+            "plus_code": {
+                "compound_code": "WP9P+2V Ambaran, Jammu and Kashmir",
+                "global_code": "8J4PWP9P+2V"
+            },
+            "rating": 4.1,
+            "reference": "ChIJI9ciDU5jHjkRi4Ux6ZJEOOo",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "formatted_address": "Dera Baba Bandha 181201",
+            "geometry": {
+                "location": {
+                    "lat": 32.9878624,
+                    "lng": 74.78929509999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.00284,
+                        "lng": 74.80005990000001
+                    },
+                    "southwest": {
+                        "lat": 32.97966,
+                        "lng": 74.7765299
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "da29f5932aba1d90eb580ef25473725f9fca7989",
+            "name": "Dera Baba Bandha",
+            "place_id": "ChIJPXU_O9Z6HjkRabj49NJlo7E",
+            "reference": "ChIJPXU_O9Z6HjkRabj49NJlo7E",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Hotel Girnar Palace, Railway, Katra Station Rd, Katra, Jammu and Kashmir 182301",
+            "geometry": {
+                "location": {
+                    "lat": 32.9849901,
+                    "lng": 74.9344802
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98633187989272,
+                        "lng": 74.93609592989272
+                    },
+                    "southwest": {
+                        "lat": 32.98363222010728,
+                        "lng": 74.93339627010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "464a81d65c0513a56b8b949ccf19012f20682382",
+            "name": "Vaishno Devi Helicopter Booking/Best Tour And Travel Jammu and kashmir",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 300,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106953565668090814912\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkz7dK5VdbuaDB6xJom0-q05C5ns-bW880gotUM6T426I4UHL0Zu-lpbYvG6Q4ppgD_PljT7yGtFTFASUw4iFyKtK-ZoWZc82dRMb_yyCkP-e8A-wv-JShcLr_vraxRaLEhDGntTTks59Tc_jTwq-DwMRGhTrbj4ahj8OMmwSYqApIrScV504-w",
+                    "width": 535
+                }
+            ],
+            "place_id": "ChIJz4vKtSl5HjkR2nVmY1g53aE",
+            "plus_code": {
+                "compound_code": "XWMM+XQ Katra, Jammu and Kashmir",
+                "global_code": "8J4PXWMM+XQ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJz4vKtSl5HjkR2nVmY1g53aE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "car_dealer",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 39
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mughal Road, Forest Block, Jammu and Kashmir 185102",
+            "geometry": {
+                "location": {
+                    "lat": 33.62992360000001,
+                    "lng": 74.5200243
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.63128582989273,
+                        "lng": 74.52137502989272
+                    },
+                    "southwest": {
+                        "lat": 33.62858617010728,
+                        "lng": 74.51867537010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "52ad77844c6797ab6fa2daf4c4039aac4657b239",
+            "name": "Peer Ki Gali",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114259066147415779468\">Azharul Haque</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASEIlCfLltcoRIDIU9exuYqn3nA_yYkYdRXjqPWprM2AHxYa2UmqXqghAtmIaDjN4ywnwucnrPz7WzR5mDrZ6-EtWaPI7SCLajFtfzKtqpqdgpEXhaWpGLdbgjEFk0gR9EhCE-Cl1BETSgvzQE7AnijjkGhTeKY_6fHbzFCIk_JK_0cn-SBpeRQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJb4eLuhTc4TgRTer2AQm4lKs",
+            "plus_code": {
+                "compound_code": "JGHC+X2 Forest Block, Jammu and Kashmir",
+                "global_code": "8J5PJGHC+X2"
+            },
+            "rating": 4.5,
+            "reference": "ChIJb4eLuhTc4TgRTer2AQm4lKs",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 885
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "arnas, reasi, Jammu and Kashmir 182313",
+            "geometry": {
+                "location": {
+                    "lat": 33.184524,
+                    "lng": 74.824394
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.18569527989272,
+                        "lng": 74.82606642989272
+                    },
+                    "southwest": {
+                        "lat": 33.18299562010728,
+                        "lng": 74.82336677010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "87d5c5acabd6c6303ef2f15b8d0b47ef013a2ae0",
+            "name": "ARNAS/velly/chennab river side",
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109230021616535523380\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMbbAjDdNaOj58n29UsGdEfAf17ztPRhP-mWUjXk1vZLVsy1wmRIzSfveTzbxnFQtCDeK-Xvk4X-5l_wYtkNwrXCtZORxozNvS0lVj9szH-HFQtNFW20_NPIuHuR9lFRVEhB4W8T1qhhfBmFSjBa8KuxlGhTCz_vjF-m0hee5rqRFQynvzFqm3g",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJ50GF9nNzHjkRy-C7zmLvqd0",
+            "plus_code": {
+                "compound_code": "5RMF+RQ Arnas, Jammu and Kashmir",
+                "global_code": "8J5P5RMF+RQ"
+            },
+            "rating": 0,
+            "reference": "ChIJ50GF9nNzHjkRy-C7zmLvqd0",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Budgam Jammu and Kashmir, 185102",
+            "geometry": {
+                "location": {
+                    "lat": 33.8509902,
+                    "lng": 74.5635428
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.85231907989272,
+                        "lng": 74.56541642989272
+                    },
+                    "southwest": {
+                        "lat": 33.84961942010727,
+                        "lng": 74.56271677010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8eb6baccd989b83d81ef78abdbd727595c4dc32e",
+            "name": "Doodhpathri",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114043036364145670179\">Kashmiri Songs</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAumeeKOxW9W8H9dctG3NAG1I2ASk8SbdS8QxiOWePLrFqKOZJwqevvWeexFfehXAthR7iXnPzNynj3-OrR1RMotQ9siA1J46vrq2TQEuCU9mRXCRLqEbQR_GyewXBaVRTEhCDUVOmKQUb2dgdgxDqsGiiGhQ6ffuAHsVNzJAQarpVnKoe7-LGDw",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ-Z4qeA7A4TgRIDfaHav0TuM",
+            "plus_code": {
+                "compound_code": "VH27+9C Forest Block, Jammu and Kashmir",
+                "global_code": "8J5PVH27+9C"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ-Z4qeA7A4TgRIDfaHav0TuM",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1254
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "NH 1B, Daksum, Jammu and Kashmir 192202",
+            "geometry": {
+                "location": {
+                    "lat": 33.5811029,
+                    "lng": 75.5102349
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58241917989272,
+                        "lng": 75.51164447989272
+                    },
+                    "southwest": {
+                        "lat": 33.57971952010728,
+                        "lng": 75.50894482010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3150b9d449b24fa46b47c02e4ea62267cdeee166",
+            "name": "Sinthan Top",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104167527548651865862\">Mohammad Saleem Mir</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAetXILO3JtkPa4d4emlZbc9TinPfq7fkbS7ABdqiL2KzO51OFs09g779Q1_btXnw1wjJMa8kz4h931z0j7qo8XY_KBFxDwJvtVJgWXVviHpLjxJDWm5z4i-FTnDc9IbnvEhAlusr9XUxYbMGXjnCaxIEmGhTG5BR7ejKv31YlmAm7dRm7d69HlQ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJoTHqLbyIHTkRL0Glf4jD2xM",
+            "plus_code": {
+                "compound_code": "HGJ6+C3 Chhatroo, Jammu and Kashmir",
+                "global_code": "8J5QHGJ6+C3"
+            },
+            "rating": 4.7,
+            "reference": "ChIJoTHqLbyIHTkRL0Glf4jD2xM",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 546
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jammu and Kashmir 182221",
+            "geometry": {
+                "location": {
+                    "lat": 33.0280591,
+                    "lng": 75.7727051
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.02940777989271,
+                        "lng": 75.77404467989273
+                    },
+                    "southwest": {
+                        "lat": 33.02670812010727,
+                        "lng": 75.77134502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ff34409b8ffed9b1088a1f32e4851a178931ea98",
+            "name": "Jai Ghati",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105947699262107306018\">Rohan Sharma</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKhO7oo-OBCrShXAReaFhpbV0Omk092lHAWY_hpF416uWRmn9Nofsuaf2maiIlhGQcz_N_cowcfk8GVOY6pNFSNKPmHiaue-mbcq_XibHkeMohvRvn21rXjp-pn67Bg-iEhCDotPp720WaqENxd7y1syIGhQxDdruddZTuCpZtGL29JNZD9kHCg",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ43xFZQ8BHTkR22LbDAGQnEA",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "8J5Q2QHF+63"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ43xFZQ8BHTkR22LbDAGQnEA",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 260
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Gulmarg, Jammu and Kashmir 193403",
+            "geometry": {
+                "location": {
+                    "lat": 34.0326439,
+                    "lng": 74.36694210000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.03399372989271,
+                        "lng": 74.36829192989273
+                    },
+                    "southwest": {
+                        "lat": 34.03129407010727,
+                        "lng": 74.36559227010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8b7d649935ee6fcd9e385da0a773c96f971f0096",
+            "name": "Kongdoori Phase 1",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109942800729146674956\">Harshal Gandhi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAnTkoy_qEl8f9hDEVD5U6VCMw5reIMRbV3mkowDWL4aeRN1nyEE0u1gyZqsq4_XU1bvj6X5Li2QgQhVltMtWsJR-8cRRBd_HExVa22ieITzkQZaySd8bDX7I6L_QGx-hfEhBTyoIHcAC4MDXjKkjba-FeGhQWb7D02LmI9DeVCHK8Qy1u1ah8PA",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJEUTUEdav4TgRUpKYKcGaHCo",
+            "plus_code": {
+                "compound_code": "29M8+3Q Gulmarg, Jammu and Kashmir",
+                "global_code": "8J6P29M8+3Q"
+            },
+            "rating": 4.6,
+            "reference": "ChIJEUTUEdav4TgRUpKYKcGaHCo",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1981
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Buzla, Khari, Jammu and Kashmir 182145",
+            "geometry": {
+                "location": {
+                    "lat": 33.4158561,
+                    "lng": 75.1036433
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.41672515,
+                        "lng": 75.10531122989272
+                    },
+                    "southwest": {
+                        "lat": 33.41324895,
+                        "lng": 75.10261157010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a5302143e5abc9a89f3a8ed1e7a94b14e5636039",
+            "name": "Hanfi Manzil",
+            "photos": [
+                {
+                    "height": 581,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111427979507527992516\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9Gt8poYUquCbLxBhpRx2QUOXCj0cPk3UHw6rSwjLOiIArpOf43fZaRvBs9LJ76W9aBc8nh8BVPPjo964zHYyMruC195gr0RhQUr8tlekd27tfl0sLphZR_-3JpWTO_W4EhCian7tU6Eh01ExqneTDFeoGhRtJeYqorhZKP0O7sRVxlf4XO3IaA",
+                    "width": 581
+                }
+            ],
+            "place_id": "ChIJR3tX8XvlHTkR8NslFMLXBms",
+            "plus_code": {
+                "compound_code": "C483+8F Khari, Jammu and Kashmir",
+                "global_code": "8J5QC483+8F"
+            },
+            "rating": 5,
+            "reference": "ChIJR3tX8XvlHTkR8NslFMLXBms",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "formatted_address": "Jammu and Kashmir",
+            "geometry": {
+                "location": {
+                    "lat": 33.778175,
+                    "lng": 76.57617139999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.50542739999999,
+                        "lng": 79.3058506
+                    },
+                    "southwest": {
+                        "lat": 32.2922694,
+                        "lng": 73.750507
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "333b5df94f56a662aeafec47c3c96321f38ea000",
+            "name": "Jammu and Kashmir",
+            "photos": [
+                {
+                    "height": 481,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100624026137237560675\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA6tefumi49eA4eJKVBnRjcbQHZD_B6WuOovUwQcEHdBH1GzwPdD-ORr20lll7NsafsDDzz2MvrG4YjtPCQ_DuCNrlPDNY--o9elSwX7W2zdKwgciA5LG_GAXC1B_0Ek67EhA9P5xV43yeYJEeydkNaRNPGhRLGJ8eD2oCqZdy_c_CZ9pEOLVX7Q",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJnaj_mSQJ4TgR8eeXRm16VgY",
+            "reference": "ChIJnaj_mSQJ4TgR8eeXRm16VgY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mughal Road, Chandimarh, Jammu and Kashmir 185102",
+            "geometry": {
+                "location": {
+                    "lat": 33.6085479,
+                    "lng": 74.4181466
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.61022507989272,
+                        "lng": 74.41937362989272
+                    },
+                    "southwest": {
+                        "lat": 33.60752542010728,
+                        "lng": 74.41667397010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "41f0a3b6ec52663b68cf34440fd4a0c9b59adbec",
+            "name": "Noori Chamb",
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104324234072890246430\">Faizan Kabir</a>"
+                    ],
+                    "photo_reference": "CmRZAAAA8mYoYXRsIKZBzIj0cPBigmLDbMlsl4YfuUIngmgwbfdk8EjKg9SRSGT6lpKKSVdqEk_UQiI-N-Te9Gjcv-WWvWFWtJKnxInka1us91-0tVe9UiP24ZYmPP1T_gAQEqFfEhDPWQl-HYcIc_m_BukRJkCXGhSkVnIyZm8ZUIkmpCUXKbIHIiBViQ",
+                    "width": 771
+                }
+            ],
+            "place_id": "ChIJMViHOhva4TgRcmhQXLeDq9Y",
+            "plus_code": {
+                "compound_code": "JC59+C7 Chandimarh, Jammu and Kashmir",
+                "global_code": "8J5PJC59+C7"
+            },
+            "rating": 4.4,
+            "reference": "ChIJMViHOhva4TgRcmhQXLeDq9Y",
+            "types": [
+                "tourist_attraction",
+                "natural_feature",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 177
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Gulmarg, Jammu and Kashmir 193403",
+            "geometry": {
+                "location": {
+                    "lat": 34.0475611,
+                    "lng": 74.38535639999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.04904132989272,
+                        "lng": 74.38675632989272
+                    },
+                    "southwest": {
+                        "lat": 34.04634167010727,
+                        "lng": 74.38405667010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2b2a38f0a150fe0c0a03e0ff3fe4dc27a11ea5fe",
+            "name": "Khilanmarg",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117421529534523283941\">kunchapu govardhan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAuX8EOf21eUxuofgCh6Sueln8HjF2Adx4HWlSxz-NJse42vniWJTi-ySieo_DybBD8rIC67SwOLi5vu6LKRmks_RtzPMSf0hWuBUh0ca3MQ8Qw8DM8Wtjl-q2rCs1fGvFEhAAveMREsTTLTkmaGChu5KmGhRVJ4BbBhyleZF2-Xnn7pYxaIb4eQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJjXYlC-mv4TgRm4IMGhrGuuQ",
+            "plus_code": {
+                "compound_code": "29XP+24 Gulmarg, Jammu and Kashmir",
+                "global_code": "8J6P29XP+24"
+            },
+            "rating": 4.6,
+            "reference": "ChIJjXYlC-mv4TgRm4IMGhrGuuQ",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 321
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Katra, Reasi, Jammu and Kashmir 182320",
+            "geometry": {
+                "location": {
+                    "lat": 32.9914963,
+                    "lng": 74.93181729999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.99284782989272,
+                        "lng": 74.93316897989271
+                    },
+                    "southwest": {
+                        "lat": 32.99014817010728,
+                        "lng": 74.93046932010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "6ba9978a61546c1afed4c20b2bc0f1267cdee524",
+            "name": "JKTDC Hotel Saraswati (Tourist Bungalow Katra)",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110867275230949133422\">Vaibhav Bhange</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAuZUrI9BvIJlV7xmCvaAK9s3hIwkcNkUj4aUB7v8BOicm8DULsgghRGtPsbyPuUr03ASI-TjAq7ELjEgBEN3cr--DWrSHdAIC1HHWJwWA_CV2k6Vt99yQnvIGEfWTlecDEhAd-MeE_Zf1vPn93D242A64GhRFNHNBbuzfYdlieIUcRJiIcggHrw",
+                    "width": 2304
+                }
+            ],
+            "place_id": "ChIJ7YecCOZ4HjkRXtv2p55UpJo",
+            "plus_code": {
+                "compound_code": "XWRJ+HP Reasi, Jammu and Kashmir",
+                "global_code": "8J4PXWRJ+HP"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ7YecCOZ4HjkRXtv2p55UpJo",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 62
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Railway Rd, Katra, Jammu and Kashmir 182301",
+            "geometry": {
+                "location": {
+                    "lat": 32.985639,
+                    "lng": 74.9382905
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98701577989272,
+                        "lng": 74.9396255798927
+                    },
+                    "southwest": {
+                        "lat": 32.98431612010728,
+                        "lng": 74.93692592010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "870744adc2b4e0b0665614c132b02e96e935483d",
+            "name": "Lemon Tree Hotel, Katra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 433,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100188092200668620491\">Lemon Tree Hotel Katra</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZClY-1HZ1hR2wqc2nJnfu-W4t1Y1PtaNwvez53MM3hyNfJI13KbTCacwOUuC8H0bg-7M13_eD9SA7OP6T_HqzuKXz2i0VB82MDVRpfcwHLc4Qmvzv0cke-elrodH87CfEhBoiOZ5DVBx3t1drPMKIi7BGhQ1KQo25j011dnHOkcEEyi8PxC1Jg",
+                    "width": 680
+                }
+            ],
+            "place_id": "ChIJD5Yw7ud4HjkR1sslYLaxfEc",
+            "plus_code": {
+                "compound_code": "XWPQ+78 Katra, Jammu and Kashmir",
+                "global_code": "8J4PXWPQ+78"
+            },
+            "rating": 4.2,
+            "reference": "ChIJD5Yw7ud4HjkR1sslYLaxfEc",
+            "types": [
+                "spa",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1324
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Nohata, Srinagar, Jammu and Kashmir 190003",
+            "geometry": {
+                "location": {
+                    "lat": 34.1055083,
+                    "lng": 74.8170877
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.10685812989271,
+                        "lng": 74.81843752989273
+                    },
+                    "southwest": {
+                        "lat": 34.10415847010727,
+                        "lng": 74.81573787010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cf2d14faf2dffccef8181fffe59a28415b797bf4",
+            "name": "Hari Parbat",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 286,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114096235368368225529\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4LgqC2AITkpNpxDooKSnd2sk1huN0U13jsktnxggFCXsXQfTMJXaOB6djmEKfmaaTuupcQFLE1xZdJ9Gb-O2zTpNKK4KgJmN6q2XEfjBI4wBgr-9NSmFWrg2ixJiZOfhEhBUTczPUDkzqBWto1wtNnIkGhRVJbpFqy0fRdErzEEXCeUNJDDhiw",
+                    "width": 468
+                }
+            ],
+            "place_id": "ChIJvS1hb3KF4TgRtv8DBW9RsTo",
+            "plus_code": {
+                "compound_code": "4R48+6R Nohata, Kashmir Golf Course, Srinagar, Jammu and Kashmir",
+                "global_code": "8J6P4R48+6R"
+            },
+            "rating": 4.3,
+            "reference": "ChIJvS1hb3KF4TgRtv8DBW9RsTo",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1682
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Boulverd Road, Ghat No :9, Pinegrove-Lhasa Ln, Srinagar, Jammu and Kashmir 190001",
+            "geometry": {
+                "location": {
+                    "lat": 34.0844317,
+                    "lng": 74.8389498
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.08578237989271,
+                        "lng": 74.84024222989272
+                    },
+                    "southwest": {
+                        "lat": 34.08308272010727,
+                        "lng": 74.83754257010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ad195ede81fad9fcdada81b807fe647f9a6d1b08",
+            "name": "Srinagar Tourism",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 312,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109785258006273068160\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWFJzWm7XBQ3Mr5y81lnCmwFCVCI1nfSWz8q_vekdYGQKlKks4_K-8a9A-AzrmP80wNVp7-zSqi4G4p8n9ExRQVp4pxYf9bLvSaHWJZqRgs_E_-XcBSkPQxGVU5RHy5ynEhAXSc7RbMTNxksEvDPYeP6fGhQOFMVuAVz7fIvKKZK1AuF22e6ESw",
+                    "width": 472
+                }
+            ],
+            "place_id": "ChIJq6qqqlqP4TgRgNhcSpEL7Xo",
+            "plus_code": {
+                "compound_code": "3RMQ+QH Srinagar, Jammu and Kashmir",
+                "global_code": "8J6P3RMQ+QH"
+            },
+            "rating": 4.9,
+            "reference": "ChIJq6qqqlqP4TgRgNhcSpEL7Xo",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 190
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Boulevard Rd, Karapura, Rainawari, Srinagar, Jammu and Kashmir 190003",
+            "geometry": {
+                "location": {
+                    "lat": 34.0907659,
+                    "lng": 74.83969429999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.09176487989272,
+                        "lng": 74.8414193
+                    },
+                    "southwest": {
+                        "lat": 34.08906522010727,
+                        "lng": 74.83451929999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c98c643d2453bbf4dbf43a7bf86d817c8adf1b52",
+            "name": "Dal Lake",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112124034482621162259\">Maulik Gupta</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAE4vu5TXMHLjyMh31YnfBxA_Ev2db5-Puul6Al6KrN_kwJonC7VRtIm6W3oA_HcNwKnsCfYnOusuWaK33AEmDygTZE6FeQlHPgV0bSCukuzAX1iETjJlJXQ61KJacNC_kEhBByBcnoJhPuGn8wQQtaOKmGhSh7CPycys03v1kNbO7Y3KB4t4Gyw",
+                    "width": 1227
+                }
+            ],
+            "place_id": "ChIJm264AoiF4TgRpoC7qqBjOdc",
+            "plus_code": {
+                "compound_code": "3RRQ+8V Rainawari, Srinagar, Jammu and Kashmir",
+                "global_code": "8J6P3RRQ+8V"
+            },
+            "rating": 4.6,
+            "reference": "ChIJm264AoiF4TgRpoC7qqBjOdc",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 976
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Nowgam Bypass Opp Ellaqai Dehati Bank Chacha Gani Complex, Srinagar, Jammu and Kashmir 190001",
+            "geometry": {
+                "location": {
+                    "lat": 34.0262062,
+                    "lng": 74.82439389999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.02776852989272,
+                        "lng": 74.82560417989271
+                    },
+                    "southwest": {
+                        "lat": 34.02506887010728,
+                        "lng": 74.82290452010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e2787e876b13d5c7267b0e8f4ff90a46e4cefb2d",
+            "name": "Trip To Trip",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102200785032773645203\">Kaene Peter</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxTQbk0vVEaxKI5uJfSFlZsn8QhkHqL6bl-Qhy8bEqtq5l2f9arP9pTg1vt1cyv0cguyBEcwHwghiEoAfe6nHZ_nyYrNHRqM0n7E9ODaulYrgC8FQZyPW19uBWDrSmrjSEhCiyjn2FNzaqFcoA3IUA9ogGhQua4Am3n0DcIaWpDKLecTO-FLiRg",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJVVJ_9B2P4TgRDAyVAZMNxTs",
+            "plus_code": {
+                "compound_code": "2RGF+FQ Srinagar, Jammu and Kashmir",
+                "global_code": "8J6P2RGF+FQ"
+            },
+            "rating": 0,
+            "reference": "ChIJVVJ_9B2P4TgRDAyVAZMNxTs",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        }
+    ],
+    "status": "OK"
+}

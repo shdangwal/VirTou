@@ -1,0 +1,2942 @@
+<html>
+<head>
+</head>
+<!-- Header -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white navbar-primary">
+<div class="container">
+<a class="navbar-brand" href="/">
+<img alt="Holidify" src="/res/images/logo.png"/>
+</a>
+<form class="form-inline my-2 my-lg-0 position-relative">
+<span class="twitter-typeahead" style="position: relative; display: inline-block;"><input aria-label="Search" autocomplete="off" class="form-control hf-searchbar tt-hint" dir="ltr" readonly="" spellcheck="false" style="position: absolute; top: 0px; left: 0px; border-color: transparent; box-shadow: none; opacity: 1; background: none 0% 0% / auto repeat scroll padding-box padding-box rgb(255, 255, 255);" tabindex="-1" type="search"/><input aria-label="Search" autocomplete="off" class="form-control hf-searchbar tt-input" dir="auto" id="header-autocomplete" placeholder="Search for places to visit" spellcheck="false" style="position: relative; vertical-align: top; background-color: transparent;" type="search"/><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: manrope, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: 0px; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><div class="tt-menu" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none;"><div class="tt-dataset tt-dataset-autocompleteResults"></div></div></span>
+<svg class="icon-search icon-svg">
+<use xlink:href="/res/images/sprite-v1/sprite-web.svg#img-search"></use>
+</svg>
+<div class="loading" style="display: none"> <div class="loading-wheel"> </div> </div>
+</form>
+<button class="navbar-toggler" onclick="openNav()" type="button"> 
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse">
+<ul class="navbar-nav nav ml-auto">
+<!-- <ul class="navbar-nav nav"> -->
+<!-- <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle px-2" href="#"> Explore</a>
+            <ul class="dropdown-menu">
+              <a href="/places/singapore/sightseeing-and-things-to-do.html">Singapore</a>
+              <a href="/country/uae/places-to-visit.html">UAE</a>
+              <a href="/country/oman/places-to-visit.html">Oman</a> 
+              <a href="/country/thailand/places-to-visit.html">Thailand</a> 
+              <a href="/country/nepal/places-to-visit.html">Nepal</a> 
+              <a href="/country/vietnam/places-to-visit.html">Vietnam</a> 
+              <a href="/places/seychelles/sightseeing-and-things-to-do.html">Seychelles</a> 
+              <a href="/places/mauritius/sightseeing-and-things-to-do.html">Mauritius </a> 
+              <a href="/country/india/places-to-visit.html">India</a> 
+            </ul>
+          </li> -->
+<li class="nav-item">
+<a class="nav-link px-2" href="/collections/"> Collections</a>
+</li>
+<!-- <li class="nav-item">
+          <a class="nav-link px-2" href="/packages"> Packages </a>
+        </li> -->
+<!-- <li class="nav-item">
+          <a class="nav-link px-2" href="/hotels"> Hotels </a>
+        </li> -->
+<li class="nav-item">
+<a class="nav-link px-2" href="/explore/"> Destinations </a>
+</li>
+<li class="nav-item"> <a class="nav-link nav-login" data-target="#preloginModal" data-toggle="modal" href="#" onclick='trackGAEvent("LoginTracking","Header_Login", "PageTop")'>Log in/Sign up</a> </li>
+</ul>
+</div>
+</div>
+<div class="translucent-background d-lg-none" style="display: none;"> </div>
+<div class="sidenav d-lg-none" id="sideNav">
+<a class="close-btn" href="#" onclick="closeNav()">×</a>
+<div class="pt-3">
+<div class="hamburger-div text-center">
+<a class="navbar-brand" href="/"> <img alt="Holidify" class="large" src="/res/images/logo.png"/> </a>
+</div>
+<div class="hamburger-div"><a onclick='openLink("/")'>Home</a></div>
+<div class="hamburger-div">
+<span onclick="toggleSideNav(this)"> Explore <span class="arrow-down"> </span> </span>
+<div class="hamburger-sub-div-container">
+<div class="hamburger-sub-div">
+<span onclick="toggleSideNav(this)"> View Weekend Getaways <span class="arrow-down"> </span> </span>
+<div class="hamburger-sub-div-container">
+<div class="hamburger-sub-div"> <a href="/weekend-getaways/from-delhi.html">Places Near Delhi</a> </div>
+<div class="hamburger-sub-div"> <a href="/weekend-getaways/from-mumbai.html">Places Near Mumbai</a> </div>
+<div class="hamburger-sub-div"> <a href="/weekend-getaways/from-bangalore.html">Places Near Bangalore</a> </div>
+<div class="hamburger-sub-div"> <a href="/weekend-getaways/from-kolkata.html">Places Near Kolkata</a> </div>
+<div class="hamburger-sub-div"> <a href="/weekend-getaways/from-chennai.html">Places Near Chennai</a> </div>
+<div class="hamburger-sub-div"> <a href="/weekend-getaways/from-hyderabad.html">Places Near Hyderabad</a> </div>
+<div class="hamburger-sub-div"> <a href="/weekend-getaways/from-ahmedabad.html">Places Near Ahmedabad</a> </div>
+<div class="hamburger-sub-div"> <a href="/weekend-getaways/from-pune.html">Places Near Pune</a> </div>
+</div>
+</div>
+<div class="hamburger-sub-div"> <a href="/places/singapore/sightseeing-and-things-to-do.html">Singapore</a> </div>
+<div class="hamburger-sub-div"> <a href="/country/uae/places-to-visit.html">UAE</a> </div>
+<div class="hamburger-sub-div"> <a href="/country/oman/places-to-visit.html">Oman</a> </div>
+<div class="hamburger-sub-div"> <a href="/country/thailand/places-to-visit.html">Thailand</a> </div>
+<div class="hamburger-sub-div"> <a href="/country/nepal/places-to-visit.html">Nepal</a> </div>
+<div class="hamburger-sub-div"> <a href="/country/vietnam/places-to-visit.html">Vietnam</a> </div>
+<div class="hamburger-sub-div"> <a href="/places/seychelles/sightseeing-and-things-to-do.html">Seychelles</a> </div>
+<div class="hamburger-sub-div"> <a href="/places/mauritius/sightseeing-and-things-to-do.html">Mauritius </a> </div>
+<div class="hamburger-sub-div"> <a href="/country/india/places-to-visit.html">India</a> </div>
+</div>
+</div>
+</div>
+<div class="hamburger-div">
+<a onclick='openLink("/collections/")'>
+            View All Collections
+          </a>
+</div>
+<div class="hamburger-div">
+<a onclick='openLink("/packages/")'>
+<span class="spriteMisc packageIcons"></span> Packages
+          </a>
+</div>
+<div class="hamburger-div">
+<a onclick='openLink("/hotels/")'>
+<span class="spriteMisc hotel"></span> Hotels
+          </a>
+</div>
+<div class="hamburger-div">
+<a onclick='openLink("/write-for-us/")'>
+            Write For Us!
+          </a>
+</div>
+<div class="hamburger-div">
+<a data-target="#preloginModal" data-toggle="modal" onclick='trackGAEvent("LoginTracking","Header_Login_Mobile", "Hamburger")'>
+              Log in/Sign up
+            </a>
+</div>
+<div class="hamburger-div">
+<a class="btn google-play-link" href="https://play.google.com/store/apps/details?id=com.holidify.andorid.app.holidify&amp;referrer=utm_source%3Ddesktop%26utm_medium%3Dmiddle_section%26utm_campaign%3Dlanding_page">
+<div class="spriteMisc google-play"></div> Download FREE Holidify app
+          </a>
+</div>
+<div class="sidenav-footer">
+<span class="clickable" onclick='openLink("http://facebook.com/holidify")'>
+<div class="spriteMisc facebook-logo"></div>
+</span>
+<span class="clickable" onclick='openLink("https://www.instagram.com/holidify/")'>
+<div class="spriteMisc instagram-logo"></div>
+</span>
+<span class="clickable" onclick='openLink("https://twitter.com/holidify")'>
+<div class="spriteMisc twitter-logo"></div>
+</span>
+<br/>
+<hr/>
+<p> © Holidify Pvt Ltd.- All Right Reserved </p>
+</div>
+</div>
+</nav>
+<nav class="navbar nav-container navbar-secondary sticky-top">
+<div class="container p-mobile-0">
+<ul class="nav">
+<li class="first">
+<a href="/places/goa/" title="Goa Tourism">
+        
+         Goa 
+      </a>
+</li>
+<li class="dropdown selected">
+<a class="nav-link dropdown-toggle" href="/places/goa/sightseeing-and-things-to-do.html">Places to visit <span class="arrow-down hidden-md"> </span> </a>
+<ul class="dropdown-menu">
+<a href="/places/goa/calangute-beach-sightseeing-6227.html" title="Calangute Beach"> 1. Calangute Beach </a>
+<a href="/places/goa/basilica-of-bom-jesus-sightseeing-1840.html" title="Basilica of Bom Jesus"> 2. Basilica of Bom Jesus </a>
+<a href="/places/goa/water-sports-in-goa-sightseeing-1869.html" title="Water Sports in Goa"> 3. Water Sports in Goa </a>
+<a href="/places/goa/fort-aguada-sightseeing-1856.html" title="Fort Aguada"> 4. Fort Aguada </a>
+<a href="/places/goa/baga-beach-sightseeing-6226.html" title="Baga Beach"> 5. Baga Beach </a>
+<a href="/places/goa/cruise-in-goa-sightseeing-1851.html" title="Cruise in Goa"> 6. Cruise in Goa </a>
+<a href="#" onclick='openLink("/places/goa/sightseeing-and-things-to-do.html"); return false;' title="Tourist Places"> All Tourist Places </a>
+</ul>
+</li>
+<li class=""><a href="/places/goa/packages.html" onclick='trackPackageButtonClick("DestSecondaryHeader")' title="Goa Packages"> Packages</a></li>
+<li class=""><a href="/places/goa/tours.html" onclick='trackToursClick("DestSecondaryHeader")' title="Goa Activities"> Activities</a></li>
+<li class=""><a href="/places/goa/hotels-where-to-stay.html" onclick='trackHotelClick("DestSecondaryHeader")' title="Hotels in Goa">Hotels</a></li>
+<li class=""><a href="/places/goa/how-to-reach.html" title="How to reach Goa">How to Reach</a></li>
+<li class=""><a href="/places/goa/best-time-to-visit.html" title="Best time to visit Goa">Best Time To Visit</a></li>
+<li class=""><a href="/places/goa/map-view.html" title="Goa Tourist Map">Map</a></li>
+<li class=""><a href="/places/goa/photos.html" title="Photos of Goa">Photos</a></li>
+<li class=""><a href="/places/goa/restaurants-places-to-eat-local-cuisine.html" title="Restaurants in Goa">Food</a></li>
+</ul>
+</div>
+</nav>
+<div class="d-none">
+<input id="destPlaceCode" type="hidden" value="GOA"/>
+<input id="destName" type="hidden" value="Goa"/>
+<input id="destStateCode" type="hidden" value="GOA"/>
+<input id="destCountryCode" type="hidden" value="INDIA"/>
+<input id="destMonetized" type="hidden" value="1"/>
+<input data-package-image="https://www.holidify.com/images/bgImages/GOA.jpg" data-package-title="Goa Packages" id="packageModalInfo" type="hidden"/>
+</div>
+<div class="container">
+<div class="row no-gutters">
+<div class="col-lg-8 pr-lg-2">
+<div class="d-none">
+<script type="application/ld+json">
+            {
+                "@context":"http://schema.org",
+                "@type":"BreadcrumbList",
+                "itemListElement":[
+                    {"@type":"ListItem","position":"1","item":"https://www.holidify.com","name":"Home"},
+                    {"@type":"ListItem","position":"2","item":"https://www.holidify.com/country/india/","name":"India"},
+                     {"@type":"ListItem","position":"3","item":"https://www.holidify.com/state/goa/","name":"Goa"}, 
+                    
+                    {"@type":"ListItem","position":"4","item":"https://www.holidify.com/places/goa/","name":"Goa"}
+                ]
+            }
+    </script>
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "TouristAttraction",
+        "name": "Goa",
+        "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.5", 
+            "ratingCount": "601", "bestRating":"5.0", "worstRating":"1.0"}
+    }
+    </script>
+</div>
+<div class="row no-gutters mb-4 destination-atf destination-atf-small">
+<div class="col-12 col-md-5 left">
+<div class="atf-cover-image" onclick='openLink("/places/goa/photos.html")' style="background-image: url('https://www.holidify.com/images/bgImages/GOA.jpg');">
+<div class="more-images">
+<a href="/places/goa/photos.html">
+<img alt="goa photos" class="lazy" data-original="https://www.holidify.com/images/tooltipImagesSmall/GOA.jpg" src="https://www.holidify.com/images/tooltipImagesSmall/GOA.jpg" style="display: inline;"/>
+<img alt="goa photos" class="lazy" data-original="https://www.holidify.com/images/compressed/thumbnail/7692.jpg" src="https://www.holidify.com/images/compressed/thumbnail/7692.jpg" style="display: inline;"/>
+<div class="background"> <span> View 509+ photos</span> </div>
+</a>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-7 right">
+<div class="d-flex">
+<h1>Places To Visit In Goa</h1>
+<div class="rating-box">
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.5</b>
+<span class="light"> /5</span>
+</span>
+<br/>
+</div>
+</div>
+<!-- Covid Data -->
+<div class="mb-2 font-smaller">
+</div>
+<!-- Overview info -->
+<div class="mb-30 font-smaller">
+<svg class="icon-download icon-svg mr-2">
+<use xlink:href="/res/images/sprite-v1/sprite-web.svg#img-download"></use>
+</svg>
+<b> <a href="#" onclick="downloadPdf()"> Download Free Goa PDF Guide </a> </b>
+</div>
+<!-- CTA section -->
+<div class="mb-2">
+<!-- Monetized destination: primary=packages, secondary=hotels -->
+<div class="mb-2 text-center-mobile">
+<span class="price-large"><b> ₹ 4,100</b></span> onwards
+                <a class="ml-2" href="/places/goa/packages.html" onclick='trackPackageButtonClick("DestATFViewPackage")'> <b> View Packages </b> </a>
+</div>
+<a class="btn btn-primary-cta" data-backdrop="static" data-target="#packageModal" data-toggle="modal" href="" onclick='copyPackageInput("DestATF")'>
+     Get Customized Packages 
+</a>
+<a class="btn btn-secondary-cta" href="/places/goa/hotels-where-to-stay.html" onclick='trackHotelClick("DestATFButton")'>
+     
+                View <span class="d-sm-none"> Goa</span> Hotels
+            
+</a>
+</div>
+</div>
+</div>
+<div class="w-100 mb-4">
+<div class="ad-container">
+<!-- ATF Common: /21797983619/ca-pub-8014231071342543-tag/hf-resp-728x90-336x280 -->
+<div data-google-query-id="CJ6bup_I9uoCFeyArAIdZhYDeg" id="div-gpt-ad-1554287145815-0" style="margin: 0px auto; display: none;">
+<script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1554287145815-0'); });
+            </script>
+<div id="google_ads_iframe_/21797983619/ca-pub-8014231071342543-tag/hf-resp-728x90-336x280_0__container__" style="border: 0pt none; width: 728px; height: 90px;"></div></div>
+</div>
+</div>
+<div class="row no-gutters mb-20">
+<div class="alert alert-success" role="alert">
+						Janata Curfew is imposed in Goa starting from 15 July 2020 to 10 August 2020. The curfew will be imposed from 8:00 PM to 6:00 AM every day. Goa opened to tourists from July 2 2020 after being shut down for tourism since March. It is mandatory for the tourists to pre-book their stay with one of these approved 250 hotels. Tourists also have to carry Covid-19 negative certificate or get tested at the border/airport and undergo quarantine at a state-run facility till the results arrive. 
+				
+			</div>
+</div>
+<div class="row no-gutters d-flex negative-margin-mobile">
+<div class="col-12 recover-negative-margin">
+<div class="d-flex justify-content-between mb-2">
+<div aria-label="List vs map view" class="btn-group btn-group-toggle" role="group">
+<button class="btn btn-outline-default active selectedButton" id="listViewButton" type="button">List</button>
+<button class="btn btn-outline-default" id="mapViewButton" type="button">Map</button>
+</div>
+<div class="dropdown">
+<button class="btn btn-default dropdown-toggle font-smaller" data-toggle="dropdown" id="filterDropDownButton" type="button">Attraction Type
+								<span class="caret"></span></button>
+<div class="dropdown-menu" id="filterDropDown">
+<a class="dropdown-item dropdownElement">All</a><a class="dropdown-item dropdownElement">Beaches</a><a class="dropdown-item dropdownElement">church</a><a class="dropdown-item dropdownElement">Activity</a><a class="dropdown-item dropdownElement">Heritage</a><a class="dropdown-item dropdownElement">Waterfall</a><a class="dropdown-item dropdownElement">Nightlife</a><a class="dropdown-item dropdownElement">Shopping</a><a class="dropdown-item dropdownElement">Sightseeing</a><a class="dropdown-item dropdownElement">Temple</a><a class="dropdown-item dropdownElement">Religious</a><a class="dropdown-item dropdownElement">Greenery</a></div>
+</div>
+</div>
+</div>
+<div class="reset" id="loading"> </div>
+<div class="recover-negative-margin position-relative w-100 mb-30" id="attractionMap" style="display: none;">
+<div class="w-100 box-shadow-diffused" data-lat="15.4989" data-lng="73.8278" data-marker="Beaches.png" id="googleMapContainer" style="height:500px;">
+</div>
+<div class="map-overlay-container" id="mapOverlayContainer" style="display:none;">
+<a href="" id="mapOverlayLink" target="_blank">
+<img src=""/>
+<span class="placeName"> </span>
+</a>
+<span class="close-button" onclick="closeMapOverlay()"> × </span>
+</div>
+</div>
+<div class="reset" id="attractionList">
+<h2 class="font-regular recover-negative-margin">Here are the top 189 tourist attractions to see in Goa:</h2>
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/calangute-beach-sightseeing-6227.html">
+<h3 class="card-heading"> 1. Calangute Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/shutterstock_1314723038_20190822145625.jpg" src="https://www.holidify.com/images/cmsuploads/square/shutterstock_1314723038_20190822145625.jpg" style="display: inline;"/>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.4</b>
+<span class="light"> /5</span>
+</span>
+<span class="num-photos"> View 9+ photos </span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 10 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 1 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/north-goa-places-to-visit-area.html"><b> North Goa </b></a> </p>
+<p class="card-text"> Calangute is a largest beach in north Goa stretching from Candolim to Baga. Due to its sheer size and popularity, it is a hub for tourists and backpackers from all over the world. It is the perfect place to look for accommodation as it keeps you well-connected to the other beaches in the north. You can also sample the sumptuous culinary fare at an array of shacks here and embark on a number of water sports at the beach.<br/> </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/calangute-beach-sightseeing-6227.html")'> Read More </a>
+<a class="btn btn-blue" href="#" onclick="openTourPage('/tour/tour-id-409.html', 'BookFromPTVPage'); return false;">Book This Activity</a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="6227" data-counter="1" data-dist="10" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/shutterstock_1314723038_20190822145625.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/shutterstock_1314723038_20190822145625.jpg" data-lat="15.548774" data-lng="73.753816" data-marker="Beaches.png" data-name="Calangute Beach" data-url="https://www.holidify.com/places/goa/calangute-beach-sightseeing-6227.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/basilica-of-bom-jesus-sightseeing-1840.html">
+<h3 class="card-heading"> 2. Basilica of Bom Jesus </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/shutterstock_1073481062_20190822145857.jpg" src="https://www.holidify.com/images/cmsuploads/square/shutterstock_1073481062_20190822145857.jpg" style="display: inline;"/>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.3</b>
+<span class="light"> /5</span>
+</span>
+<span class="num-photos"> View 20+ photos </span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 9 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 2 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/panaji-places-to-visit-area.html"><b> Panaji </b></a> </p>
+<p class="card-text"> This historic church is located in Goa and is a UNESCO World Heritage Site. Built in the year 1594 and consecrated in 1605, the building of this church coincides with the beginning of Christianity in India. The Basilica houses the tomb and remains of St. Francis Xavier. Even after 400 years, the remains are in a good condition and are taken out once every decade.<br/> </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/basilica-of-bom-jesus-sightseeing-1840.html")'> Read More </a>
+<input class="attractionCategory" data-tag="church" type="hidden"/>
+<input class="dataHolder" data-code="1840" data-counter="2" data-dist="9" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/shutterstock_1073481062_20190822145857.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/shutterstock_1073481062_20190822145857.jpg" data-lat="15.5007882" data-lng="73.9115991" data-marker="church.png" data-name="Basilica of Bom Jesus" data-url="https://www.holidify.com/places/goa/basilica-of-bom-jesus-sightseeing-1840.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/pages/watersports-in-goa-4252.html">
+<h3 class="card-heading"> 3. Water Sports in Goa </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/shutterstock_307777376_20190822150057_20190822161317.jpg" src="/res/images/patt.png"/>
+<span class="must-visit"> Must visit </span>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.4</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 26 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 3 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="card-text"> Goa is a haven for water sports like kneeboarding, kite surfing, snorkelling, parasailing, paragliding, diving, and kayaking. The water sports in Goa can be enjoyed at any one of the beaches in the north or the south. You can also engage in your favorite activities through a number of licensed water sports package operators. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/pages/watersports-in-goa-4252.html")'> Read More </a>
+<a class="btn btn-blue" href="#" onclick="openTourPage('/tour/tour-id-397.html', 'BookFromPTVPage'); return false;">Book This Activity</a>
+<input class="attractionCategory" data-tag="Activity" type="hidden"/>
+<input class="dataHolder" data-code="1869" data-counter="3" data-dist="26" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/shutterstock_307777376_20190822150057_20190822161317.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/shutterstock_307777376_20190822150057_20190822161317.jpg" data-lat="15.3485197" data-lng="74.0149304" data-marker="Activity.png" data-name="Water Sports in Goa" data-url="https://www.holidify.com/pages/watersports-in-goa-4252.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/fort-aguada-sightseeing-1856.html">
+<h3 class="card-heading"> 4. Fort Aguada </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/shutterstock_1065727913_20190822150731.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.4</b>
+<span class="light"> /5</span>
+</span>
+<span class="num-photos"> View 19+ photos </span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 6 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 4 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/north-goa-places-to-visit-area.html"><b> North Goa </b></a> </p>
+<p class="card-text"> Fort Aguada is a 17th-century Portuguese fort looking out at the confluence of Mandovi River and the Arabian Sea. The crumbling ramparts of the fort stand on the Sinquerim Beach, approximately 18 km from Panjim. The highlight of the fort is a lone four-storey lighthouse (which is one-of-its-kind in Asia) and a stunning view of the sunset. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/fort-aguada-sightseeing-1856.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Heritage" type="hidden"/>
+<input class="dataHolder" data-code="1856" data-counter="4" data-dist="6" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/shutterstock_1065727913_20190822150731.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/shutterstock_1065727913_20190822150731.jpg" data-lat="15.4923831" data-lng="73.7737101" data-marker="Heritage.png" data-name="Fort Aguada" data-url="https://www.holidify.com/places/goa/fort-aguada-sightseeing-1856.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- First monetization section -->
+<div class="col-12 recover-negative-margin">
+<!-- Top packages -->
+<div class="row no-gutters mb-50">
+<h2 class="heading2 w-100"> Goa Packages </h2>
+<p class="font-smaller"> Compare quotes from upto 3 travel agents for free </p>
+<div class="col hfCarousel">
+<div class="regular slick-initialized slick-slider" data-label="PackageWidget">
+<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 30000px; transform: translate3d(-8px, 0px, 0px);"><div aria-hidden="false" class="slick-slide slick-current slick-active" data-slick-index="0" style="" tabindex="0">
+<div class="carousel-shadow card" data-backdrop="static" data-target="#packageModal" data-toggle="modal" onclick="copyPackageInput('DestPackagesWidget')">
+<div class="lazyBG medium card-img-top" data-original="https://www.holidify.com/images/cmsuploads/square/shutterstock_541154869_20190607182338.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>Best of Goa: Palolem, Panjim, Baga and Anjuna </b></div>
+<div class="card-text textMuted"><b>5 Nights</b></div>
+<div class="card-text font-smaller mb-3">Starting from <span class="price"><b>₹19,990</b></span></div>
+<div class="card-cta"><b>CUSTOMIZE &amp; BOOK</b></div>
+</div>
+</div>
+</div><div aria-hidden="false" class="slick-slide slick-active" data-slick-index="1" style="" tabindex="0">
+<div class="carousel-shadow card" data-backdrop="static" data-target="#packageModal" data-toggle="modal" onclick="copyPackageInput('DestPackagesWidget')">
+<div class="lazyBG medium card-img-top" data-original="https://www.holidify.com/images/cmsuploads/square/small-island-with-palms-caribbean-162-small_20190828112825.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>Budget Trip Goa  </b></div>
+<div class="card-text textMuted"><b>3 Nights</b></div>
+<div class="card-text font-smaller mb-3">Starting from <span class="price"><b>₹12,000</b></span></div>
+<div class="card-cta"><b>CUSTOMIZE &amp; BOOK</b></div>
+</div>
+</div>
+</div><div aria-hidden="true" class="slick-slide" data-slick-index="2" style="" tabindex="-1">
+<div class="carousel-shadow card" data-backdrop="static" data-target="#packageModal" data-toggle="modal" onclick="copyPackageInput('DestPackagesWidget')">
+<div class="lazyBG medium card-img-top" data-original="https://www.holidify.com/images/cmsuploads/square/shutterstock_768387142_20190607182440.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>Beachside Honeymoon - Goa Package </b></div>
+<div class="card-text textMuted"><b>3 Nights</b></div>
+<div class="card-text font-smaller mb-3">Starting from <span class="price"><b>₹14,566</b></span></div>
+<div class="card-cta"><b>CUSTOMIZE &amp; BOOK</b></div>
+</div>
+</div>
+</div><div aria-hidden="true" class="slick-slide" data-slick-index="3" style="" tabindex="-1">
+<div class="carousel-shadow card" data-backdrop="static" data-target="#packageModal" data-toggle="modal" onclick="copyPackageInput('DestPackagesWidget')">
+<div class="lazyBG medium card-img-top" data-original="https://www.holidify.com/images/cmsuploads/square/shutterstock_1065727913_20190822150731.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>Goa Sightseeing Tour  </b></div>
+<div class="card-text textMuted"><b>3 Nights</b></div>
+<div class="card-text font-smaller mb-3">Starting from <span class="price"><b>₹6,666</b></span></div>
+<div class="card-cta"><b>CUSTOMIZE &amp; BOOK</b></div>
+</div>
+</div>
+</div><div aria-hidden="true" class="slick-slide" data-slick-index="4" style="" tabindex="-1">
+<div class="carousel-shadow card" data-backdrop="static" data-target="#packageModal" data-toggle="modal" onclick="copyPackageInput('DestPackagesWidget')">
+<div class="lazyBG medium card-img-top" data-original="https://www.holidify.com/images/cmsuploads/square/shutterstock_1015004872(1)_20190607182846.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>Romance in Goa </b></div>
+<div class="card-text textMuted"><b>3 Nights</b></div>
+<div class="card-text font-smaller mb-3">Starting from <span class="price"><b>₹12,159</b></span></div>
+<div class="card-cta"><b>CUSTOMIZE &amp; BOOK</b></div>
+</div>
+</div>
+</div><div aria-hidden="true" class="slick-slide" data-slick-index="5" style="" tabindex="-1">
+<div class="carousel-shadow card" data-backdrop="static" data-target="#packageModal" data-toggle="modal" onclick="copyPackageInput('DestPackagesWidget')">
+<div class="lazyBG medium card-img-top" data-original="https://www.holidify.com/images/cmsuploads/square/shutterstock_206881201_20190607182228.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>Ultimate Leisure Vacation - South Goa, Gokarna and Dudhsagar Package </b></div>
+<div class="card-text textMuted"><b>4 Nights</b></div>
+<div class="card-text font-smaller mb-3">Starting from <span class="price"><b>₹14,387</b></span></div>
+<div class="card-cta"><b>CUSTOMIZE &amp; BOOK</b></div>
+</div>
+</div>
+</div></div></div></div>
+</div>
+<div class="col-12">
+<a class="btn btn-view-all" href="/places/goa/packages.html" onclick="trackPackageButtonClick('DestPackagesWidget')">
+        View All Packages For Goa
+    </a>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/baga-beach-sightseeing-6226.html">
+<h3 class="card-heading"> 5. Baga Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/7691_20190710110712.jpg" src="/res/images/patt.png"/>
+<span class="must-visit"> Must visit </span>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.5</b>
+<span class="light"> /5</span>
+</span>
+<span class="num-photos"> View 5+ photos </span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 10 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 5 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/north-goa-places-to-visit-area.html"><b> North Goa </b></a> </p>
+<p class="card-text"> One of the most popular beaches in North Goa, Baga Beach is located close to Calangute beach, around 30 Km North of Panjim. Baga is the perfect destination to witness the dazzling nightlife of Goa as signature places such as Britto's, Tito's and Mambos are located in the vicinity. Being one of the most visited beaches in the North, Baga also offers a vast range of water sports. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/baga-beach-sightseeing-6226.html")'> Read More </a>
+<a class="btn btn-blue" href="#" onclick="openTourPage('/tour/tour-id-414.html', 'BookFromPTVPage'); return false;">Book This Activity</a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="6226" data-counter="5" data-dist="10" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/7691_20190710110712.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/7691_20190710110712.jpg" data-lat="15.555694" data-lng="73.751647" data-marker="Beaches.png" data-name="Baga Beach" data-url="https://www.holidify.com/places/goa/baga-beach-sightseeing-6226.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/cruise-sightseeing-1851.html">
+<h3 class="card-heading"> 6. Cruise in Goa </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/cruises-in-goa-1_20171121225733.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.3</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 1 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 6 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="card-text"> Cruise in Goa allows one to explore the exotic scenery, pristine waters and marvel the breathtaking view of the sunset. There are several types of cruises in Goa ranging from simple evening cruises, elaborate and romantic dinner cruises, backwater cruises, and casino cruises. All of these usually originate from Miramar Beach in Panjim. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/cruise-sightseeing-1851.html")'> Read More </a>
+<a class="btn btn-blue" href="#" onclick="openTourPage('/tour/tour-id-406.html', 'BookFromPTVPage'); return false;">Book This Activity</a>
+<input class="attractionCategory" data-tag="Activity" type="hidden"/>
+<input class="dataHolder" data-code="1851" data-counter="6" data-dist="1" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/cruises-in-goa-1_20171121225733.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/cruises-in-goa-1_20171121225733.jpg" data-lat="15.5055142" data-lng="73.8259175" data-marker="Activity.png" data-name="Cruise in Goa" data-url="https://www.holidify.com/places/goa/cruise-sightseeing-1851.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- Second monetization section -->
+<div class="col-12 recover-negative-margin">
+<!-- Top hotels -->
+<div class="row no-gutters mb-20">
+<div class="col-12">
+<h2 class="heading2 w-100">  Top Hotels In Goa  </h2>
+</div>
+<div class="hotel-search-widget">
+<div class="col-6 col-md-auto pl-0 pr-2 position-relative">
+<input class="form-control green" id="checkInOverview" placeholder="Check In" readonly="true" type="text"/>
+<svg class="icon-checkin icon-svg icon">
+<use xlink:href="/res/images/sprite-v1/sprite-web.svg#img-checkin"></use>
+</svg>
+</div>
+<div class="col-6 col-md-auto px-0 position-relative">
+<input class="form-control red" id="checkOutOverview" placeholder="Check Out" readonly="true" type="text"/>
+<svg class="icon-checkout icon-svg icon">
+<use xlink:href="/res/images/sprite-v1/sprite-web.svg#img-checkout"></use>
+</svg>
+</div>
+<button class="btn btn-read-more" onclick="gotoHotels('checkInOverview','checkOutOverview')" target="_self">Search Hotels</button>
+</div>
+</div>
+<div class="row no-gutters mb-50">
+<div class="col hfCarousel">
+<div class="regular slick-initialized slick-slider" data-label="HotelWidget">
+<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 30000px; transform: translate3d(-8px, 0px, 0px);"><div aria-hidden="false" class="slick-slide slick-current slick-active" data-slick-index="0" style="" tabindex="0">
+<div class="carousel-shadow card" onclick='trackHotelCollectionWidgetClick("resorts-in-goa")'>
+<a class="no-hover" href="/hotel-collections/resorts-in-goa" tabindex="0">
+<div class="lazyBG medium card-img-top" data-original="https://www.holidify.com/images/cmsuploads/compressed/34261064_20200117102354.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>23 Best Resorts in Goa For the Perfect Beach Vacay </b></div>
+<div class="card-text">
+<p>
+<span class="price"><b>₹ 10,000</b></span>
+<span class="textMuted"> onwards </span>
+</p>
+</div>
+</div>
+</a>
+</div>
+</div><div aria-hidden="false" class="slick-slide slick-active" data-slick-index="1" style="" tabindex="0">
+<div class="carousel-shadow card" onclick='trackHotelCollectionWidgetClick("hotels-in-goa-near-beach")'>
+<a class="no-hover" href="/hotel-collections/hotels-in-goa-near-beach" tabindex="0">
+<div class="lazyBG medium card-img-top" data-original="https://www.holidify.com/images/cmsuploads/compressed/224744845_20200117172031.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>18 Beautiful Hotels in Goa Near Beaches  </b></div>
+<div class="card-text">
+<p>
+<span class="price"><b>₹ 10,500</b></span>
+<span class="textMuted"> onwards </span>
+</p>
+</div>
+</div>
+</a>
+</div>
+</div><div aria-hidden="true" class="slick-slide" data-slick-index="2" style="" tabindex="-1">
+<div class="carousel-shadow card" onclick='trackHotelCollectionWidgetClick("beach-resorts-in-goa")'>
+<a class="no-hover" href="/hotel-collections/beach-resorts-in-goa" tabindex="-1">
+<div class="lazyBG medium card-img-top" data-original="https://www.holidify.com/images/cmsuploads/compressed/Azaya_20191023111553.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>23 Beach Resorts In Goa For an Exotic Getaway </b></div>
+<div class="card-text">
+<p>
+<span class="price"><b>₹ 11,000</b></span>
+<span class="textMuted"> onwards </span>
+</p>
+</div>
+</div>
+</a>
+</div>
+</div><div aria-hidden="true" class="slick-slide" data-slick-index="3" style="" tabindex="-1">
+<div class="carousel-shadow card" onclick='trackHotelCollectionWidgetClick("villas-in-goa")'>
+<a class="no-hover" href="/hotel-collections/villas-in-goa" tabindex="-1">
+<div class="lazyBG medium card-img-top" data-original="https://www.holidify.com/images/cmsuploads/compressed/164629224_20191023142031.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>17 Exotic Villas In Goa For Your Next Dreamy Goa Trip </b></div>
+<div class="card-text">
+<p>
+<span class="price"><b>₹ 10,887</b></span>
+<span class="textMuted"> onwards </span>
+</p>
+</div>
+</div>
+</a>
+</div>
+</div><div aria-hidden="true" class="slick-slide" data-slick-index="4" style="" tabindex="-1">
+<div class="carousel-shadow card" onclick='trackHotelCollectionWidgetClick("homestays-in-goa")'>
+<a class="no-hover" href="/hotel-collections/homestays-in-goa" tabindex="-1">
+<div class="lazyBG medium card-img-top" data-original="https://www.holidify.com/images/cmsuploads/compressed/107397656_20191024124505.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>15 Super Cosy Homestays In Goa For A Pleasant Goan Retreat! </b></div>
+<div class="card-text">
+<p>
+<span class="price"><b>₹ 1,074</b></span>
+<span class="textMuted"> onwards </span>
+</p>
+</div>
+</div>
+</a>
+</div>
+</div><div aria-hidden="true" class="slick-slide" data-slick-index="5" style="" tabindex="-1">
+<div class="carousel-shadow card" onclick='trackHotelCollectionWidgetClick("resorts-in-goa-for-honeymoon")'>
+<a class="no-hover" href="/hotel-collections/resorts-in-goa-for-honeymoon" tabindex="-1">
+<div class="lazyBG medium card-img-top" data-original="https://www.holidify.com/images/cmsuploads/compressed/valentine-2066278_1280_20191031153440.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>22 Beautiful Resorts In Goa For Honeymoon </b></div>
+<div class="card-text">
+<p>
+<span class="price"><b>₹ 17,607</b></span>
+<span class="textMuted"> onwards </span>
+</p>
+</div>
+</div>
+</a>
+</div>
+</div></div></div></div>
+</div>
+<div class="col-12">
+<a class="btn btn-view-all" href="/places/goa/hotels-where-to-stay.html" onclick="trackHotelClick('ViewAllButton')">
+        View All Hotels In Goa
+    </a>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/anjuna-beach-sightseeing-1837.html">
+<h3 class="card-heading"> 7. Anjuna Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/shutterstock_1065723824_20190822151024.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.4</b>
+<span class="light"> /5</span>
+</span>
+<span class="num-photos"> View 6+ photos </span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 13 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 7 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/north-goa-places-to-visit-area.html"><b> North Goa </b></a> </p>
+<p class="card-text"> Located near Panjim at a distance of 21 km, Anjuna Beach is among the most popular beaches in North Goa, stretching almost 2km. A hippie paradise of sorts it is characterized by its rocky outcrops. From family outings to adrenaline-filled adventures, Anjuna Beach is famed for its golden coastline, nightclubs, beach shacks, watersports, full-moon parties and flea markets. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/anjuna-beach-sightseeing-1837.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="1837" data-counter="7" data-dist="13" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/shutterstock_1065723824_20190822151024.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/shutterstock_1065723824_20190822151024.jpg" data-lat="15.5763848" data-lng="73.7399709" data-marker="Beaches.png" data-name="Anjuna Beach" data-url="https://www.holidify.com/places/goa/anjuna-beach-sightseeing-1837.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/dudhsagar-falls-sightseeing-1853.html">
+<h3 class="card-heading"> 8. Dudhsagar Falls </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/shutterstock_248465767_20190822151157.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.3</b>
+<span class="light"> /5</span>
+</span>
+<span class="num-photos"> View 8+ photos </span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 52 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 8 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/south-goa-places-to-visit-area.html"><b> South Goa </b></a> </p>
+<p class="card-text"> One of India's tallest waterfalls, the Dudhsagar Falls is located inside the Mollem National Park. The majestic falls are a little farther inland approximately 60 km from Panaji on the Goa - Karnataka Border. Literally translating to <em>Sea of Milk</em>, the 310 m high waterfall is divided into four tiers on the Mandovi river and resemble a heavy rush of milk flowing effortlessly down the hill. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/dudhsagar-falls-sightseeing-1853.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Waterfall" type="hidden"/>
+<input class="dataHolder" data-code="1853" data-counter="8" data-dist="52" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/shutterstock_248465767_20190822151157.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/shutterstock_248465767_20190822151157.jpg" data-lat="15.3264845" data-lng="74.2822362" data-marker="Waterfall.png" data-name="Dudhsagar Falls" data-url="https://www.holidify.com/places/goa/dudhsagar-falls-sightseeing-1853.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- Third monetization section -->
+<div class="col-12 recover-negative-margin">
+<!-- Top tours available -->
+<div class="row no-gutters mb-50">
+<h2 class="heading2 w-100"> Book Goa Activities </h2>
+<div class="col hfCarousel">
+<div class="regular slick-initialized slick-slider" data-label="ToursWidget">
+<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 30000px; transform: translate3d(-8px, 0px, 0px);"><div aria-hidden="false" class="slick-slide slick-current slick-active" data-slick-index="0" style="" tabindex="0">
+<div class="carousel-shadow card" onclick='openTourPage("/tour/full-day-sightseeing-tour-of-south-goa--300-only-387.html", "ActivityWidget");'>
+<div class="lazyBG medium card-img-top" data-original="https://images.thrillophilia.com/image/upload/s--dxAXFKny--/c_fill,f_auto,fl_strip_profile,g_auto,h_600,q_auto,w_975/v1/images/photos/000/046/513/original/1481002296_south_goa_sightseeing_new.jpg.jpg?1481002296" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>Full Day Sightseeing Tour of South Goa, @ 300 Only </b></div>
+<div class="card-text textMuted"><b>8 Hours</b></div>
+<div class="card-text mt-2">
+<div class="row mb-3">
+<div class="col-6">
+<span class="font-smaller"> Deals start </span> <span class="price"><b>₹300</b></span>
+</div>
+<div class="col-6 text-right">
+<div class="mb-1">
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.8</b>
+<span class="light"> /5</span>
+</span>
+</div>
+<div class="ratings-text">1820 ratings</div>
+</div>
+</div>
+</div>
+<div class="card-cta"><b>VIEW DEAL</b></div>
+</div>
+</div>
+</div><div aria-hidden="false" class="slick-slide slick-active" data-slick-index="1" style="" tabindex="0">
+<div class="carousel-shadow card" onclick='openTourPage("/tour/scuba-diving-at-grande-island-in-goa--386.html", "ActivityWidget");'>
+<div class="lazyBG medium card-img-top" data-original="https://images.thrillophilia.com/image/upload/s--CgHyte2e--/c_fill,f_auto,fl_strip_profile,g_auto,h_600,q_auto,w_975/v1/images/photos/000/046/396/original/1481003769_scuba_dive_new.jpg.jpg?1481003769" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>Scuba Diving at Grande Island in Goa- </b></div>
+<div class="card-text textMuted"><b>6 Hours</b></div>
+<div class="card-text mt-2">
+<div class="row mb-3">
+<div class="col-6">
+<span class="font-smaller"> Deals start </span> <span class="price"><b>₹1,799</b></span>
+</div>
+<div class="col-6 text-right">
+<div class="mb-1">
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.7</b>
+<span class="light"> /5</span>
+</span>
+</div>
+<div class="ratings-text">1638 ratings</div>
+</div>
+</div>
+</div>
+<div class="card-cta"><b>VIEW DEAL</b></div>
+</div>
+</div>
+</div><div aria-hidden="true" class="slick-slide" data-slick-index="2" style="" tabindex="-1">
+<div class="carousel-shadow card" onclick='openTourPage("/tour/dudhsagar-falls-and-spice-plantation-full-day-tour-1333.html", "ActivityWidget");'>
+<div class="lazyBG medium card-img-top" data-original="https://images.thrillophilia.com/image/upload/s--AhTeqmsa--/c_fill,f_auto,fl_strip_profile,g_auto,h_600,q_auto,w_975/v1/images/photos/000/047/847/original/1517393324_Spices-and-Safari.png.jpg?1517393324" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>Dudhsagar Falls and Spice Plantation Full Day Tour </b></div>
+<div class="card-text textMuted"><b>11 Hours</b></div>
+<div class="card-text mt-2">
+<div class="row mb-3">
+<div class="col-6">
+<span class="font-smaller"> Deals start </span> <span class="price"><b>₹1,356</b></span>
+</div>
+<div class="col-6 text-right">
+<div class="mb-1">
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.5</b>
+<span class="light"> /5</span>
+</span>
+</div>
+<div class="ratings-text">1459 ratings</div>
+</div>
+</div>
+</div>
+<div class="card-cta"><b>VIEW DEAL</b></div>
+</div>
+</div>
+</div><div aria-hidden="true" class="slick-slide" data-slick-index="3" style="" tabindex="-1">
+<div class="carousel-shadow card" onclick='openTourPage("/tour/north-goa-sightseeing-full-day-tour--300-only-389.html", "ActivityWidget");'>
+<div class="lazyBG medium card-img-top" data-original="https://images.thrillophilia.com/image/upload/s--oqO7bxaa--/c_fill,f_auto,fl_strip_profile,g_auto,h_600,q_auto,w_975/v1/images/photos/000/046/531/original/1517392970_A-Looksie-into-North-Goa.png.jpg?1517392970" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>North Goa Sightseeing Full Day Tour @ 300 Only </b></div>
+<div class="card-text textMuted"><b>8 Hours</b></div>
+<div class="card-text mt-2">
+<div class="row mb-3">
+<div class="col-6">
+<span class="font-smaller"> Deals start </span> <span class="price"><b>₹300</b></span>
+</div>
+<div class="col-6 text-right">
+<div class="mb-1">
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.9</b>
+<span class="light"> /5</span>
+</span>
+</div>
+<div class="ratings-text">1408 ratings</div>
+</div>
+</div>
+</div>
+<div class="card-cta"><b>VIEW DEAL</b></div>
+</div>
+</div>
+</div><div aria-hidden="true" class="slick-slide" data-slick-index="4" style="" tabindex="-1">
+<div class="carousel-shadow card" onclick='openTourPage("/tour/romantic-couple-shoot-in-goa-404.html", "ActivityWidget");'>
+<div class="lazyBG medium card-img-top" data-original="https://images.thrillophilia.com/image/upload/s--BubWOh1u--/c_fill,f_auto,fl_strip_profile,g_auto,h_600,q_auto,w_975/v1/images/photos/000/089/371/original/1501332420_006.png.jpg?1501332420" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>Romantic Couple Shoot in Goa </b></div>
+<div class="card-text textMuted"><b>3 Hours</b></div>
+<div class="card-text mt-2">
+<div class="row mb-3">
+<div class="col-6">
+<span class="font-smaller"> Deals start </span> <span class="price"><b>₹3,889</b></span>
+</div>
+<div class="col-6 text-right">
+<div class="mb-1">
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>5.0</b>
+<span class="light"> /5</span>
+</span>
+</div>
+<div class="ratings-text">1190 ratings</div>
+</div>
+</div>
+</div>
+<div class="card-cta"><b>VIEW DEAL</b></div>
+</div>
+</div>
+</div><div aria-hidden="true" class="slick-slide" data-slick-index="5" style="" tabindex="-1">
+<div class="carousel-shadow card" onclick='openTourPage("/tour/water-sports-in-calangute-beach-goa-1599-only-407.html", "ActivityWidget");'>
+<div class="lazyBG medium card-img-top" data-original="https://images.thrillophilia.com/image/upload/s--VK8t2FOV--/c_fill,f_auto,fl_strip_profile,g_auto,h_600,q_auto,w_975/v1/images/photos/000/103/220/original/1479206458_Parasailing_3.jpg.jpg?1479206458" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" style="background-image:url('https://holidify.com/images/patt.png');">
+</div>
+<div class="card-body">
+<div class="card-title"><b>Water Sports in Calangute Beach, Goa @1599 Only </b></div>
+<div class="card-text textMuted"><b>3 Hours</b></div>
+<div class="card-text mt-2">
+<div class="row mb-3">
+<div class="col-6">
+<span class="font-smaller"> Deals start </span> <span class="price"><b>₹1,599</b></span>
+</div>
+<div class="col-6 text-right">
+<div class="mb-1">
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>5.0</b>
+<span class="light"> /5</span>
+</span>
+</div>
+<div class="ratings-text">1165 ratings</div>
+</div>
+</div>
+</div>
+<div class="card-cta"><b>VIEW DEAL</b></div>
+</div>
+</div>
+</div></div></div></div>
+</div>
+<div class="col-12">
+<a class="btn btn-view-all" href="/places/goa/tours.html" onclick='trackToursClick("ToursViewAll")'>
+			View All Activities For Goa
+			</a>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/pages/scuba-diving-in-goa-612.html">
+<h3 class="card-heading"> 9. Scuba Diving in Goa </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/attr_square/1863.jpg" src="/res/images/patt.png"/>
+<span class="must-visit"> Must visit </span>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.3</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 14 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 9 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/north-goa-places-to-visit-area.html"><b> North Goa </b></a> </p>
+<p class="card-text"> Goa is one of the few places in India offering scuba diving. Diving in Goa is not the best owing to limited underwater visibility, but it is still popular among tourists as it is a good destination for beginners to explore the delights of the underwater world. The absence of strong water current with occasional surges adds serenity to the activity. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/pages/scuba-diving-in-goa-612.html")'> Read More </a>
+<a class="btn btn-blue" href="#" onclick="openTourPage('/tour/tour-id-386.html', 'BookFromPTVPage'); return false;">Book This Activity</a>
+<input class="attractionCategory" data-tag="Activity" type="hidden"/>
+<input class="dataHolder" data-code="1863" data-counter="9" data-dist="14" data-img="&lt;img src=https://www.holidify.com/images/places/thumbnail/dive_goa.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/places/thumbnail/dive_goa.jpg" data-lat="15.3707627" data-lng="73.838205" data-marker="Activity.png" data-name="Scuba Diving in Goa" data-url="https://www.holidify.com/pages/scuba-diving-in-goa-612.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/church-of-our-lady-of-the-immaculate-conception-sightseeing-1844.html">
+<h3 class="card-heading"> 10. Church of Our Lady of the Immaculate Conception </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/ChurchofOurLadyoftheImmaculateConception_20200110113242_20200110113332.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#9acc2b;">
+<b>3.7</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 0 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 10 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/panaji-places-to-visit-area.html"><b> Panaji </b></a> </p>
+<p class="card-text"> Located in Panjim, Our Lady of Immaculate Conception is one of the most popular and also one of the oldest chapels in Goa. Built in a Portuguese Baroque style, the church is located on a slight elevation, on a hillock. It is known to house the second largest church bells in Goa. These bells are known to have been removed from the Augustinian ruins of the Church of Our Lady of Grace that existed in Old Goa. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/church-of-our-lady-of-the-immaculate-conception-sightseeing-1844.html")'> Read More </a>
+<input class="attractionCategory" data-tag="church" type="hidden"/>
+<input class="dataHolder" data-code="1844" data-counter="10" data-dist="0" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/ChurchofOurLadyoftheImmaculateConception_20200110113242_20200110113332.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/ChurchofOurLadyoftheImmaculateConception_20200110113242_20200110113332.jpg" data-lat="15.4985968" data-lng="73.8295004" data-marker="church.png" data-name="Church of Our Lady of the Immaculate Conception" data-url="https://www.holidify.com/places/goa/church-of-our-lady-of-the-immaculate-conception-sightseeing-1844.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- Ad -->
+<div class="w-100 mb-30">
+<div class="ad-container">
+<!-- incontent-pos-1: /21797983619/ca-pub-8014231071342543-tag/hf-resp-incontent -->
+<div class="text-center" data-google-query-id="CJ-bup_I9uoCFeyArAIdZhYDeg" id="div-gpt-ad-1554367252700-0" style="display: none;">
+<script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1554367252700-0'); });
+            </script>
+<div id="google_ads_iframe_/21797983619/ca-pub-8014231071342543-tag/hf-resp-incontent_0__container__" style="border: 0pt none; width: 300px; height: 100px;"></div></div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/dona-paula-sightseeing-1852.html">
+<h3 class="card-heading"> 11. Dona Paula </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/3205_20200511154307.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.4</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 5 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 11 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/panaji-places-to-visit-area.html"><b> Panaji </b></a> </p>
+<p class="card-text"> Located around 7kms from Panjim, Dona Paula is one of the most popular tourist hangouts in Goa famous for its vast stretch of beach. The small beach is also popular as the Lover's Paradise and features a jetty (Dona Paula Jetty) adjacent to it, which provides an ethereal view of the Arabian Sea and Mormugao harbour. Another attraction here is the whitewashed statue, called 'Image of India', depicting Mother India and Young India. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/dona-paula-sightseeing-1852.html")'> Read More </a>
+<a class="btn btn-blue" href="#" onclick="openTourPage('/tour/tour-id-400.html', 'BookFromPTVPage'); return false;">Book This Activity</a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="1852" data-counter="11" data-dist="5" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/3205_20200511154307.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/3205_20200511154307.jpg" data-lat="15.4608099" data-lng="73.8095574" data-marker="Beaches.png" data-name="Dona Paula" data-url="https://www.holidify.com/places/goa/dona-paula-sightseeing-1852.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/chapora-fort-sightseeing-1843.html">
+<h3 class="card-heading"> 12. Chapora Fort </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/Chapora_Fort_20180428123835.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#9acc2b;">
+<b>3.7</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 16 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 12 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/north-goa-places-to-visit-area.html"><b> North Goa </b></a> </p>
+<p class="card-text"> Chapora Fort, located 10 km away from Mapusa, is undeniably one of the most famous forts in Goa. Built by the Portuguese in 1717, Chapora Fort has a long and fascinating history attached to it. More popularly known as the 'Dil Chahta Hai Fort', its claim to fame was the 2001 Bollywood blockbuster shot here. A scintillating escape, it offers beautiful views of the sea and Chapora River. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/chapora-fort-sightseeing-1843.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Heritage" type="hidden"/>
+<input class="dataHolder" data-code="1843" data-counter="12" data-dist="16" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/Chapora_Fort_20180428123835.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/Chapora_Fort_20180428123835.jpg" data-lat="15.6065042" data-lng="73.7342262" data-marker="Heritage.png" data-name="Chapora Fort" data-url="https://www.holidify.com/places/goa/chapora-fort-sightseeing-1843.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- Collections about this dest -->
+<div class="col-12">
+<div class="row no-gutters mb-50 recover-negative-margin">
+<div class="col-12">
+<h2 class="heading2 w-100">  Best Sightseeing and Tourist Attractions in Goa  </h2>
+</div>
+<div class="col-6 col-md-4 ptv-item">
+<a href="/collections/things-to-do-in-goa">
+<img alt="" class="lazy" data-original="https://www.holidify.com/images/bgImages/GOA.jpg" src="/res/images/patt.png"/>
+<p>Things to do in Goa</p>
+</a>
+</div>
+<div class="col-6 col-md-4 ptv-item">
+<a href="/collections/churches-in-goa">
+<img alt="" class="lazy" data-original="https://www.holidify.com/images/compressed/3198.jpg" src="/res/images/patt.png"/>
+<p>Mesmerising Churches in Goa That Showcase Goa's Portuguese Heritage</p>
+</a>
+</div>
+<div class="col-6 col-md-4 ptv-item">
+<a href="/collections/beaches-in-south-goa">
+<img alt="" class="lazy" data-original="https://www.holidify.com/images/compressed/3200.jpg" src="/res/images/patt.png"/>
+<p>Beaches in South Goa For A Perfect Beach Holiday</p>
+</a>
+</div>
+<div class="col-6 col-md-4 ptv-item">
+<a href="/collections/beaches-in-north-goa">
+<img alt="" class="lazy" data-original="https://www.holidify.com/images/compressed/7691.jpg" src="/res/images/patt.png"/>
+<p>Best North Goa Beaches That Every Traveller Must Visit</p>
+</a>
+</div>
+<div class="col-6 col-md-4 ptv-item">
+<a href="/collections/historical-places-in-goa">
+<img alt="" class="lazy" data-original="https://www.holidify.com/images/compressed/3198.jpg" src="/res/images/patt.png"/>
+<p>Historical Places in Goa : Beautiful Heritage Sites in Goa You Must Visit</p>
+</a>
+</div>
+<div class="col-6 col-md-4 ptv-item">
+<a href="/collections/hidden-beaches-in-Goa">
+<img alt="" class="lazy" data-original="https://www.holidify.com/images/cmsuploads/compressed/39751912775_5629d452ab_z_20190227114609.jpg" src="/res/images/patt.png"/>
+<p>Hidden Beaches In Goa To Get Away From The Crowd</p>
+</a>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/butterfly-beach-sightseeing-1841.html">
+<h3 class="card-heading"> 13. Butterfly Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/butterfly-beach_20171116114709.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#9acc2b;">
+<b>3.9</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 56 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 13 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/south-goa-places-to-visit-area.html"><b> South Goa </b></a> </p>
+<p class="card-text"> A little to the south of Palolem in Cancona region of Goa lies the Butterfly Beach. This beach, also known as Honeymoon Beach, is in the form of a small cove surrounded by dense trees. One of the most secluded and lesser-known beach of Goa, the butterfly beach is mostly accessible by a boat (ferry) ride from the nearby beaches, which only adds to the charm. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/butterfly-beach-sightseeing-1841.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="1841" data-counter="13" data-dist="56" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/butterfly-beach_20171116114709.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/butterfly-beach_20171116114709.jpg" data-lat="15.0193235" data-lng="74.0018264" data-marker="Beaches.png" data-name="Butterfly Beach" data-url="https://www.holidify.com/places/goa/butterfly-beach-sightseeing-1841.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/arambol-beach-sightseeing-1838.html">
+<h3 class="card-heading"> 14. Arambol Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/3201_20200511192013.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.4</b>
+<span class="light"> /5</span>
+</span>
+<span class="num-photos"> View 8+ photos </span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 25 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 14 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/north-goa-places-to-visit-area.html"><b> North Goa </b></a> </p>
+<p class="card-text"> Beautiful and serene, Arambol Beach is among the best beaches of North Goa and is relatively unexploited by tourist activities. Considered to be one of the most spectacular beaches in Goa, Arambol beach has a distinct Bohemian feel to it, which attracts tourists from all over the world. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/arambol-beach-sightseeing-1838.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="1838" data-counter="14" data-dist="25" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/3201_20200511192013.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/3201_20200511192013.jpg" data-lat="15.6846886" data-lng="73.7032836" data-marker="Beaches.png" data-name="Arambol Beach" data-url="https://www.holidify.com/places/goa/arambol-beach-sightseeing-1838.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/vagator-beach-sightseeing-1868.html">
+<h3 class="card-heading"> 15. Vagator Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/attr_1868.jpg" src="/res/images/patt.png"/>
+<span class="must-visit"> Must visit </span>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.3</b>
+<span class="light"> /5</span>
+</span>
+<span class="num-photos"> View 5+ photos </span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 15 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 15 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/north-goa-places-to-visit-area.html"><b> North Goa </b></a> </p>
+<p class="card-text"> Vagator Beach is the northernmost beach of Bardez Taluka, Goa. It is located on the opposite bank of the Chapora River from Morjim in Pernem. To the south of Vagator is Anjuna, one of the first hippie haunts of Goa. <br/> Vagator Beach has dramatic red cliffs looking down on the shore and two fresh water springs within a stone's throw of the sea. But Vagator has little by way of seaside accommodation. Vagator beach Goa 180 Panorama Vagator Beach is split into two main beaches by a seaside headland which holds the car park and lots of stalls selling trinkets, clothes, soft drinks and snacks. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/vagator-beach-sightseeing-1868.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="1868" data-counter="15" data-dist="15" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/attr_1868.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/attr_1868.jpg" data-lat="15.6029835" data-lng="73.733627" data-marker="Beaches.png" data-name="Vagator Beach" data-url="https://www.holidify.com/places/goa/vagator-beach-sightseeing-1868.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/palolem-beach-sightseeing-1860.html">
+<h3 class="card-heading"> 16. Palolem Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/attr_73_20190710110545.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.4</b>
+<span class="light"> /5</span>
+</span>
+<span class="num-photos"> View 9+ photos </span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 58 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 16 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/south-goa-places-to-visit-area.html"><b> South Goa </b></a> </p>
+<p class="card-text"> Palolem Beach, located in the South Goa is one of the most beautiful beaches of the Union Territory has to offer. Mostly unspoiled, the beach is often flocked with foreign tourists.  </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/palolem-beach-sightseeing-1860.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="1860" data-counter="16" data-dist="58" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/attr_73_20190710110545.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/attr_73_20190710110545.jpg" data-lat="15.0099648" data-lng="74.0232186" data-marker="Beaches.png" data-name="Palolem Beach" data-url="https://www.holidify.com/places/goa/palolem-beach-sightseeing-1860.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/spa-and-massages-sightseeing-1865.html">
+<h3 class="card-heading"> 17. Spa and Massages </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/attr_square/1865.jpg" src="/res/images/patt.png"/>
+<span class="must-visit"> Must visit </span>
+<span class="rating-badge" style="background-color:#9acc2b;">
+<b>3.7</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 8 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 17 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="card-text"> Goa is full of spa resorts and Ayurvedic massage centers. Beachside massages are also available at some beaches. Various spas of Goa which are preferred by the tourists from all around the world are Sereno Spa and Leela Kempinski Goa Spa Center. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/spa-and-massages-sightseeing-1865.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Activity" type="hidden"/>
+<input class="dataHolder" data-code="1865" data-counter="17" data-dist="8" data-img="&lt;img src=https://www.holidify.com/images/compressed/thumbnail/4373.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/compressed/thumbnail/4373.jpg" data-lat="15.540542" data-lng="73.7648669" data-marker="Activity.png" data-name="Spa and Massages" data-url="https://www.holidify.com/places/goa/spa-and-massages-sightseeing-1865.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/colva-beach-sightseeing-1850.html">
+<h3 class="card-heading"> 18. Colva Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/attr_square/1850.jpg" src="/res/images/patt.png"/>
+<span class="must-visit"> Must visit </span>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.4</b>
+<span class="light"> /5</span>
+</span>
+<span class="num-photos"> View 6+ photos </span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 26 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 18 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/madgaon-places-to-visit-area.html"><b> Madgaon </b></a> </p>
+<p class="card-text"> One of the most happening beaches in South Goa, Colva beach is mainly renowned for its shopping and phenomenal nightlife. The beach is full of shacks and eating joints.  </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/colva-beach-sightseeing-1850.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="1850" data-counter="18" data-dist="26" data-img="&lt;img src=https://www.holidify.com/images/compressed/attractions_thumbnails/attr_1406.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/compressed/attractions_thumbnails/attr_1406.jpg" data-lat="15.2806417" data-lng="73.9113651" data-marker="Beaches.png" data-name="Colva Beach" data-url="https://www.holidify.com/places/goa/colva-beach-sightseeing-1850.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/morjim-beach-sightseeing-1858.html">
+<h3 class="card-heading"> 19. Morjim Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/attr_square/1858.jpg" src="/res/images/patt.png"/>
+<span class="must-visit"> Must visit </span>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.3</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 18 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 19 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/north-goa-places-to-visit-area.html"><b> North Goa </b></a> </p>
+<p class="card-text"> Morjim is sometimes referred to as "Little Russia" owing to the large population of Russian immigrants staying here. Morjim beach is home to exotic species of birds and some rare endangered animals such as sea turtles. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/morjim-beach-sightseeing-1858.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="1858" data-counter="19" data-dist="18" data-img="&lt;img src=https://www.holidify.com/images/compressed/thumbnail/3203.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/compressed/thumbnail/3203.jpg" data-lat="15.6265724" data-lng="73.7321019" data-marker="Beaches.png" data-name="Morjim Beach" data-url="https://www.holidify.com/places/goa/morjim-beach-sightseeing-1858.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/thalassa--sightseeing-1257034.html">
+<h3 class="card-heading"> 20. Thalassa  </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/c_20190727233128.PNG" src="/res/images/patt.png"/>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 15 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 20 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="card-text"> Perched atop rocky cliffs, overlooking the spectacular Arabian Sea and the picturesque hamlet of Vagator, Thalassa- The Green Taverna is one of the most popular restaurants in Goa reverberating with the cultural flavour of Greece and serving the best food. Ideated, owned and conceived by Mariketty (known to be the most hospitable hostess), the open air restaurant boasts of comfortable cushioned chairs, rustic wooden decor, lively music  and a gorgeous ambiance. Besides a stunning sea view, and spectacular azure waters of the sea in the background, the place has been done up royally in billowy white drapes and furnishings. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/thalassa--sightseeing-1257034.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Activity" type="hidden"/>
+<input class="dataHolder" data-code="1257034" data-counter="20" data-dist="15" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/c_20190727233128.PNG class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/c_20190727233128.PNG" data-lat="15.6162" data-lng="73.7556" data-marker="Activity.png" data-name="Thalassa " data-url="https://www.holidify.com/places/goa/thalassa--sightseeing-1257034.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/collections/casinos-in-goa">
+<h3 class="card-heading"> 21. Casino </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/15014750514_3a5504504c_z_20190315163954_20190315164025.jpg" src="/res/images/patt.png"/>
+<span class="must-visit"> Must visit </span>
+<span class="rating-badge" style="background-color:#9acc2b;">
+<b>3.6</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 0 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 21 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="card-text"> Located on a yacht in River Mandovi, the casino is one of the coolest places to be when you're in the party state. The entry fee is placed high at Rs. 1600, and the casino holds ample number of tables of American Roulette, Blackjack and Rummy. Go ahead and try your luck! </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/collections/casinos-in-goa")'> Read More </a>
+<input class="attractionCategory" data-tag="Activity" type="hidden"/>
+<input class="dataHolder" data-code="8005" data-counter="21" data-dist="0" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/15014750514_3a5504504c_z_20190315163954_20190315164025.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/15014750514_3a5504504c_z_20190315163954_20190315164025.jpg" data-lat="15.500615" data-lng="73.831387" data-marker="Activity.png" data-name="Casino" data-url="https://www.holidify.com/collections/casinos-in-goa" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/brittos-sightseeing-1256244.html">
+<h3 class="card-heading"> 22. Brittos </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/britto2_20190325102836.jpg" src="/res/images/patt.png"/>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 11 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 22 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="card-text"> Be it during the season or off-season, you cannot NOT come here if you're in Goa. It is amongst the best shacks in Baga Beach and is just perfect if you're seeking the company of the sea and the sand while you sip on that beer. This beach shack in Goa gives you a multi-cuisine menu with a plethora of exquisite seafood and a massive list of drinks. It'll be your happy place!<br/><strong><br/>Location: </strong>House No.7, 171, Calangute - Baga Rd, Saunta Vaddo, Baga, Goa 403516<br/><strong>Cuisine: </strong>Chinese, Continental, Goan, North Indian, Seafood<br/><strong>Must Try:</strong> Seafood Platter, calamari, baked crabs<br/><strong>Cost For Two:</strong> INR 1400<br/><strong>Timings:</strong> 8:30 am–12 am, Daily<br/> </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/brittos-sightseeing-1256244.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Nightlife" type="hidden"/>
+<input class="dataHolder" data-code="1256244" data-counter="22" data-dist="11" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/britto2_20190325102836.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/britto2_20190325102836.jpg" data-lat="15.5613" data-lng="73.7495" data-marker="Nightlife.png" data-name="Brittos" data-url="https://www.holidify.com/places/goa/brittos-sightseeing-1256244.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/anjuna-flea-market-sightseeing-1254791.html">
+<h3 class="card-heading"> 23. Anjuna Flea Market </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/e_20190430211302.PNG" src="/res/images/patt.png"/>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 12 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 23 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="card-text"> Considered a treasure trove of trinkets, handicrafts, hippie clothing, souvenirs and everything else from cheap bags to footwear and junk jewellery, Anjuna Flea Market is a shopper’s paradise. Offering a multiple range of products from Keralan spices, to Kashmiri jewellery, wooden toys from Karnataka to Jimi Hendrix t-shirts, the market is a must-visit place for a true Goan experience. In addition to that, you can also find second hand bikes, cellphones, cameras etc. Held from 9:00 AM to 6:00 PM every Wednesday on the shores of the Anjuna Beach, the market is one of the most popular and sought-after markets in Goa. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/anjuna-flea-market-sightseeing-1254791.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Shopping" type="hidden"/>
+<input class="dataHolder" data-code="1254791" data-counter="23" data-dist="12" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/e_20190430211302.PNG class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/e_20190430211302.PNG" data-lat="15.5723" data-lng="73.7424" data-marker="Shopping.png" data-name="Anjuna Flea Market" data-url="https://www.holidify.com/places/goa/anjuna-flea-market-sightseeing-1254791.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/agonda-beach-sightseeing-1836.html">
+<h3 class="card-heading"> 24. Agonda Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/attr_square/1836.jpg" src="/res/images/patt.png"/>
+<span class="must-visit"> Must visit </span>
+<span class="rating-badge" style="background-color:#247c2a;">
+<b>4.4</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 53 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 24 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/south-goa-places-to-visit-area.html"><b> South Goa </b></a> </p>
+<p class="card-text"> If you're looking for a place away from the hustle bustle of the crowd with more space and solitude, Agonda beach is the right place for you. With the clear blue water and coconut trees, this beach is a delight for nature lovers. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/agonda-beach-sightseeing-1836.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="1836" data-counter="24" data-dist="53" data-img="&lt;img src=https://www.holidify.com/images/compressed/thumbnail/3202.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/compressed/thumbnail/3202.jpg" data-lat="15.0437626" data-lng="73.9857577" data-marker="Beaches.png" data-name="Agonda Beach" data-url="https://www.holidify.com/places/goa/agonda-beach-sightseeing-1836.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/club-lpk--love-passion-karma-candolim-sightseeing-1849.html">
+<h3 class="card-heading"> 25. Club LPK - Love Passion Karma, Candolim </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/attr_square/1849.jpg" src="/res/images/patt.png"/>
+<span class="must-visit"> Must visit </span>
+<span class="rating-badge" style="background-color:#9acc2b;">
+<b>3.7</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 5 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 25 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/north-goa-places-to-visit-area.html"><b> North Goa </b></a> </p>
+<p class="card-text"> Club LPK has generally some good DJs playing a mix of house, trance, and Bollywood music for all kinds of customers. The dance area is big and ambience is great. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/club-lpk--love-passion-karma-candolim-sightseeing-1849.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Nightlife" type="hidden"/>
+<input class="dataHolder" data-code="1849" data-counter="25" data-dist="5" data-img="&lt;img src=https://www.holidify.com/images/compressed/thumbnail/8031.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/compressed/thumbnail/8031.jpg" data-lat="15.5128947" data-lng="73.7832348" data-marker="Nightlife.png" data-name="Club LPK - Love Passion Karma, Candolim" data-url="https://www.holidify.com/places/goa/club-lpk--love-passion-karma-candolim-sightseeing-1849.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/mambos-calangute-sightseeing-1857.html">
+<h3 class="card-heading"> 26. Mambos, Calangute </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/mamboo_20200206131113_20200206131133.jpg" src="/res/images/patt.png"/>
+<span class="must-visit"> Must visit </span>
+<span class="rating-badge" style="background-color:#9acc2b;">
+<b>3.7</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 10 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 26 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/north-goa-places-to-visit-area.html"><b> North Goa </b></a> </p>
+<p class="card-text"> Mambos have seen its lows and highs, starting as a run-of-the-mill club, gaining immediate popularity and coming back to square one. The club is trying to make the scene better and have different DJs playing different genre of music each day of the week. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/mambos-calangute-sightseeing-1857.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Nightlife" type="hidden"/>
+<input class="dataHolder" data-code="1857" data-counter="26" data-dist="10" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/mamboo_20200206131113_20200206131133.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/mamboo_20200206131113_20200206131133.jpg" data-lat="15.555126" data-lng="73.752648" data-marker="Nightlife.png" data-name="Mambos, Calangute" data-url="https://www.holidify.com/places/goa/mambos-calangute-sightseeing-1857.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/se-cathedral-sightseeing-1864.html">
+<h3 class="card-heading"> 27. Se Cathedral </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/attr_1864.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#9acc2b;">
+<b>3.3</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 9 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 27 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/panaji-places-to-visit-area.html"><b> Panaji </b></a> </p>
+<p class="card-text"> One of the largest churches in whole Asia, Se Cathedral took nearly 80 years to get constructed. It was established to remember the victory of the Portuguese over the Muslim rulers in the city. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/se-cathedral-sightseeing-1864.html")'> Read More </a>
+<input class="attractionCategory" data-tag="church" type="hidden"/>
+<input class="dataHolder" data-code="1864" data-counter="27" data-dist="9" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/attr_1864.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/attr_1864.jpg" data-lat="15.5038676" data-lng="73.9121918" data-marker="church.png" data-name="Se Cathedral" data-url="https://www.holidify.com/places/goa/se-cathedral-sightseeing-1864.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/cavelossim-beach-sightseeing-120858.html">
+<h3 class="card-heading"> 28. Cavelossim Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/143238618516223515_20180326121955.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#d7ca23;">
+<b>3.0</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 38 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 28 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/south-goa-places-to-visit-area.html"><b> South Goa </b></a> </p>
+<p class="card-text"> With magnificent black rocks that contrast with the white sand shores of this idyllic beach, the Cavelossim beach finds itself a spot on many lists about the best beaches of India. Cleaner and quieter than the cliched party beaches of Goa, the beautiful beach is the perfect spot for travellers looking to enjoy the endless expanse of the clear blue waters as they lounge around the soft sands that caress your body completely. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/cavelossim-beach-sightseeing-120858.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="120858" data-counter="28" data-dist="38" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/143238618516223515_20180326121955.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/143238618516223515_20180326121955.jpg" data-lat="15.1715" data-lng="73.9415" data-marker="Beaches.png" data-name="Cavelossim Beach" data-url="https://www.holidify.com/places/goa/cavelossim-beach-sightseeing-120858.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/patnem-beach-sightseeing-1861.html">
+<h3 class="card-heading"> 29. Patnem Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/attr_1861.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#9acc2b;">
+<b>3.9</b>
+<span class="light"> /5</span>
+</span>
+<span class="num-photos"> View 5+ photos </span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 60 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 29 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/south-goa-places-to-visit-area.html"><b> South Goa </b></a> </p>
+<p class="card-text"> Situated in South Goa, Patnem beach is flanked by its more popular counterparts, namely Agonda and Palolem. Being located at a distance of 39 km from Madgaon, it is easily reachable by road and is one of the most tranquil beaches in South Goa. Its laidback and lazy atmosphere is a welcome respite from the upbeat and happening nature of the North Goa beaches such as <a data-mce-href="https://www.holidify.com/places/goa/baga-beach-sightseeing-6226.html" href="https://www.holidify.com/places/goa/baga-beach-sightseeing-6226.html" rel="follow">Baga Beach</a>, <a data-mce-href="https://www.holidify.com/places/goa/calangute-beach-sightseeing-6227.html" href="https://www.holidify.com/places/goa/calangute-beach-sightseeing-6227.html" rel="follow">Calangute Beach</a>, <a data-mce-href="https://www.holidify.com/places/goa/anjuna-beach-sightseeing-1837.html" href="https://www.holidify.com/places/goa/anjuna-beach-sightseeing-1837.html" rel="follow">Anjuna Beach</a> and <a data-mce-href="https://www.holidify.com/places/goa/vagator-beach-sightseeing-1868.html" href="https://www.holidify.com/places/goa/vagator-beach-sightseeing-1868.html" rel="follow">Vagator Beach</a>. Located in the southernmost taluka in the state, Cancona is the nearest town. Although the nearby <a data-mce-href="https://www.holidify.com/places/goa/palolem-beach-sightseeing-1860.html" href="https://www.holidify.com/places/goa/palolem-beach-sightseeing-1860.html" rel="follow">Palolem Beach</a> is a preferred destination in the south, Patnem has a different charm and allures you with tranquil tides. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/patnem-beach-sightseeing-1861.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="1861" data-counter="29" data-dist="60" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/attr_1861.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/attr_1861.jpg" data-lat="14.9968755" data-lng="74.0321885" data-marker="Beaches.png" data-name="Patnem Beach" data-url="https://www.holidify.com/places/goa/patnem-beach-sightseeing-1861.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/querim-beach-and-tiracol-fort-sightseeing-1862.html">
+<h3 class="card-heading"> 30. Querim Beach and Tiracol Fort </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/attr_square/1862.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#9acc2b;">
+<b>3.4</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 29 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 30 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/north-goa-places-to-visit-area.html"><b> North Goa </b></a> </p>
+<p class="card-text"> Located in the northern most part of Goa, around 58 km from Panajim, Tiracol fort is a 16th century fort overlooking the Arabian Sea providing a picturesque view. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/querim-beach-and-tiracol-fort-sightseeing-1862.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="1862" data-counter="30" data-dist="29" data-img="&lt;img src=https://www.holidify.com/images/compressed/thumbnail/3204.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/compressed/thumbnail/3204.jpg" data-lat="15.7192093" data-lng="73.6900414" data-marker="Beaches.png" data-name="Querim Beach and Tiracol Fort" data-url="https://www.holidify.com/places/goa/querim-beach-and-tiracol-fort-sightseeing-1862.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/betalbatim-beach-sightseeing-122933.html">
+<h3 class="card-heading"> 31. Betalbatim Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/19834567796_ea705677b7_b_20190116144958.jpg" src="/res/images/patt.png"/>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 24 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 31 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/madgaon-places-to-visit-area.html"><b> Madgaon </b></a> </p>
+<p class="card-text"> Located in South Goa, Betalbatim Beach is one of the quieter beaches of Goa. Lined with a plethora of fast food chains, local restaurants and spas, the highlight of the beach is the easy spotting of the dolphins. You can ask the local fishermen who can hike you a ride in a sea to have a glimpse of the dolphins. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/betalbatim-beach-sightseeing-122933.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="122933" data-counter="31" data-dist="24" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/19834567796_ea705677b7_b_20190116144958.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/19834567796_ea705677b7_b_20190116144958.jpg" data-lat="15.2926227" data-lng="73.9078744" data-marker="Beaches.png" data-name="Betalbatim Beach" data-url="https://www.holidify.com/places/goa/betalbatim-beach-sightseeing-122933.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/church-of-st-cajetan-sightseeing-1846.html">
+<h3 class="card-heading"> 32. Church of St. Cajetan </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/4364_20190417154629.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#9acc2b;">
+<b>3.4</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 9 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 32 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/panaji-places-to-visit-area.html"><b> Panaji </b></a> </p>
+<p class="card-text"> This church has a major resemblance with the St. Peters Basilica in Rome. On the left, there are three altars dedicated to the Holy Family, Our Lady of Piety and St. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/church-of-st-cajetan-sightseeing-1846.html")'> Read More </a>
+<input class="attractionCategory" data-tag="church" type="hidden"/>
+<input class="dataHolder" data-code="1846" data-counter="32" data-dist="9" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/4364_20190417154629.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/4364_20190417154629.jpg" data-lat="15.5056286" data-lng="73.9153081" data-marker="church.png" data-name="Church of St. Cajetan" data-url="https://www.holidify.com/places/goa/church-of-st-cajetan-sightseeing-1846.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/bambolim-beach-sightseeing-6228.html">
+<h3 class="card-heading"> 33. Bambolim Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/attr_square/6228.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#9acc2b;">
+<b>3.4</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 6 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 33 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/panaji-places-to-visit-area.html"><b> Panaji </b></a> </p>
+<p class="card-text"> Bambolim Beach, which is located 7 km from Panaji is considered one of the unexplored beaches of Goa. Since there are no major hotels or shacks, not many tourist visit this secret beach and is deserted all the year </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/bambolim-beach-sightseeing-6228.html")'> Read More </a>
+<a class="btn btn-blue" href="#" onclick="openTourPage('/tour/tour-id-398.html', 'BookFromPTVPage'); return false;">Book This Activity</a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="6228" data-counter="33" data-dist="6" data-img="&lt;img src=https://www.holidify.com/images/compressed/thumbnail/3199.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/compressed/thumbnail/3199.jpg" data-lat="15.4470155" data-lng="73.8536528" data-marker="Beaches.png" data-name="Bambolim Beach" data-url="https://www.holidify.com/places/goa/bambolim-beach-sightseeing-6228.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/butterfly-conservatory-of-goa-sightseeing-123806.html">
+<h3 class="card-heading"> 34. Butterfly Conservatory Of Goa </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/attr_123806_20190423172457.jpg" src="/res/images/patt.png"/>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 21 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 34 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="card-text"> The Butterfly Conservatory of Goa is a spectacular garden area in the Ponda district spread over 4000 square metres designed as a place to stroll and absorb in the serene beauty of nature. In the vast expanses of the garden, one can take a leisurely walk and observe over a hundred different species of butterflies from close quarters. 
+ </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/butterfly-conservatory-of-goa-sightseeing-123806.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Sightseeing" type="hidden"/>
+<input class="dataHolder" data-code="123806" data-counter="34" data-dist="21" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/attr_123806_20190423172457.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/attr_123806_20190423172457.jpg" data-lat="15.4295587" data-lng="74.0124491" data-marker="Sightseeing.png" data-name="Butterfly Conservatory Of Goa" data-url="https://www.holidify.com/places/goa/butterfly-conservatory-of-goa-sightseeing-123806.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/titos-calangute-sightseeing-1867.html">
+<h3 class="card-heading"> 35. Tito's, Calangute </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/5679_20190514170534.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#9acc2b;">
+<b>3.5</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 10 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 35 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/north-goa-places-to-visit-area.html"><b> North Goa </b></a> </p>
+<p class="card-text"> Tito's is a brand name when it comes to clubbing in Goa. The club is famous for its commercial and Bollywood music and a huge dance floor. There is also a private party area available with its own bars on the first floor. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/titos-calangute-sightseeing-1867.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Nightlife" type="hidden"/>
+<input class="dataHolder" data-code="1867" data-counter="35" data-dist="10" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/5679_20190514170534.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/5679_20190514170534.jpg" data-lat="15.55641" data-lng="73.752955" data-marker="Nightlife.png" data-name="Tito's, Calangute" data-url="https://www.holidify.com/places/goa/titos-calangute-sightseeing-1867.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/sri-mahadeva-temple-sightseeing-123814.html">
+<h3 class="card-heading"> 36. Sri Mahadeva Temple </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/attr_square/attr_123814.jpg?v=1.1" src="/res/images/patt.png"/>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 46 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 36 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="card-text"> Sri Mahadeva Temple is one of the oldest temples in the state dedicated to Lord Shiva. It is said to be built by the minister of King Ramachandra of the Yadava Dynasty, Hemadri, but has influences of architecture belonging to the time the Kadamba Dynasty ruled Goa as well. The monument is made of basalt rocks sourced from the Deccan Plateau and adorns beautiful carvings made by skilled craftsmen of the time. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/sri-mahadeva-temple-sightseeing-123814.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Temple" type="hidden"/>
+<input class="dataHolder" data-code="123814" data-counter="36" data-dist="46" data-img="&lt;img src=https://www.holidify.com/images/foreign/thumbnail/attr_123814.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/foreign/thumbnail/attr_123814.jpg" data-lat="15.4390246" data-lng="74.2525848" data-marker="Temple.png" data-name="Sri Mahadeva Temple" data-url="https://www.holidify.com/places/goa/sri-mahadeva-temple-sightseeing-123814.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/fontainhas-and-sao-tome-sightseeing-123813.html">
+<h3 class="card-heading"> 37. Fontainhas and Sao Tome </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/attr_square/attr_123813.jpg?v=1.1" src="/res/images/patt.png"/>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 0 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 37 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/panaji-places-to-visit-area.html"><b> Panaji </b></a> </p>
+<p class="card-text"> Fontainhas and Sao Tome is a beautiful Latin Quarter located in Panaji on the banks of the Ourem Creek and named after the natural springs nearby. It was laid out on a piece of land acquired by a Goan in the 18th century who had made a fortune in Mozambique. The quarter is now recognised as a heritage site and is famous for its charming Portuguese style houses on the base of the Altinho hills. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/fontainhas-and-sao-tome-sightseeing-123813.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Sightseeing" type="hidden"/>
+<input class="dataHolder" data-code="123813" data-counter="37" data-dist="0" data-img="&lt;img src=https://www.holidify.com/images/foreign/thumbnail/attr_123813.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/foreign/thumbnail/attr_123813.jpg" data-lat="15.4995263" data-lng="73.8322494" data-marker="Sightseeing.png" data-name="Fontainhas and Sao Tome" data-url="https://www.holidify.com/places/goa/fontainhas-and-sao-tome-sightseeing-123813.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/church-of-st-francis-of-assisi-sightseeing-1845.html">
+<h3 class="card-heading"> 38. Church of St Francis of Assisi </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/attr_square/1845.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#9acc2b;">
+<b>3.4</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 9 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 38 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/panaji-places-to-visit-area.html"><b> Panaji </b></a> </p>
+<p class="card-text"> This is the famous landmarks of Goa and is the oldest church located in Panajim. The statue of Mother Mary stands at the front of the church with the tower of the church behind. This church has truly been beautifully preserved. Also, the church bell is the 2nd largest bell in the whole world. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/church-of-st-francis-of-assisi-sightseeing-1845.html")'> Read More </a>
+<input class="attractionCategory" data-tag="church" type="hidden"/>
+<input class="dataHolder" data-code="1845" data-counter="38" data-dist="9" data-img="&lt;img src=https://www.holidify.com/images/compressed/thumbnail/4363.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/compressed/thumbnail/4363.jpg" data-lat="15.5033001" data-lng="73.9113818" data-marker="church.png" data-name="Church of St Francis of Assisi" data-url="https://www.holidify.com/places/goa/church-of-st-francis-of-assisi-sightseeing-1845.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/cabo-de-rama-beach-sightseeing-6225.html">
+<h3 class="card-heading"> 39. Cabo de Rama Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/attr_square/6225.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#9acc2b;">
+<b>3.4</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 45 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 39 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/south-goa-places-to-visit-area.html"><b> South Goa </b></a> </p>
+<p class="card-text"> Cabo de Rama Beach is a beautiful beach located in Margao and is not yet been discovered by tourists. The beach is secluded owning to its distance from major towns and cities and is least visited by tourists. Overlooking the beach is the Portuguese Fort called Cabo de Rama. From the fort, one can see the beautiful view of the beach </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/cabo-de-rama-beach-sightseeing-6225.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="6225" data-counter="39" data-dist="45" data-img="&lt;img src=https://www.holidify.com/images/compressed/thumbnail/5373.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/compressed/thumbnail/5373.jpg" data-lat="15.103183" data-lng="73.925511" data-marker="Beaches.png" data-name="Cabo de Rama Beach" data-url="https://www.holidify.com/places/goa/cabo-de-rama-beach-sightseeing-6225.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/monastery-of-st-augustine-sightseeing-123838.html">
+<h3 class="card-heading"> 40. Monastery Of St Augustine </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/attr_square/attr_123838.jpg?v=1.1" src="/res/images/patt.png"/>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 8 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 40 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/panaji-places-to-visit-area.html"><b> Panaji </b></a> </p>
+<p class="card-text"> Monastery Of St. Augustine is a 17th century structure, believed to be built by the Augustinian friars but today, mostly seen in ruins. The dilapidated but splendid tower of the church can be seen from a distance and one can gauge the grandiosity of the monastery when it was completely intact. It is considered as one of the biggest churches and an important tourist attraction in the state. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/monastery-of-st-augustine-sightseeing-123838.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Religious" type="hidden"/>
+<input class="dataHolder" data-code="123838" data-counter="40" data-dist="8" data-img="&lt;img src=https://www.holidify.com/images/foreign/thumbnail/attr_123838.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/foreign/thumbnail/attr_123838.jpg" data-lat="15.5005094" data-lng="73.9064616" data-marker="Religious.png" data-name="Monastery Of St Augustine" data-url="https://www.holidify.com/places/goa/monastery-of-st-augustine-sightseeing-123838.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/savoi-plantation-sightseeing-123822.html">
+<h3 class="card-heading"> 41. Savoi Plantation </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/attr_square/attr_123822.jpg?v=1.1" src="/res/images/patt.png"/>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 19 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 41 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/panaji-places-to-visit-area.html"><b> Panaji </b></a> </p>
+<p class="card-text"> Savoi Plantation is a 40 Hectare organic farm established by Mr. Shetye. The beautifully maintained farm has been open to the public since 1985. A number of fruits, vegetables and spices are grown with immense love and care. A guided and informative tour of the plantation is given to every guest. Exploring the attraction is one of the best ways to come close to nature and take away a tip or two for one's own little garden. Almost 200 years old, it is one of the best ways to see the beauty of Goa's untouched hinterlands. Lying at a distance of 16 km from Ponda, the nearest major connecting point, it can be reached by a private transport. The local guides at Savoi Plantation can give you a well-guided and escorted tour of the surroundings. However, do pla your visit in advance so that you can explore this beautiful place to the fullest. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/savoi-plantation-sightseeing-123822.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Greenery" type="hidden"/>
+<input class="dataHolder" data-code="123822" data-counter="41" data-dist="19" data-img="&lt;img src=https://www.holidify.com/images/foreign/thumbnail/attr_123822.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/foreign/thumbnail/attr_123822.jpg" data-lat="15.493259" data-lng="74.000909" data-marker="Greenery.png" data-name="Savoi Plantation" data-url="https://www.holidify.com/places/goa/savoi-plantation-sightseeing-123822.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="col-12 col-md-6 pr-md-3">
+<div class="card content-card">
+<a href="https://www.holidify.com/places/goa/ashwem-beach-sightseeing-120841.html">
+<h3 class="card-heading"> 42. Ashwem Beach </h3>
+<div class="position-relative">
+<img alt="" class="card-img-top lazy" data-original="https://www.holidify.com/images/cmsuploads/square/20180210_143819_20180321144108.jpg" src="/res/images/patt.png"/>
+<span class="rating-badge" style="background-color:#d7ca23;">
+<b>3.0</b>
+<span class="light"> /5</span>
+</span>
+</div>
+</a>
+<div class="card-body">
+<p class="objective">
+<span> 20 km <br/> from city center </span>
+<span class="divider"> </span>
+<span> 42 out of 189 <br/> places to visit in Goa </span>
+</p>
+<p class="mb-2"> <b> Located in : </b> <a href="/places/goa/north-goa-places-to-visit-area.html"><b> North Goa </b></a> </p>
+<p class="card-text"> Ashwem Beach is one of the few beaches left in Goa that is yet to be discovered by the mainstream tourist crowd of Goa, offering its visitors an endless expanse of pearly white sands complemented well by the beautiful waves of the Arabian Sea. Surfing and Yoga are widely practised here. </p>
+</div>
+<div class="content-card-footer">
+<a class="btn btn-read-more mr-auto" onclick='openLink("https://www.holidify.com/places/goa/ashwem-beach-sightseeing-120841.html")'> Read More </a>
+<input class="attractionCategory" data-tag="Beaches" type="hidden"/>
+<input class="dataHolder" data-code="120841" data-counter="42" data-dist="20" data-img="&lt;img src=https://www.holidify.com/images/cmsuploads/thumbnail/20180210_143819_20180321144108.jpg class='mapDivImg'&gt;" data-imgurl="https://www.holidify.com/images/cmsuploads/thumbnail/20180210_143819_20180321144108.jpg" data-lat="15.643918" data-lng="73.717598" data-marker="Beaches.png" data-name="Ashwem Beach" data-url="https://www.holidify.com/places/goa/ashwem-beach-sightseeing-120841.html" type="hidden"/>
+</div>
+</div>
+</div>
+<!--
+-->
+<!-- Pagination -->
+<nav class="pagination-container w-100">
+<ul class="pagination justify-content-center">
+<li class="page-item first mr-auto m-0">
+<a class="page-link" href="/places/goa/sightseeing-and-things-to-do.html?pageNum=0" tabindex="-1"> <span class="hidden-sm">From</span> Start</a>
+</li>
+<li class="page-item active"><a class="page-link" href="/places/goa/sightseeing-and-things-to-do.html?pageNum=0"> 1 </a></li>
+<li class="page-item"><a class="page-link" href="/places/goa/sightseeing-and-things-to-do.html?pageNum=1"> 2 </a></li>
+<li class="page-item"><a class="page-link" href="/places/goa/sightseeing-and-things-to-do.html?pageNum=2"> 3 </a></li>
+<li class="page-item"><a class="page-link" href="/places/goa/sightseeing-and-things-to-do.html?pageNum=3"> 4 </a></li>
+<li class="page-item"><a class="page-link" href="/places/goa/sightseeing-and-things-to-do.html?pageNum=4"> 5 </a></li>
+<li class="page-item next ml-auto">
+<a class="page-link" href="/places/goa/sightseeing-and-things-to-do.html?pageNum=1">Next</a>
+</li>
+</ul>
+</nav>
+<!-- Neighborhood Widget -->
+<div class="col-12 recover-negative-margin">
+<div class="row no-gutters mb-50">
+<h2 class="heading2 w-100"> Things to do in Goa by Neighbourhood </h2>
+<div class="col hfCarousel">
+<div class="regular slick-initialized slick-slider" data-label="AreaWidget">
+<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 25000px; transform: translate3d(-8px, 0px, 0px);"><div aria-hidden="false" class="slick-slide slick-current slick-active" data-slick-index="0" style="" tabindex="0">
+<div class="col-12 ptv-item">
+<a href="/places/goa/madgaon-places-to-visit-area.html" tabindex="0">
+<img alt="" class="lazy" data-original="https://www.holidify.com/images/attr_square/1850.jpg" src="/res/images/patt.png"/>
+<p>Madgaon</p>
+</a>
+</div> </div><div aria-hidden="false" class="slick-slide slick-active" data-slick-index="1" style="" tabindex="0">
+<div class="col-12 ptv-item">
+<a href="/places/goa/panaji-places-to-visit-area.html" tabindex="0">
+<img alt="" class="lazy" data-original="https://www.holidify.com/images/cmsuploads/square/attr_1840.jpg" src="/res/images/patt.png"/>
+<p>Panaji</p>
+</a>
+</div> </div><div aria-hidden="true" class="slick-slide" data-slick-index="2" style="" tabindex="-1">
+<div class="col-12 ptv-item">
+<a href="/places/goa/north-goa-places-to-visit-area.html" tabindex="-1">
+<img alt="" class="lazy" data-original="https://www.holidify.com/images/cmsuploads/square/4573430503_34398eb30f_b_20181204134324.jpg" src="/res/images/patt.png"/>
+<p>North Goa</p>
+</a>
+</div> </div><div aria-hidden="true" class="slick-slide" data-slick-index="3" style="" tabindex="-1">
+<div class="col-12 ptv-item">
+<a href="/places/goa/south-goa-places-to-visit-area.html" tabindex="-1">
+<img alt="" class="lazy" data-original="https://www.holidify.com/images/cmsuploads/square/Palolem_beach_20181204133936.jpg" src="/res/images/patt.png"/>
+<p>South Goa</p>
+</a>
+</div> </div><div aria-hidden="true" class="slick-slide" data-slick-index="4" style="" tabindex="-1">
+<div class="col-12 ptv-item">
+<a href="/places/goa/vasco-da-gama-places-to-visit-area.html" tabindex="-1">
+<img alt="" class="lazy" data-original="https://www.holidify.com/images/cmsuploads/square/the-vasco-da-gama-bridge-3171047_1920_20181204134034.jpg" src="/res/images/patt.png"/>
+<p>Vasco Da Gama</p>
+</a>
+</div> </div></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- FAQ schema -->
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "FAQPage",
+	"mainEntity": [
+	
+		
+
+
+{
+    "@type": "Question",
+    "name": "What are the top restaurants in Goa?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The best places to eat in Goa are Waves Restaurant, Casa Vaz Tea Shop, Street-Food Stalls, Cinnabar, Tourist Inn, Zeebop by the Sea. You can see all the places to eat in Goa here"
+    }
+} , 
+	
+		
+
+
+{
+    "@type": "Question",
+    "name": "What are the top sightseeing places in Goa?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The top sightseeing places in Goa are Calangute Beach, Basilica of Bom Jesus, Water Sports in Goa, Fort Aguada, Baga Beach, Cruise in Goa."
+    }
+} , 
+	
+		
+
+
+{
+    "@type": "Question",
+    "name": "What are the top shopping places in Goa?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The top shopping places in Goa are Flea Markets, Anjuna Flea Market, Shopping in Goa."
+    }
+} , 
+	
+		
+
+
+{
+    "@type": "Question",
+    "name": "How can I commute within Goa?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Beaches in Goa are far apart, and it stretches more than 100 km from north to south. Bus connectivity is good for popular areas of Goa and fares are low and still gives you a great view of the city. But buses are not a great option if you are looking for beach hopping or going to hang around till late night. Also, there are no Ola and Uber services available in Goa. You could rent a motorcycle or a scooter if you have a valid license. The rent starts at INR 300 per day per bike like Honda Activa or around INR 400 per day for Royal Enfield bikes. This excludes petrol costs. Riding on bikes is the most popular way of commuting in Goa for young tourists, including foreigners. You can also hire a cab, with or without a chauffeur to roam around. Cars cost approximately 900 - 1300 per day. However, finding parking spots close to all beaches could be a problem whereas bikes give you the flexibility of going pretty close to the beach to park.Here are some tips that will help you rent a vehicle safely and responsibly:DocumentsYou will be required to submit your&nbsp;ID Proof like PAN Card or Aadhar Card to the dealer. Keep your Driving License with you.Make sure to ask for the bike documents. You may need them if you?re stopped by the police and are asked for the registration.Testing the Vehicle1. Before renting the bike, be sure to look for any previous damages and inform the renter of them.2. Do a test run and drive the vehicle for a while to make sure that it works fine. Ask the renter for a helmet if you're renting a bike.3. These vehicles very rarely have fuel in them, so make sure you go to a petrol pump right away after renting.4. &nbsp;Take the renters information and contact details so that you can reach them if there is some trouble with the vehicle.5. Return the vehicle on time. If you're late there are chances that the renter may charge you more money.Read more about Renting a Bike in GoaRead More"
+    }
+} , 
+	
+		
+
+
+{
+    "@type": "Question",
+    "name": "How much does a package cost for Goa?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The packages for Goa start at INR 4100 which can be further customized based on number of people, days, hotel category, vehicle type and customizations. You can have a look at all packages here"
+    }
+} , 
+	
+		
+
+
+{
+    "@type": "Question",
+    "name": "What are the top hotels in Goa?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "There are 1564 Hotels in Goa which can be booked through Holidify. The most popular hotels in Goa are Sabinas Nest, The Secret Garden Goa, 2BHK Apartment In Candolim CM011, Aspire Casa Amarelo, Beaumonte by Vista Rooms, APARTMENT AS-6. You can see all the hotels in Goa  here"
+    }
+} , 
+	
+		
+
+
+{
+    "@type": "Question",
+    "name": "Can you suggest an itinerary for Goa?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Day 1 - Arrive at Goa and hire a bike, scooter or a car to visit Baga Beach and Calangute Beach. Indulge yourself in water sports like Parasailing and Jet Ski. Have lunch at Brittos. End the day with dinner at Mambo's or with a party in Tito's.Day 2 - Get up early in the morning and visit Fort Aguada and Fort Chhapora followed by Chhapora Beach. In the afternoon visit the churches - Basilica of Bom Jesus and Lady of Immaculate Conception. End the day with a party at Club Cabana. Day 3 - Take a road trip to up North. Visit Morjim, Arambol Beach and Candolim Beach.Spend the evening in Casino Cruise ship at Panjim Jetty. You may visit Dona Paula or Miramar before the cruise.Day 4 - You can spend the day visiting Panjim on your day of return. Take a walk through the streets enjoying the colonial architecture."
+    }
+} , 
+	
+		
+
+
+{
+    "@type": "Question",
+    "name": "What are the top activities in Goa?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The top activities in Goa are Full Day Sightseeing Tour of South Goa, @ 300 Only, Scuba Diving at Grande Island in Goa-, Dudhsagar Falls and Spice Plantation Full Day Tour, North Goa Sightseeing Full Day Tour @ 300 Only, Romantic Couple Shoot in Goa, Water Sports in Calangute Beach, Goa @1599 Only."
+    }
+} 
+	
+	]
+}
+</script>
+<div class="row no-gutters mb-50">
+<div class="col-12">
+<h2 class="heading2 w-100">  FAQs on Goa  </h2>
+</div>
+<div class="accordion" id="accordionFlexibleParagraphs">
+<div class="card">
+<div class="card-header" data-target="#collapse1" data-toggle="collapse" id="heading1">
+<h2> What are the top restaurants in Goa? </h2>
+</div>
+<div class="collapse" id="collapse1">
+<div class="card-body article"> The best places to eat in Goa are Waves Restaurant, Casa Vaz Tea Shop, Street-Food Stalls, Cinnabar, Tourist Inn, Zeebop by the Sea. You can see all the places to eat in Goa <a href="/places/goa/restaurants-places-to-eat-local-cuisine.html">here</a> </div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" data-target="#collapse2" data-toggle="collapse" id="heading2">
+<h2> What are the top sightseeing places in Goa? </h2>
+</div>
+<div class="collapse" id="collapse2">
+<div class="card-body article">  The top sightseeing places in Goa are Calangute Beach, Basilica of Bom Jesus, Water Sports in Goa, Fort Aguada, Baga Beach, Cruise in Goa. </div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" data-target="#collapse3" data-toggle="collapse" id="heading3">
+<h2> What are the top shopping places in Goa? </h2>
+</div>
+<div class="collapse" id="collapse3">
+<div class="card-body article">  The top shopping places in Goa are Flea Markets, Anjuna Flea Market, Shopping in Goa. </div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" data-target="#collapse4" data-toggle="collapse" id="heading4">
+<h2> How can I commute within Goa? </h2>
+</div>
+<div class="collapse" id="collapse4">
+<div class="card-body article"> Beaches in Goa are far apart, and it stretches more than 100 km from north to south. Bus connectivity is good for popular areas of Goa and fares are low and still gives you a great view of the city. But buses are not a great option if you are looking for beach hopping or going to hang around till late night. Also, there are no Ola and Uber services available in Goa. You could rent a motorcycle or a scooter if you have a valid license. The rent starts at INR 300 per day per bike like Honda Activa or around INR 400 per day for Royal Enfield bikes. This excludes petrol costs. Riding on bikes is the most popular way of commuting in Goa for young tourists, including foreigners. You can also hire a cab, with or without a chauffeur to roam around. Cars cost approximately 900 - 1300 per day. However, finding parking spots close to all beaches could be a problem whereas bikes give you the flexibility of going pretty close to the beach to park.<br/><br/>Here are some tips that will help you rent a vehicle safely and responsibly:<br/><br/><strong>Documents</strong><br/><br/>You will be required to submit your ID Proof like PAN Card or Aadhar Card to the dealer. Keep your Driving License with you.<br/><br/>Make sure to ask for the bike documents. You may need them if you?re stopped by the police and are asked for the registration.<br/><br/><strong>Testing the Vehicle</strong><br/><br/>1. Before renting the bike, be sure to look for any previous damages and inform the renter of them.<br/><br/>2. Do a test run and drive the vehicle for a while to make sure that it works fine. Ask the renter for a helmet if you're renting a bike.<br/><br/>3. These vehicles very rarely have fuel in them, so make sure you go to a petrol pump right away after renting.<br/><br/>4.  Take the renters information and contact details so that you can reach them if there is some trouble with the vehicle.<br/><br/>5. Return the vehicle on time. If you're late there are chances that the renter may charge you more money.<br/><br/>Read more about<a data-mce-href="https://www.holidify.com/pages/bike-renting-in-goa-375.html" href="https://www.holidify.com/pages/bike-renting-in-goa-375.html" rel="follow"> Renting a Bike in Goa</a><br/><a href="/places/goa/how-to-reach.html#commutingWithin">Read More</a> </div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" data-target="#collapse5" data-toggle="collapse" id="heading5">
+<h2> How much does a package cost for Goa? </h2>
+</div>
+<div class="collapse" id="collapse5">
+<div class="card-body article"> The packages for Goa start at INR 4100 which can be further customized based on number of people, days, hotel category, vehicle type and customizations. You can have a look at all packages <a href="/places/goa/packages.html">here</a> </div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" data-target="#collapse6" data-toggle="collapse" id="heading6">
+<h2> What are the top hotels in Goa? </h2>
+</div>
+<div class="collapse" id="collapse6">
+<div class="card-body article">  There are 1564 Hotels in Goa which can be booked through Holidify. The most popular hotels in Goa are  Sabinas Nest, The Secret Garden Goa, 2BHK Apartment In Candolim CM011, Aspire Casa Amarelo, Beaumonte by Vista Rooms, APARTMENT AS-6. You can see all the hotels in Goa <a href="/places/goa/hotels-where-to-stay.html"> here </a> </div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" data-target="#collapse7" data-toggle="collapse" id="heading7">
+<h2> Can you suggest an itinerary for Goa? </h2>
+</div>
+<div class="collapse" id="collapse7">
+<div class="card-body article"> <strong> Day 1 - </strong>Arrive at Goa and hire a bike, scooter or a car to visit Baga Beach and Calangute Beach. Indulge yourself in water sports like Parasailing and Jet Ski. Have lunch at Brittos. End the day with dinner at Mambo's or with a party in Tito's.<br/><strong>Day 2 - </strong>Get up early in the morning and visit Fort Aguada and Fort Chhapora followed by Chhapora Beach. In the afternoon visit the churches - Basilica of Bom Jesus and Lady of Immaculate Conception. End the day with a party at Club Cabana. <br/><strong>Day 3 -</strong> Take a road trip to up North. Visit Morjim, Arambol Beach and Candolim Beach.<strong><br/></strong>Spend the evening in Casino Cruise ship at Panjim Jetty. You may visit Dona Paula or Miramar before the cruise.<br/><strong>Day 4 - </strong>You can spend the day visiting Panjim on your day of return. Take a walk through the streets enjoying the colonial architecture. </div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" data-target="#collapse8" data-toggle="collapse" id="heading8">
+<h2> What are the top activities in Goa? </h2>
+</div>
+<div class="collapse" id="collapse8">
+<div class="card-body article">  The top activities in Goa are Full Day Sightseeing Tour of South Goa, @ 300 Only, Scuba Diving at Grande Island in Goa-, Dudhsagar Falls and Spice Plantation Full Day Tour, North Goa Sightseeing Full Day Tour @ 300 Only, Romantic Couple Shoot in Goa, Water Sports in Calangute Beach, Goa @1599 Only. </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 pl-lg-3">
+<div class="row no-gutters mb-50">
+<h2 class="heading2 w-100">  Nearby Places  </h2>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/tarkarli/">
+<img alt="Tarkarli, Maharashtra" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/TARKARLI.jpg" src="/res/images/patt.png"/>
+<div> Tarkarli </div>
+</a>
+<a class="secondary-link" href="/places/tarkarli/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/gokarna/">
+<img alt="Gokarna, Karnataka" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/GOKARNA.jpg" src="/res/images/patt.png"/>
+<div> Gokarna </div>
+</a>
+<a class="secondary-link" href="/places/gokarna/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/chorla-ghat/">
+<img alt="Chorla Ghat" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/CHORLA-GHAT.jpg" src="/res/images/patt.png"/>
+<div> Chorla Ghat </div>
+</a>
+<a class="secondary-link" href="/places/chorla-ghat/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/malvan/">
+<img alt="Malvan, Maharashtra" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/MALVAN.jpg" src="/res/images/patt.png"/>
+<div> Malvan </div>
+</a>
+<a class="secondary-link" href="/places/malvan/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/amboli/">
+<img alt="Amboli, Maharashtra" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/AMBOLI.jpg" src="/res/images/patt.png"/>
+<div> Amboli </div>
+</a>
+<a class="secondary-link" href="/places/amboli/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/devbagh/">
+<img alt="Devbagh, Karnataka" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/DEVBAGH.jpg" src="/res/images/patt.png"/>
+<div> Devbagh </div>
+</a>
+<a class="secondary-link" href="/places/devbagh/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/hampi/">
+<img alt="Hampi, Karnataka" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/HAMPI.jpg" src="/res/images/patt.png"/>
+<div> Hampi </div>
+</a>
+<a class="secondary-link" href="/places/hampi/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/sawantwadi/">
+<img alt="Sawantwadi, Maharashtra" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/SAWANTWADI.jpg" src="/res/images/patt.png"/>
+<div> Sawantwadi </div>
+</a>
+<a class="secondary-link" href="/places/sawantwadi/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+</div>
+<div class="w-100 mb-50">
+<div class="ad-container">
+<!-- right square: /21797983619/ca-pub-8014231071342543-tag/hf-d-336x280 -->
+<div id="div-gpt-ad-1551926930529-0" style="margin: 0px auto; display: none;">
+<script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1551926930529-0'); });
+            </script>
+</div>
+</div>
+</div>
+<div class="row no-gutters mb-50">
+<h2 class="heading2 w-100">  Similar Places  </h2>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/andaman-nicobar-islands/">
+<img alt="Andaman &amp; Nicobar Islands" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/ANDAMAN-NICOBAR-ISLANDS.jpg" src="/res/images/patt.png"/>
+<div> Andaman &amp; Nicobar Islands </div>
+</a>
+<a class="secondary-link" href="/places/andaman-nicobar-islands/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/gokarna/">
+<img alt="Gokarna, Karnataka" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/GOKARNA.jpg" src="/res/images/patt.png"/>
+<div> Gokarna </div>
+</a>
+<a class="secondary-link" href="/places/gokarna/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/pondicherry/">
+<img alt="Pondicherry" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/PONDICHERRY.jpg" src="/res/images/patt.png"/>
+<div> Pondicherry </div>
+</a>
+<a class="secondary-link" href="/places/pondicherry/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/varkala/">
+<img alt="Varkala, Kerala" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/VARKALA.jpg" src="/res/images/patt.png"/>
+<div> Varkala </div>
+</a>
+<a class="secondary-link" href="/places/varkala/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/kovalam/">
+<img alt="Kovalam, Kerala" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/KOVALAM.jpg" src="/res/images/patt.png"/>
+<div> Kovalam </div>
+</a>
+<a class="secondary-link" href="/places/kovalam/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/tarkarli/">
+<img alt="Tarkarli, Maharashtra" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/TARKARLI.jpg" src="/res/images/patt.png"/>
+<div> Tarkarli </div>
+</a>
+<a class="secondary-link" href="/places/tarkarli/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/mumbai/">
+<img alt="Mumbai, Maharashtra" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/MUMBAI.jpg" src="/res/images/patt.png"/>
+<div> Mumbai </div>
+</a>
+<a class="secondary-link" href="/places/mumbai/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+<div class="col-6 col-md-4 col-lg-6 nearby-item">
+<a href="/places/lakshadweep-islands/">
+<img alt="Lakshadweep" class="lazyRight lazy" data-original="https://www.holidify.com/images/tooltipImages/LAKSHADWEEP-ISLANDS.jpg" src="/res/images/patt.png"/>
+<div> Lakshadweep </div>
+</a>
+<a class="secondary-link" href="/places/lakshadweep-islands/sightseeing-and-things-to-do.html"> Attractions </a>
+</div>
+</div>
+<div class="row no-gutters mb-50">
+<h2 class="heading2 w-100">  Related Posts  </h2>
+<div class="col-12 related-post-right">
+<a href="https://www.holidify.com/pages/beach-shacks-in-goa-1496.html" title="17 Best Beach Shacks in Goa">
+<div class="media mb-2">
+<img alt="17 Best Beach Shacks in Goa" class="mr-2 lazyRight lazy" data-original="https://www.holidify.com/blog/wp-content/uploads/2015/06/photo1-287.jpg" src="/res/images/patt.png"/>
+<div class="media-body">
+<p class="category"> Beaches &amp; Islands </p>
+<p>17 Best Beach Shacks in Goa</p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 related-post-right">
+<a href="https://www.holidify.com/pages/goa-in-july-765.html" title="Goa in Monsoon: Is Goa in July A Good or Bad Idea?">
+<div class="media mb-2">
+<img alt="Goa in Monsoon: Is Goa in July A Good or Bad Idea?" class="mr-2 lazyRight lazy" data-original="https://www.holidify.com/images/cmsuploads/compressed/Social-Monsoon-Goa_20180620204148.jpg" src="/res/images/patt.png"/>
+<div class="media-body">
+<p class="category"> Sightseeing </p>
+<p>Goa in Monsoon: Is Goa in July A Good or Bad Idea?</p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 related-post-right">
+<a href="https://www.holidify.com/pages/goan-food-132.html" title="Food of Goa: 16 Goan Dishes That Will Make You Drool!">
+<div class="media mb-2">
+<img alt="Food of Goa: 16 Goan Dishes That Will Make You Drool!" class="mr-2 lazyRight lazy" data-original="https://www.holidify.com/images/cmsuploads/compressed/SharkAmbot_20170809111921.jpg" src="/res/images/patt.png"/>
+<div class="media-body">
+<p class="category"> Food &amp; Drink </p>
+<p>Food of Goa: 16 Goan Dishes That Will Make You Drool!</p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 related-post-right">
+<a href="https://www.holidify.com/pages/clubs-in-goa-502.html" title="Nightclubs in Goa - Best Discoclubs in Goa To Groove All NIght Long">
+<div class="media mb-2">
+<img alt="Nightclubs in Goa - Best Discoclubs in Goa To Groove All NIght Long" class="mr-2 lazyRight lazy" data-original="https://www.holidify.com/images/cmsuploads/compressed/006JMR_3790_20180515110648.jpg" src="/res/images/patt.png"/>
+<div class="media-body">
+<p class="category"> Nightlife </p>
+<p>Nightclubs in Goa - Best Discoclubs in Goa To Groove All NIght Long</p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 related-post-right">
+<a href="https://www.holidify.com/pages/mumbai-to-goa-roadtrip-1641.html" title="Mumbai to Goa Road trip &gt; Distance, Directions and Everything You Need To Know">
+<div class="media mb-2">
+<img alt="Mumbai to Goa Road trip &gt; Distance, Directions and Everything You Need To Know" class="mr-2 lazyRight lazy" data-original="https://www.holidify.com/blog/wp-content/uploads/2015/10/Mumbai-to-Goa-Road-Trip.jpg" src="/res/images/patt.png"/>
+<div class="media-body">
+<p class="category"> Road Trips </p>
+<p>Mumbai to Goa Road trip &gt; Distance, Directions and Everything You Need To Know</p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 related-post-right">
+<a href="https://www.holidify.com/pages/what-to-wear-in-goa-263.html" title="What To Wear In Goa - Dresses For Goa That You Must Carry!">
+<div class="media mb-2">
+<img alt="What To Wear In Goa - Dresses For Goa That You Must Carry!" class="mr-2 lazyRight lazy" data-original="https://www.holidify.com/images/cmsuploads/compressed/4851668770_4a97c3c342_b_20170920114728.jpg" src="/res/images/patt.png"/>
+<div class="media-body">
+<p class="category"> Travel Tips </p>
+<p>What To Wear In Goa - Dresses For Goa That You Must Carry!</p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 text-center"> <p><a href="/places/goa/related-stories.html"> <b> View All posts about Goa </b> </a></p> </div>
+</div>
+<div class="w-100">
+<div class="ad-container">
+<!-- skyscraper: /21797983619/ca-pub-8014231071342543-tag/hf-d-300x600 -->
+<div id="div-gpt-ad-1551926846877-0" style="margin: 0px auto; display: none;">
+<script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1551926846877-0'); });
+            </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Footer -->
+<!-- Modal for package request -->
+<div class="modal fade" id="packageModal" role="dialog" tabindex="-1">
+<div class="modal-dialog" id="packageLeadForm" role="document">
+<div class="modal-content packageModal" id="getQuotesPopUp">
+<div class="row m-0">
+<div class="d-none d-md-block col-md-4 package-modal-side-container">
+<div class="heading">Over 25 Million+ Happy Holidify Users</div>
+<div class="side-icon icons-technical-support"></div>
+<div class="sub-heading">3000+ travel agents across the world</div>
+<div class="side-icon icons-wedding-gift"></div>
+<div class="sub-heading">Get amazing deals on packages</div>
+<div class="side-icon icons-documents"></div>
+<div class="sub-heading">Get plans from destination experts</div>
+</div>
+<div class="col-12 col-md-8 package-modal-main-container">
+<button aria-label="Close" class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<h4 class="modal-title" id="packageModalHeading">Get Customized Travel Packages</h4>
+<p id="packageModalSubheading"> Plan your trip with experts and get best offers </p>
+<form action="javascript:void(0);" class="lead-form" id="Form" method="post">
+<div class="input-container row no-gutters paddingMobile">
+<input autocomplete="name" id="namePopup" name="name" onfocusout="checkThisValue(this)" placeholder="Name" required="" type="text"/>
+<i class="icon">
+<svg class="icon-user icon-svg">
+<use xlink:href="/res/images/sprite-v1/sprite-web.svg#img-user"></use>
+</svg>
+</i>
+</div>
+<div class="input-container row no-gutters paddingMobile">
+<div class="col-4 col-md-3 packageCountryCode CountryCode">
+<button class="btn btn-default dropdown-toggle categoryBtn col-xs-12 col-md-12" data-toggle="dropdown" id="countryButton" type="button">
+<span alt="India" class="flag flag-in" data-phone="+91" data-tcid="88"> </span> (+91) <span class="caret"></span>
+</button>
+<ul class="dropdown-menu countryListDropdown">
+<li> <span alt="India" class="flag flag-in" data-phone="+91" data-tcid="88"> </span> India (+91) </li>
+<li> <span alt="USA" class="flag flag-us" data-phone="+1" data-tcid="213"> </span> USA (+1) </li>
+<li> <span alt="Bangladesh" class="flag flag-bd" data-phone="+880" data-tcid="17"> </span> Bangladesh (+880) </li>
+<li> <span alt="United Arab Emirates" class="flag flag-ae" data-phone="+971" data-tcid="210"> </span> United Arab Emirates (+971) </li>
+<li> <span alt="England (United Kingdom)" class="flag flag-gb" data-phone="+44" data-tcid="62"> </span> England (United Kingdom) (+44) </li>
+<li> <span alt="Saudi Arabia" class="flag flag-sa" data-phone="+966" data-tcid="163"> </span> Saudi Arabia (+966) </li>
+<li> <span alt="Qatar" class="flag flag-qa" data-phone="+974" data-tcid="154"> </span> Qatar (+974) </li>
+<li> <span alt="Singapore" class="flag flag-sg" data-phone="+65" data-tcid="169"> </span> Singapore (+65) </li>
+<li> <span alt="Canada" class="flag flag-ca" data-phone="+1" data-tcid="36"> </span> Canada (+1) </li>
+<li> <span alt="Kuwait" class="flag flag-kw" data-phone="+965" data-tcid="101"> </span> Kuwait (+965) </li>
+<li> <span alt="Thailand" class="flag flag-th" data-phone="+66" data-tcid="193"> </span> Thailand (+66) </li>
+<li> <span alt="Australia" class="flag flag-au" data-phone="+61" data-tcid="13"> </span> Australia (+61) </li>
+<li> <span alt="Malaysia" class="flag flag-my" data-phone="+60" data-tcid="114"> </span> Malaysia (+60) </li>
+<li> <span alt="Nepal" class="flag flag-np" data-phone="+977" data-tcid="132"> </span> Nepal (+977) </li>
+<li> <span alt="Netherlands" class="flag flag-nl" data-phone="+31" data-tcid="198"> </span> Netherlands (+31) </li>
+<li> <span alt="Oman" class="flag flag-om" data-phone="+968" data-tcid="142"> </span> Oman (+968) </li>
+<li> <span alt="Germany" class="flag flag-de" data-phone="+49" data-tcid="74"> </span> Germany (+49) </li>
+<li> <span alt="France" class="flag flag-fr" data-phone="+33" data-tcid="71"> </span> France (+33) </li>
+<li> <span alt="Israel" class="flag flag-il" data-phone="+972" data-tcid="93"> </span> Israel (+972) </li>
+<li> <span alt="Romania" class="flag flag-ro" data-phone="+40" data-tcid="157"> </span> Romania (+40) </li>
+<li> <span alt="Russia" class="flag flag-ru" data-phone="+7" data-tcid="158"> </span> Russia (+7) </li>
+<li> <span alt="Afghanistan" class="flag flag-af" data-phone="+93" data-tcid="1"> </span> Afghanistan (+93) </li>
+<li> <span alt="Albania" class="flag flag-al" data-phone="+355" data-tcid="2"> </span> Albania (+355) </li>
+<li> <span alt="Algeria" class="flag flag-dz" data-phone="+213" data-tcid="3"> </span> Algeria (+213) </li>
+<li> <span alt="American Samoa" class="flag flag-as" data-phone="+1-684" data-tcid="4"> </span> American Samoa (+1-684) </li>
+<li> <span alt="Andorra" class="flag flag-ad" data-phone="+376" data-tcid="5"> </span> Andorra (+376) </li>
+<li> <span alt="Angola" class="flag flag-ao" data-phone="+244" data-tcid="6"> </span> Angola (+244) </li>
+<li> <span alt="Anguilla" class="flag flag-ai" data-phone="+1-264" data-tcid="7"> </span> Anguilla (+1-264) </li>
+<li> <span alt="Antarctica" class="flag flag-aq" data-phone="+672" data-tcid="8"> </span> Antarctica (+672) </li>
+<li> <span alt="Antigua and Barbuda" class="flag flag-ag" data-phone="+1-268" data-tcid="9"> </span> Antigua &amp; Barbuda (+1-268) </li>
+<li> <span alt="Argentina" class="flag flag-ar" data-phone="+54" data-tcid="10"> </span> Argentina (+54) </li>
+<li> <span alt="Armenia" class="flag flag-am" data-phone="+374" data-tcid="11"> </span> Armenia (+374) </li>
+<li> <span alt="Austria" class="flag flag-at" data-phone="+43" data-tcid="14"> </span> Austria (+43) </li>
+<li> <span alt="Azerbaijan" class="flag flag-az" data-phone="+994" data-tcid="15"> </span> Azerbaijan (+994) </li>
+<li> <span alt="Bahrain" class="flag flag-bh" data-phone="+973" data-tcid="16"> </span> Bahrain (+973) </li>
+<li> <span alt="Barbados" class="flag flag-bb" data-phone="+1-246" data-tcid="18"> </span> Barbados (+1-246) </li>
+<li> <span alt="Belarus" class="flag flag-by" data-phone="+375" data-tcid="19"> </span> Belarus (+375) </li>
+<li> <span alt="Belgium" class="flag flag-be" data-phone="+32" data-tcid="20"> </span> Belgium (+32) </li>
+<li> <span alt="Belize" class="flag flag-bz" data-phone="+501" data-tcid="21"> </span> Belize (+501) </li>
+<li> <span alt="Benin" class="flag flag-bj" data-phone="+229" data-tcid="22"> </span> Benin (+229) </li>
+<li> <span alt="Bermuda" class="flag flag-bm" data-phone="+1-441" data-tcid="23"> </span> Bermuda (+1-441) </li>
+<li> <span alt="Bhutan" class="flag flag-bt" data-phone="+975" data-tcid="24"> </span> Bhutan (+975) </li>
+<li> <span alt="Botswana" class="flag flag-bw" data-phone="+267" data-tcid="27"> </span> Botswana (+267) </li>
+<li> <span alt="Brazil" class="flag flag-br" data-phone="+55" data-tcid="28"> </span> Brazil (+55) </li>
+<li> <span alt="Bulgaria" class="flag flag-bg" data-phone="+359" data-tcid="31"> </span> Bulgaria (+359) </li>
+<li> <span alt="Burkina Faso" class="flag flag-bf" data-phone="+226" data-tcid="32"> </span> Burkina Faso (+226) </li>
+<li> <span alt="Burundi" class="flag flag-bi" data-phone="+257" data-tcid="33"> </span> Burundi (+257) </li>
+<li> <span alt="Cambodia" class="flag flag-kh" data-phone="+855" data-tcid="34"> </span> Cambodia (+855) </li>
+<li> <span alt="Cameroon" class="flag flag-cm" data-phone="+237" data-tcid="35"> </span> Cameroon (+237) </li>
+<li> <span alt="Cape Verde" class="flag flag-cv" data-phone="+238" data-tcid="38"> </span> Cape Verde (+238) </li>
+<li> <span alt="Cayman Islands" class="flag flag-ky" data-phone="+1-345" data-tcid="39"> </span> Cayman Islands (+1-345) </li>
+<li> <span alt="Central African Republic" class="flag flag-cf" data-phone="+236" data-tcid="40"> </span> Central African Republic (+236) </li>
+<li> <span alt="Chad" class="flag flag-td" data-phone="+235" data-tcid="41"> </span> Chad (+235) </li>
+<li> <span alt="Chile" class="flag flag-cl" data-phone="+56" data-tcid="42"> </span> Chile (+56) </li>
+<li> <span alt="China" class="flag flag-cn" data-phone="+86" data-tcid="43"> </span> China (+86) </li>
+<li> <span alt="Colombia" class="flag flag-co" data-phone="+57" data-tcid="44"> </span> Colombia (+57) </li>
+<li> <span alt="Comoros" class="flag flag-km" data-phone="+269" data-tcid="45"> </span> Comoros (+269) </li>
+<li> <span alt="Costa Rica" class="flag flag-cr" data-phone="+506" data-tcid="47"> </span> Costa Rica (+506) </li>
+<li> <span alt="Croatia" class="flag flag-hr" data-phone="+385" data-tcid="49"> </span> Croatia (+385) </li>
+<li> <span alt="Cuba" class="flag flag-cu" data-phone="+53" data-tcid="50"> </span> Cuba (+53) </li>
+<li> <span alt="Cyprus" class="flag flag-cy" data-phone="+357" data-tcid="51"> </span> Cyprus (+357) </li>
+<li> <span alt="Czech Republic" class="flag flag-cz" data-phone="+420" data-tcid="52"> </span> Czech Republic (+420) </li>
+<li> <span alt="Denmark" class="flag flag-dk" data-phone="+45" data-tcid="54"> </span> Denmark (+45) </li>
+<li> <span alt="Djibouti" class="flag flag-dj" data-phone="+253" data-tcid="55"> </span> Djibouti (+253) </li>
+<li> <span alt="Dominica" class="flag flag-dm" data-phone="+1-767" data-tcid="56"> </span> Dominica (+1-767) </li>
+<li> <span alt="Dominican Republic" class="flag flag-do" data-phone="+1-809, 1-829, 1-849" data-tcid="57"> </span> Dominican Republic (+1-809, 1-829, 1-849) </li>
+<li> <span alt="Ecuador" class="flag flag-ec" data-phone="+593" data-tcid="59"> </span> Ecuador (+593) </li>
+<li> <span alt="Egypt" class="flag flag-eg" data-phone="+20" data-tcid="60"> </span> Egypt (+20) </li>
+<li> <span alt="El Salvador" class="flag flag-sv" data-phone="+503" data-tcid="61"> </span> El Salvador (+503) </li>
+<li> <span alt="Equatorial Guinea" class="flag flag-gq" data-phone="+240" data-tcid="63"> </span> Equatorial Guinea (+240) </li>
+<li> <span alt="Eritrea" class="flag flag-er" data-phone="+291" data-tcid="64"> </span> Eritrea (+291) </li>
+<li> <span alt="Estonia" class="flag flag-ee" data-phone="+372" data-tcid="65"> </span> Estonia (+372) </li>
+<li> <span alt="Ethiopia" class="flag flag-et" data-phone="+251" data-tcid="66"> </span> Ethiopia (+251) </li>
+<li> <span alt="Faroe Islands" class="flag flag-fo" data-phone="+298" data-tcid="67"> </span> Faroe Islands (+298) </li>
+<li> <span alt="Fiji" class="flag flag-fj" data-phone="+679" data-tcid="69"> </span> Fiji (+679) </li>
+<li> <span alt="Finland" class="flag flag-fi" data-phone="+358" data-tcid="70"> </span> Finland (+358) </li>
+<li> <span alt="Gabon" class="flag flag-ga" data-phone="+241" data-tcid="72"> </span> Gabon (+241) </li>
+<li> <span alt="Georgia" class="flag flag-ge" data-phone="+995" data-tcid="73"> </span> Georgia (+995) </li>
+<li> <span alt="Ghana" class="flag flag-gh" data-phone="+233" data-tcid="75"> </span> Ghana (+233) </li>
+<li> <span alt="Greece" class="flag flag-gr" data-phone="+30" data-tcid="76"> </span> Greece (+30) </li>
+<li> <span alt="Greenland" class="flag flag-gl" data-phone="+299" data-tcid="77"> </span> Greenland (+299) </li>
+<li> <span alt="Grenada" class="flag flag-gd" data-phone="+1-473" data-tcid="78"> </span> Grenada (+1-473) </li>
+<li> <span alt="Guam" class="flag flag-gu" data-phone="+1-671" data-tcid="80"> </span> Guam (+1-671) </li>
+<li> <span alt="Guatemala" class="flag flag-gt" data-phone="+502" data-tcid="81"> </span> Guatemala (+502) </li>
+<li> <span alt="Guinea" class="flag flag-gn" data-phone="+224" data-tcid="82"> </span> Guinea (+224) </li>
+<li> <span alt="Guinea-Bissau" class="flag flag-gw" data-phone="+245" data-tcid="83"> </span> Guinea-Bissau (+245) </li>
+<li> <span alt="Haiti" class="flag flag-ht" data-phone="+509" data-tcid="84"> </span> Haiti (+509) </li>
+<li> <span alt="Honduras" class="flag flag-hn" data-phone="+504" data-tcid="85"> </span> Honduras (+504) </li>
+<li> <span alt="Hungary" class="flag flag-hu" data-phone="+36" data-tcid="86"> </span> Hungary (+36) </li>
+<li> <span alt="Iceland" class="flag flag-is" data-phone="+354" data-tcid="87"> </span> Iceland (+354) </li>
+<li> <span alt="Indonesia" class="flag flag-id" data-phone="+62" data-tcid="89"> </span> Indonesia (+62) </li>
+<li> <span alt="Iran" class="flag flag-ir" data-phone="+98" data-tcid="90"> </span> Iran (+98) </li>
+<li> <span alt="Iraq" class="flag flag-iq" data-phone="+964" data-tcid="91"> </span> Iraq (+964) </li>
+<li> <span alt="Ireland" class="flag flag-ie" data-phone="+353" data-tcid="92"> </span> Ireland (+353) </li>
+<li> <span alt="Italy" class="flag flag-it" data-phone="+39" data-tcid="94"> </span> Italy (+39) </li>
+<li> <span alt="Jamaica" class="flag flag-jm" data-phone="+1-876" data-tcid="95"> </span> Jamaica (+1-876) </li>
+<li> <span alt="Japan" class="flag flag-jp" data-phone="+81" data-tcid="96"> </span> Japan (+81) </li>
+<li> <span alt="Jordan" class="flag flag-jo" data-phone="+962" data-tcid="97"> </span> Jordan (+962) </li>
+<li> <span alt="Kazakhstan" class="flag flag-kz" data-phone="+7" data-tcid="98"> </span> Kazakhstan (+7) </li>
+<li> <span alt="Kenya" class="flag flag-ke" data-phone="+254" data-tcid="99"> </span> Kenya (+254) </li>
+<li> <span alt="Kiribati" class="flag flag-ki" data-phone="+686" data-tcid="100"> </span> Kiribati (+686) </li>
+<li> <span alt="Kyrgyzstan" class="flag flag-kg" data-phone="+996" data-tcid="102"> </span> Kyrgyzstan (+996) </li>
+<li> <span alt="Latvia" class="flag flag-lv" data-phone="+371" data-tcid="104"> </span> Latvia (+371) </li>
+<li> <span alt="Lebanon" class="flag flag-lb" data-phone="+961" data-tcid="105"> </span> Lebanon (+961) </li>
+<li> <span alt="Lesotho" class="flag flag-ls" data-phone="+266" data-tcid="106"> </span> Lesotho (+266) </li>
+<li> <span alt="Liberia" class="flag flag-lr" data-phone="+231" data-tcid="107"> </span> Liberia (+231) </li>
+<li> <span alt="Libya" class="flag flag-ly" data-phone="+218" data-tcid="108"> </span> Libya (+218) </li>
+<li> <span alt="Lithuania" class="flag flag-lt" data-phone="+370" data-tcid="109"> </span> Lithuania (+370) </li>
+<li> <span alt="Luxembourg" class="flag flag-lu" data-phone="+352" data-tcid="110"> </span> Luxembourg (+352) </li>
+<li> <span alt="Madagascar" class="flag flag-mg" data-phone="+261" data-tcid="112"> </span> Madagascar (+261) </li>
+<li> <span alt="Malawi" class="flag flag-mw" data-phone="+265" data-tcid="113"> </span> Malawi (+265) </li>
+<li> <span alt="Maldives" class="flag flag-mv" data-phone="+960" data-tcid="115"> </span> Maldives (+960) </li>
+<li> <span alt="Mali" class="flag flag-ml" data-phone="+223" data-tcid="116"> </span> Mali (+223) </li>
+<li> <span alt="Malta" class="flag flag-mt" data-phone="+356" data-tcid="117"> </span> Malta (+356) </li>
+<li> <span alt="Marshall Islands" class="flag flag-mh" data-phone="+692" data-tcid="118"> </span> Marshall Islands (+692) </li>
+<li> <span alt="Mauritania" class="flag flag-mr" data-phone="+222" data-tcid="120"> </span> Mauritania (+222) </li>
+<li> <span alt="Mauritius" class="flag flag-mu" data-phone="+230" data-tcid="121"> </span> Mauritius (+230) </li>
+<li> <span alt="Mexico" class="flag flag-mx" data-phone="+52" data-tcid="122"> </span> Mexico (+52) </li>
+<li> <span alt="Mongolia" class="flag flag-mn" data-phone="+976" data-tcid="124"> </span> Mongolia (+976) </li>
+<li> <span alt="Montenegro" class="flag flag-me" data-phone="+382" data-tcid="125"> </span> Montenegro (+382) </li>
+<li> <span alt="Montserrat" class="flag flag-ms" data-phone="+1-664" data-tcid="126"> </span> Montserrat (+1-664) </li>
+<li> <span alt="Morocco" class="flag flag-ma" data-phone="+212" data-tcid="127"> </span> Morocco (+212) </li>
+<li> <span alt="Mozambique" class="flag flag-mz" data-phone="+258" data-tcid="128"> </span> Mozambique (+258) </li>
+<li> <span alt="Namibia" class="flag flag-na" data-phone="+264" data-tcid="130"> </span> Namibia (+264) </li>
+<li> <span alt="Nauru" class="flag flag-nr" data-phone="+674" data-tcid="131"> </span> Nauru (+674) </li>
+<li> <span alt="New Caledonia" class="flag flag-nc" data-phone="+687" data-tcid="133"> </span> New Caledonia (+687) </li>
+<li> <span alt="New Zealand" class="flag flag-nz" data-phone="+64" data-tcid="134"> </span> New Zealand (+64) </li>
+<li> <span alt="Nicaragua" class="flag flag-ni" data-phone="+505" data-tcid="135"> </span> Nicaragua (+505) </li>
+<li> <span alt="Niger" class="flag flag-ne" data-phone="+227" data-tcid="136"> </span> Niger (+227) </li>
+<li> <span alt="Nigeria" class="flag flag-ng" data-phone="+234" data-tcid="137"> </span> Nigeria (+234) </li>
+<li> <span alt="Niue" class="flag flag-nu" data-phone="+683" data-tcid="138"> </span> Niue (+683) </li>
+<li> <span alt="Northern Mariana Islands" class="flag flag-mp" data-phone="+1-670" data-tcid="140"> </span> Northern Mariana Islands (+1-670) </li>
+<li> <span alt="Norway" class="flag flag-no" data-phone="+47" data-tcid="141"> </span> Norway (+47) </li>
+<li> <span alt="Pakistan" class="flag flag-pk" data-phone="+92" data-tcid="143"> </span> Pakistan (+92) </li>
+<li> <span alt="Palau" class="flag flag-pw" data-phone="+680" data-tcid="144"> </span> Palau (+680) </li>
+<li> <span alt="Panama" class="flag flag-pa" data-phone="+507" data-tcid="145"> </span> Panama (+507) </li>
+<li> <span alt="Papua New Guinea" class="flag flag-pg" data-phone="+675" data-tcid="146"> </span> Papua New Guinea (+675) </li>
+<li> <span alt="Paraguay" class="flag flag-py" data-phone="+595" data-tcid="147"> </span> Paraguay (+595) </li>
+<li> <span alt="Peru" class="flag flag-pe" data-phone="+51" data-tcid="148"> </span> Peru (+51) </li>
+<li> <span alt="Philippines" class="flag flag-ph" data-phone="+63" data-tcid="149"> </span> Philippines (+63) </li>
+<li> <span alt="Poland" class="flag flag-pl" data-phone="+48" data-tcid="151"> </span> Poland (+48) </li>
+<li> <span alt="Portugal" class="flag flag-pt" data-phone="+351" data-tcid="152"> </span> Portugal (+351) </li>
+<li> <span alt="Puerto Rico" class="flag flag-pr" data-phone="+1-787, 1-939" data-tcid="153"> </span> Puerto Rico (+1-787, 1-939) </li>
+<li> <span alt="Cook Islands" class="flag flag-ck" data-phone="+682" data-tcid="155"> </span> Cook Islands (+682) </li>
+<li> <span alt="Rwanda" class="flag flag-rw" data-phone="+250" data-tcid="159"> </span> Rwanda (+250) </li>
+<li> <span alt="Samoa" class="flag flag-ws" data-phone="+685" data-tcid="161"> </span> Samoa (+685) </li>
+<li> <span alt="Sao Tome and Principe" class="flag flag-st" data-phone="+239" data-tcid="162"> </span> Sao Tome &amp; Principe (+239) </li>
+<li> <span alt="Senegal" class="flag flag-sn" data-phone="+221" data-tcid="165"> </span> Senegal (+221) </li>
+<li> <span alt="Serbia" class="flag flag-rs" data-phone="+381" data-tcid="166"> </span> Serbia (+381) </li>
+<li> <span alt="Seychelles" class="flag flag-sc" data-phone="+248" data-tcid="167"> </span> Seychelles (+248) </li>
+<li> <span alt="Sierra Leone" class="flag flag-sl" data-phone="+232" data-tcid="168"> </span> Sierra Leone (+232) </li>
+<li> <span alt="Slovakia" class="flag flag-sk" data-phone="+421" data-tcid="171"> </span> Slovakia (+421) </li>
+<li> <span alt="Slovenia" class="flag flag-si" data-phone="+386" data-tcid="172"> </span> Slovenia (+386) </li>
+<li> <span alt="Solomon Islands" class="flag flag-sb" data-phone="+677" data-tcid="173"> </span> Solomon Islands (+677) </li>
+<li> <span alt="South Africa" class="flag flag-za" data-phone="+27" data-tcid="175"> </span> South Africa (+27) </li>
+<li> <span alt="South Korea" class="flag flag-kr" data-phone="+82" data-tcid="176"> </span> South Korea (+82) </li>
+<li> <span alt="Spain" class="flag flag-es" data-phone="+34" data-tcid="177"> </span> Spain (+34) </li>
+<li> <span alt="Sri Lanka" class="flag flag-lk" data-phone="+94" data-tcid="178"> </span> Sri Lanka (+94) </li>
+<li> <span alt="Sudan" class="flag flag-sd" data-phone="+249" data-tcid="184"> </span> Sudan (+249) </li>
+<li> <span alt="Swaziland" class="flag flag-sz" data-phone="+268" data-tcid="185"> </span> Swaziland (+268) </li>
+<li> <span alt="Sweden" class="flag flag-se" data-phone="+46" data-tcid="186"> </span> Sweden (+46) </li>
+<li> <span alt="Switzerland" class="flag flag-ch" data-phone="+41" data-tcid="187"> </span> Switzerland (+41) </li>
+<li> <span alt="Tajikistan" class="flag flag-tj" data-phone="+992" data-tcid="191"> </span> Tajikistan (+992) </li>
+<li> <span alt="Tanzania" class="flag flag-tz" data-phone="+255" data-tcid="192"> </span> Tanzania (+255) </li>
+<li> <span alt="Bahamas" class="flag flag-bs" data-phone="+1-242" data-tcid="194"> </span> Bahamas (+1-242) </li>
+<li> <span alt="Gambia" class="flag flag-gm" data-phone="+220" data-tcid="196"> </span> Gambia (+220) </li>
+<li> <span alt="Togo" class="flag flag-tg" data-phone="+228" data-tcid="199"> </span> Togo (+228) </li>
+<li> <span alt="Tokelau" class="flag flag-tk" data-phone="+690" data-tcid="200"> </span> Tokelau (+690) </li>
+<li> <span alt="Tonga" class="flag flag-to" data-phone="+676" data-tcid="201"> </span> Tonga (+676) </li>
+<li> <span alt="Trinidad and Tobago" class="flag flag-tt" data-phone="+1-868" data-tcid="202"> </span> Trinidad &amp; Tobago (+1-868) </li>
+<li> <span alt="Tunisia" class="flag flag-tn" data-phone="+216" data-tcid="203"> </span> Tunisia (+216) </li>
+<li> <span alt="Turkey" class="flag flag-tr" data-phone="+90" data-tcid="204"> </span> Turkey (+90) </li>
+<li> <span alt="Turkmenistan" class="flag flag-tm" data-phone="+993" data-tcid="205"> </span> Turkmenistan (+993) </li>
+<li> <span alt="Tuvalu" class="flag flag-tv" data-phone="+688" data-tcid="207"> </span> Tuvalu (+688) </li>
+<li> <span alt="Uganda" class="flag flag-ug" data-phone="+256" data-tcid="208"> </span> Uganda (+256) </li>
+<li> <span alt="Ukraine" class="flag flag-ua" data-phone="+380" data-tcid="209"> </span> Ukraine (+380) </li>
+<li> <span alt="Uruguay" class="flag flag-uy" data-phone="+598" data-tcid="211"> </span> Uruguay (+598) </li>
+<li> <span alt="Uzbekistan" class="flag flag-uz" data-phone="+998" data-tcid="214"> </span> Uzbekistan (+998) </li>
+<li> <span alt="Vanuatu" class="flag flag-vu" data-phone="+678" data-tcid="215"> </span> Vanuatu (+678) </li>
+<li> <span alt="Venezuela" class="flag flag-ve" data-phone="+58" data-tcid="216"> </span> Venezuela (+58) </li>
+<li> <span alt="Vietnam" class="flag flag-vn" data-phone="+84" data-tcid="217"> </span> Vietnam (+84) </li>
+<li> <span alt="Wallis and Futuna" class="flag flag-wf" data-phone="+681" data-tcid="219"> </span> Wallis &amp; Futuna (+681) </li>
+<li> <span alt="Yemen" class="flag flag-ye" data-phone="+967" data-tcid="220"> </span> Yemen (+967) </li>
+<li> <span alt="Zambia" class="flag flag-zm" data-phone="+260" data-tcid="221"> </span> Zambia (+260) </li>
+<li> <span alt="Zimbabwe" class="flag flag-zw" data-phone="+263" data-tcid="222"> </span> Zimbabwe (+263) </li>
+<li> <span alt="Liechtenstein" class="flag flag-li" data-phone="+423" data-tcid="223"> </span> Liechtenstein (+423) </li>
+</ul>
+</div>
+<div class="col-8 col-md-9" style="padding-left: 10px;">
+<input autocomplete="tel" id="phonePopup" name="tel" onfocusout="checkThisValue(this)" placeholder="Phone Number" required="" style="padding-left:50px;" type="tel"/>
+<i class="icon" style="left:10px;">
+<svg class="icon-phone icon-svg">
+<use xlink:href="/res/images/sprite-v1/sprite-web.svg#img-phone"></use>
+</svg>
+</i>
+</div>
+</div>
+<div class="input-container row no-gutters paddingMobile">
+<input autocomplete="email" id="emailPopup" name="email" onfocusout="checkThisValue(this)" placeholder="Email ID" required="" type="text"/>
+<i class="icon">
+<svg class="icon-email icon-svg">
+<use xlink:href="/res/images/sprite-v1/sprite-web.svg#img-email"></use>
+</svg>
+</i>
+</div>
+<div class="input-container row no-gutters paddingMobile">
+<input autocomplete="date" id="departureDatePopup" name="date" placeholder="Departure Date" readonly="true" type="text"/>
+<i class="icon">
+<svg class="icon-calendar icon-svg">
+<use xlink:href="/res/images/sprite-v1/sprite-web.svg#img-calendar"></use>
+</svg>
+</i>
+</div>
+<div class="input-container row no-gutters mobileView text-center">
+<input id="buttonPositionPopup" type="hidden" value="defaultPosition"/>
+<input id="packageIdPopup" type="hidden" value=""/>
+<button class="GetCallBack text-center" id="packageSubmitButton" onclick="submitTCPackage()" type="button"> Get FREE Quotes</button>
+</div>
+<div class="row no-gutters">
+<div class="col-12">
+<p class="text-privacy">We value your privacy. Your details are safe with us.</p>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-dialog" style="display:none;">
+<div class="modal-content">
+<div class="modal-body text-center col-md-12" id="packageFormLoadingDiv" style="padding-top:20px;"></div>
+</div>
+</div>
+<div class="modal-dialog" id="otpDiv" role="document"></div>
+</div>
+<!-- Modal for pre-login box -->
+<div class="modal fade modal-prelogin" id="preloginModal" role="dialog" tabindex="-1">
+<input id="comingFrom" type="hidden" value=""/>
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<button aria-label="Close" class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<div class="modal-header">
+<h4 class="modal-title">Login for a personalized experience with Holidify!</h4>
+</div>
+<div class="modal-body">
+<p class="mb-4">Free access to Holidify's full content, PDF Guides and all features</p>
+<p class="mb-2">
+<a class="btn btn-login btn-login-facebook" href="#" onclick="facebookLogin(); return false">
+<i class="spriteMisc sprite-fbLogin_resized"></i>
+    			Sign in with Facebook</a>
+</p>
+<p>
+<a class="btn btn-login btn-login-google" href="#" onclick="googleLogin(); return false">
+<i class="spriteMisc sprite-googleLogin"></i>
+    			Sign in with Google</a>
+</p>
+<p class="text-privacy">We never post anything without your permission.</p>
+</div>
+</div>
+</div>
+</div>
+<!-- Modal for sharing box -->
+<div class="modal fade" id="shareModal" role="dialog" tabindex="-1">
+<!-- Modal for share buttons -->
+<div class="modal-dialog share-dialog" role="document">
+<div class="modal-content share-content">
+<button aria-label="Close" class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<div class="modal-header">
+<h4 class="modal-title">Share this page</h4>
+</div>
+<div class="modal-body share-body">
+<a data-action="share/whatsapp/share" href="whatsapp://send?text=https://www.holidify.com/places/goa/sightseeing-and-things-to-do.html?utm_source=shareBtn&amp;utm_medium=whatsapp&amp;utm_campaign=popup" onclick='trackGAEvent("ShareTracking", "PopupShareWhatsApp", "/places/goa/sightseeing-and-things-to-do.html");' rel="nofollow" target="_blank">
+<p class="share-text"> <span class="sprite-social sprite-social-whatsapp"></span>  Whatsapp</p>
+</a>
+<hr/>
+<a href="https://www.facebook.com/dialog/send?app_id=358096707635831&amp;link=https://www.holidify.com/places/goa/sightseeing-and-things-to-do.html?utm_source=shareBtn&amp;utm_medium=messenger&amp;utm_campaign=popup&amp;redirect_uri=https://www.domain.com/" onclick='trackGAEvent("ShareTracking", "PopupShareMessenger", "/places/goa/sightseeing-and-things-to-do.html");' rel="nofollow" target="_blank" title="Share this on Facebook Messenger">
+<p class="share-text"> <span class="sprite-social sprite-social-messenger"></span>  Messenger</p>
+</a>
+<hr/>
+<a onclick="copyUrlToClipboard()" rel="nofollow" target="_blank" title="Copy This Link">
+<p class="share-text"> <span class="sprite-social sprite-social-link"></span>  Copy Link</p>
+<input id="myInput" style="position: absolute; left: -99999em" type="text" value=""/>
+</a>
+<hr/>
+<a href="mailto:?subject=I wanted you to see this site&amp;body=Check out awesome place on Holidify! https://www.holidify.com/places/goa/sightseeing-and-things-to-do.html?utm_source=shareBtn&amp;utm_medium=messenger&amp;utm_campaign=footer&amp;app_id=358096707635831" onclick='trackGAEvent("ShareTracking", "PopupShareEmail", "/places/goa/sightseeing-and-things-to-do.html");' rel="nofollow" target="_blank" title="Share this post on Email!">
+<p class="share-text"> <span class="sprite-social sprite-social-gmail"></span>  Email</p>
+</a>
+<hr/>
+<a href="https://www.facebook.com/sharer.php?u=https://www.holidify.com/places/goa/sightseeing-and-things-to-do.html?utm_source=shareBtn&amp;utm_medium=fb&amp;utm_campaign=popup" onclick='window.open(this.href); trackGAEvent("ShareTracking", "PopupShareFacebook", "/places/goa/sightseeing-and-things-to-do.html");  return false;' rel="nofollow" target="_blank" title="Share this post on Facebook!">
+<p class="share-text"> <span class="sprite-social sprite-social-facebook"></span>  Facebook</p>
+</a>
+<hr/>
+<a href="https://twitter.com/intent/tweet?url=https://www.holidify.com/places/goa/sightseeing-and-things-to-do.html?utm_source=shareBtn&amp;utm_medium=twitter&amp;utm_campaign=popup" onclick='trackGAEvent("ShareTracking", "PopupShareTwitter", "/places/goa/sightseeing-and-things-to-do.html");' rel="nofollow" target="_blank" title="Share this post on Twitter!">
+<p class="share-text"> <span class="sprite-social sprite-social-twitter"></span>  Twitter</p>
+</a>
+<hr/>
+</div>
+</div>
+</div>
+</div>
+<!-- Generic Modal -->
+<div class="modal fade modal-prelogin" id="genericModal" role="dialog" tabindex="-1">
+<div class="modal-dialog full-width" role="document">
+<div class="modal-content">
+<div class="modal-body" id="genericModalHtml" style="min-height: 100px">
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid hf-footer ad-container">
+<div class="ad-container">
+<!-- Footer Common: /21797983619/ca-pub-8014231071342543-tag/hf-footer-v2 -->
+<div data-google-query-id="CKCbup_I9uoCFeyArAIdZhYDeg" id="div-gpt-ad-1575615770568-0" style="display: none;">
+<script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1575615770568-0'); });
+            </script>
+<div id="google_ads_iframe_/21797983619/ca-pub-8014231071342543-tag/hf-footer-v2_0__container__" style="border: 0pt none; width: 728px; height: 90px;"></div></div>
+</div>
+</div>
+<!-- Generic footer -->
+<div class="container-fluid hf-footer">
+<div class="row">
+<div class="col-12 col-md-4 col-lg-2 offset-md-1 section">
+<img alt="" class="mb-md-3 lazy" data-original="/res/images/logo.png" src="/res/images/patt.png"/>
+<p class="hidden-sm"> <b> Discover your next holiday destination </b> </p>
+</div>
+<div class="col-12 col-md-6 col-lg-3 pl-md-5 pl-lg-0 section">
+<p class="w-100"> <b> Explore Holidify </b> </p>
+<ul class="list-unstyled">
+<div class="row no-gutters">
+<li class="col-6">
+<span class="clickable" onclick=";openLink('/explore')">  Destinations </span>
+</li>
+<li class="col-6">
+<span class="clickable" onclick=";openLink('/about-us')">  About Us </span>
+</li>
+<li class="col-6">
+<span class="clickable" onclick=";openLink('/collections')">  Collections </span>
+</li>
+<li class="col-6">
+<span class="clickable" onclick=";openLink('/write-for-us')">  Write For Us </span>
+</li>
+<li class="col-6">
+<span class="clickable" onclick=";openLink('/hotels')">  Hotels </span>
+</li>
+<li class="col-6">
+<span class="clickable" onclick=";openLink('/privacy')">  Privacy </span>
+</li>
+<li class="col-6">
+<span class="clickable" onclick=";openLink('/packages/')">  Packages </span>
+</li>
+<li class="col-6">
+<span class="clickable" onclick=";openLink('/terms-of-use')">  Terms </span>
+</li>
+<li class="col-6">
+<div class="input-group mb-3">
+<select class="custom-select" id="currencyDropdown">
+<option selected="" value="default">Currency</option>
+<option value="IN">₹ INR</option>
+<option value="US">$ USD</option>
+<option value="AE">د.إ AED</option>
+<option value="FR">€ EUR</option>
+<option value="TH">฿ THB</option>
+</select>
+</div>
+</li>
+</div>
+</ul>
+</div>
+<div class="col-6 col-lg-2 section d-md-none d-lg-block">
+<p> <b> Connect with us </b> </p>
+<p class="social">
+<span class="clickable" onclick=";openLink('http://facebook.com/holidify')">
+<svg class="icon-facebook-logo icon-svg mr-md-3 mr-2">
+<use xlink:href="/res/images/sprite-v1/sprite-web.svg#img-facebook-logo"></use>
+</svg>
+</span>
+<span class="clickable" onclick=";openLink('https://www.instagram.com/holidify')">
+<img alt="" class="insta-logo mr-md-3 mr-2 lazy" data-original="/res/images/Instagram-Logo.png" src="/res/images/patt.png"/>
+</span>
+<span class="clickable" onclick=";openLink('https://twitter.com/holidify')">
+<svg class="icon-twitter-logo icon-svg mr-md-3 mr-2">
+<use xlink:href="/res/images/sprite-v1/sprite-web.svg#img-twitter-logo"></use>
+</svg>
+</span>
+</p>
+</div>
+<div class="col-6 d-md-none d-lg-block col-lg-4 section">
+<p> <b> Download our app </b> </p>
+<a onclick='openLinkInNewTab("https://play.google.com/store/apps/details?id=com.holidify.andorid.app.holidify&amp;referrer=utm_source%3Dmobile%26utm_medium%3Dfooter%26utm_campaign%3Dfooter");trackGAEvent("AppDownloads", "GotoPlayStore", "Footer")'>
+<img alt="" class="lazy" data-original="/res/images/google-play-black.png" src="/res/images/patt.png"/>
+</a>
+</div>
+</div>
+<div class="row text-center copyright">
+<div class="col-12">
+<hr/>
+<p> © Holidify Pvt Ltd.- All Right Reserved </p>
+</div>
+</div>
+</div>
+<!-- Share buttons for mobile -->
+<div class="container-fluid d-sm-none shareBottomRow">
+<!-- Packages -->
+<a class="btn btn-primary-cta" href="/places/GOA/packages.html" onclick='trackPackageButtonClick("mobileFixedBottom")'>
+     
+          View  31  Packages 
+        
+</a>
+</div>
+<input id="adserver" type="hidden" value="dfp"/>
+<link href="/res/css/main.css?v=3.39.1" rel="stylesheet"/>
+<script src="/res/js/main.js?v=3.39.1"></script>
+<script async="" defer="" gapi_processed="true" src="https://apis.google.com/js/platform.js?onload=init"></script>
+<script type="text/javascript">
+ $(window).load(function() {
+     initOverviewDatepicker(); 
+     fixPreLead(); 
+     if(window.pageLoadedCallback && (typeof pageLoadedCallback == "function")) pageLoadedCallback();     
+ });
+
+ 
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N8K7M4L');</script>
+<!-- End Google Tag Manager -->
+<script>
+
+$(function(){
+	expandReadMore();
+ 	$("#listViewButton").addClass("selectedButton");
+ 	makeDropDownList();
+
+	$(".dropdownElement").click(function(){
+		var selectedTag = $(this).text();
+		$("#filterDropDownButton").html(selectedTag + '<span class="caret"></span>');
+		var url = domainRoot + "/web/ajaxWeb/filterDestPTV.hdfy";
+		$("#loading").html(getLoadingHtml());
+		$('#loading').css("display", "block");
+		$('#attractionList').empty();
+		closeCategoryList();
+		$.ajax({
+		    type : "GET",
+		    url : url,
+		    data : { placeCode:"GOA", categoryFilter:selectedTag},
+		    success: function(data) {
+		        $('#attractionList').append(data);
+		        initOverviewDatepicker();
+				$('#loading').slideUp();
+				initDestinationMap();
+				expandReadMore();
+		    },
+		});
+	});
+
+  	$("#mapViewButton").click(function(){
+  		var eventLabel = $("#pageType").val();
+		trackGAEvent("MapviewTracking", "MapViewOpened", eventLabel);
+		$("#mapViewButton").addClass("active");
+		$("#listViewButton").removeClass("active");
+	    $("#loading").html(getLoadingHtml());
+	    $('#loading').show();
+		var url = "//maps.googleapis.com/maps/api/js?key=AIzaSyDoXArhTtudvwVnkr7JPZvNVMMlEy0z2KU";
+		$.getScript( url, function() {
+			initDestinationMap();
+			$('#attractionMap').slideDown();
+  			$('#loading').slideUp();
+  		});
+  	});	
+
+  	$("#listViewButton,#closeMapButton").click(function(){
+	    var eventLabel = $("#pageType").val();
+	    trackGAEvent("MapviewTracking", "MapViewClosed", eventLabel);	
+		$("#listViewButton").addClass("active");
+		$("#mapViewButton").removeClass("active");
+		$('#attractionMap').slideUp();
+  	});
+
+});
+
+
+function pageLoadedCallback() {
+	enableTimeoutPopup("Goa", 30000);
+}
+
+</script>
+<!-- Clicktripz Integration -->
+<script type="text/javascript">
+window._CTZ = window._CTZ || {};
+window._CTZ.consent = window._CTZ.consent || {};
+window._CTZ.consent.allowed = true;
+window._CTZ.enabled = true;
+window._CTZ.verticals = {};
+window._CTZ.verticals.hotel = {};
+window._CTZ.verticals.hotel.active = true;
+window._CTZ.verticals.hotel.search = {"city":"Goa", "province":"Goa", "country":"India"};
+
+
+
+</script>
+<!-- End Clicktripz Integration -->
+<script charset="UTF-8" data-publisher="1bdab4ad6c454cba89ae1a5c9ef10488" defer="" src="https://static.clicktripz.com/tag.js"></script>
+<script id="" type="text/javascript">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","2083813881932574");fbq("track","PageView");</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=2083813881932574&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<script id="LOTCC_14038" src="https://tags.crwdcntrl.net/c/14038/cc.js?ns=_cc14038" type="text/javascript"></script>
+<script id="" type="text/javascript">_cc14038.add("seg","holidify.com");_cc14038.addInterest("placeCode:GOA");_cc14038.addInterest("stateCode:GOA");_cc14038.addInterest("countryCode:INDIA");_cc14038.addInterest("pageType:Destination.PlacesToVisit");_cc14038.addInterest("category:beaches.png");_cc14038.bcp();</script>
+<iframe aria-hidden="true" id="LOTCCFrame_1596166679975" role="presentation" src="https://bcp.crwdcntrl.net/5/c=14038/rand=263781828/pv=y/seg=holidify.com/int=placeCode%3AGOA/int=stateCode%3AGOA/int=countryCode%3AINDIA/int=pageType%3ADestination.PlacesToVisit/int=category%3Abeaches.png/int=%23OpR%2397592%23Holidify%20%3A%20Homepage/rt=ifr" style="border: 0px; width: 0px; height: 0px; display: block;" tabindex="-1" title="empty"></iframe></body></html>
+​
